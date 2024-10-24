@@ -1,7 +1,20 @@
 import { Tabs } from 'expo-router';
 import Ionicons from '@expo/vector-icons/Ionicons';
+import { en, pt } from '@/localizations';
+import { useState } from 'react';
+import * as Localization from 'expo-localization';
+import { I18n } from 'i18n-js';
+import translations from "@/translations.json";
+import { useLanguage } from "@/constants/LanguageContext";
+
+const i18n = new I18n(translations);
 
 export default function TabLayout() {
+  const { language } = useLanguage();
+  let [locale, setLocale] = useState(Localization.locale);
+  i18n.defaultLocale = "en";
+  i18n.locale = language;
+
   return (
     <Tabs
       screenOptions={{
@@ -13,41 +26,27 @@ export default function TabLayout() {
         headerTintColor: '#fff',
         tabBarStyle: {
           backgroundColor: '#25292e',
+          paddingBottom: 2,
         },
       }}
     >
       <Tabs.Screen
-          name="index"
+          name="home"
           options={{
-              title: 'Home',
+              title: i18n.t("pageTitles.prayers"),
               tabBarIcon: ({ color, focused }) => (
-                  <Ionicons name={'home-outline'} color={color} size={24} />
+                  <Ionicons name={'book'} color={color} size={24} />
               ),
+              headerShown: false,
           }}
       />
       <Tabs.Screen
           name="settings"
           options={{
-              title: 'Settings',
+              title: i18n.t("pageTitles.settings"),
               tabBarIcon: ({color, focused}) => (
                   <Ionicons name={'settings-outline'} color={color} size={24} />
               ),
-          }}
-      />
-      <Tabs.Screen
-          name="morning-prayers"
-          options={{
-              href: null,
-              headerShown: true,
-              title: "Morning Prayers",
-          }}
-      />
-      <Tabs.Screen
-          name="evening-prayers"
-          options={{
-              href: null,
-              headerShown: true,
-              title: "Evening Prayers",
           }}
       />
     </Tabs>
