@@ -28,6 +28,12 @@ export default function Layout() {
             <Stack.Screen name="prayers/morning-prayers" options={{
                 headerTitle: i18n.t("pageTitles.morningPrayers"),
             }} />
+            <Stack.Screen name="prayers/through-day-prayers" options={{
+                headerTitle: i18n.t("pageTitles.throughDayPrayers"),
+            }} />
+            <Stack.Screen name="prayers/hours-instructions" options={{
+                headerTitle: i18n.t("pageTitles.hoursInstructions"),
+            }} />
         </Stack>
     );
 }

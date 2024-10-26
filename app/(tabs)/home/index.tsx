@@ -1,4 +1,4 @@
-import { Text, View, StyleSheet, Pressable } from "react-native";
+import { Text, View, StyleSheet, ScrollView } from "react-native";
 import { Link, router } from "expo-router";
 import NavButton from "@/components/NavButton";
 import { useLanguage } from "@/constants/LanguageContext";
@@ -26,8 +26,35 @@ export default function Index() {
 
   return (
       <View style={styles.container}>
-          <NavButton label={i18n.t("pageTitles.morningPrayers")} icon="sun" onPress={() => router.push("/home/prayers/morning-prayers")} />
-          <NavButton label={i18n.t("pageTitles.eveningPrayers")} icon="moon" onPress={() => router.push("/home/prayers/evening-prayers")} />
+          <ScrollView style={styles.scrollView} horizontal={false}>
+              <Text style={[styles.heading, {marginTop: 50,}]}>{i18n.t("pageTitles.commonPrayers")}</Text>
+              <NavButton label={i18n.t("pageTitles.morningPrayers")} icon="sunrise" onPress={() => router.push("/home/prayers/morning-prayers")} />
+              <NavButton label={i18n.t("pageTitles.throughDayPrayers")} icon="sun" onPress={() => router.push("/home/prayers/through-day-prayers")} />
+              <NavButton label={i18n.t("pageTitles.eveningPrayers")} icon="moon" onPress={() => router.push("/home/prayers/evening-prayers")} />
+              <Text style={styles.heading}>{i18n.t("pageTitles.hours")}</Text>
+              <NavButton label={i18n.t("pageTitles.hoursInstructions")} icon="info" onPress={() => router.push("/home/prayers/hours-instructions")} />
+              <NavButton label={i18n.t("pageTitles.hoursVespers")} icon="info" onPress={() => router.push("/home/prayers/hours-instructions")} />
+              <NavButton label={i18n.t("pageTitles.hoursSmallCompline")} icon="info" onPress={() => router.push("/home/prayers/hours-instructions")} />
+              <NavButton label={i18n.t("pageTitles.hoursMatins")} icon="info" onPress={() => router.push("/home/prayers/hours-instructions")} />
+              <NavButton label={i18n.t("pageTitles.hoursFirst")} icon="info" onPress={() => router.push("/home/prayers/hours-instructions")} />
+              <NavButton label={i18n.t("pageTitles.hoursThird")} icon="info" onPress={() => router.push("/home/prayers/hours-instructions")} />
+              <NavButton label={i18n.t("pageTitles.hoursSixth")} icon="info" onPress={() => router.push("/home/prayers/hours-instructions")} />
+              <NavButton label={i18n.t("pageTitles.hoursPsalms")} icon="info" onPress={() => router.push("/home/prayers/hours-instructions")} />
+              <NavButton label={i18n.t("pageTitles.hoursNinth")} icon="info" onPress={() => router.push("/home/prayers/hours-instructions")} />
+              <NavButton label={i18n.t("pageTitles.hoursPaschal")} icon="info" onPress={() => router.push("/home/prayers/hours-instructions")} />
+              <Text style={styles.heading}>{i18n.t("pageTitles.canonsAndHymns")}</Text>
+              <NavButton label={i18n.t("pageTitles.penitentialCanon")} icon="info" onPress={() => router.push("/home/prayers/hours-instructions")} />
+              <NavButton label={i18n.t("pageTitles.theotokosCanon")} icon="info" onPress={() => router.push("/home/prayers/hours-instructions")} />
+              <NavButton label={i18n.t("pageTitles.akathistHymn")} icon="info" onPress={() => router.push("/home/prayers/hours-instructions")} />
+              <Text style={styles.heading}>{i18n.t("pageTitles.communion")}</Text>
+              <NavButton label={i18n.t("pageTitles.confessionInstruction")} icon="info" onPress={() => router.push("/home/prayers/hours-instructions")} />
+              <NavButton label={i18n.t("pageTitles.confessionGuide")} icon="info" onPress={() => router.push("/home/prayers/hours-instructions")} />
+              <NavButton label={i18n.t("pageTitles.communionOffice")} icon="info" onPress={() => router.push("/home/prayers/hours-instructions")} />
+              <NavButton label={i18n.t("pageTitles.communionThanks")} icon="info" onPress={() => router.push("/home/prayers/hours-instructions")} />
+              <Text style={styles.heading}>{i18n.t("pageTitles.glossary")}</Text>
+              <NavButton label={i18n.t("pageTitles.glossaryPage")} icon="info" onPress={() => router.push("/home/prayers/hours-instructions")} />
+              <Text style={{marginBottom: 50,}}></Text>
+          </ScrollView>
       </View>
   );
 }
@@ -38,7 +65,10 @@ const styles = StyleSheet.create({
     backgroundColor: '#25292e',
     alignItems: 'center',
     justifyContent: 'flex-start',
-    paddingVertical: 50,
+    // paddingVertical: 50,
+  },
+  scrollView: {
+    flex: 1,
   },
   text: {
     color: '#fff',
@@ -47,5 +77,12 @@ const styles = StyleSheet.create({
     fontSize: 20,
     textDecorationLine: 'underline',
     color: '#fff',
+  },
+  heading: {
+      color: '#fff',
+      fontSize: 25,
+      textAlign: 'center',
+      marginBottom: 20,
+      marginTop: 30,
   },
 });

@@ -431,7 +431,6 @@ const styles = StyleSheet.create({
         textAlign: 'justify',
     },
     heading: {
-        color: '#fff',
         fontSize: 25,
         marginBottom: 20,
         marginTop: 30,

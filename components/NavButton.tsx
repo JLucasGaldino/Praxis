@@ -22,7 +22,7 @@ export default function Button({ label, icon, onPress }: Props) {
 const styles = StyleSheet.create({
   buttonContainer: {
     width: 320,
-    height: 68,
+    flex: 1,
     marginHorizontal: 20,
     alignItems: 'center',
     justifyContent: 'center',
@@ -33,16 +33,21 @@ const styles = StyleSheet.create({
     width: '100%',
     height: '100%',
     alignItems: 'center',
-    justifyContent: 'center',
     flexDirection: 'row',
     borderColor: '#fff',
     borderWidth: 4,
+    paddingVertical: 10,
+    paddingLeft: 10,
+    flex: 1,
+    // justifyContent: 'space-between',
+    justifyContent: 'center',
   },
   buttonIcon: {
-    paddingRight: 8,
+    marginRight: 8,
   },
   buttonLabel: {
     color: '#fff',
     fontSize: 20,
+    // textAlign: 'left',
   },
 });
