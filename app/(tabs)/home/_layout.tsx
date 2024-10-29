@@ -34,6 +34,9 @@ export default function Layout() {
             <Stack.Screen name="prayers/hours-instructions" options={{
                 headerTitle: i18n.t("pageTitles.hoursInstructions"),
             }} />
+            <Stack.Screen name="prayers/hours-vespers" options={{
+                headerTitle: i18n.t("pageTitles.hoursVespers"),
+            }} />
         </Stack>
     );
 }

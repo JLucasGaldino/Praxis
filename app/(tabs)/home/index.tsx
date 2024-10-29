@@ -6,6 +6,7 @@ import { useState } from 'react';
 import * as Localization from 'expo-localization';
 import { I18n } from 'i18n-js';
 import translations from "@/translations.json";
+import Orthocal from "@/components/Orthocal";
 
 const i18n = new I18n(translations);
 /*
@@ -27,13 +28,14 @@ export default function Index() {
   return (
       <View style={styles.container}>
           <ScrollView style={styles.scrollView} horizontal={false}>
+              <Orthocal></Orthocal>
               <Text style={[styles.heading, {marginTop: 50,}]}>{i18n.t("pageTitles.commonPrayers")}</Text>
-              <NavButton label={i18n.t("pageTitles.morningPrayers")} icon="sunrise" onPress={() => router.push("/home/prayers/morning-prayers")} />
-              <NavButton label={i18n.t("pageTitles.throughDayPrayers")} icon="sun" onPress={() => router.push("/home/prayers/through-day-prayers")} />
-              <NavButton label={i18n.t("pageTitles.eveningPrayers")} icon="moon" onPress={() => router.push("/home/prayers/evening-prayers")} />
+              <NavButton label={i18n.t("pageTitles.morningPrayers")} hasIcon={true} icon="sunrise" onPress={() => router.push("/home/prayers/morning-prayers")} />
+              <NavButton label={i18n.t("pageTitles.throughDayPrayers")} hasIcon={true} icon="sun" onPress={() => router.push("/home/prayers/through-day-prayers")} />
+              <NavButton label={i18n.t("pageTitles.eveningPrayers")} hasIcon={true} icon="moon" onPress={() => router.push("/home/prayers/evening-prayers")} />
               <Text style={styles.heading}>{i18n.t("pageTitles.hours")}</Text>
-              <NavButton label={i18n.t("pageTitles.hoursInstructions")} icon="info" onPress={() => router.push("/home/prayers/hours-instructions")} />
-              <NavButton label={i18n.t("pageTitles.hoursVespers")} icon="info" onPress={() => router.push("/home/prayers/hours-instructions")} />
+              <NavButton label={i18n.t("pageTitles.hoursInstructions")} hasIcon={true} icon="info" onPress={() => router.push("/home/prayers/hours-instructions")} />
+              <NavButton label={i18n.t("pageTitles.hoursVespers")} icon="info" onPress={() => router.push("/home/prayers/hours-vespers")} />
               <NavButton label={i18n.t("pageTitles.hoursSmallCompline")} icon="info" onPress={() => router.push("/home/prayers/hours-instructions")} />
               <NavButton label={i18n.t("pageTitles.hoursMatins")} icon="info" onPress={() => router.push("/home/prayers/hours-instructions")} />
               <NavButton label={i18n.t("pageTitles.hoursFirst")} icon="info" onPress={() => router.push("/home/prayers/hours-instructions")} />

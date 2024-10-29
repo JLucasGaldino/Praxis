@@ -7,8 +7,27 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 This is a universal mobile app (Android and iOS) for Christians to quickly have access to their daily prayers, scripture readings, and fasting calendar. This current version contains only the Eastern Orthodox daily prayers and calendar, but I intend on adding catholic prayers later on.
 
 ** Tasks
-- Add a selection of prayer rules, or choice to build your personal. Or just a guide about prayer rules.
-- Make icon props for NavButton optional
+*** Content
+**** TODO Find source of the API to see if must do my own
+- So. Seems like the API is closed source and actually gets from Antiochian. Try to get direct source first.
+- Probably won't be open source, so technique will be to translate
+- Another method could be to generate an ical and take from that ical. Like transform the ical to jason.
+- *A server will need to be set*, at least in firebase, so that I can keep either updating the ical OR, create my own API.
+- Another option is having the entire liturgical logic running directly on the app.
+- Basically, start with json file, turn into API with firebase, then make a code to update automatically on server.
+**** TODO Make the API work in english
+**** TODO Give the API a decent UI
+**** TODO Translate the API by forking
+**** TODO Add info page
+**** TODO Add credits
+**** TODO Add other prayer pages (later. Start with confession and common prayers)
+**** TODO Add date picker
+*** UI
+**** TODO Find way to reload date
+**** TODO New UI with RNRC. Two dimensional.
+**** TODO Make buttons big with icons.
+*** Extras
+**** TODO Add a selection of prayer rules, or choice to build your personal. Or just a guide about prayer rules.
 
 ** Contains
 - Orthodox Morning and Evening prayers

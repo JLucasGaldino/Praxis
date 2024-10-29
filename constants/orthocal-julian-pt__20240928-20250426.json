@@ -1,0 +1,1916 @@
+{
+    "VCALENDAR":
+    [
+        {
+            "VERSION": "2.0",
+            "PRODID": "-//brianglass//Orthocal//en",
+            "NAME": "Orthodox Feasts and Fasts (Julian)",
+            "REFRESH-INTERVAL;VALUE=DURATION": "PT24H",
+            "TIMEZONE-ID": "America/Los_Angeles",
+            "X-PUBLISHED-TTL": "PT24H",
+            "X-WR-CALNAME": "Orthodox Feasts and Fasts (Julian)",
+            "X-WR-TIMEZONE": "America/Los_Angeles",
+            "VEVENT":
+            [
+                {
+                    "SUMMARY": "Sábado após a Elevação",
+                    "DTSTART;VALUE=DATE": "20240928",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-09-28.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nSábado após a Elevação\\n\\nGrande Mártir Nicetas, o Godo • Santo Mártir Porfírio (361).\\n\\n1 Coríntios 1.26-29 (Epístola, Sábado após a Elevação)\\n1 Coríntios 4.1-5 (Epístola)\\nJoão 8.21-30 (Evangelho, Sábado após a Elevação)\\nMateus 23.1-12 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/9/28/",
+                    "URL": "https://orthocal.info/readings/julian/2024/9/28/"
+                },
+                {
+                    "SUMMARY": "14º Domingo após Pentecostes",
+                    "DTSTART;VALUE=DATE": "20240929",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-09-29.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nDomingo após a Elevação\\n\\nGrande Mártir Eufêmia, a Toda-Louvada • Santo Hieromártir Cipriano de Cartago (258) • São Ninian, Iluminador da Escócia (432) • Nosso Santo Pai Doroteu, o Solitário do Egito (séc. IV)\\n\\nMarcos 16.9-20 (3º Evangelho das Matinas)\\nGálatas 2.16-20 (Epístola, Domingo após a Elevação)\\n2 Coríntios 1.21-2.4 (Epístola)\\nMarcos 8.34-9.1 (Evangelho, Domingo após a Elevação)\\nMateus 22.1-14 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/9/29/",
+                    "URL": "https://orthocal.info/readings/julian/2024/9/29/"
+                },
+                {
+                    "SUMMARY": "Mártir Sofia e Filhas Fé, Esperança e Amor",
+                    "DTSTART;VALUE=DATE": "20240930",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-09-30.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nMártir Sofia e Filhas Fé, Esperança e Amor • Nosso Santo Pai Lamberto, Bispo de Maastricht (705)\\n\\nGálatas 2.11-16 (Epístola)\\nLucas 3.19-22 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/9/30/",
+                    "URL": "https://orthocal.info/readings/julian/2024/9/30/"
+                },
+                {
+                    "SUMMARY": "São Eumênes, Bispo de Gortina",
+                    "DTSTART;VALUE=DATE": "20241001",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-10-01.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nSão Eumênes, Bispo de Gortina • Santa Ariadne da Frígia (séc. II)\\n\\nGálatas 2.21-3.7 (Epístola)\\nLucas 3.23-4.1 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/10/1/",
+                    "URL": "https://orthocal.info/readings/julian/2024/10/1/"
+                },
+                {
+                    "SUMMARY": "Mártires Trófimo, Sabácio, Dorymedon; Santos David e Constantino de Yaroslavl",
+                    "DTSTART;VALUE=DATE": "20241002",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-10-02.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum\\n\\nMártires Trófimo, Sabácio, Dorymedon • Santos David e Constantino de Yaroslavl • Santo Mártir Zosimo, o Ermitão da Cilícia (séc. IV)\\n\\nGálatas 3.15-22 (Epístola)\\nLucas 4.1-15 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/10/2/",
+                    "URL": "https://orthocal.info/readings/julian/2024/10/2/"
+                },
+                {
+                    "SUMMARY": "Grande Mártir Eustáquio e Mártir Teopista; Mártires Miguel e Teodoro de Chernigov",
+                    "DTSTART;VALUE=DATE": "20241003",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-10-03.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nGrande Mártir Eustáquio e Mártir Teopista • Mártires Miguel e Teodoro de Chernigov • Santos Mártires Hipácio e André, Confessores dos Santos Ícones (séc. VIII) • Santos Anastasios, Teodoro, Euprepios e Anastasios, o Jovem, confessores e discípulos de São Máximo o Confessor (séc. VII)\\n\\nGálatas 3.23-4.5 (Epístola)\\nLucas 4.16-22 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/10/3/",
+                    "URL": "https://orthocal.info/readings/julian/2024/10/3/"
+                },
+                {
+                    "SUMMARY": "Apóstolo Quadrato dos Setenta; Relíquia Incomum São Dimitri, Metropolita de Rostov",
+                    "DTSTART;VALUE=DATE": "20241004",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-10-04.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum\\n\\nApóstolo Quadrato dos Setenta • Relíquia Incomum São Dimitri, Metropolita de Rostov • Santo Profeta Jonas (séc. IX a.C.) • Apóstolo Quadrato (Codrato) dos Setenta (130) • Nosso Venerável Pai José do Mosteiro de Zaonikiev (1612)\\n\\nGálatas 4.8-21 (Epístola)\\nLucas 4.22-30 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/10/4/"
+                },
+                {
+                    "SUMMARY": "Hieromártir Focas, Bispo de Sinope",
+                    "DTSTART;VALUE=DATE": "20241005",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-10-05.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nHieromártir Focas, Bispo de Sinope • Venerável Cosmas, eremita de Zographou, Monte Athos (1323)\\n\\n1 Coríntios 4.17-5.5 (Epístola)\\nLucas 4.31-36 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/10/5/",
+                    "URL": "https://orthocal.info/readings/julian/2024/10/5/"
+                },
+                {
+                    "SUMMARY": "15º Domingo após Pentecostes",
+                    "DTSTART;VALUE=DATE": "20241006",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-10-06.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nConcepção de São João Batista\\n\\nSanto Mártir Iraida (Rais) de Alexandria (308) • Novo Mártir João de Épiro (1814)\\n\\nLucas 24.1-12 (4º Evangelho das Matinas)\\n2 Coríntios 4.6-15 (Epístola)\\nGálatas 4.22-31 (Epístola, Precursor)\\nLucas 5.1-11 (Evangelho)\\nLucas 1.5-25 (Evangelho, Precursor)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/10/6/",
+                    "URL": "https://orthocal.info/readings/julian/2024/10/6/"
+                },
+                {
+                    "SUMMARY": "Santos Novos Mártires do Alasca",
+                    "DTSTART;VALUE=DATE": "20241007",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-10-07.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nSantos Novos Mártires do Alasca\\n\\nSanta Protomártir Tecla, Igual aos Apóstolos (séc. I) • São Silvano, ancião do Monte Athos (1938) (11 de setembro OC) • São Estêvão, Rei da Sérvia (Simão, o Monge) (1224)\\n\\nIsaías 43.9-14 (Vésperas)\\nSabedoria de Salomão 3.1-9 (Vésperas)\\nSabedoria de Salomão 5.15-6.3 (Vésperas)\\nLucas 12.2-12 (Evangelho das Matinas)\\nGálatas 4.28-5.10 (Epístola)\\nRomanos 8.28-39 (Epístola, Novos Mártires)\\nLucas 4.37-44 (Evangelho)\\nLucas 21.12-19 (Evangelho, Novos Mártires)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/10/7/",
+                    "URL": "https://orthocal.info/readings/julian/2024/10/7/"
+                },
+                {
+                    "SUMMARY": "Repouso do Venerável Sérgio de Radonezh",
+                    "DTSTART;VALUE=DATE": "20241008",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-10-08.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nRepouso do Venerável Sérgio de Radonezh\\n\\nNossa Mãe Justa Eufrósine (c. 445) • Nosso Santo Pai Sérgio de Radonezh (1392) • Comemoração do Grande Terremoto em Constantinopla (447) e o Milagre do Triságion • Venerável Dositheus, recluso das Grutas de Kiev (1776)\\n\\nComposto 2 - Provérbios 10, 3, 8 (Vésperas)\\nProvérbios 10.31-11.12 (Vésperas)\\nSabedoria de Salomão 3.1-9 (Vésperas)\\nMateus 11.27-30 (Evangelho das Matinas)\\nGálatas 5.11-21 (Epístola)\\nGálatas 5.22-6.2 (Epístola, São Sérgio)\\nLucas 5.12-16 (Evangelho)\\nLucas 6.17-23 (Evangelho, São Sérgio)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/10/8/",
+                    "URL": "https://orthocal.info/readings/julian/2024/10/8/"
+                },
+                {
+                    "SUMMARY": "Repouso de São João Teólogo",
+                    "DTSTART;VALUE=DATE": "20241009",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-10-09.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum – Peixes, Vinho e Óleo são Permitidos\\n\\nRepouso de São João Teólogo\\n\\n1 João 3.21-4.6 (Vésperas)\\n1 João 4.11-16 (Vésperas)\\n1 João 4.20-5.5 (Vésperas)\\nJoão 21.15-25 (Evangelho das Matinas)\\nGálatas 6.2-10 (Epístola)\\n1 João 4.12-19 (Epístola, São João)\\nLucas 5.33-39 (Evangelho)\\nJoão 19.25-27, 21.24-25 (Evangelho, São João)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/10/9/",
+                    "URL": "https://orthocal.info/readings/julian/2024/10/9/"
+                },
+                {
+                    "SUMMARY": "Mártir Calistrato e Companheiros; Venerável Sabácio de Solovetsk",
+                    "DTSTART;VALUE=DATE": "20241010",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-10-10.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nMártir Calistrato e Companheiros • Venerável Sabácio de Solovetsk • Santos Apóstolos Marcos, Aristarco e Zenas dos Setenta • Santa Nova Mártir Aquilina (1764)\\n\\nEfésios 1.1-9 (Epístola)\\nLucas 6.12-19 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/10/10/",
+                    "URL": "https://orthocal.info/readings/julian/2024/10/10/"
+                },
+                {
+                    "SUMMARY": "Venerável Caritão, o Confessor",
+                    "DTSTART;VALUE=DATE": "20241011",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-10-11.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum – Vinho e Óleo são Permitidos\\n\\nVenerável Caritão, o Confessor\\n\\nSanto Profeta Baruque (séc. VI a.C.) • Santo Mártir Vatslav (Venceslau), Rei dos Checos (929)\\n\\nSabedoria de Salomão 5.15-6.3 (Vésperas)\\nSabedoria de Salomão 3.1-9 (Vésperas)\\nSabedoria de Salomão 4.7-15 (Vésperas)\\nMateus 4.25-5.12 (Evangelho de Matinas)\\nEfésios 1.7-17 (Epístola)\\n2 Coríntios 4.6-15 (Epístola, São Caritão)\\nLucas 6.17-23 (Evangelho)\\nLucas 6.17-23 (Evangelho, São Caritão)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/10/11/",
+                    "URL": "https://orthocal.info/readings/julian/2024/10/11/"
+                },
+                {
+                    "SUMMARY": "Venerável Ciriaco, Eremita da Palestina",
+                    "DTSTART;VALUE=DATE": "20241012",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-10-12.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nVenerável Ciriaco, Eremita da Palestina • Santa Maria da Palestina (séc. VI) • Santos Mártires Dada e os que estavam com ele (séc. IV) • Venerável Cipriano de Ustiug (1276)\\n\\n1 Coríntios 10.23-28 (Epístola)\\nLucas 5.17-26 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/10/12/",
+                    "URL": "https://orthocal.info/readings/julian/2024/10/12/"
+                },
+                {
+                    "SUMMARY": "16º Domingo após Pentecostes",
+                    "DTSTART;VALUE=DATE": "20241013",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-10-13.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nHieromártir Gregório da Armênia • Venerável Gregório de Vologda • Venerável Gregório de Pelshma (1441 ou 1451) • Nosso Pai entre os Santos Miguel, Metropolita de Kiev (992)\\n\\nLucas 24.12-35 (5º Evangelho de Matinas)\\n2 Coríntios 6.1-10 (Epístola)\\nLucas 6.31-36 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/10/13/",
+                    "URL": "https://orthocal.info/readings/julian/2024/10/13/"
+                },
+                {
+                    "SUMMARY": "Proteção (Pokrov) da Mãe de Deus",
+                    "DTSTART;VALUE=DATE": "20241014",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-10-14.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nProteção (Pokrov) da Mãe de Deus\\n\\nSão Romano, o Melodista de Constantinopla (556) • Nosso Santo Pai Gregório, o Maestro de Coro (Doméstico) do Grande Lavra (1355) • Santo Remígio, Bispo de Reims, Apóstolo dos Francos (533)\\n\\nGênesis 28.10-17 (Vésperas)\\nEzequiel 43.27-44.4 (Vésperas)\\nProvérbios 9.1-11 (Vésperas)\\nLucas 1.39-49, 56 (Evangelho de Matinas)\\nEfésios 1.22-2.3 (Epístola)\\nHebreus 9.1-7 (Epístola, Proteção)\\nLucas 6.24-30 (Evangelho)\\nLucas 10.38-42, 11.27-28 (Evangelho, Proteção)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/10/14/",
+                    "URL": "https://orthocal.info/readings/julian/2024/10/14/"
+                },
+                {
+                    "SUMMARY": "Hieromártir Cipriano, Mártires Justina e Teoctisto; Beato André, Louco por Cristo",
+                    "DTSTART;VALUE=DATE": "20241015",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-10-15.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nHieromártir Cipriano, Mártires Justina e Teoctisto • Beato André, Louco por Cristo • Hieromártir Cipriano e Virgem Mártir Justina (304) • São Casiano, o Grego, Maravilhoso de Uglich (1504)\\n\\nEfésios 2.19-3.7 (Epístola)\\nLucas 6.37-45 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/10/15/",
+                    "URL": "https://orthocal.info/readings/julian/2024/10/15/"
+                },
+                {
+                    "SUMMARY": "Hieromártir Dionísio, o Areopagita",
+                    "DTSTART;VALUE=DATE": "20241016",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-10-16.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum\\n\\nHieromártir Dionísio, o Areopagita • Santo Hieromártir Dionísio, Bispo de Alexandria, e seus discípulos (258) • São João, o Chozebita, Bispo de Cesareia na Palestina (532)\\n\\nEfésios 3.8-21 (Epístola)\\nLucas 6.46-7.1 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/10/16/",
+                    "URL": "https://orthocal.info/readings/julian/2024/10/16/"
+                },
+                {
+                    "SUMMARY": "Hieromártir Hieroteu, Bispo de Atenas; Rel. Inconcluso Gurias de Kazan e Varsanufio de Tver",
+                    "DTSTART;VALUE=DATE": "20241017",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-10-17.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nHieromártir Hieroteu, Bispo de Atenas • Rel. Inconcluso Gurias de Kazan e Varsanufio de Tver • Nosso Santo Pai Amom do Egito (séc. IV)\\n\\nEfésios 4.14-19 (Epístola)\\nLucas 7.17-30 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/10/17/",
+                    "URL": "https://orthocal.info/readings/julian/2024/10/17/"
+                },
+                {
+                    "SUMMARY": "Santos Pedro, Aléxis, Jonas, Filipe, Germogen, Metropolitas de Moscovo",
+                    "DTSTART;VALUE=DATE": "20241018",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-10-18.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum\\n\\nSantos Pedro, Aléxis, Jonas, Filipe, Germogen, Metropolitas de Moscovo • Santa Mártir Caritina de Amisso (304) • Nossa Santa Mãe Metódia de Kimolos (1865)\\n\\nEfésios 4.17-25 (Epístola)\\nLucas 7.31-35 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/10/18/",
+                    "URL": "https://orthocal.info/readings/julian/2024/10/18/"
+                },
+                {
+                    "SUMMARY": "São Inocêncio, Metropolita de Moscovo / Santo Apóstolo Tomé",
+                    "DTSTART;VALUE=DATE": "20241019",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-10-19.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nSão Inocêncio, Metropolita de Moscovo / Santo Apóstolo Tomé\\n\\nComposto 2 - Provérbios 10, 3, 8 (Vésperas)\\nComposto 3 - Sabedoria de Salomão 4, 5 (Vésperas)\\nComposto 4 - Provérbios 10; Sabedoria de Salomão 6, 7, 8, 9 (Vésperas)\\nJoão 10.1-9 (Evangelho de Matinas)\\n1 Coríntios 14.20-25 (Epístola)\\nHebreus 7.26-8.2 (Epístola, São Inocêncio)\\nLucas 5.27-32 (Evangelho)\\nJoão 10.9-16 (Evangelho, São Inocêncio)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/10/19/",
+                    "URL": "https://orthocal.info/readings/julian/2024/10/19/"
+                },
+                {
+                    "SUMMARY": "17º Domingo após Pentecostes",
+                    "DTSTART;VALUE=DATE": "20241020",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-10-20.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nMártires Sérgio e Bacchus na Síria • Santo Hieromártir Policrônio (séc. IV) • Os Noventa e Nove Pais de Creta (data desconhecida)\\n\\nLucas 24.36-53 (6º Evangelho de Matinas)\\n2 Coríntios 6.16-7.1 (Epístola)\\nLucas 7.11-16 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/10/20/",
+                    "URL": "https://orthocal.info/readings/julian/2024/10/20/"
+                },
+                {
+                    "SUMMARY": "Venerável Pelágia, a Penitente",
+                    "DTSTART;VALUE=DATE": "20241021",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-10-21.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nVenerável Pelágia, a Penitente • Santa Thaís, a Meretriz Arrependida (séc. IV)\\n\\nEfésios 4.25-32 (Epístola)\\nLucas 7.36-50 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/10/21/",
+                    "URL": "https://orthocal.info/readings/julian/2024/10/21/"
+                },
+                {
+                    "SUMMARY": "São Tikhon, Patriarca de Moscovo / Santo Apóstolo Tiago, Filho de Alfeu",
+                    "DTSTART;VALUE=DATE": "20241022",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-10-22.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nSão Tikhon, Patriarca de Moscovo / Santo Apóstolo Tiago, Filho de Alfeu\\n\\nSanto Apóstolo Tiago, Filho de Alfeu. • Santos Andrônico e Atanasia (séc. V) • Santo e Justo Abraão e Ló • São Estêvão, o Cego, Príncipe da Sérvia (1476) • Santo Hieromártir Dionísio, primeiro Bispo de Paris (c. 258)\\n\\nSabedoria de Salomão 3.1-9 (Vésperas)\\nSabedoria de Salomão 5.15-6.3 (Vésperas)\\nSabedoria de Salomão 4.7-15 (Vésperas)\\nJoão 10.1-9 (Evangelho das Matinas)\\nHebreus 7.26-8.2 (Epístola, São Tikhon)\\nLucas 8.1-3 (Evangelho)\\nEfésios 5.20-26 (Epístola)\\nJoão 10.9-16 (Evangelho, São Tikhon)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/10/22/",
+                    "URL": "https://orthocal.info/readings/julian/2024/10/22/"
+                },
+                {
+                    "SUMMARY": "Mártires Eulampio e Eulampia em Nicomédia",
+                    "DTSTART;VALUE=DATE": "20241023",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-10-23.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum\\n\\nMártires Eulampio e Eulampia em Nicomédia • Bem-Aventurado Louco por Cristo André de Totma (1637)\\n\\nEfésios 5.25-33 (Epístola)\\nLucas 8.22-25 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/10/23/",
+                    "URL": "https://orthocal.info/readings/julian/2024/10/23/"
+                },
+                {
+                    "SUMMARY": "Apóstolo Filipe dos Setenta",
+                    "DTSTART;VALUE=DATE": "20241024",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-10-24.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nApóstolo Filipe dos Setenta • Sinaxe dos Santos Startsi do Mosteiro de Optina • Santo Teofano, o Hímnógrafo (o Marcado) (847) • Nosso Santo Pai Filoteu Kokkinos, Patriarca de Constantinopla (1379)\\n\\nLucas 9.7-11 (Evangelho)\\nEfésios 5.33-6.9 (Epístola)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/10/24/",
+                    "URL": "https://orthocal.info/readings/julian/2024/10/24/"
+                },
+                {
+                    "SUMMARY": "Mártires Próbus, Taráquio e Andrônico",
+                    "DTSTART;VALUE=DATE": "20241025",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-10-25.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum\\n\\nMártires Próbus, Taráquio e Andrônico • São Simeão, o Novo Teólogo (1022)\\n\\nEfésios 6.18-24 (Epístola)\\nLucas 9.12-18 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/10/25/",
+                    "URL": "https://orthocal.info/readings/julian/2024/10/25/"
+                },
+                {
+                    "SUMMARY": "Mártir Cárpus e Companheiros em Pérgamo",
+                    "DTSTART;VALUE=DATE": "20241026",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-10-26.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nMártir Cárpus e Companheiros em Pérgamo • Santa Mártir Zlata (Crise) (1796)\\n\\n1 Coríntios 15.39-45 (Epístola)\\nLucas 6.1-10 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/10/26/",
+                    "URL": "https://orthocal.info/readings/julian/2024/10/26/"
+                },
+                {
+                    "SUMMARY": "18ª Domingo após Pentecostes",
+                    "DTSTART;VALUE=DATE": "20241027",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-10-27.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nPais do Sétimo Concílio Ecumênico\\n\\nSanta Parasceva da Sérvia • Santos Mártires Nazário, Gervásio, Protásio e Celsus de Milão (séc. I) • Santo Cosmas, o Hímnógrafo (séc. VIII) • Santo Nicolau, o Pio (Sviatosha), Príncipe de Chernigov (1143)\\n\\nGênesis 14.14-20 (Vésperas)\\nDeuteronômio 1.8-11, 15-17 (Vésperas)\\nDeuteronômio 10.14-21 (Vésperas)\\nJoão 20.1-10 (7º Evangelho das Matinas)\\n2 Coríntios 9.6-11 (Epístola)\\nHebreus 13.7-16 (Epístola, Pais)\\nLucas 8.5-15 (Evangelho)\\nJoão 17.1-13 (Evangelho, Pais)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/10/27/",
+                    "URL": "https://orthocal.info/readings/julian/2024/10/27/"
+                },
+                {
+                    "SUMMARY": "Santo Eutímio, o Novo de Tessalônica",
+                    "DTSTART;VALUE=DATE": "20241028",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-10-28.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nSanto Eutímio, o Novo de Tessalônica • Santo Hieromártir Luciano, Presbítero da Igreja de Antioquia (312)\\n\\nFilipenses 1.1-7 (Epístola)\\nLucas 9.18-22 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/10/28/",
+                    "URL": "https://orthocal.info/readings/julian/2024/10/28/"
+                },
+                {
+                    "SUMMARY": "Mártir Longino, o Centurião",
+                    "DTSTART;VALUE=DATE": "20241029",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-10-29.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nMártir Longino, o Centurião • Nosso Venerável Pai Gal, Iluminador da Suíça (640)\\n\\nFilipenses 1.8-14 (Epístola)\\nLucas 9.23-27 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/10/29/",
+                    "URL": "https://orthocal.info/readings/julian/2024/10/29/"
+                },
+                {
+                    "SUMMARY": "Profeta Oséias",
+                    "DTSTART;VALUE=DATE": "20241030",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-10-30.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum\\n\\nProfeta Oséias • Santos Mártires Cosmas e Damião, os Inimigos de Cília (séc. IV)\\n\\nFilipenses 1.12-20 (Epístola)\\nLucas 9.44-50 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/10/30/",
+                    "URL": "https://orthocal.info/readings/julian/2024/10/30/"
+                },
+                {
+                    "SUMMARY": "Santo Apóstolo e Evangelista Lucas",
+                    "DTSTART;VALUE=DATE": "20241031",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-10-31.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nSanto Apóstolo e Evangelista Lucas\\n\\n1 João 1.1-7 (Vésperas)\\nTiago 1.1-12 (Vésperas)\\nJudas 1-7, 17-25 (Vésperas)\\nJoão 21.15-25 (Evangelho das Matinas)\\nFilipenses 1.20-27 (Epístola)\\nColossenses 4.5-9, 14, 18 (Epístola, Santo Lucas)\\nLucas 9.49-56 (Evangelho)\\nLucas 10.16-21 (Evangelho, Santo Lucas)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/10/31/",
+                    "URL": "https://orthocal.info/readings/julian/2024/10/31/"
+                },
+                {
+                    "SUMMARY": "Profeta Joel; Relíquias do Venerável João de Rila",
+                    "DTSTART;VALUE=DATE": "20241101",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-11-01.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum\\n\\nProfeta Joel • Relíquias do Venerável João de Rila • Justo João, o Fazedor de Maravilhas de Kronstadt (1908). • Santo Mártir Vário e aqueles com ele (304) • Santo Hieromártir Sadoth (Shahdost) e seus 128 companheiros (342)\\n\\nFilipenses 1.27-2.4 (Epístola)\\nLucas 10.1-15 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/11/1/",
+                    "URL": "https://orthocal.info/readings/julian/2024/11/1/"
+                },
+                {
+                    "SUMMARY": "Sábado Memorial (Demétrio)",
+                    "DTSTART;VALUE=DATE": "20241102",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-11-02.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nSábado Memorial (Demétrio)\\n\\nGrande Mártir Artemius em Antioquia • Santo Gerásimo, o Novo, asceta de Cefalônia (1579) • Santo Jonas, Bispo da Manchúria (1925) (7 de outubro OC)\\n\\n1 Coríntios 15.58-16.3 (Epístola)\\n1 Tessalonicenses 4.13-17 (Epístola, Departados)\\nLucas 7.1-10 (Evangelho)\\nJoão 5.24-30 (Evangelho, Departados)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/11/2/",
+                    "URL": "https://orthocal.info/readings/julian/2024/11/2/"
+                },
+                {
+                    "SUMMARY": "19ª Domingo após Pentecostes",
+                    "DTSTART;VALUE=DATE": "20241103",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-11-03.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nVenerável Hilarion, o Grande • Santo Novo Mártir João de Monembasia (1773)\\n\\nJoão 20.11-18 (8º Evangelho das Matinas)\\n2 Coríntios 11.31-12.9 (Epístola)\\nLucas 16.19-31 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/11/3/",
+                    "URL": "https://orthocal.info/readings/julian/2024/11/3/"
+                },
+                {
+                    "SUMMARY": "São Abercius, Igual aos Apóstolos",
+                    "DTSTART;VALUE=DATE": "20241104",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-11-04.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nSão Abercius, Igual aos Apóstolos • Venerável Ló do Egito (séc. V) • Santos Sete Jovens de Éfeso\\n\\nFilipenses 2.12-16 (Epístola)\\nLucas 10.22-24 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/11/4/",
+                    "URL": "https://orthocal.info/readings/julian/2024/11/4/"
+                },
+                {
+                    "SUMMARY": "Santo Apóstolo Tiago, Irmão do Senhor",
+                    "DTSTART;VALUE=DATE": "20241105",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-11-05.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nSanto Apóstolo Tiago, Irmão do Senhor\\n\\nSão Macário, o Romano da Mesopotâmia (?)\\n\\nFilipenses 2.16-23 (Epístola)\\nGálatas 1.11-19 (Epístola, São Tiago)\\nLucas 11.1-10 (Evangelho)\\nMateus 13.54-58 (Evangelho, São Tiago)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/11/5/",
+                    "URL": "https://orthocal.info/readings/julian/2024/11/5/"
+                },
+                {
+                    "SUMMARY": "Mártir Arethas e Companheiros",
+                    "DTSTART;VALUE=DATE": "20241106",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-11-06.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum\\n\\nMártir Arethas e Companheiros\\n\\nFilipenses 2.24-30 (Epístola)\\nLucas 11.9-13 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/11/6/",
+                    "URL": "https://orthocal.info/readings/julian/2024/11/6/"
+                },
+                {
+                    "SUMMARY": "Mártires Marciano e Martirio, os Notários",
+                    "DTSTART;VALUE=DATE": "20241107",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-11-07.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nMártires Marciano e Martirio, os Notários • Santa Tabita de Jope\\n\\nFilipenses 3.1-8 (Epístola)\\nLucas 11.14-23 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/11/7/",
+                    "URL": "https://orthocal.info/readings/julian/2024/11/7/"
+                },
+                {
+                    "SUMMARY": "Grande Mártir Demétrio",
+                    "DTSTART;VALUE=DATE": "20241108",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-11-08.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum – Peixe, Vinho e Óleo são Permitidos\\n\\nGrande Mártir Demétrio\\n\\nComposite 16 - Isaías 63.15-64.5, 8-9 (Vésperas)\\nJeremias 2.2-12 (Vésperas)\\nSabedoria de Salomão 4.7-15 (Vésperas)\\nMateus 10.16-22 (Evangelho das Matinas)\\nFilipenses 3.8-19 (Epístola)\\nHebreus 12.6-13, 25-27 (Epístola, Terremoto)\\n2 Timóteo 2.1-10 (Epístola, São Demétrio)\\nLucas 11.23-26 (Evangelho)\\nMateus 8.23-27 (Evangelho, Terremoto)\\nJoão 15.17-16.2 (Evangelho, São Demétrio)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/11/8/",
+                    "URL": "https://orthocal.info/readings/julian/2024/11/8/"
+                },
+                {
+                    "SUMMARY": "Mártir Nestor de Tessalônica",
+                    "DTSTART;VALUE=DATE": "20241109",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-11-09.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nMártir Nestor de Tessalônica • Santa Procla, esposa de Pôncio Pilatos. • Nosso Venerável Pai Demétrio de Basarabov (Romênia) (séc. XIII)\\n\\n2 Coríntios 1.8-11 (Epístola)\\nLucas 8.16-21 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/11/9/",
+                    "URL": "https://orthocal.info/readings/julian/2024/11/9/"
+                },
+                {
+                    "SUMMARY": "20º Domingo após Pentecostes",
+                    "DTSTART;VALUE=DATE": "20241110",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-11-10.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nMártires Terêncio, Neonila e Crianças • Santo Arsênio da Sérvia • Santo Dimitri (Demétrio) de Rostov (1709) • Nosso Santo Pai Firmiliano, Bispo de Cesaréia (268) • Santo Hieromártir Quiriaco, Bispo de Jerusalém, e sua mãe Ana (séc. IV)\\n\\nJoão 20.19-31 (9º Evangelho das Matinas)\\nGálatas 1.11-19 (Epístola)\\nLucas 8.26-39 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/11/10/",
+                    "URL": "https://orthocal.info/readings/julian/2024/11/10/"
+                },
+                {
+                    "SUMMARY": "Mártir Anastásia, a Romana",
+                    "DTSTART;VALUE=DATE": "20241111",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-11-11.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nMártir Anastásia, a Romana • Nosso Santo Pai Abrâmio (366) e sua sobrinha Maria (371) da Mesopotâmia\\n\\nFilipenses 4.10-23 (Epístola)\\nLucas 11.29-33 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/11/11/",
+                    "URL": "https://orthocal.info/readings/julian/2024/11/11/"
+                },
+                {
+                    "SUMMARY": "Hieromártir Zenóbio e Sua Irmã Zenóbia",
+                    "DTSTART;VALUE=DATE": "20241112",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-11-12.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nHieromártir Zenóbio e Sua Irmã Zenóbia • Santo Apóstolo Cleopas • São José I, Patriarca de Constantinopla (1283) • Santo Mártir Hermengildo, Príncipe dos Visigodos (486) • Santo Hieromártir João Kochurov, Primeiro Hieromártir da Revolução Russa (1917)\\n\\nColossenses 1.1-2, 7-11 (Epístola)\\nLucas 11.34-41 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/11/12/",
+                    "URL": "https://orthocal.info/readings/julian/2024/11/12/"
+                },
+                {
+                    "SUMMARY": "Hieromártir João Kochurov",
+                    "DTSTART;VALUE=DATE": "20241113",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-11-13.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum\\n\\nHieromártir João Kochurov\\n\\nSantos Apóstolos Estaque, Apeles, Ampliato, Urbano, Narciso e Aristóbulo. • Novo Mártir Nicolau de Quio (1754)\\n\\nColossenses 1.18-23 (Epístola)\\nHebreus 13.7-16 (Epístola, São João Kochurov)\\nLucas 11.42-46 (Evangelho)\\nLucas 12.32-40 (Evangelho, São João Kochurov)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/11/13/",
+                    "URL": "https://orthocal.info/readings/julian/2024/11/13/"
+                },
+                {
+                    "SUMMARY": "Inócuos e Fazedores de Milagres Cosmas e Damião",
+                    "DTSTART;VALUE=DATE": "20241114",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-11-14.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nInócuos e Fazedores de Milagres Cosmas e Damião • Santa Nova Mártir Helena de Sinope (séc. XVIII)\\n\\nColossenses 1.24-29 (Epístola)\\nLucas 11.47-12.1 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/11/14/",
+                    "URL": "https://orthocal.info/readings/julian/2024/11/14/"
+                },
+                {
+                    "SUMMARY": "Mártir Acindino da Pérsia e Outros",
+                    "DTSTART;VALUE=DATE": "20241115",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-11-15.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum\\n\\nMártir Acindino da Pérsia e Outros\\n\\nColossenses 2.1-7 (Epístola)\\nLucas 12.2-12 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/11/15/",
+                    "URL": "https://orthocal.info/readings/julian/2024/11/15/"
+                },
+                {
+                    "SUMMARY": "Mártires Acepsimo, José e Aitalas",
+                    "DTSTART;VALUE=DATE": "20241116",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-11-16.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nMártires Acepsimo, José e Aitalas • Santa Virgem Mártir Winefride de Treffynnon (Holywell), País de Gales (séc. VII)\\n\\n2 Coríntios 3.12-18 (Epístola)\\nLucas 9.1-6 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/11/16/",
+                    "URL": "https://orthocal.info/readings/julian/2024/11/16/"
+                },
+                {
+                    "SUMMARY": "21ª Domingo após Pentecostes",
+                    "DTSTART;VALUE=DATE": "20241117",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-11-17.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nSinaxe dos Santos Inócuos\\n\\nVen. Joânico, o Grande\\n\\nIsaías 43.9-14 (Vésperas, Inócuos)\\nSabedoria de Salomão 3.1-9 (Vésperas, Inócuos)\\nSabedoria de Salomão 5.15-6.3 (Vésperas, Inócuos)\\nJoão 21.1-14 (10º Evangelho de Matinas)\\nGálatas 2.16-20 (Epístola)\\n1 Coríntios 12.27-13.8 (Epístola, Inócuos)\\nLucas 8.41-56 (Evangelho)\\nMateus 10.1, 5-8 (Evangelho, Inócuos)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/11/17/",
+                    "URL": "https://orthocal.info/readings/julian/2024/11/17/"
+                },
+                {
+                    "SUMMARY": "Mártires Galacteon e Esposa Episteme; Requiescência de São Jonas de Novgorod",
+                    "DTSTART;VALUE=DATE": "20241118",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-11-18.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nMártires Galacteon e Esposa Episteme • Requiescência de São Jonas de Novgorod • Santos Mártires Galacão e Episteme (ca. 250) • Santos Apóstolos Patrobás, Hermas, Lino, Gaio e Filólogo • Nosso Santo Pai Gregório, o Confessor, Patriarca de Alexandria (início do séc. IX)\\n\\nColossenses 2.13-20 (Epístola)\\nLucas 12.13-15, 22-31 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/11/18/",
+                    "URL": "https://orthocal.info/readings/julian/2024/11/18/"
+                },
+                {
+                    "SUMMARY": "São Paulo, o Confessor de Constantinopla",
+                    "DTSTART;VALUE=DATE": "20241119",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-11-19.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nSão Paulo, o Confessor de Constantinopla • São Germano, Arcebispo de Kazan (1568)\\n\\nColossenses 2.20-3.3 (Epístola)\\nLucas 12.42-48 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/11/19/",
+                    "URL": "https://orthocal.info/readings/julian/2024/11/19/"
+                },
+                {
+                    "SUMMARY": "Santos 33 Mártires de Melitene",
+                    "DTSTART;VALUE=DATE": "20241120",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-11-20.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum\\n\\nSantos 33 Mártires de Melitene • São Willibrord, primeiro Bispo de Utrecht e Apóstolo da Holanda (739)\\n\\nColossenses 3.17-4.1 (Epístola)\\nLucas 12.48-59 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/11/20/",
+                    "URL": "https://orthocal.info/readings/julian/2024/11/20/"
+                },
+                {
+                    "SUMMARY": "Sinaxe do Arcanjo Miguel e as Potências sem Corpo",
+                    "DTSTART;VALUE=DATE": "20241121",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-11-21.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nSinaxe do Arcanjo Miguel e as Potências sem Corpo\\n\\nJosué 5.13-15 (Vésperas)\\nJuízes 6.2, 7, 11-24 (Vésperas)\\nIsaías 14.7-20 (Vésperas)\\nMateus 13.24-30, 36-43 (Evangelho de Matinas)\\nColossenses 4.2-9 (Epístola)\\nHebreus 2.2-10 (Epístola, Anjos)\\nLucas 13.1-9 (Evangelho)\\nLucas 10.16-21 (Evangelho, Anjos)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/11/21/",
+                    "URL": "https://orthocal.info/readings/julian/2024/11/21/"
+                },
+                {
+                    "SUMMARY": "Mártires Onésiforo e Porfírio",
+                    "DTSTART;VALUE=DATE": "20241122",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-11-22.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum\\n\\nMártires Onésiforo e Porfírio • Nosso Pai entre os Santos Nectário, bispo de Pentápolis, o Fazedor de Milagres, e fundador do Mosteiro da Santíssima Trindade em Egina (1920). • Nosso Venerável Pai João, o Anão (João, o Baixo) (séc. IV) • Nossa Santa Mãe Matrona (492) • Santo Simeão Metafrastes (960)\\n\\nColossenses 4.10-18 (Epístola)\\nLucas 13.31-35 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/11/22/",
+                    "URL": "https://orthocal.info/readings/julian/2024/11/22/"
+                },
+                {
+                    "SUMMARY": "Apóstolos dos 70 Erasto, Olímpias, Heródion, Sosipáter, Quarto, Terço",
+                    "DTSTART;VALUE=DATE": "20241123",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-11-23.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nApóstolos dos 70 Erasto, Olímpias, Heródion, Sosipáter, Quarto, Terço • Nosso Venerável Pai Arsenios da Capadócia, o Fazedor de Milagres (1924)\\n\\n2 Coríntios 5.1-10 (Epístola)\\nLucas 9.37-43 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/11/23/",
+                    "URL": "https://orthocal.info/readings/julian/2024/11/23/"
+                },
+                {
+                    "SUMMARY": "22ª Domingo após Pentecostes",
+                    "DTSTART;VALUE=DATE": "20241124",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-11-24.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nMártires Menas, Vítor e Vicente • Nosso Pai Justo Teodoro o Estudita (826)\\n\\nJoão 21.15-25 (11º Evangelho de Matinas)\\nGálatas 6.11-18 (Epístola)\\nLucas 10.25-37 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/11/24/",
+                    "URL": "https://orthocal.info/readings/julian/2024/11/24/"
+                },
+                {
+                    "SUMMARY": "São João, o Misericordioso, Patriarca de Alexandria",
+                    "DTSTART;VALUE=DATE": "20241125",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-11-25.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nSão João, o Misericordioso, Patriarca de Alexandria • Nosso Pai entre os Santos Martinho, Bispo de Tours (397) • Nosso Santo Pai Nilus, o Asceta do Sinai (430) • São Nilus, o Exudador de Mirra do Monte Athos (1651)\\n\\n1 Tessalonicenses 1.1-5 (Epístola)\\nLucas 14.12-15 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/11/25/",
+                    "URL": "https://orthocal.info/readings/julian/2024/11/25/"
+                },
+                {
+                    "SUMMARY": "São João Crisóstomo, Arcebispo de Constantinopla",
+                    "DTSTART;VALUE=DATE": "20241126",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-11-26.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nSão João Crisóstomo, Arcebispo de Constantinopla\\n\\nComposto 2 - Provérbios 10, 3, 8 (Vésperas)\\nComposto 4 - Provérbios 10; Sabedoria de Salomão 6, 7, 8, 9 (Vésperas)\\nComposto 5 - Sabedoria de Salomão 4, 6, 7, 2 (Vésperas)\\nJoão 10.1-9 (Evangelho de Matinas)\\n1 Tessalonicenses 1.6-10 (Epístola)\\nHebreus 7.26-8.2 (Epístola, São João Crisóstomo)\\nLucas 14.25-35 (Evangelho)\\nJoão 10.9-16 (Evangelho, São João Crisóstomo)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/11/26/",
+                    "URL": "https://orthocal.info/readings/julian/2024/11/26/"
+                },
+                {
+                    "SUMMARY": "Santo Apóstolo Felipe",
+                    "DTSTART;VALUE=DATE": "20241127",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-11-27.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum – Vinho e Azeite são Permitidos\\n\\nSanto Apóstolo Felipe\\n\\nSão Gregório Palamas (1359) • Pio Imperador Justiniano e Sua Esposa Teodora (565)\\n\\n1 Pedro 1.1-2.6 (Vésperas)\\n1 Pedro 2.21-3.9 (Vésperas)\\n1 Pedro 4.1-11 (Vésperas)\\nJoão 21.15-25 (Evangelho de Matinas)\\n1 Tessalonicenses 2.1-8 (Epístola)\\n1 Coríntios 4.9-16 (Epístola, São Felipe)\\nLucas 15.1-10 (Evangelho)\\nJoão 1.43-51 (Evangelho, São Felipe)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/11/27/",
+                    "URL": "https://orthocal.info/readings/julian/2024/11/27/"
+                },
+                {
+                    "SUMMARY": "Início do Jejum da Natividade",
+                    "DTSTART;VALUE=DATE": "20241128",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-11-28.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Natividade – Vinho e Azeite são Permitidos\\n\\nInício do Jejum da Natividade • Nosso Venerável Pai Paisius Velichkovsky (1794)\\n\\n1 Tessalonicenses 2.9-14 (Epístola)\\nLucas 16.1-9 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/11/28/",
+                    "URL": "https://orthocal.info/readings/julian/2024/11/28/"
+                },
+                {
+                    "SUMMARY": "Santo Apóstolo e Evangelista Mateus",
+                    "DTSTART;VALUE=DATE": "20241129",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-11-29.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Natividade – Peixe, Vinho e Azeite são Permitidos\\n\\nSanto Apóstolo e Evangelista Mateus\\n\\n1 Pedro 1.1-2.6 (Vésperas)\\n1 Pedro 2.21-3.9 (Vésperas)\\n1 Pedro 4.1-11 (Vésperas)\\nJoão 21.15-25 (Evangelho de Matinas)\\n1 Tessalonicenses 2.14-19 (Epístola)\\n1 Coríntios 4.9-16 (Epístola, São Mateus)\\nLucas 16.15-18, 17.1-4 (Evangelho)\\nMateus 9.9-13 (Evangelho, São Mateus)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/11/29/",
+                    "URL": "https://orthocal.info/readings/julian/2024/11/29/"
+                },
+                {
+                    "SUMMARY": "São Gregório, o Fazedor de Milagres; Ven. Nikon de Radonezh",
+                    "DTSTART;VALUE=DATE": "20241130",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-11-30.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Natividade – Peixe, Vinho e Azeite são Permitidos\\n\\nSão Gregório, o Fazedor de Milagres • Ven. Nikon de Radonezh • Nosso Santo Pai Longino (séc. IV ou V) • Nossa Santa Mãe Hilda, Abadessa de Whitby (680)\\n\\n2 Coríntios 8.1-5 (Epístola)\\nLucas 9.57-62 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/11/30/",
+                    "URL": "https://orthocal.info/readings/julian/2024/11/30/"
+                },
+                {
+                    "SUMMARY": "23ª Domingo após Pentecostes",
+                    "DTSTART;VALUE=DATE": "20241201",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-12-01.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Natividade – Peixe, Vinho e Azeite são Permitidos\\n\\nMártires Platão e Romão • Santo Novo Mártir Anastásio da Epirro (1750), e Daniel, a quem converteu\\n\\nMateus 28.16-20 (1º Evangelho de Matinas)\\nEfésios 2.4-10 (Epístola)\\nLucas 12.16-21 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/12/1/",
+                    "URL": "https://orthocal.info/readings/julian/2024/12/1/"
+                },
+                {
+                    "SUMMARY": "Profeta Abdias; Ven. Barlaão e Joasaf",
+                    "DTSTART;VALUE=DATE": "20241202",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-12-02.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Natividade\\n\\nProfeta Abdias • Ven. Barlaão e Joasaf • Nosso Santo Pai Filareto, Metropolita de Moscovo (1867) • Santo Mártir Barlaão de Antioquia (304)\\n\\n1 Tessalonicenses 2.20-3.8 (Epístola)\\nLucas 17.20-25 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/12/2/",
+                    "URL": "https://orthocal.info/readings/julian/2024/12/2/"
+                },
+                {
+                    "SUMMARY": "Ven. Gregório Decapolites",
+                    "DTSTART;VALUE=DATE": "20241203",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-12-03.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Natividade – Vinho e Azeite são Permitidos\\n\\nVen. Gregório Decapolites • Nosso Santo Pai Prócoro, Arcebispo de Constantinopla (447)\\n\\n1 Tessalonicenses 3.9-13 (Epístola)\\nLucas 17.26-37 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/12/3/",
+                    "URL": "https://orthocal.info/readings/julian/2024/12/3/"
+                },
+                {
+                    "SUMMARY": "Entrada da Mãe de Deus no Templo",
+                    "DTSTART;VALUE=DATE": "20241204",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-12-04.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Natividade – Peixe, Vinho e Azeite são Permitidos\\n\\nEntrada da Mãe de Deus no Templo\\n\\nComposite 17 - Êxodo 40:1-5, 9-10, 16, 34-35 (Vésperas)\\nComposite 18 - 3 [1] Reis 7:51-8:1, 8:4-7, 9-11 (Vésperas)\\nEzequiel 43.27-44.4 (Vésperas)\\nLucas 1.39-49, 56 (Evangelho de Matinas)\\nHebreus 9.1-7 (Epístola, Entrada)\\n1 Tessalonicenses 4.1-12 (Epístola)\\nLucas 10.38-42, 11.27-28 (Evangelho, Entrada)\\nLucas 18.15-17, 26-30 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/12/4/",
+                    "URL": "https://orthocal.info/readings/julian/2024/12/4/"
+                },
+                {
+                    "SUMMARY": "Apóstolos dos 70 Filemon, Arquipo, Apphia; São Miguel, Príncipe de Tver",
+                    "DTSTART;VALUE=DATE": "20241205",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-12-05.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Natividade – Vinho e Azeite são Permitidos\\n\\nApóstolos dos 70 Filemon, Arquipo, Apphia • São Miguel, Príncipe de Tver • Santos Mártires Cecília, Valeriano, Tibúrcio e Máximo, em Roma (séc. III) • Santo Príncipe e Portador da Paixão Pedro Yaropolk (1086)\\n\\n1 Tessalonicenses 5.1-8 (Epístola)\\nLucas 18.31-34 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/12/5/",
+                    "URL": "https://orthocal.info/readings/julian/2024/12/5/"
+                },
+                {
+                    "SUMMARY": "Rt. Blv. Grande Príncipe Alexandre Nevsky",
+                    "DTSTART;VALUE=DATE": "20241206",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-12-06.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Natividade\\n\\nRt. Blv. Grande Príncipe Alexandre Nevsky\\n\\nNosso Santo Pai Amfilóquio, Bispo de Iconium (395) • São Columbano, Abade de Luxeuil (615)\\n\\n1 Tessalonicenses 5.9-13, 24-28 (Epístola)\\nGálatas 5.22-6.2 (Epístola, São Alexandre)\\nLucas 19.12-28 (Evangelho)\\nMateus 11.27-30 (Evangelho, São Alexandre)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/12/6/",
+                    "URL": "https://orthocal.info/readings/julian/2024/12/6/"
+                },
+                {
+                    "SUMMARY": "Grande Mártir Catarina de Alexandria",
+                    "DTSTART;VALUE=DATE": "20241207",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-12-07.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Natividade – Peixe, Vinho e Azeite são Permitidos\\n\\nGrande Mártir Catarina de Alexandria • Santo Hieromártir Clemente, Bispo de Roma (c. 100) • Santo Hieromártir Pedro de Alexandria (312) • Santo Mártir Mercúrio de Smolensk (1238)\\n\\n2 Coríntios 11.1-6 (Epístola)\\nLucas 10.19-21 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/12/7/",
+                    "URL": "https://orthocal.info/readings/julian/2024/12/7/"
+                },
+                {
+                    "SUMMARY": "24º Domingo após Pentecostes",
+                    "DTSTART;VALUE=DATE": "20241208",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-12-08.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Natividade – Peixe, Vinho e Azeite são Permitidos\\n\\nDespedida da Entrada\\n\\nSanto Grande Mártir e Muito Sábia Catarina de Alexandria e aqueles com ela (305) • Grande Mártir Mercúrio (c. 259)\\n\\nMarcos 16.1-8 (2º Evangelho de Matinas)\\nEfésios 2.14-22 (Epístola)\\nHebreus 9.1-7 (Epístola, Mãe de Deus)\\nLucas 13.10-17 (Evangelho)\\nLucas 10.38-42, 11.27-28 (Evangelho, Mãe de Deus)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/12/8/",
+                    "URL": "https://orthocal.info/readings/julian/2024/12/8/"
+                },
+                {
+                    "SUMMARY": "Ven. Alípio, o Estilita",
+                    "DTSTART;VALUE=DATE": "20241209",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-12-09.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Natividade\\n\\nVen. Alípio, o Estilita • Nosso Santo Pai Inocente, Bispo de Irkutsk (1731) • São Nikon Metanoite (\"Arrepende-te!\") (c. 1000) • Santo Novo Mártir Jorge de Quio (1897)\\n\\n2 Tessalonicenses 1.1-10 (Epístola)\\nLucas 19.37-44 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/12/9/",
+                    "URL": "https://orthocal.info/readings/julian/2024/12/9/"
+                },
+                {
+                    "SUMMARY": "Grande Mártir Jacó da Pérsia",
+                    "DTSTART;VALUE=DATE": "20241210",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-12-10.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Natividade – Vinho e Azeite são Permitidos\\n\\nGrande Mártir Jacó da Pérsia • Requiem do Arquimandrita Lázaro (Moore) (1992) (14 de novembro no OC)\\n\\n2 Tessalonicenses 1.10-2.2 (Epístola)\\nLucas 19.45-48 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/12/10/",
+                    "URL": "https://orthocal.info/readings/julian/2024/12/10/"
+                },
+                {
+                    "SUMMARY": "Mártir Monge e Confessor Estêvão, o Novo",
+                    "DTSTART;VALUE=DATE": "20241211",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-12-11.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Natividade\\n\\nMártir Monge e Confessor Estêvão, o Novo\\n\\n2 Tessalonicenses 2.1-12 (Epístola)\\nLucas 20.1-8 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/12/11/",
+                    "URL": "https://orthocal.info/readings/julian/2024/12/11/"
+                },
+                {
+                    "SUMMARY": "Mártir Paramon e Companheiros",
+                    "DTSTART;VALUE=DATE": "20241212",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-12-12.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Natividade – Vinho e Azeite são Permitidos\\n\\nMártir Paramon e Companheiros • Nosso Santo Pai Pitirim do Egito (séc. IV)\\n\\n2 Tessalonicenses 2.13-3.5 (Epístola)\\nLucas 20.9-18 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/12/12/",
+                    "URL": "https://orthocal.info/readings/julian/2024/12/12/"
+                },
+                {
+                    "SUMMARY": "Santo Apóstolo André, o Primeiro Chamado",
+                    "DTSTART;VALUE=DATE": "20241213",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-12-13.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Natividade – Peixe, Vinho e Azeite são Permitidos\\n\\nSanto Apóstolo André, o Primeiro Chamado\\n\\nNosso Venerável Pai Frumêncio, primeiro Bispo da Etiópia (séc. IV)\\n\\n1 Pedro 1.1-2.6 (Vésperas)\\n1 Pedro 2.21-3.9 (Vésperas)\\n1 Pedro 4.1-11 (Vésperas)\\nMateus 4.18-23 (Evangelho de Matinas)\\n2 Tessalonicenses 3.6-18 (Epístola)\\n1 Coríntios 4.9-16 (Epístola, São André)\\nLucas 20.19-26 (Evangelho)\\nJoão 1.35-51 (Evangelho, São André)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/12/13/",
+                    "URL": "https://orthocal.info/readings/julian/2024/12/13/"
+                },
+                {
+                    "SUMMARY": "Profeta Naum",
+                    "DTSTART;VALUE=DATE": "20241214",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-12-14.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Natividade – Peixe, Vinho e Azeite são Permitidos\\n\\nProfeta Naum • Santo Filareto, o Misericordioso de Constantinopla (762) • Nosso Venerável Pai Elígio (Eloi), Bispo de Noyon (660)\\n\\nGálatas 1.3-10 (Epístola)\\nLucas 12.32-40 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/12/14/",
+                    "URL": "https://orthocal.info/readings/julian/2024/12/14/"
+                },
+                {
+                    "SUMMARY": "25ª Domingo após Pentecostes",
+                    "DTSTART;VALUE=DATE": "20241215",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-12-15.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Natividade – Peixe, Vinho e Azeite são Permitidos\\n\\nProfeta Habacuque • Santa Mártir Miropa (Miropéia) de Quio (251) • Nosso Santo Pai Atanásio \"o Ressuscitado,\" Recluso das Cavernas de Kiev (1176) • Santo (Estevão) Uroš, Rei da Sérvia (1367) • Santo Porfírio de Kavsokalyvia (1991) (19 de novembro no OC)\\n\\nMarcos 16.9-20 (3º Evangelho de Matinas)\\nEfésios 4.1-6 (Epístola)\\nLucas 18.18-27 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/12/15/",
+                    "URL": "https://orthocal.info/readings/julian/2024/12/15/"
+                },
+                {
+                    "SUMMARY": "Profeta Sofonias; Ven. Savva de Zvenigorod",
+                    "DTSTART;VALUE=DATE": "20241216",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-12-16.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Natividade\\n\\nProfeta Sofonias • Ven. Savva de Zvenigorod • Nosso Venerável Pai João, o Silencioso, Bispo de Colônia (558)\\n\\n1 Timóteo 1.1-7 (Epístola)\\nLucas 20.27-44 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/12/16/",
+                    "URL": "https://orthocal.info/readings/julian/2024/12/16/"
+                },
+                {
+                    "SUMMARY": "Hieromártir Alexandre Hotovitzky",
+                    "DTSTART;VALUE=DATE": "20241217",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-12-17.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Natividade – Vinho e Azeite são Permitidos\\n\\nHieromártir Alexandre Hotovitzky\\n\\nSanta Grande Mártir Bárbara (290) • Nosso Pai Justo João de Damasco (760) • Santo Gennádio, Arcebispo de Novgorod (1505)\\n\\n1 Timóteo 1.8-14 (Epístola)\\nHebreus 13.7-16 (Epístola, São Alexandre)\\nLucas 21.12-19 (Evangelho)\\nLucas 12.32-40 (Evangelho, São Alexandre)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/12/17/",
+                    "URL": "https://orthocal.info/readings/julian/2024/12/17/"
+                },
+                {
+                    "SUMMARY": "Ven. Sava o Santificado",
+                    "DTSTART;VALUE=DATE": "20241218",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-12-18.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Natividade\\n\\nVen. Sava o Santificado\\n\\nSão Cosmas, o Protos do Monte Athos e seus companheiros (ca. 1274)\\n\\nSabedoria de Salomão 3.1-9 (Vésperas)\\nSabedoria de Salomão 5.15-6.3 (Vésperas)\\nSabedoria de Salomão 4.7-15 (Vésperas)\\nLucas 6.17-23 (Evangelho de Matinas)\\n1 Timóteo 1.18-20, 2.8-15 (Epístola)\\nGálatas 5.22-6.2 (Epístola, São Sava)\\nLucas 21.5-7, 10-11, 20-24 (Evangelho)\\nMateus 11.27-30 (Evangelho, São Sava)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/12/18/",
+                    "URL": "https://orthocal.info/readings/julian/2024/12/18/"
+                },
+                {
+                    "SUMMARY": "São Nicolau, o Milagroso, Arcebispo de Mira na Lícia",
+                    "DTSTART;VALUE=DATE": "20241219",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-12-19.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Natividade – Peixe, Vinho e Azeite são Permitidos\\n\\nSão Nicolau, o Milagroso, Arcebispo de Mira na Lícia\\n\\nNovo Mártir Nicolau Karamos de Esmirna (1657) • São Máximo, Metropolita de Kiev e Vladimir (1305)\\n\\nComposto 2 - Provérbios 10, 3, 8 (Vésperas)\\nProvérbios 10.31-11.12 (Vésperas)\\nSabedoria de Salomão 4.7-15 (Vésperas)\\nJoão 10.9-16 (Evangelho de Matinas)\\n1 Timóteo 3.1-13 (Epístola)\\nHebreus 13.17-21 (Epístola, São Nicolau)\\nLucas 21.28-33 (Evangelho)\\nLucas 6.17-23 (Evangelho, São Nicolau)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/12/19/",
+                    "URL": "https://orthocal.info/readings/julian/2024/12/19/"
+                },
+                {
+                    "SUMMARY": "São Ambrósio, Bispo de Milão; Ven. Nilus de Stolobensk",
+                    "DTSTART;VALUE=DATE": "20241220",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-12-20.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Natividade\\n\\nSão Ambrósio, Bispo de Milão • Ven. Nilus de Stolobensk • Os Mártires da África, que sofreram durante a perseguição vândala (429 e seguintes) • Nosso Venerável Pai Antônio de Siya (1556)\\n\\n1 Timóteo 4.4-8, 16 (Epístola)\\nLucas 21.37-22.8 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/12/20/",
+                    "URL": "https://orthocal.info/readings/julian/2024/12/20/"
+                },
+                {
+                    "SUMMARY": "Ven. Patápios de Tebas",
+                    "DTSTART;VALUE=DATE": "20241221",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-12-21.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Natividade – Peixe, Vinho e Azeite são Permitidos\\n\\nVen. Patápios de Tebas • Santos Apóstolos Sostenes, Apolo, Tíquico e Epafrodito, Cefas e César\\n\\nGálatas 3.8-12 (Epístola)\\nLucas 13.18-29 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/12/21/",
+                    "URL": "https://orthocal.info/readings/julian/2024/12/21/"
+                },
+                {
+                    "SUMMARY": "26ª Domingo após Pentecostes",
+                    "DTSTART;VALUE=DATE": "20241222",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-12-22.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Natividade – Peixe, Vinho e Azeite são Permitidos\\n\\nConcepção pela Santa Anna da Theotokos\\n\\nSanta Ana, a Profetisa, mãe do Profeta Samuel (séc. 12 a.C.) • São Estêvão, a Nova Luz (Neolampes) de Constantinopla (912)\\n\\nLucas 24.1-12 (4º Evangelho de Matinas)\\nEfésios 5.8-19 (Epístola)\\nGálatas 4.22-31 (Epístola, Santa Anna)\\nLucas 17.12-19 (Evangelho)\\nLucas 8.16-21 (Evangelho, Santa Anna)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/12/22/",
+                    "URL": "https://orthocal.info/readings/julian/2024/12/22/"
+                },
+                {
+                    "SUMMARY": "Mártires Menas, Hermógenes, Eugráfio",
+                    "DTSTART;VALUE=DATE": "20241223",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-12-23.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Natividade\\n\\nMártires Menas, Hermógenes, Eugráfio\\n\\n1 Timóteo 5.1-10 (Epístola)\\nMarcos 8.11-21 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/12/23/",
+                    "URL": "https://orthocal.info/readings/julian/2024/12/23/"
+                },
+                {
+                    "SUMMARY": "Ven. Daniel, o Estilita",
+                    "DTSTART;VALUE=DATE": "20241224",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-12-24.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Natividade – Vinho e Azeite são Permitidos\\n\\nVen. Daniel, o Estilita • Santo Nikon, o Seco das Cavernas de Kiev (1101) • Nosso Venerável Pai Lucas, o Novo Estilita (979)\\n\\n1 Timóteo 5.11-21 (Epístola)\\nMarcos 8.22-26 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/12/24/",
+                    "URL": "https://orthocal.info/readings/julian/2024/12/24/"
+                },
+                {
+                    "SUMMARY": "São Espiridão, o Fazedor de Milagres",
+                    "DTSTART;VALUE=DATE": "20241225",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-12-25.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Natividade\\n\\nSão Espiridão, o Maravilhoso • São Hermano, o Maravilhoso do Alasca (1836) • Nosso Santo Pai, o portador de Deus Espiridão, o Maravilhoso (348) • São Finian de Clonard (549)\\n\\n1 Timóteo 5.22-6.11 (Epístola)\\nMarcos 8.30-34 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/12/25/",
+                    "URL": "https://orthocal.info/readings/julian/2024/12/25/"
+                },
+                {
+                    "SUMMARY": "Requiescência Ven. Hermano do Alasca, Maravilhoso de Toda a América",
+                    "DTSTART;VALUE=DATE": "20241226",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-12-26.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Natividade – Peixe, Vinho e Azeite são Permitidos\\n\\nRequiescência Ven. Hermano do Alasca, Maravilhoso de Toda a América\\n\\nMártires Eustrácio, Auxêncio, Eugênio, Mardário e Oréstes em Sebaste • Santa Virgem Mártir Lúcia de Siracusa (304)\\n\\nSabedoria de Salomão 3.1-9 (Vésperas)\\nSabedoria de Salomão 5.15-6.3 (Vésperas)\\nSabedoria de Salomão 4.7-15 (Vésperas)\\nMateus 11.27-30 (Evangelho de Matinas)\\n1 Timóteo 6.17-21 (Epístola)\\nGálatas 5.22-6.2 (Epístola, São Hermano)\\nMarcos 9.10-16 (Evangelho)\\nLucas 6.17-23 (Evangelho, São Hermano)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/12/26/",
+                    "URL": "https://orthocal.info/readings/julian/2024/12/26/"
+                },
+                {
+                    "SUMMARY": "Mártires Tirse, Leucis, Calínico",
+                    "DTSTART;VALUE=DATE": "20241227",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-12-27.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Natividade\\n\\nMártires Tirse, Leucis, Calínico • Santos Mártires Filemon, Apolônio, Ariano e os que estavam com eles (séc. 3)\\n\\n2 Timóteo 1.1-2, 8-18 (Epístola)\\nMarcos 9.33-41 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/12/27/",
+                    "URL": "https://orthocal.info/readings/julian/2024/12/27/"
+                },
+                {
+                    "SUMMARY": "Hieromártir Eleutério da Ilíria; São Estêvão de Surozh",
+                    "DTSTART;VALUE=DATE": "20241228",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-12-28.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Natividade – Peixe, Vinho e Azeite são Permitidos\\n\\nHieromártir Eleutério da Ilíria • São Estêvão de Surozh • Santo Mártir Eleutério, o Cubicularius (séc. 4) • Santo Mártir Baco, o Novo (787) • Nosso Venerável Pai Trifão de Kola, apóstolo da Lapônia (1583) e seu discípulo, o Santo Mártir Jonas (1590)\\n\\nGálatas 5.22-6.2 (Epístola)\\nLucas 14.1-11 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/12/28/",
+                    "URL": "https://orthocal.info/readings/julian/2024/12/28/"
+                },
+                {
+                    "SUMMARY": "27ª Domingo após Pentecostes",
+                    "DTSTART;VALUE=DATE": "20241229",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-12-29.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Natividade – Peixe, Vinho e Azeite são Permitidos\\n\\nDomingo dos Antepassados\\n\\nProfeta Ageu • Santa Imperatriz e Maravilhoso Teofano (893)\\n\\nLucas 24.12-35 (5º Evangelho de Matinas)\\nColossenses 3.4-11 (Epístola, Antepassados)\\nLucas 14.16-24 (Evangelho, Antepassados)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/12/29/",
+                    "URL": "https://orthocal.info/readings/julian/2024/12/29/"
+                },
+                {
+                    "SUMMARY": "Santo Profeta Daniel e Três Jovens Santos",
+                    "DTSTART;VALUE=DATE": "20241230",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-12-30.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Natividade\\n\\nSanto Profeta Daniel e Três Jovens Santos • Nosso Santo Pai Dionísio, o Novo de Zacinto (1624)\\n\\n2 Timóteo 2.20-26 (Epístola)\\nMarcos 9.42-10.1 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/12/30/",
+                    "URL": "https://orthocal.info/readings/julian/2024/12/30/"
+                },
+                {
+                    "SUMMARY": "Mártir Sebastião e Companheiros em Roma",
+                    "DTSTART;VALUE=DATE": "20241231",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2024-12-31.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Natividade – Vinho e Azeite são Permitidos\\n\\nMártir Sebastião e Companheiros em Roma • Santo Hieromártir Modesto I, Arcebispo de Jerusalém (634)\\n\\n2 Timóteo 3.16-4.4 (Epístola)\\nMarcos 10.2-12 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2024/12/31/",
+                    "URL": "https://orthocal.info/readings/julian/2024/12/31/"
+                },
+                {
+                    "SUMMARY": "Mártir Bonifácio e Justa Áglaida",
+                    "DTSTART;VALUE=DATE": "20250101",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-01-01.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Natividade\\n\\nMártir Bonifácio e Justa Áglaida\\n\\n2 Timóteo 4.9-22 (Epístola)\\nMarcos 10.11-16 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/1/1/",
+                    "URL": "https://orthocal.info/readings/julian/2025/1/1/"
+                },
+                {
+                    "SUMMARY": "Requiem de São João de Kronstadt",
+                    "DTSTART;VALUE=DATE": "20250102",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-01-02.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Natividade – Vinho e Azeite são Permitidos\\n\\nRequiem de São João de Kronstadt\\n\\nPré-festa da Natividade • Hieromártir Ignácio, o Portador de Deus • Requiem de Nosso Santo Pai João de Kronstadt (1908)\\n\\nTito 1.5-2.1 (Epístola)\\nMarcos 10.17-27 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/1/2/",
+                    "URL": "https://orthocal.info/readings/julian/2025/1/2/"
+                },
+                {
+                    "SUMMARY": "Mártir Virgem Juliana e Companheiros",
+                    "DTSTART;VALUE=DATE": "20250103",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-01-03.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Natividade\\n\\nMártir Virgem Juliana e Companheiros • Nosso Santo Pai Pedro, Metropolita de Moscovo (1326) • Santo Procópio de Viatka, Louco por Cristo (1627)\\n\\nTito 1.15-2.10 (Epístola)\\nMarcos 10.23-32 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/1/3/",
+                    "URL": "https://orthocal.info/readings/julian/2025/1/3/"
+                },
+                {
+                    "SUMMARY": "Sábado antes da Natividade",
+                    "DTSTART;VALUE=DATE": "20250104",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-01-04.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Natividade – Vinho e Azeite são Permitidos\\n\\nSábado antes da Natividade\\n\\nGrande Mártir Anastácia e Companheiros\\n\\nEfésios 1.16-23 (Epístola)\\nGálatas 3.8-12 (Epístola, Sábado antes da Natividade)\\nLucas 16.10-15 (Evangelho)\\nLucas 13.18-29 (Evangelho, Sábado antes da Natividade)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/1/4/",
+                    "URL": "https://orthocal.info/readings/julian/2025/1/4/"
+                },
+                {
+                    "SUMMARY": "28ª Domingo após Pentecostes",
+                    "DTSTART;VALUE=DATE": "20250105",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-01-05.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Natividade – Vinho e Azeite são Permitidos\\n\\nDomingo antes da Natividade\\n\\nSantos Dez Mártires de Creta • Nosso Venerável Pai Paulo, Arcebispo de Neocaesareia (séc. IV) • Nosso Santo Pai Naum de Ocrida, Maravilhoso e Iluminador dos Eslavos (c. 900)\\n\\nGênesis 14.14-20 (Vésperas)\\nDeuteronômio 1.8-11, 15-17 (Vésperas)\\nDeuteronômio 10.14-21 (Vésperas)\\nLucas 24.36-53 (6º Evangelho de Matinas)\\nHebreus 11.9-10, 17-23, 32-40 (Epístola, Domingo antes da Natividade)\\nMateus 1.1-25 (Evangelho, Domingo antes da Natividade)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/1/5/",
+                    "URL": "https://orthocal.info/readings/julian/2025/1/5/"
+                },
+                {
+                    "SUMMARY": "Véspera da Natividade",
+                    "DTSTART;VALUE=DATE": "20250106",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-01-06.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Natividade – Jejum Estrito\\n\\nVéspera da Natividade\\n\\nSanta Virgem e Mártir Eugênia e suas companheiras (c. 190)\\n\\nMiquéias 5.2-4 (1ª Hora, Profecia)\\nHebreus 1.1-12 (1ª Hora, Epístola)\\nMateus 1.18-25 (1ª Hora, Evangelho)\\nJeremias (Baruc 3.35-4.4) (3ª Hora, Profecia)\\nGálatas 3.23-29 (3ª Hora, Epístola)\\nLucas 2.1-20 (3ª Hora, Evangelho)\\nIsaías 7.10-16; 8.1-4, 9-10 (6ª Hora, Profecia)\\nHebreus 1.10-2.3 (6ª Hora, Epístola)\\nMateus 2.1-12 (6ª Hora, Evangelho)\\nIsaías 9.6-7 (9ª Hora, Profecia)\\nHebreus 2.11-18 (9ª Hora, Epístola)\\nMateus 2.13-23 (9ª Hora, Evangelho)\\nGênesis 1.1-13 (Vésperas)\\nNúmeros 24.2-3, 5-9, 17-18 (Vésperas)\\nMiquéias 4.6-7; 5.2-4 (Vésperas)\\nIsaías 11.1-10 (Vésperas)\\nJeremias (Baruc 3.35-4.4) (Vésperas)\\nDaniel 2.31-36, 44-45 (Vésperas)\\nIsaías 9.6-7 (Vésperas)\\nIsaías 7.10-16; 8.1-4, 9-10 (Vésperas)\\nHebreus 1.1-12 (Epístola, Véspera da Natividade)\\nLucas 2.1-20 (Evangelho, Véspera da Natividade)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/1/6/",
+                    "URL": "https://orthocal.info/readings/julian/2025/1/6/"
+                },
+                {
+                    "SUMMARY": "Natividade de Cristo",
+                    "DTSTART;VALUE=DATE": "20250107",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-01-07.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nNatividade de Cristo\\n\\nOs Pastores que viram o Senhor • A Veneração dos Magos\\n\\nMateus 1.18-25 (Evangelho de Matinas)\\nGálatas 4.4-7 (Epístola, Natividade)\\nMateus 2.1-12 (Evangelho, Natividade)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/1/7/",
+                    "URL": "https://orthocal.info/readings/julian/2025/1/7/"
+                },
+                {
+                    "SUMMARY": "Sinaxe da Mãe de Deus",
+                    "DTSTART;VALUE=DATE": "20250108",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-01-08.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nSinaxe da Mãe de Deus\\n\\nHieromártir Eutímio de Sardes • A Fuga para o Egito da Sagrada Família • Nosso Santo Pai Constantino de Synnada (séc. VII)\\n\\nHebreus 2.11-18 (Epístola, Theotokos)\\nMateus 2.13-23 (Evangelho, Theotokos)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/1/8/",
+                    "URL": "https://orthocal.info/readings/julian/2025/1/8/"
+                },
+                {
+                    "SUMMARY": "Protomártir Estêvão",
+                    "DTSTART;VALUE=DATE": "20250109",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-01-09.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nProtomártir Estêvão\\n\\nNosso Pai Justo Teodoro, o Marcado, irmão de São Teófanes o Hino-Escritor\\n\\nHebreus 7.1-6 (Epístola)\\nAtos 6.8-7.5, 47-60 (Epístola, São Estêvão)\\nMarcos 11.27-33 (Evangelho)\\nMateus 21.33-42 (Evangelho, São Estêvão)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/1/9/",
+                    "URL": "https://orthocal.info/readings/julian/2025/1/9/"
+                },
+                {
+                    "SUMMARY": "20.000 Mártires de Nicomédia",
+                    "DTSTART;VALUE=DATE": "20250110",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-01-10.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\n20.000 Mártires de Nicomédia • Os Vinte Mil Mártires queimados até a morte em sua igreja em Nicomédia (c. 304). • Nosso Santo Pai Simão, o Derramador de Mirra, Fundador do Monastério de Simonopetra, Monte Athos (1287)\\n\\nHebreus 7.18-25 (Epístola)\\nMarcos 12.1-12 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/1/10/",
+                    "URL": "https://orthocal.info/readings/julian/2025/1/10/"
+                },
+                {
+                    "SUMMARY": "Sábado após a Natividade",
+                    "DTSTART;VALUE=DATE": "20250111",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-01-11.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nSábado após a Natividade\\n\\nSantos Inocentes Assassinados por Herodes • Nosso Venerável Pai Marcelino, Abade do Monastério dos Vigilantes (485)\\n\\n1 Timóteo 6.11-16 (Epístola, Sábado após a Natividade)\\nEfésios 2.11-13 (Epístola)\\nMateus 12.15-21 (Evangelho, Sábado após a Natividade)\\nLucas 17.3-10 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/1/11/",
+                    "URL": "https://orthocal.info/readings/julian/2025/1/11/"
+                },
+                {
+                    "SUMMARY": "29ª Domingo após o Pentecostes",
+                    "DTSTART;VALUE=DATE": "20250112",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-01-12.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nDomingo após a Natividade\\n\\nVirgem Mártir Anísia em Tessalônica • Nosso Santo Pai Macário, Metropolita de Moscovo e Toda a Rússia (1563)\\n\\nJoão 20.1-10 (7º Evangelho de Matinas)\\nGálatas 1.11-19 (Epístola, Domingo após a Natividade)\\nMateus 2.13-23 (Evangelho, Domingo após a Natividade e Theotokos)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/1/12/",
+                    "URL": "https://orthocal.info/readings/julian/2025/1/12/"
+                },
+                {
+                    "SUMMARY": "Ven. Melânia, a Jovem de Roma",
+                    "DTSTART;VALUE=DATE": "20250113",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-01-13.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nVen. Melânia, a Jovem de Roma • Nossa Santa Mãe Melânia, a Jovem de Roma (439) • Santo Zótico, Amparo dos Pobres e Servo dos Lepra (séc. IV) • São Teofilacto, Arcebispo de Ocrida (c. 1126)\\n\\nHebreus 8.7-13 (Epístola)\\nMarcos 12.13-17 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/1/13/",
+                    "URL": "https://orthocal.info/readings/julian/2025/1/13/"
+                },
+                {
+                    "SUMMARY": "Circuncisão de Nosso Senhor; São Basílio, o Grande",
+                    "DTSTART;VALUE=DATE": "20250114",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-01-14.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nCircuncisão de Nosso Senhor; São Basílio, o Grande\\n\\nO Domingo antes da Teofania é lido neste dia • São Gregório, Bispo de Nazianzus (374), pai de São Gregório, o Teólogo • Santa Emília (375), mãe dos Santos Macrina, Basílio, o Grande e Gregório de Nissa, Pedro de Sebaste e Teosevia\\n\\nComposto 1 - Gênesis 17.1-2, 4, 5-7, 8, 9-10, 11-12, 14 (Vésperas)\\nProvérbios 8.22-30 (Vésperas)\\nProvérbios 10.31-11.12 (Vésperas)\\nJoão 10.9-16 (Evangelho de Matinas)\\n2 Timóteo 4.5-8 (Epístola, Domingo antes da Teofania)\\nColossenses 2.8-12 (Epístola, Circuncisão)\\nHebreus 7.26-8.2 (Epístola, São Basílio)\\nMarcos 1.1-8 (Evangelho, Domingo antes da Teofania)\\nLucas 2.20-21, 40-52 (Evangelho, Circuncisão)\\nLucas 6.17-23 (Evangelho, São Basílio)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/1/14/",
+                    "URL": "https://orthocal.info/readings/julian/2025/1/14/"
+                },
+                {
+                    "SUMMARY": "Pré-festa da Teofania",
+                    "DTSTART;VALUE=DATE": "20250115",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-01-15.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nPré-festa da Teofania\\n\\nRepose de São Serafim de Sarov • São Silvestre, Papa de Roma (335) • Venerável Juliana de Lazarevskoye (1604) • Santo Novo Mártir Jorge, o Georgiano (1770)\\n\\nSabedoria de Salomão 3.1-9 (Vésperas)\\nSabedoria de Salomão 5.15-6.3 (Vésperas)\\nSabedoria de Salomão 4.7-15 (Vésperas)\\nMateus 11.27-30 (Evangelho de Matinas)\\nHebreus 10.1-18 (Epístola)\\nGálatas 5.22-6.2 (Epístola, São Serafim)\\nMarcos 12.28-37 (Evangelho)\\nLucas 6.17-23 (Evangelho, São Serafim)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/1/15/",
+                    "URL": "https://orthocal.info/readings/julian/2025/1/15/"
+                },
+                {
+                    "SUMMARY": "Pré-festa da Teofania",
+                    "DTSTART;VALUE=DATE": "20250116",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-01-16.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nPré-festa da Teofania\\n\\nProfeta Malaquias • Santo Mártir Gordius de Cesareia (séc. IV) • Nossa Santa Mãe Genoveva de Paris (c. 502)\\n\\nHebreus 10.35-11.7 (Epístola)\\nMarcos 12.38-44 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/1/16/",
+                    "URL": "https://orthocal.info/readings/julian/2025/1/16/"
+                },
+                {
+                    "SUMMARY": "Horas Reais da Teofania; Pré-festa da Teofania",
+                    "DTSTART;VALUE=DATE": "20250117",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-01-17.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nHoras Reais da Teofania • Pré-festa da Teofania\\n\\nSinaxe dos Setenta Apóstolos • O Eunuco Etíope da Rainha Candace • Venerável Apolinária (séc. V)\\n\\nIsaías 35.1-10 (1ª Hora, Profecia)\\nAtos 13.25-33 (1ª Hora, Epístola)\\nMateus 3.1-11 (1ª Hora, Evangelho)\\nIsaías 1.16-20 (3ª Hora, Profecia)\\nAtos 19.1-8 (3ª Hora, Epístola)\\nMarcos 1.1-8 (3ª Hora, Evangelho)\\nIsaías 12.3-6 (6ª Hora, Profecia)\\nRomanos 6.3-11 (6ª Hora, Epístola)\\nMarcos 1.9-11 (6ª Hora, Evangelho)\\nIsaías 49.8-15 (9ª Hora, Profecia)\\nTito 2.11-14, 3.4-7 (9ª Hora, Epístola)\\nMateus 3.13-17 (9ª Hora, Evangelho)\\nHebreus 11.8, 11-16 (Epístola)\\nMarcos 13.1-8 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/1/17/",
+                    "URL": "https://orthocal.info/readings/julian/2025/1/17/"
+                },
+                {
+                    "SUMMARY": "Sábado antes da Teofania – Véspera da Teofania",
+                    "DTSTART;VALUE=DATE": "20250118",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-01-18.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum – Vinho e Azeite são Permitidos\\n\\nSábado antes da Teofania – Véspera da Teofania\\n\\nSantos Mártires Teopempto e Teonas (c. 290) • Nossa Venerável Mãe Sinclética (séc. IV)\\n\\n1 Timóteo 3.14-4.5 (Epístola, Sábado antes da Teofania)\\nMateus 3.1-11 (Evangelho, Sábado antes da Teofania)\\nGênesis 1.1-13 (Vésperas)\\nÊxodo 14.15-18, 21-23, 27-29 (Vésperas)\\nÊxodo 15.22-16.1 (Vésperas)\\nJosué 3.7-8, 15-17 (Vésperas)\\n4[2] Reis 2.6-14 (Vésperas)\\n4[2] Reis 5.9-14 (Vésperas)\\nIsaías 1.16-20 (Vésperas)\\nGênesis 32.1-10 (Vésperas)\\nÊxodo 2.5-10 (Vésperas)\\nJuízes 6.36-40 (Vésperas)\\n3[1] Reis 18.30-39 (Vésperas)\\n4[2] Reis 2.19-22 (Vésperas)\\nIsaías 49.8-15 (Vésperas)\\n1 Coríntios 9.19-27 (Epístola, nas Vésperas)\\nLucas 3.1-18 (Evangelho, nas Vésperas)\\nIsaías 35.1-10 (Grande Bênção das Águas)\\nIsaías 55.1-13 (Grande Bênção das Águas)\\nIsaías 12.3-6 (Grande Bênção das Águas)\\n1 Coríntios 10.1-4 (Grande Bênção das Águas, Epístola)\\nMarcos 1.9-11 (Grande Bênção das Águas, Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/1/18/",
+                    "URL": "https://orthocal.info/readings/julian/2025/1/18/"
+                },
+                {
+                    "SUMMARY": "30ª Domingo após Pentecostes",
+                    "DTSTART;VALUE=DATE": "20250119",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-01-19.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nTeofania de Nosso Senhor e Salvador Jesus Cristo\\n\\nMarcos 1.9-11 (Evangelho de Matinas)\\nTito 2.11-14, 3.4-7 (Epístola, Teofania)\\nMateus 3.13-17 (Evangelho, Teofania)\\nIsaías 35.1-10 (Grande Bênção das Águas)\\nIsaías 55.1-13 (Grande Bênção das Águas)\\nIsaías 12.3-6 (Grande Bênção das Águas)\\n1 Coríntios 10.1-4 (Grande Bênção das Águas, Epístola)\\nMarcos 1.9-11 (Grande Bênção das Águas, Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/1/19/",
+                    "URL": "https://orthocal.info/readings/julian/2025/1/19/"
+                },
+                {
+                    "SUMMARY": "Sinaxe de São João Batista",
+                    "DTSTART;VALUE=DATE": "20250120",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-01-20.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nSinaxe de São João Batista\\n\\nNovo Mártir Atanásio de Atália (1700) • Nosso Venerável Pai Cedd, Bispo de Essex e Abade de Lastingham (664)\\n\\nAtos 19.1-8 (Epístola, Precursor)\\nHebreus 11.17-23, 27-31 (Epístola)\\nJoão 1.29-34 (Evangelho, Precursor)\\nMarcos 9.42-10.1 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/1/20/",
+                    "URL": "https://orthocal.info/readings/julian/2025/1/20/"
+                },
+                {
+                    "SUMMARY": "Santo George, o Chozevite",
+                    "DTSTART;VALUE=DATE": "20250121",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-01-21.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nSanto George, o Chozevite • Nossa Venerável Mãe Domnica (Domnina) (c. 474) • São Ático, Patriarca de Constantinopla (425) • São Severino (482)\\n\\nHebreus 12.25-26, 13.22-25 (Epístola)\\nMarcos 10.2-12 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/1/21/",
+                    "URL": "https://orthocal.info/readings/julian/2025/1/21/"
+                },
+                {
+                    "SUMMARY": "Mártir Polieucto de Melitene na Armênia; Hieromártir Filipe, Metropolita de Moscovo",
+                    "DTSTART;VALUE=DATE": "20250122",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-01-22.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum\\n\\nMártir Polieucto de Melitene na Armênia • Hieromártir Filipe, Metropolita de Moscovo • São Pedro II, Bispo de Sebaste (séc. IV) • Venerável Eustrácio, o Milagreiro (séc. IX) • São Filipe, Metropolita de Moscovo (1569)\\n\\nTiago 1.1-18 (Epístola)\\nMarcos 10.11-16 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/1/22/",
+                    "URL": "https://orthocal.info/readings/julian/2025/1/22/"
+                },
+                {
+                    "SUMMARY": "São Gregório de Nyssa; São Teófanes, o Recluso",
+                    "DTSTART;VALUE=DATE": "20250123",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-01-23.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nSão Gregório de Nyssa • São Teófanes, o Recluso • Nosso Santo Pai Teófanes, o Recluso (1894)\\n\\nTiago 1.19-27 (Epístola)\\nMarcos 10.17-27 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/1/23/",
+                    "URL": "https://orthocal.info/readings/julian/2025/1/23/"
+                },
+                {
+                    "SUMMARY": "Venerável Teodósio, o Grande",
+                    "DTSTART;VALUE=DATE": "20250124",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-01-24.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum\\n\\nVenerável Teodósio, o Grande\\n\\nO Venerável Vitalis (séc. V) • Venerável Miguel de Klops, Louco por Cristo (1456)\\n\\nSabedoria de Salomão 3.1-9 (Vésperas)\\nSabedoria de Salomão 5.15-6.3 (Vésperas)\\nSabedoria de Salomão 4.7-15 (Vésperas)\\nLucas 6.17-23 (Evangelho de Matinas)\\nTiago 2.1-13 (Epístola)\\n2 Coríntios 4.6-15 (Epístola, São Teodósio)\\nMarcos 10.23-32 (Evangelho)\\nMateus 11.27-30 (Evangelho, São Teodósio)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/1/24/",
+                    "URL": "https://orthocal.info/readings/julian/2025/1/24/"
+                },
+                {
+                    "SUMMARY": "Sábado após a Teofania",
+                    "DTSTART;VALUE=DATE": "20250125",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-01-25.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nSábado após a Teofania\\n\\nSão Sava, Arcebispo da Sérvia • Santa Mártir Tatiana (c. 230) • Venerável Bento Biscop, Abade de Wearmouth (689-690)\\n\\nEfésios 6.10-17 (Epístola, Sábado após a Teofania)\\nColossenses 1.3-6 (Epístola)\\nMateus 4.1-11 (Evangelho, Sábado após a Teofania)\\nLucas 16.10-15 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/1/25/",
+                    "URL": "https://orthocal.info/readings/julian/2025/1/25/"
+                },
+                {
+                    "SUMMARY": "31ª Domingo após Pentecostes",
+                    "DTSTART;VALUE=DATE": "20250126",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-01-26.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nDomingo após a Teofania\\n\\nMártires Hermilo e Estratônico • Nosso Santo Pai Máximos Kavsokalybites (o Queimador de Cabana) (1365) • Nosso Santo Pai Hilário, Bispo de Poitiers (369)\\n\\nJoão 20.19-31 (9º Evangelho de Matinas)\\nEfésios 4.7-13 (Epístola, Domingo após a Teofania)\\nMateus 4.12-17 (Evangelho, Domingo após a Teofania)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/1/26/",
+                    "URL": "https://orthocal.info/readings/julian/2025/1/26/"
+                },
+                {
+                    "SUMMARY": "Despedida da Teofania",
+                    "DTSTART;VALUE=DATE": "20250127",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-01-27.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nDespedida da Teofania\\n\\nSão Nino da Geórgia • Nosso Santo Pai Sava (Sábato), Iluminador e primeiro Arcebispo da Sérvia (1236) • Os Santos Pais mortos em Sinai e Raithu (séc. IV – V)\\n\\nTiago 2.14-26 (Epístola)\\nMarcos 10.46-52 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/1/27/",
+                    "URL": "https://orthocal.info/readings/julian/2025/1/27/"
+                },
+                {
+                    "SUMMARY": "Venerável Paulo de Tebas e João Calabytes",
+                    "DTSTART;VALUE=DATE": "20250128",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-01-28.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nVenerável Paulo de Tebas e João Calabytes • Santa Ita de Kileedy, Irlanda (570)\\n\\nTiago 3.1-10 (Epístola)\\nMarcos 11.11-23 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/1/28/",
+                    "URL": "https://orthocal.info/readings/julian/2025/1/28/"
+                },
+                {
+                    "SUMMARY": "Veneração das Correntes do Apóstolo Pedro",
+                    "DTSTART;VALUE=DATE": "20250129",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-01-29.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum\\n\\nVeneração das Correntes do Apóstolo Pedro\\n\\nTiago 3.11-4.6 (Epístola)\\nMarcos 11.22-26 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/1/29/",
+                    "URL": "https://orthocal.info/readings/julian/2025/1/29/"
+                },
+                {
+                    "SUMMARY": "Venerável Antão, o Grande",
+                    "DTSTART;VALUE=DATE": "20250130",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-01-30.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nVenerável Antão, o Grande\\n\\nPio Imperador Teodósio, o Grande (395) • Nosso Santo Pai Macário (Calogeras) de Patmos (1737)\\n\\nSabedoria de Salomão 5.15-6.3 (Vésperas)\\nSabedoria de Salomão 3.1-9 (Vésperas)\\nSabedoria de Salomão 4.7-15 (Vésperas)\\nMateus 11.27-30 (Evangelho de Matinas)\\nTiago 4.7-5.9 (Epístola)\\nHebreus 13.17-21 (Epístola, São Antão)\\nMarcos 11.27-33 (Evangelho)\\nLucas 6.17-23 (Evangelho, São Antão)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/1/30/",
+                    "URL": "https://orthocal.info/readings/julian/2025/1/30/"
+                },
+                {
+                    "SUMMARY": "Santos Atanásio, o Grande e Cirilo de Alexandria",
+                    "DTSTART;VALUE=DATE": "20250131",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-01-31.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum\\n\\nSantos Atanásio, o Grande e Cirilo de Alexandria\\n\\n1 Pedro 1.1-2, 10-12, 2.6-10 (Epístola)\\nMarcos 12.1-12 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/1/31/",
+                    "URL": "https://orthocal.info/readings/julian/2025/1/31/"
+                },
+                {
+                    "SUMMARY": "Venerável Macário, o Grande",
+                    "DTSTART;VALUE=DATE": "20250201",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-02-01.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nVenerável Macário, o Grande • Nosso Santo Pai Marcos Eugenikos, Metropolita de Éfeso e Confessor da Fé Ortodoxa (1443)\\n\\n1 Tessalonicenses 5.14-23 (Epístola)\\nLucas 17.3-10 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/2/1/",
+                    "URL": "https://orthocal.info/readings/julian/2025/2/1/"
+                },
+                {
+                    "SUMMARY": "Domingo de Zaqueu",
+                    "DTSTART;VALUE=DATE": "20250202",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-02-02.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nVenerável Eutímio, o Grande\\n\\nSantos Mártires Inna, Pinna e Rimma (Nirra) (séc. I – II) • Santo Pedro, o Coletor de Impostos (séc. VI)\\n\\nSabedoria de Salomão 5.15-6.3 (Vésperas)\\nSabedoria de Salomão 3.1-9 (Vésperas)\\nSabedoria de Salomão 4.7-15 (Vésperas)\\nJoão 21.1-14 (10º Evangelho de Matinas)\\n1 Timóteo 4.9-15 (Epístola)\\nHebreus 13.17-21 (Epístola, São Eutímio)\\nLucas 19.1-10 (Evangelho)\\nLucas 6.17-23 (Evangelho, São Eutímio)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/2/2/",
+                    "URL": "https://orthocal.info/readings/julian/2025/2/2/"
+                },
+                {
+                    "SUMMARY": "Venerável Máximo, o Confessor",
+                    "DTSTART;VALUE=DATE": "20250203",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-02-03.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nVenerável Máximo, o Confessor • Santa Mártir Agnes de Roma (c. 304) • Nosso Santo Pai Máximo, o Grego (1556)\\n\\n1 Pedro 2.21-3.9 (Epístola)\\nMarcos 12.13-17 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/2/3/",
+                    "URL": "https://orthocal.info/readings/julian/2025/2/3/"
+                },
+                {
+                    "SUMMARY": "Apóstolo Timóteo dos Setenta",
+                    "DTSTART;VALUE=DATE": "20250204",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-02-04.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nApóstolo Timóteo dos Setenta • Santo Mártir Anastácio da Pérsia (628)\\n\\n1 Pedro 3.10-22 (Epístola)\\nMarcos 12.18-27 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/2/4/",
+                    "URL": "https://orthocal.info/readings/julian/2025/2/4/"
+                },
+                {
+                    "SUMMARY": "Hieromártir Clemente e Mártir Agatângelo",
+                    "DTSTART;VALUE=DATE": "20250205",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-02-05.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum\\n\\nHieromártir Clemente e Mártir Agatângelo\\n\\n1 Pedro 4.1-11 (Epístola)\\nMarcos 12.28-37 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/2/5/",
+                    "URL": "https://orthocal.info/readings/julian/2025/2/5/"
+                },
+                {
+                    "SUMMARY": "Venerável Xênia de Roma; Beata Xênia de São Petersburgo",
+                    "DTSTART;VALUE=DATE": "20250206",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-02-06.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nVenerável Xênia de Roma • Beata Xênia de São Petersburgo • Nossa Santa Mãe Xênia de Petersburgo, louca por Cristo (c. 1800) • Nosso Santo Pai Macedo (c. 430)\\n\\n1 Pedro 4.12-5.5 (Epístola)\\nMarcos 12.38-44 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/2/6/",
+                    "URL": "https://orthocal.info/readings/julian/2025/2/6/"
+                },
+                {
+                    "SUMMARY": "São Gregório, o Teólogo",
+                    "DTSTART;VALUE=DATE": "20250207",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-02-07.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum\\n\\nSão Gregório, o Teólogo\\n\\nComposto 2 - Provérbios 10, 3, 8 (Vésperas)\\nComposto 4 - Provérbios 10; Sabedoria de Salomão 6, 7, 8, 9 (Vésperas)\\nSabedoria de Salomão 4.7-15 (Vésperas)\\nJoão 10.1-9 (Evangelho de Matinas)\\n2 Pedro 1.1-10 (Epístola)\\n1 Coríntios 12.7-11 (Epístola, São Gregório)\\nMarcos 13.1-8 (Evangelho)\\nJoão 10.9-16 (Evangelho, São Gregório)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/2/7/",
+                    "URL": "https://orthocal.info/readings/julian/2025/2/7/"
+                },
+                {
+                    "SUMMARY": "Venerável Xenofonte e Maria",
+                    "DTSTART;VALUE=DATE": "20250208",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-02-08.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nVenerável Xenofonte e Maria • São Amão do Egito, discípulo de São Antônio, o Grande (350) • Nossa Santa Mãe Paula de Roma (404)\\n\\n2 Timóteo 2.11-19 (Epístola)\\nLucas 18.2-8 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/2/8/",
+                    "URL": "https://orthocal.info/readings/julian/2025/2/8/"
+                },
+                {
+                    "SUMMARY": "Domingo do Publicano e do Fariseu",
+                    "DTSTART;VALUE=DATE": "20250209",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-02-09.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nInício do Triodion da Quaresma • Tradução das Relíquias de São João Crisóstomo\\n\\nComposto 2 - Provérbios 10, 3, 8 (Vésperas)\\nComposto 4 - Provérbios 10; Sabedoria de Salomão 6, 7, 8, 9 (Vésperas)\\nComposto 5 - Sabedoria de Salomão 4, 6, 7, 2 (Vésperas)\\nJoão 21.15-25 (11º Evangelho de Matinas)\\n2 Timóteo 3.10-15 (Epístola)\\nHebreus 7.26-8.2 (Epístola, São João)\\nLucas 18.10-14 (Evangelho)\\nJoão 10.9-16 (Evangelho, São João)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/2/9/",
+                    "URL": "https://orthocal.info/readings/julian/2025/2/9/"
+                },
+                {
+                    "SUMMARY": "Venerável Efrém, o Sírio",
+                    "DTSTART;VALUE=DATE": "20250210",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-02-10.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nVenerável Efrém, o Sírio • Nosso Santo Pai Isaac, o Sírio, bispo de Nínive (séc. 7)\\n\\n2 Pedro 1.20-2.9 (Epístola)\\nMarcos 13.9-13 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/2/10/",
+                    "URL": "https://orthocal.info/readings/julian/2025/2/10/"
+                },
+                {
+                    "SUMMARY": "Trans. Rel. Inácio, o Portador de Deus",
+                    "DTSTART;VALUE=DATE": "20250211",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-02-11.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nTrans. Rel. Inácio, o Portador de Deus • São Andrei Rublev, iconógrafo (1430) • Nosso Santo Pai Afráhato, o Persa (séc. 4) • Repose do Bem-Aventurado Pai Dimitrios Gagastathis (1975)\\n\\n2 Pedro 2.9-22 (Epístola)\\nMarcos 13.14-23 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/2/11/",
+                    "URL": "https://orthocal.info/readings/julian/2025/2/11/"
+                },
+                {
+                    "SUMMARY": "Sinaxe dos 3 Hierarcas: Basílio, o Grande; Gregório, o Teólogo; João Crisóstomo",
+                    "DTSTART;VALUE=DATE": "20250212",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-02-12.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nSinaxe dos 3 Hierarcas: Basílio, o Grande; Gregório, o Teólogo; João Crisóstomo\\n\\nSão Pedro, Rei da Bulgária (970)\\n\\nDeuteronômio 1.8-11, 15-17 (Vésperas)\\nDeuteronômio 10.14-21 (Vésperas)\\nSabedoria de Salomão 3.1-9 (Vésperas)\\nJoão 10.9-16 (Evangelho de Matinas)\\n2 Pedro 3.1-18 (Epístola)\\nHebreus 13.7-16 (Epístola, Hierarcas)\\nMarcos 13.24-31 (Evangelho)\\nMateus 5.14-19 (Evangelho, Hierarcas)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/2/12/",
+                    "URL": "https://orthocal.info/readings/julian/2025/2/12/"
+                },
+                {
+                    "SUMMARY": "Incorruptíveis Ciro e João",
+                    "DTSTART;VALUE=DATE": "20250213",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-02-13.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nIncorruptíveis Ciro e João • Venerável Nicetas, eremita das Cavernas de Kiev e Bispo de Novgorod (1108) • Marcela de Roma (410)\\n\\n1 João 1.8-2.6 (Epístola)\\nMarcos 13.31-14.2 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/2/13/",
+                    "URL": "https://orthocal.info/readings/julian/2025/2/13/"
+                },
+                {
+                    "SUMMARY": "Mártir Trifão",
+                    "DTSTART;VALUE=DATE": "20250214",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-02-14.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nMártir Trifão • Santos Mártires Perpétua e Felicidade, e aqueles com eles em Cartago (203) • Nossa Santa Mãe Brígida de Kildare (524)\\n\\n1 João 2.7-17 (Epístola)\\nMarcos 14.3-9 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/2/14/",
+                    "URL": "https://orthocal.info/readings/julian/2025/2/14/"
+                },
+                {
+                    "SUMMARY": "Encontro de Cristo no Templo",
+                    "DTSTART;VALUE=DATE": "20250215",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-02-15.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nEncontro de Cristo no Templo\\n\\nComposto 6 - Êxodo 12, 13; Números 8; Levítico 12 (Vésperas)\\nIsaías 6.1-12 (Vésperas)\\nComposto 7 - Isaías 19.1, 3, 4-5, 12, 16, 19-21 (Vésperas)\\nLucas 2.25-32 (Evangelho de Matinas)\\nHebreus 7.7-17 (Epístola, Encontro)\\n2 Timóteo 3.1-9 (Epístola)\\nLucas 2.22-40 (Evangelho, Encontro)\\nLucas 20.46-21.4 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/2/15/",
+                    "URL": "https://orthocal.info/readings/julian/2025/2/15/"
+                },
+                {
+                    "SUMMARY": "Domingo do Filho Pródigo",
+                    "DTSTART;VALUE=DATE": "20250216",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-02-16.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nSanto Simeão, o Portador de Deus, e Ana, a Profetisa • Nosso Pai entre os Santos, Nicolau (São Nicolau), Arcebispo e Iluminador do Japão (1912)\\n\\nMateus 28.16-20 (1º Evangelho de Matinas)\\n1 Coríntios 6.12-20 (Epístola)\\nLucas 15.11-32 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/2/16/",
+                    "URL": "https://orthocal.info/readings/julian/2025/2/16/"
+                },
+                {
+                    "SUMMARY": "Ven. Isidoro de Pelusium",
+                    "DTSTART;VALUE=DATE": "20250217",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-02-17.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nVen. Isidoro de Pelusium • Venerável Cirilo do Novo Lago (Novoezezrsk) (1532)\\n\\n1 João 2.18-3.10 (Epístola)\\nMarcos 11.1-11 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/2/17/",
+                    "URL": "https://orthocal.info/readings/julian/2025/2/17/"
+                },
+                {
+                    "SUMMARY": "Repose de São Teodosio de Chernigov",
+                    "DTSTART;VALUE=DATE": "20250218",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-02-18.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nRepose de São Teodosio de Chernigov\\n\\nSanta Mártir Ágata de Palermo na Sicília (251) • Nosso Santo Pai Polieuto, Patriarca de Constantinopla (970) • Santo Novo Mártir Antônio de Atenas (1774)\\n\\nComposto 2 - Provérbios 10, 3, 8 (Vésperas)\\nComposto 4 - Provérbios 10; Sabedoria de Salomão 6, 7, 8, 9 (Vésperas)\\nSabedoria de Salomão 4.7-15 (Vésperas)\\nJoão 10.9-16 (Evangelho de Matinas)\\n1 João 3.10-20 (Epístola)\\nHebreus 13.17-21 (Epístola, São Teodosio)\\nMarcos 14.10-42 (Evangelho)\\nLucas 6.17-23 (Evangelho, São Teodosio)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/2/18/",
+                    "URL": "https://orthocal.info/readings/julian/2025/2/18/"
+                },
+                {
+                    "SUMMARY": "São Bucolo, Bispo de Esmirna",
+                    "DTSTART;VALUE=DATE": "20250219",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-02-19.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum\\n\\nSão Bucolo, Bispo de Esmirna • São Fotio, patriarca de Constantinopla (891) • Santos Barsanúfio e João, o Profeta, monges da Palestina (século VI)\\n\\n1 João 3.21-4.6 (Epístola)\\nMarcos 14.43-15.1 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/2/19/",
+                    "URL": "https://orthocal.info/readings/julian/2025/2/19/"
+                },
+                {
+                    "SUMMARY": "São Partênio, Bispo de Lampsaco",
+                    "DTSTART;VALUE=DATE": "20250220",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-02-20.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nSão Partênio, Bispo de Lampsaco • Nosso Venerável Pai Lucas, o Novo do Monte Stirion (c. 950)\\n\\n1 João 4.20-5.21 (Epístola)\\nMarcos 15.1-15 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/2/20/",
+                    "URL": "https://orthocal.info/readings/julian/2025/2/20/"
+                },
+                {
+                    "SUMMARY": "Grandemártir Teodoro Estratelates",
+                    "DTSTART;VALUE=DATE": "20250221",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-02-21.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum\\n\\nGrandemártir Teodoro Estratelates • Santo Profeta Zacarias (século VI a.C.) • São Sabas II, Arcebispo da Sérvia (1271)\\n\\n2 João 1.1-13 (Epístola)\\nMarcos 15.22, 25, 33-41 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/2/21/",
+                    "URL": "https://orthocal.info/readings/julian/2025/2/21/"
+                },
+                {
+                    "SUMMARY": "Sábado Memorial; Despedida do Encontro",
+                    "DTSTART;VALUE=DATE": "20250222",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-02-22.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nSábado Memorial • Despedida do Encontro\\n\\nMártir Niceforo de Antioquia • Relíquias de São Inocêncio de Irkutsk • Hieromártir Pedro de Damasco, bispo de Damasco (c. 776) • Pedro de Damasco, Hesicasta (século XII)\\n\\n1 Coríntios 10.23-28 (Epístola)\\n1 Tessalonicenses 4.13-17 (Epístola, Defuntos)\\nHebreus 7.7-17 (Epístola, Encontro)\\nLucas 21.8-9, 25-27, 33-36 (Evangelho)\\nJoão 5.24-30 (Evangelho, Defuntos)\\nLucas 2.22-40 (Evangelho, Encontro)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/2/22/",
+                    "URL": "https://orthocal.info/readings/julian/2025/2/22/"
+                },
+                {
+                    "SUMMARY": "Domingo da Carne",
+                    "DTSTART;VALUE=DATE": "20250223",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-02-23.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nDomingo do Último Julgamento\\n\\nHieromártir Haralambos • Hieromártir Haralambos (Charalampus), bispo de Magnesia (202) • Santa Escolástica da Itália, irmã de São Bento (543) • Nosso Venerável Pai Procorus das Cavernas de Kiev (1107)\\n\\nMarcos 16.1-8 (2º Evangelho da Manhã)\\n1 Coríntios 8.8-9.2 (Epístola)\\nMateus 25.31-46 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/2/23/",
+                    "URL": "https://orthocal.info/readings/julian/2025/2/23/"
+                },
+                {
+                    "SUMMARY": "Hieromártir Blaise de Sebaste; Ven. Dimitry de Priluk",
+                    "DTSTART;VALUE=DATE": "20250224",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-02-24.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum – Jejum de Carne\\n\\nHieromártir Blaise de Sebaste • Ven. Dimitry de Priluk • Hieromártir Blaise, bispo de Sebaste (316) • Santa Teodora, a Imperatriz (867)\\n\\n3 João 1.1-14 (Epístola)\\nLucas 19.29-40, 22.7-39 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/2/24/",
+                    "URL": "https://orthocal.info/readings/julian/2025/2/24/"
+                },
+                {
+                    "SUMMARY": "São Meletius, Arcebispo de Antioquia; São Aleixo, Metropolita de Toda a Rússia",
+                    "DTSTART;VALUE=DATE": "20250225",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-02-25.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum – Jejum de Carne\\n\\nSão Meletius, Arcebispo de Antioquia • São Aleixo, Metropolita de Toda a Rússia • São Meletios, arcebispo de Antioquia (381)\\n\\nJudas 1-10 (Epístola)\\nLucas 22.39-42, 45-23.1 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/2/25/",
+                    "URL": "https://orthocal.info/readings/julian/2025/2/25/"
+                },
+                {
+                    "SUMMARY": "Ven. Martiniano de Cesareia",
+                    "DTSTART;VALUE=DATE": "20250226",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-02-26.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum – Jejum de Carne\\n\\nVen. Martiniano de Cesareia • Santos Apóstolos e Mártires Priscila e Áquila • São Simeão, o Meuromântico, fundador do Mosteiro de Chilandar (1200)\\n\\nJoel 2.12-26 (Sexta Hora)\\nJoel 3.12-21 (Vésperas)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/2/26/",
+                    "URL": "https://orthocal.info/readings/julian/2025/2/26/"
+                },
+                {
+                    "SUMMARY": "São Cirilo, Mestre dos Eslavos",
+                    "DTSTART;VALUE=DATE": "20250227",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-02-27.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum – Jejum de Carne\\n\\nSão Cirilo, Mestre dos Eslavos • Nosso Santo Pai Auxêncio (470) • O que Aconteceu com o Dia de São Valentim? • Venerável Maron, o Eremita da Síria (c. 423)\\n\\nJudas 11-25 (Epístola)\\nLucas 23.2-34, 44-56 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/2/27/",
+                    "URL": "https://orthocal.info/readings/julian/2025/2/27/"
+                },
+                {
+                    "SUMMARY": "Apóstolo Onésimo dos Setenta",
+                    "DTSTART;VALUE=DATE": "20250228",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-02-28.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum – Jejum de Carne\\n\\nApóstolo Onésimo dos Setenta • Nosso Venerável Pai Dalmácio da Sibéria (1697) • Nosso Venerável Pai Antimo de Quios (1960)\\n\\nZacarias 8.7-17 (Sexta Hora)\\nZacarias 8.19-23 (Vésperas)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/2/28/",
+                    "URL": "https://orthocal.info/readings/julian/2025/2/28/"
+                },
+                {
+                    "SUMMARY": "Comemoração dos Monásticos Justos Departados",
+                    "DTSTART;VALUE=DATE": "20250301",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-03-01.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum – Jejum de Carne\\n\\nComemoração dos Monásticos Justos Departados\\n\\nMártir Pânfilo e Seus Companheiros\\n\\nRomanos 14.19-23, 16.25-27 (Epístola)\\nGálatas 5.22-6.2 (Epístola, Departados)\\nMateus 6.1-13 (Evangelho)\\nMateus 11.27-30 (Evangelho, Departados)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/3/1/",
+                    "URL": "https://orthocal.info/readings/julian/2025/3/1/"
+                },
+                {
+                    "SUMMARY": "Domingo do Queijo: Expulsão de Adão do Paraíso",
+                    "DTSTART;VALUE=DATE": "20250302",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-03-02.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum – Jejum de Carne\\n\\nDomingo do Perdão\\n\\nGrande Mártir Teodoro Tiro • Hieromártir Germógenes, Patriarca de Moscou\\n\\nMarcos 16.9-20 (3º Evangelho da Manhã)\\nRomanos 13.11-14.4 (Epístola)\\nMateus 6.14-21 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/3/2/",
+                    "URL": "https://orthocal.info/readings/julian/2025/3/2/"
+                },
+                {
+                    "SUMMARY": "Início da Grande Quaresma",
+                    "DTSTART;VALUE=DATE": "20250303",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-03-03.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma – Sem exceções\\n\\nInício da Grande Quaresma\\n\\nSão Leão Magno, Papa de Roma\\n\\nIsaías 1.1-20 (Sexta Hora)\\nGênesis 1.1-13 (Vésperas)\\nProvérbios 1.1-20 (Vésperas)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/3/3/",
+                    "URL": "https://orthocal.info/readings/julian/2025/3/3/"
+                },
+                {
+                    "SUMMARY": "Apóstolos dos Setenta Arquíppio e Filemom",
+                    "DTSTART;VALUE=DATE": "20250304",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-03-04.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma – Sem exceções\\n\\nApóstolos dos Setenta Arquíppio e Filemom • Nossa Venerável Mãe Filoteia de Atenas (1589)\\n\\nIsaías 1.19-2.3 (Sexta Hora)\\nGênesis 1.14-23 (Vésperas)\\nProvérbios 1.20-33 (Vésperas)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/3/4/",
+                    "URL": "https://orthocal.info/readings/julian/2025/3/4/"
+                },
+                {
+                    "SUMMARY": "São Leão, Bispo de Catânia",
+                    "DTSTART;VALUE=DATE": "20250305",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-03-05.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma – Sem exceções\\n\\nSão Leão, Bispo de Catânia • São Bessarion, o Grande, taumaturgo do Egito (466) • Trinta e quatro Santos Mártires do Mosteiro de Valaam (1578)\\n\\nIsaías 2.3-11 (Sexta Hora)\\nGênesis 1.24-2.3 (Vésperas)\\nProvérbios 2.1-22 (Vésperas)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/3/5/",
+                    "URL": "https://orthocal.info/readings/julian/2025/3/5/"
+                },
+                {
+                    "SUMMARY": "Venerável Timóteo de Símvola",
+                    "DTSTART;VALUE=DATE": "20250306",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-03-06.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma – Sem exceções\\n\\nVenerável Timóteo de Símvola • São Eustáquio, arcebispo de Antioquia (337) • São João, o Escolástico, patriarca de Constantinopla (577) • Santo Zacarias, Patriarca de Jerusalém (632)\\n\\nIsaías 2.11-21 (Sexta Hora)\\nGênesis 2.4-19 (Vésperas)\\nProvérbios 3.1-18 (Vésperas)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/3/6/",
+                    "URL": "https://orthocal.info/readings/julian/2025/3/6/"
+                },
+                {
+                    "SUMMARY": "Mártires Santos na Porta de Eugênio",
+                    "DTSTART;VALUE=DATE": "20250307",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-03-07.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma – Sem exceções\\n\\nMártires Santos na Porta de Eugênio\\n\\nIsaías 3.1-14 (Sexta Hora)\\nGênesis 2.20-3.20 (Vésperas)\\nProvérbios 3.19-34 (Vésperas)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/3/7/",
+                    "URL": "https://orthocal.info/readings/julian/2025/3/7/"
+                },
+                {
+                    "SUMMARY": "São Teodoro Tyro (o Recruta)",
+                    "DTSTART;VALUE=DATE": "20250308",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-03-08.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma – Vinho e Óleo são Permitidos\\n\\nSão Teodoro Tyro (o Recruta)\\n\\nHieromártir Policarpo, Bispo de Esmirna • Santa Gorgônia (372) • Nosso Venerável Pai Alexandre, o Insondável (430)\\n\\nHebreus 1.1-12 (Epístola)\\n2 Timóteo 2.1-10 (Epístola, São Teodoro)\\nMarcos 2.23-3.5 (Evangelho)\\nJoão 15.17-16.2 (Evangelho, São Teodoro)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/3/8/",
+                    "URL": "https://orthocal.info/readings/julian/2025/3/8/"
+                },
+                {
+                    "SUMMARY": "Primeiro Domingo da Quaresma",
+                    "DTSTART;VALUE=DATE": "20250309",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-03-09.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma – Vinho e Óleo são Permitidos\\n\\nDomingo da Ortodoxia • 1ª e 2ª Descobertas da Honrosa Cabeça de São João Batista\\n\\nSão Etelberto, primeiro Rei Cristão de Kent (616)\\n\\nComposto 8 - Isaías 40, 41, 45, 48, 54 (Vésperas, Precursor)\\nComposto 9 - Malaquias 3, 4 (Vésperas, Precursor)\\nComposto 3 - Sabedoria de Salomão 4, 5 (Vésperas, Precursor)\\nLucas 24.1-12 (4º Evangelho das Matinas)\\nHebreus 11.24-26, 32-12.2 (Epístola)\\n2 Coríntios 4.6-15 (Epístola, Precursor)\\nJoão 1.43-51 (Evangelho)\\nMateus 11.2-15 (Evangelho, Precursor)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/3/9/",
+                    "URL": "https://orthocal.info/readings/julian/2025/3/9/"
+                },
+                {
+                    "SUMMARY": "São Tarásio, Arcebispo de Constantinopla",
+                    "DTSTART;VALUE=DATE": "20250310",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-03-10.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma\\n\\nSão Tarásio, Arcebispo de Constantinopla\\n\\nIsaías 4.2-5.7 (Sexta Hora)\\nGênesis 3.21-4.7 (Vésperas)\\nProvérbios 3.34-4.22 (Vésperas)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/3/10/",
+                    "URL": "https://orthocal.info/readings/julian/2025/3/10/"
+                },
+                {
+                    "SUMMARY": "São Porfírio, Bispo de Gaza",
+                    "DTSTART;VALUE=DATE": "20250311",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-03-11.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma\\n\\nSão Porfírio, Bispo de Gaza • Santa Fotini, a Mulher Samaritana, e os que estavam com ela (66)\\n\\nIsaías 5.7-16 (Sexta Hora)\\nGênesis 4.8-15 (Vésperas)\\nProvérbios 5.1-15 (Vésperas)\\nComposto 2 - Provérbios 10, 3, 8 (Vésperas, São Rafael)\\nProvérbios 10.31-11.12 (Vésperas, São Rafael)\\nSabedoria de Salomão 4.7-15 (Vésperas, São Rafael)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/3/11/",
+                    "URL": "https://orthocal.info/readings/julian/2025/3/11/"
+                },
+                {
+                    "SUMMARY": "São Rafael, Bispo de Brooklyn",
+                    "DTSTART;VALUE=DATE": "20250312",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-03-12.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma – Vinho e Óleo são Permitidos\\n\\nSão Rafael, Bispo de Brooklyn\\n\\nNosso Santo Pai Procópio de Decápolis (séc. IX) • Nosso Venerável Pai Tito da Lavra das Grutas de Kiev (1190) • Nosso Santo Pai Leandro, Bispo de Sevilha e Apóstolo da Espanha (600)\\n\\nJoão 10.1-9 (Evangelho das Matinas, São Rafael)\\nIsaías 5.16-25 (Sexta Hora)\\nGênesis 4.16-26 (Vésperas)\\nProvérbios 5.15-6.3 (Vésperas)\\nHebreus 13.17-21 (Epístola, São Rafael)\\nJoão 10.9-16 (Evangelho, São Rafael)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/3/12/",
+                    "URL": "https://orthocal.info/readings/julian/2025/3/12/"
+                },
+                {
+                    "SUMMARY": "Venerável Basílio, o Confessor",
+                    "DTSTART;VALUE=DATE": "20250313",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-03-13.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma\\n\\nVenerável Basílio, o Confessor • Beato Nicolau de Pskov, louco por Cristo (1576)\\n\\nIsaías 6.1-12 (Sexta Hora)\\nGênesis 5.1-24 (Vésperas)\\nProvérbios 6.3-20 (Vésperas)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/3/13/",
+                    "URL": "https://orthocal.info/readings/julian/2025/3/13/"
+                },
+                {
+                    "SUMMARY": "Mártir Eudóxia de Heliópolis",
+                    "DTSTART;VALUE=DATE": "20250314",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-03-14.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma\\n\\nMártir Eudóxia de Heliópolis\\n\\nIsaías 7.1-14 (Sexta Hora)\\nGênesis 5.32-6.8 (Vésperas)\\nProvérbios 6.20-7.1 (Vésperas)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/3/14/",
+                    "URL": "https://orthocal.info/readings/julian/2025/3/14/"
+                },
+                {
+                    "SUMMARY": "Sábado Memorial",
+                    "DTSTART;VALUE=DATE": "20250315",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-03-15.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma – Vinho e Óleo são Permitidos\\n\\nSábado Memorial\\n\\nHieromártir Teódoto, Bispo de Cirene • São Arseny, Bispo de Tver • Os Quatrocentos e Quarenta Mártires da Lombardia (579) • Santa Mártir Eutália (257)\\n\\nHebreus 3.12-16 (Epístola)\\n1 Tessalonicenses 4.13-17 (Epístola, Departados)\\nMarcos 1.35-44 (Evangelho)\\nJoão 5.24-30 (Evangelho, Departados)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/3/15/",
+                    "URL": "https://orthocal.info/readings/julian/2025/3/15/"
+                },
+                {
+                    "SUMMARY": "Segundo Domingo da Quaresma",
+                    "DTSTART;VALUE=DATE": "20250316",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-03-16.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma – Vinho e Óleo são Permitidos\\n\\nSão Gregório Palamas\\n\\nMártires Eutrópio, Cleônico e Basilisco • Uma Menina Desconhecida em Alexandria (?)\\n\\nLucas 24.12-35 (5º Evangelho das Matinas)\\nHebreus 1.10-2.3 (Epístola)\\nHebreus 7.26-8.2 (Epístola, São Gregório)\\nMarcos 2.1-12 (Evangelho)\\nJoão 10.9-16 (Evangelho, São Gregório)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/3/16/",
+                    "URL": "https://orthocal.info/readings/julian/2025/3/16/"
+                },
+                {
+                    "SUMMARY": "Venerável Gerasimo do Jordão; Príncipe Daniel de Moscovo, Bem-aventurado",
+                    "DTSTART;VALUE=DATE": "20250317",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-03-17.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma\\n\\nVenerável Gerasimo do Jordão • Príncipe Daniel de Moscovo, Bem-aventurado • São Tiago, o Rápido da Fenícia (séc. VI)\\n\\nIsaías 8.13-9.7 (Sexta Hora)\\nGênesis 6.9-22 (Vésperas)\\nProvérbios 8.1-21 (Vésperas)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/3/17/",
+                    "URL": "https://orthocal.info/readings/julian/2025/3/17/"
+                },
+                {
+                    "SUMMARY": "Mártir Conon de Isauria",
+                    "DTSTART;VALUE=DATE": "20250318",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-03-18.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma\\n\\nMártir Conon de Isauria • São Marcos de Atenas (séc. IV) • São Marcos, o Asceta (séc. V)\\n\\nIsaías 9.9-10.4 (Sexta Hora)\\nGênesis 7.1-5 (Vésperas)\\nProvérbios 8.32-9.11 (Vésperas)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/3/18/",
+                    "URL": "https://orthocal.info/readings/julian/2025/3/18/"
+                },
+                {
+                    "SUMMARY": "Quarenta e Dois Mártires de Ammoria",
+                    "DTSTART;VALUE=DATE": "20250319",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-03-19.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma\\n\\nQuarenta e Dois Mártires de Ammoria\\n\\nIsaías 10.12-20 (Sexta Hora)\\nGênesis 7.6-9 (Vésperas)\\nProvérbios 9.12-18 (LXX) (Vésperas)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/3/19/",
+                    "URL": "https://orthocal.info/readings/julian/2025/3/19/"
+                },
+                {
+                    "SUMMARY": "Sete Hieromártires de Cherson",
+                    "DTSTART;VALUE=DATE": "20250320",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-03-20.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma\\n\\nSete Hieromártires de Cherson\\n\\nIsaías 11.10-12.2 (Sexta Hora)\\nGênesis 7.11-8.3 (Vésperas)\\nProvérbios 10.1-22 (Vésperas)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/3/20/",
+                    "URL": "https://orthocal.info/readings/julian/2025/3/20/"
+                },
+                {
+                    "SUMMARY": "São Teófilo, Bispo de Nicomédia",
+                    "DTSTART;VALUE=DATE": "20250321",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-03-21.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma\\n\\nSão Teófilo, Bispo de Nicomédia • Hieromártir Teodórito (362)\\n\\nIsaías 13.2-13 (Sexta Hora)\\nGênesis 8.4-21 (Vésperas)\\nProvérbios 10.31-11.12 (Vésperas)\\nIsaías 43.9-14 (Vésperas, Mártires)\\nSabedoria de Salomão 3.1-9 (Vésperas, Mártires)\\nSabedoria de Salomão 5.15-6.3 (Vésperas, Mártires)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/3/21/",
+                    "URL": "https://orthocal.info/readings/julian/2025/3/21/"
+                },
+                {
+                    "SUMMARY": "Sábado Memorial; Santos Quarenta Mártires de Sebaste",
+                    "DTSTART;VALUE=DATE": "20250322",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-03-22.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma – Vinho e Óleo são Permitidos\\n\\nSábado Memorial • Santos Quarenta Mártires de Sebaste\\n\\nSão Cesário (369)\\n\\nLucas 21.12-19 (Evangelho das Matinas, Mártires)\\nHebreus 10.32-38 (Epístola)\\nHebreus 12.1-10 (Epístola, Mártires)\\nMarcos 2.14-17 (Evangelho)\\nMateus 20.1-16 (Evangelho, Mártires)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/3/22/",
+                    "URL": "https://orthocal.info/readings/julian/2025/3/22/"
+                },
+                {
+                    "SUMMARY": "Terceiro Domingo da Quaresma",
+                    "DTSTART;VALUE=DATE": "20250323",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-03-23.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma – Vinho e Óleo são Permitidos\\n\\nVeneração da Preciosa Cruz\\n\\nMártir Quadrato e Companheiros • Nossa Santa Mãe Anastásia (563)\\n\\nLucas 24.36-53 (5º Evangelho das Matinas)\\nHebreus 4.14-5.6 (Epístola)\\nMarcos 8.34-9.1 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/3/23/",
+                    "URL": "https://orthocal.info/readings/julian/2025/3/23/"
+                },
+                {
+                    "SUMMARY": "São Sofrônio, Patriarca de Jerusalém; São Eutímio, Bispo de Novgorod",
+                    "DTSTART;VALUE=DATE": "20250324",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-03-24.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma\\n\\nSão Sofrônio, Patriarca de Jerusalém • São Eutímio, Bispo de Novgorod • São Sofrônio, Patriarca de Jerusalém (638) • São João Mosco, autor do Prado Espiritual (622) • Santo Mártir Pônio (250)\\n\\nIsaías 14.24-32 (Sexta Hora)\\nGênesis 8.21-9.7 (Vésperas)\\nProvérbios 11.19-12.6 (Vésperas)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/3/24/",
+                    "URL": "https://orthocal.info/readings/julian/2025/3/24/"
+                },
+                {
+                    "SUMMARY": "Santo Teófanes, o Confessor",
+                    "DTSTART;VALUE=DATE": "20250325",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-03-25.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma\\n\\nSanto Teófanes, o Confessor • São Gregório Magno (o Diálogo), Papa de Roma (604) • Descanso de São Simeão, o Novo Teólogo (1021)\\n\\nIsaías 25.1-9 (Sexta Hora)\\nGênesis 9.8-17 (Vésperas)\\nProvérbios 12.8-22 (Vésperas)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/3/25/",
+                    "URL": "https://orthocal.info/readings/julian/2025/3/25/"
+                },
+                {
+                    "SUMMARY": "Trans. Rel. Nicefórus, Patriarca de Constantinopla",
+                    "DTSTART;VALUE=DATE": "20250326",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-03-26.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma\\n\\nTrans. Rel. Nicefórus, Patriarca de Constantinopla\\n\\nIsaías 26.21-27.9 (Sexta Hora)\\nGênesis 9.18-10.1 (Vésperas)\\nProvérbios 12.23-13.9 (LXX) (Vésperas)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/3/26/",
+                    "URL": "https://orthocal.info/readings/julian/2025/3/26/"
+                },
+                {
+                    "SUMMARY": "Santo Bento de Núrsia",
+                    "DTSTART;VALUE=DATE": "20250327",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-03-27.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma\\n\\nSanto Bento de Núrsia • São Teognosto, Metropolita de Kiev (1353)\\n\\nIsaías 28.14-22 (Sexta Hora)\\nGênesis 10.32-11.9 (Vésperas)\\nProvérbios 13.19-14.6 (Vésperas)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/3/27/",
+                    "URL": "https://orthocal.info/readings/julian/2025/3/27/"
+                },
+                {
+                    "SUMMARY": "Mártir Agápio e Sete com Ele",
+                    "DTSTART;VALUE=DATE": "20250328",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-03-28.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma\\n\\nMártir Agápio e Sete com Ele • Santo Mártir Alexandre (270-275)\\n\\nIsaías 29.13-23 (Sexta Hora)\\nGênesis 12.1-7 (Vésperas)\\nProvérbios 14.15-26 (Vésperas)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/3/28/",
+                    "URL": "https://orthocal.info/readings/julian/2025/3/28/"
+                },
+                {
+                    "SUMMARY": "Sábado Memorial",
+                    "DTSTART;VALUE=DATE": "20250329",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-03-29.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma – Vinho e Óleo são Permitidos\\n\\nSábado Memorial\\n\\nMártir Sabinas do Egito • Nosso Santo Pai Cristódulo, o Fazedor de Milagres de Patmos (1111) • Santo Apóstolo Aristóbulo dos Setenta, primeiro Bispo da Grã-Bretanha (séc. I)\\n\\nHebreus 6.9-12 (Epístola)\\n1 Coríntios 15.47-57 (Epístola, Defuntos)\\nMarcos 7.31-37 (Evangelho)\\nJoão 5.24-30 (Evangelho, Defuntos)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/3/29/",
+                    "URL": "https://orthocal.info/readings/julian/2025/3/29/"
+                },
+                {
+                    "SUMMARY": "Quarto Domingo da Quaresma",
+                    "DTSTART;VALUE=DATE": "20250330",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-03-30.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma – Vinho e Óleo são Permitidos\\n\\nSão João Clímaco\\n\\nVen. Alexius, o Homem de Deus • Ven. Macário de Kalyazinsk • São Alexis, o Homem de Deus (411) • São Patrício, Iluminador da Irlanda (c. 461)\\n\\nJoão 20.1-10 (7º Evangelho das Matinas)\\nHebreus 6.13-20 (Epístola)\\nEfésios 5.8-19 (Epístola, São João)\\nMarcos 9.17-31 (Evangelho)\\nMateus 4.25-5.12 (Evangelho, São João)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/3/30/",
+                    "URL": "https://orthocal.info/readings/julian/2025/3/30/"
+                },
+                {
+                    "SUMMARY": "São Cirilo, Arcebispo de Jerusalém; Rep. São Nikolaj de Zhicha",
+                    "DTSTART;VALUE=DATE": "20250331",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-03-31.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma\\n\\nSão Cirilo, Arcebispo de Jerusalém • Rep. São Nikolaj de Zhicha • São Ananias (Aninus), o Fazedor de Milagres (?) • São Nikolai (Velimirovic), Bispo de Ocrida e Zica, Sérvia (1956) (5 de março OC)\\n\\nIsaías 37.33-38.6 (Sexta Hora)\\nGênesis 13.12-18 (Vésperas)\\nProvérbios 14.27-15.4 (Vésperas)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/3/31/",
+                    "URL": "https://orthocal.info/readings/julian/2025/3/31/"
+                },
+                {
+                    "SUMMARY": "Mártires Crisântio e Daria",
+                    "DTSTART;VALUE=DATE": "20250401",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-04-01.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma\\n\\nMártires Crisântio e Daria\\n\\nIsaías 40.18-31 (Sexta Hora)\\nGênesis 15.1-15 (Vésperas)\\nProvérbios 15.7-19 (Vésperas)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/4/1/",
+                    "URL": "https://orthocal.info/readings/julian/2025/4/1/"
+                },
+                {
+                    "SUMMARY": "Santos Pais Assassinados no Mosteiro de São Sabas",
+                    "DTSTART;VALUE=DATE": "20250402",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-04-02.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma – Vinho e Óleo são Permitidos\\n\\nSantos Pais Assassinados no Mosteiro de São Sabas • Santa Fotina, a Mulher Samaritana (66) • São Cuthbert, o Fazedor de Milagres, Bispo de Lindisfarne (687)\\n\\nIsaías 41.4-14 (Sexta Hora)\\nGênesis 17.1-9 (Vésperas)\\nProvérbios 15.20-16.9 (LXX) (Vésperas)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/4/2/",
+                    "URL": "https://orthocal.info/readings/julian/2025/4/2/"
+                },
+                {
+                    "SUMMARY": "Grande Cânon de São André da Crète",
+                    "DTSTART;VALUE=DATE": "20250403",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-04-03.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma – Vinho e Óleo são Permitidos\\n\\nGrande Cânon de São André da Crète\\n\\nLiturgia Presanctificada • São Tiago, o Confessor de Catânia • Nosso Santo Pai Serapion (366)\\n\\nIsaías 42.5-16 (Sexta Hora)\\nGênesis 18.20-33 (Vésperas)\\nProvérbios 16.17-17.17 (Vésperas)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/4/3/",
+                    "URL": "https://orthocal.info/readings/julian/2025/4/3/"
+                },
+                {
+                    "SUMMARY": "Hieromártir Basílio de Ancyra",
+                    "DTSTART;VALUE=DATE": "20250404",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-04-04.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma – Vinho e Óleo são Permitidos\\n\\nHieromártir Basílio de Ancyra • Mártir Drosida de Antioquia, e cinco freiras (104)\\n\\nIsaías 45.11-17 (Sexta Hora)\\nGênesis 22.1-18 (Vésperas)\\nProvérbios 17.17-18.5 (Vésperas)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/4/4/",
+                    "URL": "https://orthocal.info/readings/julian/2025/4/4/"
+                },
+                {
+                    "SUMMARY": "Sábado do Akathist à Mãe de Deus",
+                    "DTSTART;VALUE=DATE": "20250405",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-04-05.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma – Vinho e Óleo são Permitidos\\n\\nSábado do Akathist à Mãe de Deus\\n\\nMártir Nikon e 199 Discípulos\\n\\nHebreus 9.24-28 (Epístola)\\nHebreus 9.1-7 (Epístola, Mãe de Deus)\\nMarcos 8.27-31 (Evangelho)\\nLucas 10.38-42, 11.27-28 (Evangelho, Mãe de Deus)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/4/5/",
+                    "URL": "https://orthocal.info/readings/julian/2025/4/5/"
+                },
+                {
+                    "SUMMARY": "Quinta Domingo da Quaresma",
+                    "DTSTART;VALUE=DATE": "20250406",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-04-06.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma – Vinho e Óleo são Permitidos\\n\\nSanta Maria do Egito • Pré-festa da Anunciação\\n\\nVen. Zacarias, o Recluso • Santo Zacarias, o Recluso do Egito (séc. IV) • Comemoração do Milagre no Mosteiro das Cavernas em Kiev (?)\\n\\nJoão 20.11-18 (8º Evangelho de Matinas)\\nHebreus 9.11-14 (Epístola)\\nGálatas 3.23-29 (Epístola, Santa Maria)\\nMarcos 10.32-45 (Evangelho)\\nLucas 7.36-50 (Evangelho, Santa Maria)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/4/6/",
+                    "URL": "https://orthocal.info/readings/julian/2025/4/6/"
+                },
+                {
+                    "SUMMARY": "Anunciação da Mãe de Deus",
+                    "DTSTART;VALUE=DATE": "20250407",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-04-07.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma – Peixe, Vinho e Óleo são Permitidos\\n\\nAnunciação da Mãe de Deus\\n\\nNovo Confessor/Hieromártir Tikhon, Patriarca de Moscovo (1925)\\n\\nGênesis 28.10-17 (Vésperas, Anunciação)\\nEzequiel 43.27-44.4 (Vésperas, Anunciação)\\nProvérbios 9.1-11 (Vésperas, Anunciação)\\nLucas 1.39-49, 56 (Evangelho de Matinas, Anunciação)\\nIsaías 48.17-49.4 (Sexta Hora)\\nGênesis 27.1-41 (Vésperas)\\nProvérbios 19.16-25 (Vésperas)\\nÊxodo 3.1-8 (Vésperas, Anunciação)\\nProvérbios 8.22-30 (Vésperas, Anunciação)\\nHebreus 2.11-18 (Epístola, Anunciação)\\nLucas 1.24-38 (Evangelho, Anunciação)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/4/7/",
+                    "URL": "https://orthocal.info/readings/julian/2025/4/7/"
+                },
+                {
+                    "SUMMARY": "Despedida da Anunciação; Sinaxe do Arcanjo Gabriel",
+                    "DTSTART;VALUE=DATE": "20250408",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-04-08.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma – Vinho e Óleo são Permitidos\\n\\nDespedida da Anunciação • Sinaxe do Arcanjo Gabriel • Sinaxe do Arcanjo Gabriel\\n\\nIsaías 49.6-10 (Sexta Hora)\\nGênesis 31.3-16 (Vésperas)\\nProvérbios 21.3-21 (Vésperas)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/4/8/",
+                    "URL": "https://orthocal.info/readings/julian/2025/4/8/"
+                },
+                {
+                    "SUMMARY": "Mártir Matrona de Tessalônica",
+                    "DTSTART;VALUE=DATE": "20250409",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-04-09.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma\\n\\nMártir Matrona de Tessalônica\\n\\nIsaías 58.1-11 (Sexta Hora)\\nGênesis 43.26-31, 45.1-16 (Vésperas)\\nProvérbios 21.23-22.4 (Vésperas)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/4/9/",
+                    "URL": "https://orthocal.info/readings/julian/2025/4/9/"
+                },
+                {
+                    "SUMMARY": "Ven. Hilarion o Novo",
+                    "DTSTART;VALUE=DATE": "20250410",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-04-10.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma\\n\\nVen. Hilarion o Novo • Requiem da Gerontissa Gavrilia (1992) (15 de março OC)\\n\\nIsaías 65.8-16 (Sexta Hora)\\nGênesis 46.1-7 (Vésperas)\\nProvérbios 23.15-24.5 (Vésperas)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/4/10/",
+                    "URL": "https://orthocal.info/readings/julian/2025/4/10/"
+                },
+                {
+                    "SUMMARY": "Hieromártir Marcos, Bispo de Antusa",
+                    "DTSTART;VALUE=DATE": "20250411",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-04-11.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma\\n\\nHieromártir Marcos, Bispo de Antusa • Nosso Santo Pai João o Eremita (séc. IV)\\n\\nIsaías 66.10-24 (Sexta Hora)\\nGênesis 49.33-50.26 (Vésperas)\\nProvérbios 31.8-31 (Vésperas)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/4/11/",
+                    "URL": "https://orthocal.info/readings/julian/2025/4/11/"
+                },
+                {
+                    "SUMMARY": "Sábado de Lázaro",
+                    "DTSTART;VALUE=DATE": "20250412",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-04-12.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma – Vinho, Óleo e Caviar são Permitidos\\n\\nVen. João Clímaco • Comemoração de um Monge que Não Condena\\n\\nHebreus 12.28-13.8 (Epístola)\\nJoão 11.1-45 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/4/12/",
+                    "URL": "https://orthocal.info/readings/julian/2025/4/12/"
+                },
+                {
+                    "SUMMARY": "Domingo de Ramos: Entrada de Nosso Senhor em Jerusalém",
+                    "DTSTART;VALUE=DATE": "20250413",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-04-13.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma – Peixe, Vinho e Óleo são Permitidos\\n\\nRequiem de Santo Inácio, Metropolita de Moscou e Apóstolo das Américas\\n\\nHieromártir Hipácio, Bispo de Gangra (326) • Santo Jonas, Metropolita de Moscou (1461)\\n\\nGênesis 49.1-2, 8-12 (Vésperas)\\nSofonias 3.14-19 (Vésperas)\\nZacarias 9.9-15 (Vésperas)\\nComposto 2 - Provérbios 10, 3, 8 (Vésperas, Santo Inácio)\\nComposto 3 - Sabedoria de Salomão 4, 5 (Vésperas, Santo Inácio)\\nComposto 4 - Provérbios 10; Sabedoria de Salomão 6, 7, 8, 9 (Vésperas, Santo Inácio)\\nMateus 21.1-11, 15-17 (Evangelho das Matinas)\\nFilipenses 4.4-9 (Epístola)\\nHebreus 7.26-8.2 (Epístola, Santo Inácio)\\nJoão 12.1-18 (Evangelho)\\nJoão 10.9-16 (Evangelho, Santo Inácio)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/4/13/",
+                    "URL": "https://orthocal.info/readings/julian/2025/4/13/"
+                },
+                {
+                    "SUMMARY": "Grande e Santo Segunda-feira",
+                    "DTSTART;VALUE=DATE": "20250414",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-04-14.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma – Sem substituições\\n\\nVen. Eutímio de Suzdal • Nossa Santa Mãe Maria do Egito (séc. IV-VI)\\n\\nMateus 21.18-43 (Evangelho, Noivo)\\nEzequiel 1.1-20 (Sexta Hora)\\nÊxodo 1.1-20 (Vésperas)\\nJó 1.1-12 (Vésperas)\\nMateus 24.3-35 (Evangelho, Pré-Santificado)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/4/14/",
+                    "URL": "https://orthocal.info/readings/julian/2025/4/14/"
+                },
+                {
+                    "SUMMARY": "Grande e Santo Terça-feira",
+                    "DTSTART;VALUE=DATE": "20250415",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-04-15.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma – Sem substituições\\n\\nVen. Tito, o Fazedor de Milagres • Santos Mártires Anfiano e Aedésio (ca. 306)\\n\\nMateus 22.15-23.39 (Evangelho, Noivo)\\nEzequiel 1.21-28 (-2.1 LXX) (Sexta Hora)\\nÊxodo 2.5-10 (Vésperas)\\nJó 1.13-22 (Vésperas)\\nMateus 24.36-26.2 (Evangelho, Pré-Santificado)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/4/15/",
+                    "URL": "https://orthocal.info/readings/julian/2025/4/15/"
+                },
+                {
+                    "SUMMARY": "Grande e Santa Quarta-feira",
+                    "DTSTART;VALUE=DATE": "20250416",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-04-16.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma – Sem substituições\\n\\nVen. Nicetas, o Confessor • Santo José, o Hino-Grafo (886) • Santo Serafim de Vyritsa (1949) (21 de março OC)\\n\\nJoão 12.17-50 (Evangelho, Noivo)\\nEzequiel 2.3-3.3 (Sexta Hora)\\nÊxodo 2.11-22 (Vésperas)\\nJó 2.1-10 (Vésperas)\\nMateus 26.6-16 (Evangelho, Pré-Santificado)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/4/16/",
+                    "URL": "https://orthocal.info/readings/julian/2025/4/16/"
+                },
+                {
+                    "SUMMARY": "Grande e Santa Quinta-feira",
+                    "DTSTART;VALUE=DATE": "20250417",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-04-17.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma – Vinho e Óleo são Permitidos\\n\\nVen. José, o Hino-Grafo • Santo Zosimas, monge, da Palestina (523)\\n\\nLucas 22.1-39 (Evangelho, Noivo)\\nJeremias 11.18-12.5, 9-11, 14-15 (1ª Hora)\\nÊxodo 19.10-19 (Vésperas)\\nJó 38.1-23; 42.1-5 (Vésperas)\\nIsaías 50.4-11 (Vésperas)\\n1 Coríntios 11.23-32 (Epístola)\\nMateus 26:2-20; João 13:3-17; Mateus 26:21-39; Lucas 22:43-45; Mateus 26:40-27:2 (Evangelho, Composto)\\nJoão 13.1-11 (Evangelho, Na Lavagem dos Pés)\\nJoão 13.12-17 (Evangelho, Após a Lavagem dos Pés)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/4/17/",
+                    "URL": "https://orthocal.info/readings/julian/2025/4/17/"
+                },
+                {
+                    "SUMMARY": "Grande e Santa Sexta-feira",
+                    "DTSTART;VALUE=DATE": "20250418",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-04-18.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma – Jejum Estrito\\n\\nMártires Agatópodes, Teódulo e Seus Companheiros • Nosso Santo Pai Marcos de Trache (ca. 400)\\n\\nJoão 13.31-18.1 (1º Evangelho da Paixão)\\nJoão 18.1-28 (2º Evangelho da Paixão)\\nMateus 26.57-75 (3º Evangelho da Paixão)\\nJoão 18.28-19.16 (4º Evangelho da Paixão)\\nMateus 27.3-32 (5º Evangelho da Paixão)\\nMarcos 15.16-32 (6º Evangelho da Paixão)\\nMateus 27.33-54 (7º Evangelho da Paixão)\\nLucas 23.32-49 (8º Evangelho da Paixão)\\nJoão 19.25-37 (9º Evangelho da Paixão)\\nMarcos 15.43-47 (10º Evangelho da Paixão)\\nJoão 19.38-42 (11º Evangelho da Paixão)\\nMateus 27.62-66 (12º Evangelho da Paixão)\\nZacarias 11.10-13 (1ª Hora)\\nGálatas 6.14-18 (1ª Hora, Epístola)\\nMateus 27.1-56 (1ª Hora, Evangelho)\\nIsaías 50.4-11 (3ª Hora)\\nRomanos 5.6-11 (3ª Hora, Epístola)\\nMarcos 15.16-41 (3ª Hora, Evangelho)\\nIsaías 52.13-54.1 (6ª Hora)\\nAmós 8.9-12 (6ª Hora, alternativo)\\nHebreus 2.11-18 (6ª Hora, Epístola)\\nLucas 23.32-49 (6ª Hora, Evangelho)\\nJeremias 11.18-12.5, 9-11, 14-15 (9ª Hora)\\nHebreus 10.19-31 (9ª Hora, Epístola)\\nJoão 18.28-19.37 (9ª Hora, Evangelho)\\nÊxodo 33.11-23 (Vésperas)\\nJó 42.12-17 (LXX) (Vésperas)\\nIsaías 52.13-54.1 (Vésperas)\\n1 Coríntios 1.18-2.2 (Epístola, Vésperas)\\nMateus 27.1-38; Lucas 23:39-43; Mateus 27:39-54; João 19:31-37; Mateus 27:55-61 (Evangelho, Composto)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/4/18/",
+                    "URL": "https://orthocal.info/readings/julian/2025/4/18/"
+                },
+                {
+                    "SUMMARY": "Grande e Santo Sábado",
+                    "DTSTART;VALUE=DATE": "20250419",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-04-19.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Jejum da Quaresma – Vinho é Permitido\\n\\nSão Metódio, Iluminador dos Eslavos • São Eutíquio, patriarca de Constantinopla (582)\\n\\nEzequiel 37.1-14 (Matinas, Profecia)\\n1 Coríntios 5.6-8; Gálatas 3.13-14 (Matinas, Epístola)\\nMateus 27.62-66 (Matinas, Evangelho)\\nGênesis 1.1-13 (Vésperas, 1ª leitura)\\nIsaías 60.1-16 (Vésperas, 2ª leitura)\\nÊxodo 12.1-11 (Vésperas, 3ª leitura)\\nJonas 1.1-4.11 (Vésperas, 4ª leitura)\\nJosué 5.10-15 (Vésperas, 5ª leitura)\\nÊxodo 13.20-15.19 (Vésperas, 6ª leitura)\\nSofonias 3.8-15 (Vésperas, 7ª leitura)\\n1 Reis 17.8-24 (Vésperas, 8ª leitura)\\nIsaías 61.10-62.5 (Vésperas, 9ª leitura)\\nGênesis 22.1-18 (Vésperas, 10ª leitura)\\nIsaías 61.1-9 (Vésperas, 11ª leitura)\\n2 Reis 4.8-37 (Vésperas, 12ª leitura)\\nIsaías 63.11-64.5 (Vésperas, 13ª leitura)\\nJeremias 31.31-34 (Vésperas, 14ª leitura)\\nDaniel 3.1-23; Cântico dos Três 1-66 com versículos (Vésperas, 15ª leitura)\\nRomanos 6.3-11 (Epístola)\\nMateus 28.1-20 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/4/26/",
+                    "URL": "https://orthocal.info/readings/julian/2025/4/26/"
+                },
+                {
+                    "SUMMARY": "Santa Páscoa",
+                    "DTSTART;VALUE=DATE": "20250420",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-04-20.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nA Ressurreição do nosso Senhor e Salvador Jesus Cristo • Requiesce Santo Tikhon, Patriarca de Moscovo, Iluminador da América do Norte\\n\\nInício do Pentecostarion • Santo Mártir Calíopios, com sua mãe Teoclea (304) • Santo Jorge, o Confessor, bispo de Mitylene (ca. 820) • Santo Nilus (Nil Sorsky), abade de Sora (1508) • Santo Savvas, o Novo de Calymnos (1948) (25 de março OC)\\n\\nSabedoria de Salomão 3.1-9 (Vésperas, São Tikhon)\\nSabedoria de Salomão 5.15-6.3 (Vésperas, São Tikhon)\\nSabedoria de Salomão 4.7-15 (Vésperas, São Tikhon)\\nAtos 1.1-8 (Epístola)\\nHebreus 7.26-8.2 (Epístola, São Tikhon)\\nJoão 1.1-17 (Evangelho)\\nJoão 10.9-16 (Evangelho, São Tikhon)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/4/20/",
+                    "URL": "https://orthocal.info/readings/julian/2025/4/20/"
+                },
+                {
+                    "SUMMARY": "Segunda-feira Brilhante",
+                    "DTSTART;VALUE=DATE": "20250421",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-04-21.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nApóstolos dos Setenta: Herodion, Agabo, Asíncrito, Rufo, Flegon, Hermes • Santo Celestino, Papa de Roma (432)\\n\\nJoão 20.19-25 (Evangelho das Vésperas)\\nAtos 1.12-17, 21-26 (Epístola)\\nJoão 1.18-28 (Evangelho)\\nMateus 28.1-20 (Procissão da Cruz, 1ª Leitura)\\nMarcos 16.1-8 (Procissão da Cruz, 2ª Leitura)\\nLucas 24.1-12 (Procissão da Cruz, 3ª Leitura)\\nJoão 20.1-10 (Procissão da Cruz, 4ª Leitura)\\nLucas 24.36-53 (Procissão da Cruz, 5ª Leitura)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/4/21/",
+                    "URL": "https://orthocal.info/readings/julian/2025/4/21/"
+                },
+                {
+                    "SUMMARY": "Terça-feira Brilhante",
+                    "DTSTART;VALUE=DATE": "20250422",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-04-22.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nMártir Eupsíquio de Cesareia na Capadócia\\n\\nAtos 2.14-21 (Epístola)\\nLucas 24.12-35 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/4/22/",
+                    "URL": "https://orthocal.info/readings/julian/2025/4/22/"
+                },
+                {
+                    "SUMMARY": "Quarta-feira Brilhante",
+                    "DTSTART;VALUE=DATE": "20250423",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-04-23.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nMártires Terêncio, Pompônio, Africano e Companheiros • Seis Mil Santos Mártires na Geórgia (1615) • Novo Hieromártir Gregório, Patriarca de Constantinopla (1821)\\n\\nAtos 2.22-36 (Epístola)\\nJoão 1.35-51 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/4/23/",
+                    "URL": "https://orthocal.info/readings/julian/2025/4/23/"
+                },
+                {
+                    "SUMMARY": "Quinta-feira Brilhante",
+                    "DTSTART;VALUE=DATE": "20250424",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-04-24.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nHieromártir Antipas, Bispo de Pérgamo • Santos Mártires Processus e Martiniano (séc. I)\\n\\nAtos 2.38-43 (Epístola)\\nJoão 3.1-15 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/4/24/",
+                    "URL": "https://orthocal.info/readings/julian/2025/4/24/"
+                },
+                {
+                    "SUMMARY": "Sexta-feira Brilhante",
+                    "DTSTART;VALUE=DATE": "20250425",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-04-25.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nA Fonte da Vida da Santíssima Theotokos\\n\\nSão Basílio, o Confessor, Bispo de Parium • São Isaac, o Sírio, abade de Spoleto, Itália (ca. 550) • Nossa Santa Mãe Atanasia (860)\\n\\nAtos 3.1-8 (Epístola)\\nFilipenses 2.5-11 (Epístola, Theotokos)\\nJoão 2.12-22 (Evangelho)\\nLucas 10.38-42, 11.27-28 (Evangelho, Theotokos)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/4/25/",
+                    "URL": "https://orthocal.info/readings/julian/2025/4/25/"
+                },
+                {
+                    "SUMMARY": "Sábado Brilhante",
+                    "DTSTART;VALUE=DATE": "20250426",
+                    "DTSTAMP": "20241028T142514Z",
+                    "UID": "2025-04-26.Julian@orthocal.info",
+                    "CLASS": "public",
+                    "DESCRIPTION": "Sem Jejum\\n\\nHieromártir Artemon, Presbítero de Laodiceia • São Martinho, o Confessor, Papa de Roma (655)\\n\\nAtos 3.11-16 (Epístola)\\nJoão 3.22-33 (Evangelho)\\n\\nSiga este link para leituras completas:\\nhttps://orthocal.info/readings/julian/2025/4/26/",
+                    "URL": "https://orthocal.info/readings/julian/2025/4/26/"
+                }
+            ]
+        }
+    ]
+}

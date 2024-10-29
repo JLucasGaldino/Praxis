@@ -6,13 +6,24 @@ type Props = {
     label: string;
     icon: string;
     onPress?: () => void;
+    hasIcon: Boolean;
 };
 
-export default function Button({ label, icon, onPress }: Props) {
+export default function Button({ label, icon, onPress, hasIcon }: Props) {
+  if (hasIcon === true) {
+    return (
+      <View style={styles.buttonContainer}>
+        <Pressable style={styles.button} onPress={onPress}>
+          <Feather name={icon} size={20} color="#ffd33d" style={styles.buttonIcon} />
+          <Text style={styles.buttonLabel}>{label}</Text>
+        </Pressable>
+      </View>
+    );
+  }
+
   return (
     <View style={styles.buttonContainer}>
       <Pressable style={styles.button} onPress={onPress}>
-        <Feather name={icon} size={20} color="#ffd33d" style={styles.buttonIcon} />
         <Text style={styles.buttonLabel}>{label}</Text>
       </Pressable>
     </View>
@@ -34,8 +45,10 @@ const styles = StyleSheet.create({
     height: '100%',
     alignItems: 'center',
     flexDirection: 'row',
-    borderColor: '#fff',
-    borderWidth: 4,
+    //borderColor: '#fff',
+    //borderWidth: 4,
+    backgroundColor: '#555',
+    marginVertical: 5,
     paddingVertical: 10,
     paddingLeft: 10,
     flex: 1,
