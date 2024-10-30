@@ -113,17 +113,20 @@ const styles=StyleSheet.create({
         width: 300,
         padding: 20,
         borderRadius: 20,
-        justifyContent: 'flex-end',
+        justifyContent: 'center',
+        alignItems: 'center',
     },
     title: {
         color: '#fff',
         fontSize: 18,
         fontWeight: '600',
         letterSpacing: 1.5,
+        textAlign: 'center',
     },
     description: {
         color: '#fff',
         fontSize: 12,
         letterSpacing: 1.2,
+        textAlign: 'center',
     },
 });

@@ -16,6 +16,7 @@ import { ImageSlider } from "@/constants/CommonPrayerSliderData";
 const i18n = new I18n(translations);
 const {width} = Dimensions.get('screen');
 
+let testerester = [];
 
 //ATTENTION: API REQUEST SHOULD BE DONE AT EVERY BUTTON CLICK
 
@@ -63,8 +64,9 @@ const Orthocal = () => {
     const [fastLevel, setFastLevel] = useState([]);
     const [commemorations, setCommemorations] = useState([]);
     const [readings, setReadings] = useState([]);
+    const [summary, setSummary] = useState([]);
     const [tester, setTester] = useState([]);
-    const [orthocalInfo, setOrthocalInfo] = useState([{}]);
+    const [orthocalInfo, setOrthocalInfo] = useState([]);
 
     //Day message
     const weekDay = appDate.getDay();
@@ -116,6 +118,7 @@ const Orthocal = () => {
         try {
             const response = await axios.get(url);
             setDate(response.data);
+            setSummary(response.data.SUMMARY)
 
             const fullDescription = response.data.DESCRIPTION;
 
@@ -161,22 +164,29 @@ const Orthocal = () => {
 
             }
             setReadings(readingsDescriptionArray.join(" • "));
+            console.log('Summary:', summary);
+            console.log('Fast Level:', fastLevel);
+            console.log('Commemorations:', commemorations);
+            console.log('Readings:', readings);
 
             setOrthocalInfo([
                 {
-                    id: 1,
-                    heading: String(date.SUMMARY),
-                    text: String(fastLevel),
+                    title: String(summary),
+                    image: require('@/assets/images/orthodox-date.jpg'),
+                    description: String(fastLevel),
+                    link: '/home/prayers/morning-prayers'
                 },
                 {
-                    id: 2,
-                    heading: "COMEMORAÇÕES",
-                    text: String(commemorations),
+                    title: "COMEMORAÇÕES",
+                    image: require('@/assets/images/orthodox-date.jpg'),
+                    description: String(commemorations),
+                    link: '/home/prayers/morning-prayers'
                 },
                 {
-                    id: 3,
-                    heading: "LEITURAS",
-                    text: String(readings),
+                    title: "LEITURAS",
+                    image: require('@/assets/images/orthodox-date.jpg'),
+                    description: String(readings),
+                    link: '/home/prayers/morning-prayers'
                 }
             ]);
 
@@ -203,10 +213,11 @@ const Orthocal = () => {
                 <View style={styles.itemContainer}>
                     <ImageBackground source={require('@/assets/images/orthodox-date.jpg')} style={styles.image}>
                         <LinearGradient colors={['transparent', 'rgba(0,0,0,0.8)']} style={styles.background}>
-                            <Text style={styles.title}>{date.SUMMARY}</Text>
+                            <Text style={styles.title}>{String(summary)}</Text>
                             <Text style={styles.title2}>{String(fastLevel)}</Text>
                             <Text style={styles.title2}>COMEMORAÇÕES</Text>
                             <Text style={styles.text}>{String(commemorations)}</Text>
+                            <Text style={styles.text}>{String(orthocalInfo)}</Text>
                             {/* <ReadMore
                                 numberOfLines={2}
                                 style={styles.text}
