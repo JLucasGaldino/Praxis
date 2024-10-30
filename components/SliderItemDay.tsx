@@ -85,7 +85,7 @@ const SliderItem = ({ item, index, scrollX }: Props) => {
 
     return (
         <Animated.View style={[styles.itemContainer, rnAnimatedStyle]}>
-            <Pressable onPress={() => router.push(item.link)}>
+            <Pressable>
                 <Image source={item.image} style={{width: 300, height: 500, borderRadius: 20,}} />
                 <LinearGradient colors={['transparent', 'rgba(0,0,0,0.8)']} style={styles.background}>
                     <View style={{gap: 10,}}>

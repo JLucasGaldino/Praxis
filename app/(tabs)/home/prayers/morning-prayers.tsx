@@ -19,7 +19,7 @@ export default function MorningPrayers() {
                 </View>
                 <View style={styles.textContainer}>
                     <Text style={styles.comment}>
-                        {i18n.t("prayerContent.morningPrayers.section1")}
+                        {'\t\t\t\t'}{i18n.t("prayerContent.morningPrayers.section1")}
                     </Text>
                 </View>
                 <View style={styles.textContainer}>
@@ -29,13 +29,13 @@ export default function MorningPrayers() {
                 </View>
                 <View style={styles.textContainer}>
                     <Text style={styles.comment}>
-                        {i18n.t("prayerContent.morningPrayers.section3")}
+                        {'\t\t\t\t'}{i18n.t("prayerContent.morningPrayers.section3")}
                     </Text>
                 </View>
                 <View style={styles.textContainer}>
                     <Text style={styles.text}>
                         {'\t\t\t\t'}{i18n.t("prayerContent.morningPrayers.section4")}
-                        <Text style={{fontStyle: 'normal', color: '#ffd33d'}}> (3x)</Text>
+                        <Text style={{fontStyle: 'normal', color: '#999'}}> (3x)</Text>
                     </Text>
                 </View>
                 <View style={styles.textContainer}>
@@ -59,7 +59,7 @@ export default function MorningPrayers() {
                 <View style={styles.textContainer}>
                     <Text style={styles.text}>
                         {'\t\t\t\t'}{i18n.t("prayerContent.morningPrayers.section9")}
-                        <Text style={{fontStyle: 'normal', color: '#ffd33d'}}> (3x)</Text>
+                        <Text style={{fontStyle: 'normal', color: '#999'}}> (3x)</Text>
                     </Text>
                 </View>
                 <View style={styles.textContainer}>
@@ -75,7 +75,7 @@ export default function MorningPrayers() {
                 <View style={styles.textContainer}>
                     <Text style={styles.text}>
                         {'\t\t\t\t'}{i18n.t("prayerContent.morningPrayers.section13")}
-                        <Text style={{fontStyle: 'normal', color: '#ffd33d'}}> (3x)</Text>
+                        <Text style={{fontStyle: 'normal', color: '#999'}}> (3x)</Text>
                     </Text>
                 </View>
                 <View style={styles.textContainer}>
@@ -91,9 +91,9 @@ export default function MorningPrayers() {
                 <View style={styles.textContainer}>
                     <Text style={styles.text}>
                         {'\t\t\t\t'}{i18n.t("prayerContent.morningPrayers.section16")}
-                        <Text style={{fontStyle: 'normal', color: '#ffd33d'}}> [</Text>
+                        <Text style={{fontStyle: 'normal', color: '#999'}}> [</Text>
                         {i18n.t("prayerContent.morningPrayers.section17")}
-                        <Text style={{fontStyle: 'normal', color: '#ffd33d'}}>]</Text>
+                        <Text style={{fontStyle: 'normal', color: '#999'}}>]</Text>
                         {i18n.t("prayerContent.morningPrayers.section18")}
                     </Text>
                 </View>
@@ -128,7 +128,7 @@ export default function MorningPrayers() {
                 <View style={styles.textContainer}>
                     <Text style={styles.text}>
                         {'\t\t\t\t'}{i18n.t("prayerContent.morningPrayers.section24")}
-                        <Text style={{fontStyle: 'normal', color: '#ffd33d'}}> (x12)</Text>
+                        <Text style={{fontStyle: 'normal', color: '#999'}}> (x12)</Text>
                     </Text>
                 </View>
                 <View style={styles.textContainer}>
@@ -271,7 +271,7 @@ export default function MorningPrayers() {
                 <View style={styles.textContainer}>
                     <Text style={styles.text}>
                         {'\t\t\t\t'}{i18n.t("prayerContent.morningPrayers.section45")}
-                        <Text style={{fontStyle: 'normal', color: '#ffd33d'}}> (N do santo protetor)</Text>
+                        <Text style={{fontStyle: 'normal', color: '#999'}}> (N do santo protetor)</Text>
                         {i18n.t("prayerContent.morningPrayers.section46")}
                     </Text>
                 </View>
@@ -301,7 +301,7 @@ export default function MorningPrayers() {
                 </View>
                 <View style={styles.textContainer}>
                     <Text style={styles.comment}>
-                        {i18n.t("prayerContent.morningPrayers.section50")}
+                        {'\t\t\t\t'}{i18n.t("prayerContent.morningPrayers.section50")}
                     </Text>
                 </View>
                 <View style={styles.textContainer}>
@@ -310,47 +310,47 @@ export default function MorningPrayers() {
                 <View style={styles.textContainer}>
                     <Text style={styles.text}>
                         {'\t\t\t\t'}{i18n.t("prayerContent.morningPrayers.section51")}
-                        <Text style={{fontStyle: 'normal', color: '#ffd33d'}}> (pequena metanóia)</Text>
+                        <Text style={{fontStyle: 'normal', color: '#999'}}> (pequena metanóia)</Text>
                     </Text>
                 </View>
                 <View style={styles.textContainer}>
                     <Text style={styles.text}>
                         {'\t\t\t\t'}{i18n.t("prayerContent.morningPrayers.section52")}
-                        <Text style={{fontStyle: 'normal', color: '#ffd33d'}}> (pequena metanóia)</Text>
+                        <Text style={{fontStyle: 'normal', color: '#999'}}> (pequena metanóia)</Text>
                     </Text>
                 </View>
                 <View style={styles.textContainer}>
                     <Text style={styles.text}>
                         {'\t\t\t\t'}{i18n.t("prayerContent.morningPrayers.section53")}
-                        <Text style={{fontStyle: 'normal', color: '#ffd33d'}}> (N) </Text>
+                        <Text style={{fontStyle: 'normal', color: '#999'}}> (N) </Text>
                         {i18n.t("prayerContent.morningPrayers.section54")}
-                        <Text style={{fontStyle: 'normal', color: '#ffd33d'}}> (pequena metanóia)</Text>
+                        <Text style={{fontStyle: 'normal', color: '#999'}}> (pequena metanóia)</Text>
                     </Text>
                 </View>
                 <View style={styles.textContainer}>
                     <Text style={styles.text}>
                         {'\t\t\t\t'}{i18n.t("prayerContent.morningPrayers.section55")}
-                        <Text style={{fontStyle: 'normal', color: '#ffd33d'}}> (NN)</Text>
+                        <Text style={{fontStyle: 'normal', color: '#999'}}> (NN)</Text>
                         {i18n.t("prayerContent.morningPrayers.section56")}
-                        <Text style={{fontStyle: 'normal', color: '#ffd33d'}}> (pequena metanóia)</Text>
+                        <Text style={{fontStyle: 'normal', color: '#999'}}> (pequena metanóia)</Text>
                     </Text>
                 </View>
                 <View style={styles.textContainer}>
                     <Text style={styles.text}>
                         {'\t\t\t\t'}{i18n.t("prayerContent.morningPrayers.section57")}
-                        <Text style={{fontStyle: 'normal', color: '#ffd33d'}}> (pequena metanóia)</Text>
+                        <Text style={{fontStyle: 'normal', color: '#999'}}> (pequena metanóia)</Text>
                     </Text>
                 </View>
                 <View style={styles.textContainer}>
                     <Text style={styles.text}>
                         {'\t\t\t\t'}{i18n.t("prayerContent.morningPrayers.section58")}
-                        <Text style={{fontStyle: 'normal', color: '#ffd33d'}}> (pequena metanóia)</Text>
+                        <Text style={{fontStyle: 'normal', color: '#999'}}> (pequena metanóia)</Text>
                     </Text>
                 </View>
                 <View style={styles.textContainer}>
                     <Text style={styles.text}>
                         {'\t\t\t\t'}{i18n.t("prayerContent.morningPrayers.section59")}
-                        <Text style={{fontStyle: 'normal', color: '#ffd33d'}}> (pequena metanóia)</Text>
+                        <Text style={{fontStyle: 'normal', color: '#999'}}> (pequena metanóia)</Text>
                     </Text>
                 </View>
                 <View style={styles.textContainer}>
@@ -359,21 +359,21 @@ export default function MorningPrayers() {
                 <View style={styles.textContainer}>
                     <Text style={styles.text}>
                         {'\t\t\t\t'}{i18n.t("prayerContent.morningPrayers.section60")}
-                        <Text style={{fontStyle: 'normal', color: '#ffd33d'}}> (pequena metanóia)</Text>
+                        <Text style={{fontStyle: 'normal', color: '#999'}}> (pequena metanóia)</Text>
                     </Text>
                 </View>
                 <View style={styles.textContainer}>
                     <Text style={styles.text}>
                         {'\t\t\t\t'}{i18n.t("prayerContent.morningPrayers.section61")}
-                        <Text style={{fontStyle: 'normal', color: '#ffd33d'}}> (NN) </Text>
+                        <Text style={{fontStyle: 'normal', color: '#999'}}> (NN) </Text>
                         {i18n.t("prayerContent.morningPrayers.section62")}
-                        <Text style={{fontStyle: 'normal', color: '#ffd33d'}}> (pequena metanóia)</Text>
+                        <Text style={{fontStyle: 'normal', color: '#999'}}> (pequena metanóia)</Text>
                     </Text>
                 </View>
                 <View style={styles.textContainer}>
                     <Text style={styles.text}>
                         {'\t\t\t\t'}{i18n.t("prayerContent.morningPrayers.section63")}
-                        <Text style={{fontStyle: 'normal', color: '#ffd33d'}}> (pequena metanóia)</Text>
+                        <Text style={{fontStyle: 'normal', color: '#999'}}> (pequena metanóia)</Text>
                     </Text>
                 </View>
                 <View style={styles.textContainer}>
@@ -392,7 +392,7 @@ export default function MorningPrayers() {
                 <View style={styles.textContainer}>
                     <Text style={styles.text}>
                         {'\t\t\t\t'}{i18n.t("prayerContent.morningPrayers.section66")}
-                        <Text style={{fontStyle: 'normal', color: '#ffd33d'}}> (3x)</Text>
+                        <Text style={{fontStyle: 'normal', color: '#999'}}> (3x)</Text>
                     </Text>
                 </View>
                 <View style={styles.textContainer}>
@@ -435,10 +435,12 @@ const styles = StyleSheet.create({
         marginBottom: 20,
         marginTop: 30,
         textAlign: 'center',
-        color: '#ffd33d',
+        color: '#fff',
+        fontWeight: '600',
+        letterSpacing: 1.5,
     },
     comment: {
-        color: '#ffd33d',
+        color: '#999',
         fontSize: 18,
         fontStyle: 'normal',
         alignSelf: 'stretch',

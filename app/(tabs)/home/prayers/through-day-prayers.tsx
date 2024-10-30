@@ -52,9 +52,9 @@ export default function MorningPrayers() {
                 <View style={styles.textContainer}>
                     <Text style={styles.text}>
                         {'\t\t\t\t'}{i18n.t("prayerContent.throughDayPrayers.section5a1")}
-                        <Text style={{fontStyle: 'normal', color: '#ffd33d'}}> [</Text>
+                        <Text style={{fontStyle: 'normal', color: '#999'}}> [</Text>
                         {i18n.t("prayerContent.throughDayPrayers.section5a2")}
-                        <Text style={{fontStyle: 'normal', color: '#ffd33d'}}>]</Text>
+                        <Text style={{fontStyle: 'normal', color: '#999'}}>]</Text>
                         {i18n.t("prayerContent.throughDayPrayers.section5a3")}
                     </Text>
                 </View>
@@ -71,12 +71,12 @@ export default function MorningPrayers() {
                 <View style={styles.textContainer}>
                     <Text style={styles.text}>
                         {'\t\t\t\t'}{i18n.t("prayerContent.throughDayPrayers.section5c2")}
-                        <Text style={{fontStyle: 'normal', color: '#ffd33d'}}> (3x)</Text>
+                        <Text style={{fontStyle: 'normal', color: '#999'}}> (3x)</Text>
                     </Text>
                 </View>
                 <View style={styles.textContainer}>
                     <Text style={styles.text}>
-                        {'\t\t\t\t'}<Text style={{fontStyle: 'normal', color: '#ffd33d'}}>O superior: </Text>
+                        {'\t\t\t\t'}<Text style={{fontStyle: 'normal', color: '#999'}}>O superior: </Text>
                         {i18n.t("prayerContent.throughDayPrayers.section5c3")}
                     </Text>
                 </View>
@@ -96,12 +96,12 @@ export default function MorningPrayers() {
                 <View style={styles.textContainer}>
                     <Text style={styles.text}>
                         {'\t\t\t\t'}{i18n.t("prayerContent.throughDayPrayers.section6c")}
-                        <Text style={{fontStyle: 'normal', color: '#ffd33d'}}> (3x)</Text>
+                        <Text style={{fontStyle: 'normal', color: '#999'}}> (3x)</Text>
                     </Text>
                 </View>
                 <View style={styles.textContainer}>
                     <Text style={styles.text}>
-                        {'\t\t\t\t'}<Text style={{fontStyle: 'normal', color: '#ffd33d'}}>O superior: </Text>
+                        {'\t\t\t\t'}<Text style={{fontStyle: 'normal', color: '#999'}}>O superior: </Text>
                         {i18n.t("prayerContent.throughDayPrayers.section6d")}
                     </Text>
                 </View>
@@ -140,10 +140,12 @@ const styles = StyleSheet.create({
         marginBottom: 20,
         marginTop: 30,
         textAlign: 'center',
-        color: '#ffd33d',
+        color: '#fff',
+        fontWeight: '600',
+        letterSpacing: 1.5,
     },
     comment: {
-        color: '#ffd33d',
+        color: '#999',
         fontSize: 18,
         fontStyle: 'normal',
         alignSelf: 'stretch',

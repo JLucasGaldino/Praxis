@@ -30,7 +30,7 @@ export default function EveningPrayers() {
                 <View style={styles.textContainer}>
                     <Text style={styles.text}>
                         {'\t\t\t\t'}{i18n.t("prayerContent.eveningPrayers.section4")}
-                        <Text style={{fontStyle: 'normal', color: '#ffd33d'}}> (3x)</Text>
+                        <Text style={{fontStyle: 'normal', color: '#999'}}> (3x)</Text>
                     </Text>
                 </View>
                 <View style={styles.textContainer}>
@@ -44,7 +44,7 @@ export default function EveningPrayers() {
                 <View style={styles.textContainer}>
                     <Text style={styles.text}>
                         {'\t\t\t\t'}{i18n.t("prayerContent.eveningPrayers.section9")}
-                        <Text style={{fontStyle: 'normal', color: '#ffd33d'}}> (3x)</Text>
+                        <Text style={{fontStyle: 'normal', color: '#999'}}> (3x)</Text>
                     </Text>
                 </View>
                 <View style={styles.textContainer}>
@@ -60,7 +60,7 @@ export default function EveningPrayers() {
                 <View style={styles.textContainer}>
                     <Text style={styles.text}>
                         {'\t\t\t\t'}{i18n.t("prayerContent.eveningPrayers.section13")}
-                        <Text style={{fontStyle: 'normal', color: '#ffd33d'}}> (3x)</Text>
+                        <Text style={{fontStyle: 'normal', color: '#999'}}> (3x)</Text>
                     </Text>
                 </View>
                 <View style={styles.textContainer}>
@@ -76,9 +76,9 @@ export default function EveningPrayers() {
                 <View style={styles.textContainer}>
                     <Text style={styles.text}>
                         {'\t\t\t\t'}{i18n.t("prayerContent.eveningPrayers.section16")}
-                        <Text style={{fontStyle: 'normal', color: '#ffd33d'}}> [</Text>
+                        <Text style={{fontStyle: 'normal', color: '#999'}}> [</Text>
                         {i18n.t("prayerContent.eveningPrayers.section17")}
-                        <Text style={{fontStyle: 'normal', color: '#ffd33d'}}>]</Text>
+                        <Text style={{fontStyle: 'normal', color: '#999'}}>]</Text>
                         {i18n.t("prayerContent.eveningPrayers.section18")}
                     </Text>
                 </View>
@@ -113,7 +113,7 @@ export default function EveningPrayers() {
                 <View style={styles.textContainer}>
                     <Text style={styles.text}>
                         {'\t\t\t\t'}{i18n.t("prayerContent.eveningPrayers.section24")}
-                        <Text style={{fontStyle: 'normal', color: '#ffd33d'}}> (x12)</Text>
+                        <Text style={{fontStyle: 'normal', color: '#999'}}> (x12)</Text>
                     </Text>
                 </View>
                 <View style={styles.textContainer}>
@@ -337,7 +337,7 @@ export default function EveningPrayers() {
                 <View style={styles.textContainer}>
                     <Text style={styles.text}>
                         {'\t\t\t\t'}{i18n.t("prayerContent.eveningPrayers.section50")}
-                        <Text style={{fontStyle: 'normal', color: '#ffd33d'}}> (3x)</Text>
+                        <Text style={{fontStyle: 'normal', color: '#999'}}> (3x)</Text>
                     </Text>
                 </View>
                 <View style={styles.textContainer}>
@@ -398,7 +398,7 @@ export default function EveningPrayers() {
                 </View>
                 <View style={styles.textContainer}>
                     <Text style={styles.text}>
-                        <Text style={{fontStyle: 'normal', color: '#ffd33d'}}>Ou: </Text>
+                        <Text style={{fontStyle: 'normal', color: '#999'}}>Ou: </Text>
                         {i18n.t("prayerContent.eveningPrayers.section61")}
                     </Text>
                 </View>
@@ -476,10 +476,12 @@ const styles = StyleSheet.create({
         marginBottom: 20,
         marginTop: 30,
         textAlign: 'center',
-        color: '#ffd33d',
+        color: '#fff',
+        fontWeight: '600',
+        letterSpacing: 1.5,
     },
     comment: {
-        color: '#ffd33d',
+        color: '#999',
         fontSize: 18,
         fontStyle: 'normal',
         alignSelf: 'stretch',

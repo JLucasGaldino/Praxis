@@ -1,5 +1,5 @@
-import React, { useState, useEffect, Suspense } from 'react';
-import { View, Text, StyleSheet, Image, FlatList, Pressable, Dimensions, ImageBackground, ScrollView } from 'react-native';
+import React, { useState, useEffect, Suspense, useMemo } from 'react';
+import { View, Text, StyleSheet, Image, FlatList, Pressable, Dimensions, ImageBackground, ScrollView, ActivityIndicator } from 'react-native';
 import axios from 'axios';
 import { useLanguage } from "@/constants/LanguageContext";
 import * as Localization from 'expo-localization';
@@ -44,7 +44,9 @@ const Orthocal = () => {
     };
 
     const today = new Date();
+    today.setHours(0);
     const dayOne = new Date(2024, 8, 28);
+    dayOne.setHours(0);
     const diffTime = Math.abs(today - dayOne); //Standard diff in time, as fallback
     const dateIndexFallback = Math.floor(diffTime / (1000 * 60 * 60 * 24));
 
@@ -54,6 +56,7 @@ const Orthocal = () => {
 
     const onChange = (event, selectedDate) => {
         const currentDate = selectedDate;
+        currentDate.setHours(0);
         setShow(false);
         setAppDate(currentDate);
         fetchDate(`https://praxis-prayers-default-rtdb.europe-west1.firebasedatabase.app/VCALENDAR/0/VEVENT/${Math.floor(Math.abs(currentDate - dayOne) / (1000 * 60 * 60 * 24))}.json`); //Should happen simultaneously
@@ -67,6 +70,7 @@ const Orthocal = () => {
     const [summary, setSummary] = useState([]);
     const [tester, setTester] = useState([]);
     const [orthocalInfo, setOrthocalInfo] = useState([]);
+    const [loading, setLoading] = useState(true);
 
     //Day message
     const weekDay = appDate.getDay();
@@ -115,25 +119,25 @@ const Orthocal = () => {
     }, []);
 
     const fetchDate = async (url = praxisApiUrlFallback) => {
+        setLoading(true);
         try {
             const response = await axios.get(url);
             setDate(response.data);
-            setSummary(response.data.SUMMARY)
 
+            const fetchedSummary = response.data.SUMMARY;
             const fullDescription = response.data.DESCRIPTION;
 
             // Separators
             const firstSeparator = fullDescription.search(/\\n\\n/) //Separates fast level from the rest
-
             const fastDescription = fullDescription.slice(0, firstSeparator).toUpperCase();
-            setFastLevel(fastDescription);
-
             const lastSeparator = fullDescription.length - fullDescription.split("").reverse().join("").search(/n\\n\\/); //Separates link at the end from the rest
             const commemorationsAndReadingsDescription = fullDescription.slice(firstSeparator + 4, lastSeparator - 4);
             const beforeLastSeparator = commemorationsAndReadingsDescription.length - commemorationsAndReadingsDescription.split("").reverse().join("").search(/n\\n\\/);
-
             const readingsDescriptionUnprocessed = commemorationsAndReadingsDescription.slice(beforeLastSeparator);
             const commemorationsDescriptionUnprocessed = commemorationsAndReadingsDescription.slice(0, beforeLastSeparator - 4);
+
+            setSummary(fetchedSummary);
+            setFastLevel(fastDescription);
 
             let commemorationsDescriptionArray = [];
             commemorationsDescriptionArray.push(commemorationsDescriptionUnprocessed);
@@ -164,42 +168,66 @@ const Orthocal = () => {
 
             }
             setReadings(readingsDescriptionArray.join(" • "));
+
             console.log('Summary:', summary);
             console.log('Fast Level:', fastLevel);
             console.log('Commemorations:', commemorations);
             console.log('Readings:', readings);
 
-            setOrthocalInfo([
-                {
-                    title: String(summary),
-                    image: require('@/assets/images/orthodox-date.jpg'),
-                    description: String(fastLevel),
-                    link: '/home/prayers/morning-prayers'
-                },
-                {
-                    title: "COMEMORAÇÕES",
-                    image: require('@/assets/images/orthodox-date.jpg'),
-                    description: String(commemorations),
-                    link: '/home/prayers/morning-prayers'
-                },
-                {
-                    title: "LEITURAS",
-                    image: require('@/assets/images/orthodox-date.jpg'),
-                    description: String(readings),
-                    link: '/home/prayers/morning-prayers'
-                }
-            ]);
+            /* setOrthocalInfo([
+             *     {
+             *         title: String(fetchedSummary),
+             *         image: require('@/assets/images/orthodox-date.jpg'),
+             *         description: String(fastLevel),
+             *         link: '/home/prayers/morning-prayers'
+             *     },
+             *     {
+             *         title: "COMEMORAÇÕES",
+             *         image: require('@/assets/images/orthodox-date.jpg'),
+             *         description: String(commemorations),
+             *         link: '/home/prayers/morning-prayers'
+             *     },
+             *     {
+             *         title: "LEITURAS",
+             *         image: require('@/assets/images/orthodox-date.jpg'),
+             *         description: String(readings),
+             *         link: '/home/prayers/morning-prayers'
+             *     }
+             * ]); */
+
 
         } catch (error) {
             console.error('Error fetching data:', error);
+        } finally {
+            setLoading(false);
         }
     };
+
+    const itemList = useMemo(() => [
+        {
+            title: String(summary),
+            image: require('@/assets/images/orthodox-date.jpg'),
+            description: String(fastLevel),
+        },
+        {
+            title: "COMEMORAÇÕES",
+            image: require('@/assets/images/saints.jpg'),
+            description: String(commemorations),
+        },
+        {
+            title: "LEITURAS",
+            image: require('@/assets/images/bible.jpg'),
+            description: String(readings),
+        }
+    ], [summary, fastLevel, commemorations, readings]);
+
+    const areDataReady = summary && fastLevel && commemorations && readings;
 
     return (
         <View>
             <View style={styles.container}>
                 <Pressable onPress={showDatepicker}>
-                    <Text style={styles.heading}>{dateTitle}</Text>
+                    <Text style={[styles.heading, {marginTop: 0}]}>{dateTitle}</Text>
                     {show && (
                         <DateTimePicker
                             testID="dateTimePicker"
@@ -210,45 +238,14 @@ const Orthocal = () => {
                         />
                     )}
                 </Pressable>
-                <View style={styles.itemContainer}>
-                    <ImageBackground source={require('@/assets/images/orthodox-date.jpg')} style={styles.image}>
-                        <LinearGradient colors={['transparent', 'rgba(0,0,0,0.8)']} style={styles.background}>
-                            <Text style={styles.title}>{String(summary)}</Text>
-                            <Text style={styles.title2}>{String(fastLevel)}</Text>
-                            <Text style={styles.title2}>COMEMORAÇÕES</Text>
-                            <Text style={styles.text}>{String(commemorations)}</Text>
-                            <Text style={styles.text}>{String(orthocalInfo)}</Text>
-                            {/* <ReadMore
-                                numberOfLines={2}
-                                style={styles.text}
-                                seeMoreStyle={styles.seeMore}
-                                seeMoreText={i18n.t("dailyPrayers.seeMore")}
-                                seeLessText={i18n.t("dailyPrayers.seeLess")}
-                                seeLessStyle={styles.seeMore}
-                                seeMoreContainerStyleSecondary={{position: 'relative', alignSelf: 'center'}}
-                                ellipsis={""}
-                                >
-                                {String(commemorations)}
-                                </ReadMore> */}
-                            <Text style={styles.title2}>LEITURAS</Text>
-                            <Text style={styles.text}>{String(readings)}</Text>
-                            {/* <ReadMore
-                                numberOfLines={2}
-                                style={styles.text}
-                                seeMoreStyle={styles.seeMore}
-                                seeMoreText={i18n.t("dailyPrayers.seeMore")}
-                                seeLessText={i18n.t("dailyPrayers.seeLess")}
-                                seeLessStyle={styles.seeMore}
-                                seeMoreContainerStyleSecondary={{position: 'relative', alignSelf: 'center'}}
-                                ellipsis={""}
-                                >
-                                {String(readings)}
-                                </ReadMore> */}
-                        </LinearGradient>
-                    </ImageBackground>
-                </View>
             </View>
-            <DaySlider itemList={ImageSlider} />
+            {loading? (
+                <ActivityIndicator size="large" color="0000ff" />
+            ) : areDataReady ? (
+                <DaySlider itemList={itemList} />
+            ) : (
+                <Text>No data available.</Text>
+            )}
         </View>
     );
 };
