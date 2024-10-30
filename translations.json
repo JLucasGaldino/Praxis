@@ -19,6 +19,31 @@
     },
     "pt": {
         "prayersPageTitle": "Orações",
+            "calendar": {
+                    "weekDays": {
+                            "sunday": "Domingo",
+                            "monday": "Segunda-feira",
+                            "tuesday": "Terça-feira",
+                            "wednesday": "Quarta-feira",
+                            "thursday": "Quinta-feira",
+                            "friday": "Sexta-feira",
+                            "saturday": "Sábado",
+                    },
+                    "monthNames": {
+                            "0": "Janeiro",
+                            "1": "Fevereiro",
+                            "2": "Março",
+                            "3": "Abril",
+                            "4": "Maio",
+                            "5": "Junho",
+                            "6": "Julho",
+                            "7": "Agosto",
+                            "8": "Setembro",
+                            "9": "Outubro",
+                            "10": "Novembro",
+                            "11": "Dezembro",
+                    },
+            },
         "pageTitles": {
             "prayers": "Orações",
             "settings": "Parâmetros",
@@ -42,13 +67,26 @@
                 "theotokosCanon": "Á Santíssima Deípara",
                 "akathistHymn": "Hino acatisto",
                 "communion": "Sagrada Comunhão",
-                "confessionInstruction": "Instruções sobre a confissão",
-                "confessionGuide": "Guia para a confissão",
-                "communionOffice": "Preparação para a Sagrada Comunhão",
-                "communionThanks": "Ação de graças pela Sagrada Comunhão",
+                "confessionInstruction": "Breve instrução",
+                "confessionGuide": "Guia",
+                "communionOffice": "Ofício particular preparatório",
+                "communionThanks": "Orações de ação de graças",
                 "glossary": "Léxico",
                 "glossaryPage": "Léxico de termos litúrgicos ou teológicos"
         },
+            "pageDescriptions": {
+                    "morningPrayers": "Orações matinais",
+                    "throughDayPrayers": "Orações a serem ditas ao longo do dia",
+                    "eveningPrayers": "Orações para antes de dormir",
+                    "confessionInstruction": "sobre a confissão",
+                    "confessionGuide": "para a confissão",
+                    "communionOffice": "para a Sagrada Comunhão",
+                    "communionThanks": "pela Sagrada Comunhão",
+            },
+            "dailyPrayers": {
+                    "seeMore": "Ler mais",
+                    "seeLess": "Ler menos",
+            },
         "prayerContent": {
             "morningPrayers": {
                 "intro1": "Introdução",

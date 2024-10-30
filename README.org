@@ -26,6 +26,8 @@ This is a universal mobile app (Android and iOS) for Christians to quickly have 
 **** TODO Find way to reload date
 **** TODO New UI with RNRC. Two dimensional.
 **** TODO Make buttons big with icons.
+**** TODO Make shadows and modern UI
+**** TODO [#A] Find a way to always set time to zero within the date, to always have good date
 *** Extras
 **** TODO Add a selection of prayer rules, or choice to build your personal. Or just a guide about prayer rules.
 
