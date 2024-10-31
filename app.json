@@ -4,21 +4,23 @@
     "slug": "Praxis",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/praxis-icon.jpeg",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
+    "backgroundColor": "#25292e",
     "splash": {
       "image": "./assets/images/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#25292e"
     },
     "ios": {
       "supportsTablet": true
     },
     "android": {
+      "backgroundColor": "#25292e",
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#25292e"
       }
     },
     "web": {
