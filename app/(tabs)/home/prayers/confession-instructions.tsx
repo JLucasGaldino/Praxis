@@ -20,7 +20,7 @@ export default function ConfessionGuide() {
     return(
         <View style={styles.container}>
             <ScrollView style={styles.scrollView} horizontal={false}>
-                <Markdown style={styles.markdown} rules={rules}>{i18n.t("prayerContent.confessionGuide")}</Markdown>
+                <Markdown style={styles.markdown} rules={rules}>{i18n.t("prayerContent.confessionInstruction")}</Markdown>
             </ScrollView>
         </View>
     );
@@ -40,9 +40,6 @@ const styles = StyleSheet.create({
             alignSelf: 'stretch',
             textAlign: 'justify',
         },
-        strong: {
-            fontWeight: '800',
-        },
         textgroup: {
             textAlign: 'justify',
         },
@@ -50,7 +47,7 @@ const styles = StyleSheet.create({
             fontSize: 25,
             fontWeight: '600',
             letterSpacing: 1.5,
-        },
+        }
     },
     container: {
         flex: 1,

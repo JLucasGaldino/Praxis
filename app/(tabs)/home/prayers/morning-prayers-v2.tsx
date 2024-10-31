@@ -20,7 +20,7 @@ export default function ConfessionGuide() {
     return(
         <View style={styles.container}>
             <ScrollView style={styles.scrollView} horizontal={false}>
-                <Markdown style={styles.markdown} rules={rules}>{i18n.t("prayerContent.confessionGuide")}</Markdown>
+                <Markdown style={styles.markdown} rules={rules}>{i18n.t("prayerContent.morningPrayersV2")}</Markdown>
             </ScrollView>
         </View>
     );

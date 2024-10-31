@@ -26,7 +26,10 @@ export default function TabLayout() {
         headerTintColor: '#fff',
         tabBarStyle: {
           backgroundColor: '#25292e',
-          paddingBottom: 2,
+          height: 60,
+          paddingTop: 5,
+          paddingBottom: 5,
+          borderColor: '#000',
         },
       }}
     >

@@ -61,7 +61,7 @@ export default function Index() {
                     <NavButton label={i18n.t("pageTitles.communionThanks")} icon="info" onPress={() => router.push("/home/prayers/hours-instructions")} /> */}
                 {/* <Text style={styles.heading}>{i18n.t("pageTitles.glossary")}</Text>
                     <NavButton label={i18n.t("pageTitles.glossaryPage")} icon="info" onPress={() => router.push("/home/prayers/hours-instructions")} /> */}
-                <Text style={{marginBottom: 50,}}></Text>
+                <Text style={{marginBottom: 10,}}></Text>
               </View>
           </ScrollView>
       </View>

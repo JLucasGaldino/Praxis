@@ -22,13 +22,10 @@ export default function Layout() {
             <Stack.Screen name="index" options={{
                 headerTitle: i18n.t("pageTitles.prayers"),
             }} />
-            <Stack.Screen name="prayers/evening-prayers" options={{
+            <Stack.Screen name="prayers/evening-prayers-v2" options={{
                 headerTitle: i18n.t("pageTitles.eveningPrayers"),
             }} />
-            <Stack.Screen name="prayers/morning-prayers" options={{
-                headerTitle: i18n.t("pageTitles.morningPrayers"),
-            }} />
-            <Stack.Screen name="prayers/through-day-prayers" options={{
+            <Stack.Screen name="prayers/through-day-prayers-v2" options={{
                 headerTitle: i18n.t("pageTitles.throughDayPrayers"),
             }} />
             <Stack.Screen name="prayers/hours-instructions" options={{
@@ -36,6 +33,21 @@ export default function Layout() {
             }} />
             <Stack.Screen name="prayers/hours-vespers" options={{
                 headerTitle: i18n.t("pageTitles.hoursVespers"),
+            }} />
+            <Stack.Screen name="prayers/confession-instructions" options={{
+                headerTitle: i18n.t("pageTitles.confessionInstruction"),
+            }} />
+            <Stack.Screen name="prayers/confession-guide" options={{
+                headerTitle: i18n.t("pageTitles.confessionGuide"),
+            }} />
+            <Stack.Screen name="prayers/communion-office" options={{
+                headerTitle: i18n.t("pageTitles.communionOffice"),
+            }} />
+            <Stack.Screen name="prayers/communion-thanks" options={{
+                headerTitle: i18n.t("pageTitles.communionThanks"),
+            }} />
+            <Stack.Screen name="prayers/morning-prayers-v2" options={{
+                headerTitle: i18n.t("pageTitles.morningPrayers"),
             }} />
         </Stack>
     );

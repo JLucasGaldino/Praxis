@@ -24,6 +24,7 @@ const Settings = () => {
           onValueChange={(itemValue) => setLanguage(itemValue)}
           dropdownIconColor='#fff'
           style={{color: "white"}}
+          enabled={false}
         >
           <Picker.Item label={i18n.t("settingsContent.languageSelection.english")} value="en" />
           <Picker.Item label={i18n.t("settingsContent.languageSelection.portuguese")} value="pt" />
