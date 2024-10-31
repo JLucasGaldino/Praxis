@@ -45,6 +45,7 @@
                         },
                 },
                 "pageTitles": {
+                        "selectDate": "Selecione uma data ↓",
                         "prayers": "Orações",
                         "settings": "Parâmetros",
                         "commonPrayers": "Orações comuns",

@@ -31,9 +31,10 @@ export default function Index() {
   return (
       <View style={styles.container}>
           <ScrollView style={styles.scrollView} horizontal={false}>
+              <Text style={styles.heading2}>{i18n.t("pageTitles.selectDate")}</Text>
               <Orthocal></Orthocal>
               <View style = {styles.container}>
-                <Text style={[styles.heading, {marginTop: 50,}]}>{i18n.t("pageTitles.commonPrayers")}</Text>
+                <Text style={styles.heading}>{i18n.t("pageTitles.commonPrayers")}</Text>
                 <CommonSlider itemList={ImageSlider} />
                 {/* <NavButton label={i18n.t("pageTitles.morningPrayers")} hasIcon={true} icon="sunrise" onPress={() => router.push("/home/prayers/morning-prayers")} />
                     <NavButton label={i18n.t("pageTitles.throughDayPrayers")} hasIcon={true} icon="sun" onPress={() => router.push("/home/prayers/through-day-prayers")} />
@@ -94,4 +95,11 @@ const styles = StyleSheet.create({
       marginBottom: 20,
       marginTop: 30,
   },
+  heading2: {
+    color: '#999',
+    fontSize: 18,
+    textAlign: 'center',
+    marginTop: 20,
+    marginBottom: -30,
+  }
 });
