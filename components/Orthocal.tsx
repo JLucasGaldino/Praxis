@@ -235,6 +235,8 @@ const Orthocal = () => {
                             mode={mode}
                             is24Hour={true}
                             onChange={onChange}
+                            minimumDate={new Date(2024, 8, 28)}
+                            maximumDate={new Date(2025, 3, 26)}
                         />
                     )}
                 </Pressable>
