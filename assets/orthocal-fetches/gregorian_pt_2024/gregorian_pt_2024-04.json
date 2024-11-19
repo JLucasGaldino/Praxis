@@ -1,0 +1,2005 @@
+[
+  {
+    "pascha_distance": -34,
+    "julian_day_number": 2460402,
+    "year": 2024,
+    "month": 4,
+    "day": 1,
+    "weekday": 1,
+    "tone": 2,
+    "titles": [
+      "Segunda-feira da Terceira Semana da Quaresma"
+    ],
+    "summary_title": "Ven. Eutímio de Suzdal",
+    "feast_level": 3,
+    "feast_level_description": "Squigg vermelho (símbolo doxologia typikon)",
+    "feasts": null,
+    "fast_level": 2,
+    "fast_level_desc": "Jejum da Quaresma",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Ven. Eutímio de Suzdal",
+      "Nossa Santa Mãe Maria do Egito (séc. IV-VI)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1,
+      2
+    ],
+    "readings": [
+      {
+        "source": "6ª hora",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Isaías 8.13-9.7",
+        "short_display": "Um 8,13-9,7",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Gênesis 6.9-22",
+        "short_display": "Gen 6.9-22",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Provérbios 8.1-21",
+        "short_display": "Pv 8.1-21",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": -33,
+    "julian_day_number": 2460403,
+    "year": 2024,
+    "month": 4,
+    "day": 2,
+    "weekday": 2,
+    "tone": 2,
+    "titles": [
+      "Terça-feira da Terceira Semana da Quaresma"
+    ],
+    "summary_title": "Ven. Tito, o Wonderworker",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 2,
+    "fast_level_desc": "Jejum da Quaresma",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Ven. Tito, o Wonderworker",
+      "Santos Mártires Anfiano e Aedésio (ca. 306)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1,
+      2
+    ],
+    "readings": [
+      {
+        "source": "6ª hora",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Isaías 9.9-10.4",
+        "short_display": "Um 9,9-10,4",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Gênesis 7.1-5",
+        "short_display": "Gen 7.1-5",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Provérbios 8.32-9.11",
+        "short_display": "Pv 8.32-9.11",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": -32,
+    "julian_day_number": 2460404,
+    "year": 2024,
+    "month": 4,
+    "day": 3,
+    "weekday": 3,
+    "tone": 2,
+    "titles": [
+      "Quarta-feira da Terceira Semana da Quaresma"
+    ],
+    "summary_title": "Sex. Nicetas, a Confessora",
+    "feast_level": 1,
+    "feast_level_description": "Pré-santificado",
+    "feasts": null,
+    "fast_level": 2,
+    "fast_level_desc": "Jejum da Quaresma",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Sex. Nicetas, a Confessora",
+      "São José, o Hinógrafo (886)",
+      "São Serafim de Vyritsa (1949) (21 de março OC)"
+    ],
+    "service_notes": [
+      "Liturgia Pré-Santificada"
+    ],
+    "abbreviated_reading_indices": [
+      0,
+      1,
+      2
+    ],
+    "readings": [
+      {
+        "source": "6ª hora",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Isaías 10.12-20",
+        "short_display": "Um 10.12-20",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Gênesis 7.6-9",
+        "short_display": "Gen 7.6-9",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Provérbios 9.12-18 (LXX)",
+        "short_display": "Pv 9.12-18",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": -31,
+    "julian_day_number": 2460405,
+    "year": 2024,
+    "month": 4,
+    "day": 4,
+    "weekday": 4,
+    "tone": 2,
+    "titles": [
+      "Quinta-feira da Terceira Semana da Quaresma"
+    ],
+    "summary_title": "Ven. José, o Hinógrafo",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 2,
+    "fast_level_desc": "Jejum da Quaresma",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Ven. José, o Hinógrafo",
+      "São Zózimo, monge, da Palestina (523)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1,
+      2
+    ],
+    "readings": [
+      {
+        "source": "6ª hora",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Isaías 11.10-12.2",
+        "short_display": "Um 11.10-12.2",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Gênesis 7.11-8.3",
+        "short_display": "Gen 7.11-8.3",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Provérbios 10.1-22",
+        "short_display": "Pv 10.1-22",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": -30,
+    "julian_day_number": 2460406,
+    "year": 2024,
+    "month": 4,
+    "day": 5,
+    "weekday": 5,
+    "tone": 2,
+    "titles": [
+      "Sexta-feira da Terceira Semana da Quaresma"
+    ],
+    "summary_title": "Mártires Agátopedes, Teódulo e seus companheiros",
+    "feast_level": 1,
+    "feast_level_description": "Pré-santificado",
+    "feasts": null,
+    "fast_level": 2,
+    "fast_level_desc": "Jejum da Quaresma",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Mártires Agátopedes, Teódulo e seus companheiros",
+      "Nosso Santo Padre Marcos de Trache (ca. 400)"
+    ],
+    "service_notes": [
+      "Liturgia Pré-Santificada"
+    ],
+    "abbreviated_reading_indices": [
+      0,
+      1,
+      2
+    ],
+    "readings": [
+      {
+        "source": "6ª hora",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Isaías 13.2-13",
+        "short_display": "Um 13,2-13",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Gênesis 8.4-21",
+        "short_display": "Gen 8.4-21",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Provérbios 10.31-11.12",
+        "short_display": "Pv 10.31-11.12",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": -29,
+    "julian_day_number": 2460407,
+    "year": 2024,
+    "month": 4,
+    "day": 6,
+    "weekday": 6,
+    "tone": 2,
+    "titles": [
+      "Terceiro Sábado da Quaresma"
+    ],
+    "summary_title": "Sábado Memorial",
+    "feast_level": 4,
+    "feast_level_description": "Cruz vermelha (símbolo polyeleos typikon)",
+    "feasts": [
+      "Sábado Memorial"
+    ],
+    "fast_level": 2,
+    "fast_level_desc": "Jejum da Quaresma",
+    "fast_exception": 3,
+    "fast_exception_desc": "Vinho e azeite são permitidos",
+    "saints": [
+      "São Metódio, Iluminador dos Eslavos",
+      "Santo Eutíquio, patriarca de Constantinopla (582)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      2
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Hebreus 10.32-38",
+        "short_display": "Tem 10,32-38",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "Partiu",
+        "display": "1 Tessalonicenses 4.13-17",
+        "short_display": "1 Tessalonicenses 4.13-17",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Marca",
+        "description": "",
+        "display": "Marcos 2.14-17",
+        "short_display": "Marcos 2.14-17",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "John",
+        "description": "Partiu",
+        "display": "João 5.24-30",
+        "short_display": "João 5.24-30",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": -28,
+    "julian_day_number": 2460408,
+    "year": 2024,
+    "month": 4,
+    "day": 7,
+    "weekday": 0,
+    "tone": 3,
+    "titles": [
+      "Terceiro Domingo da Quaresma"
+    ],
+    "summary_title": "Terceiro Domingo da Quaresma",
+    "feast_level": 4,
+    "feast_level_description": "Cruz vermelha (símbolo polyeleos typikon)",
+    "feasts": [
+      "Veneração da Preciosa Cruz",
+      "Repouso São Tikhon, Patriarca de Moscou, Iluminista da América do Norte"
+    ],
+    "fast_level": 2,
+    "fast_level_desc": "Jejum da Quaresma",
+    "fast_exception": 3,
+    "fast_exception_desc": "Vinho e azeite são permitidos",
+    "saints": [
+      "Santo Mártir Calíópio, com sua mãe Teoclea (304)",
+      "São Jorge, o Confessor, bispo de Mitilene (ca. 820)",
+      "São Nilo (Nil Sorsky), abade de Sora (1508)",
+      "São Savvas, o Novo de Kalymnos (1948) (25 de março OC)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      4,
+      6
+    ],
+    "readings": [
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "São Tikhon",
+        "display": "Sabedoria de Salomão 3.1-9",
+        "short_display": "Já 3.1-9",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "São Tikhon",
+        "display": "Sabedoria de Salomão 5.15-6.3",
+        "short_display": "Já 5,15-6,3",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "São Tikhon",
+        "display": "Sabedoria de Salomão 4.7-15",
+        "short_display": "Já 4,7-15",
+        "passage": null
+      },
+      {
+        "source": "11º Evangelho das Matinas",
+        "book": "John",
+        "description": "",
+        "display": "João 21.15-25",
+        "short_display": "João 21.15-25",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Hebreus 4.14-5.6",
+        "short_display": "Obteve 4,14-5,6",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "São Tikhon",
+        "display": "Hebreus 7.26-8.2",
+        "short_display": "Tem 7,26-8,2",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Marca",
+        "description": "",
+        "display": "Marcos 8,34-9,1",
+        "short_display": "Marcos 8,34-9,1",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "John",
+        "description": "São Tikhon",
+        "display": "João 10.9-16",
+        "short_display": "João 10.9-16",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": -27,
+    "julian_day_number": 2460409,
+    "year": 2024,
+    "month": 4,
+    "day": 8,
+    "weekday": 1,
+    "tone": 3,
+    "titles": [
+      "Segunda-feira da Quarta Semana da Quaresma"
+    ],
+    "summary_title": "Apóstolos dos Setenta Herodion, Ágabo, Asíncrito, Rufuf, Phlegon, Hermes",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 2,
+    "fast_level_desc": "Jejum da Quaresma",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Apóstolos dos Setenta Herodion, Ágabo, Asíncrito, Rufuf, Phlegon, Hermes",
+      "São Celestino, Papa de Roma (432)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1,
+      2
+    ],
+    "readings": [
+      {
+        "source": "6ª hora",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Isaías 14.24-32",
+        "short_display": "Is 14.24-32",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Gênesis 8.21-9.7",
+        "short_display": "Gen 8.21-9.7",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Provérbios 11.19-12.6",
+        "short_display": "Pv 11.19-12.6",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": -26,
+    "julian_day_number": 2460410,
+    "year": 2024,
+    "month": 4,
+    "day": 9,
+    "weekday": 2,
+    "tone": 3,
+    "titles": [
+      "Terça-feira da Quarta Semana da Quaresma"
+    ],
+    "summary_title": "Mártir Eupsíquio de Cesaréia na Capadócia",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 2,
+    "fast_level_desc": "Jejum da Quaresma",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Mártir Eupsíquio de Cesaréia na Capadócia"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1,
+      2
+    ],
+    "readings": [
+      {
+        "source": "6ª hora",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Isaías 25.1-9",
+        "short_display": "Um 25,1-9",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Gênesis 9.8-17",
+        "short_display": "Gen 9.8-17",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Provérbios 12.8-22",
+        "short_display": "Pv 12.8-22",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": -25,
+    "julian_day_number": 2460411,
+    "year": 2024,
+    "month": 4,
+    "day": 10,
+    "weekday": 3,
+    "tone": 3,
+    "titles": [
+      "Quarta-feira da Quarta Semana da Quaresma"
+    ],
+    "summary_title": "Mártires Terêncio, Pompeu, Africano e Companheiros",
+    "feast_level": 1,
+    "feast_level_description": "Pré-santificado",
+    "feasts": null,
+    "fast_level": 2,
+    "fast_level_desc": "Jejum da Quaresma",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Mártires Terêncio, Pompeu, Africano e Companheiros",
+      "Seis Mil Santos Mártires na Geórgia (1615)",
+      "Novo Hieromártir Gregório, Patriarca de Constantinopla (1821)"
+    ],
+    "service_notes": [
+      "Liturgia Pré-Santificada"
+    ],
+    "abbreviated_reading_indices": [
+      0,
+      1,
+      2
+    ],
+    "readings": [
+      {
+        "source": "6ª hora",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Isaías 26.21-27.9",
+        "short_display": "Um 26,21-27,9",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Gênesis 9.18-10.1",
+        "short_display": "Gen 9.18-10.1",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Provérbios 12.23-13.9 (LXX)",
+        "short_display": "Pv 12.23-13.9",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": -24,
+    "julian_day_number": 2460412,
+    "year": 2024,
+    "month": 4,
+    "day": 11,
+    "weekday": 4,
+    "tone": 3,
+    "titles": [
+      "Quinta-feira da Quarta Semana da Quaresma"
+    ],
+    "summary_title": "Hieromártir Antipas, Bispo de Pérgamo",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 2,
+    "fast_level_desc": "Jejum da Quaresma",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Hieromártir Antipas, Bispo de Pérgamo",
+      "Santos Mártires Processus e Martiniano (1º c.)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1,
+      2
+    ],
+    "readings": [
+      {
+        "source": "6ª hora",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Isaías 28.14-22",
+        "short_display": "Is 28.14-22",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Gênesis 10.32-11.9",
+        "short_display": "Gen 10.32-11.9",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Provérbios 13.19-14.6",
+        "short_display": "Pv 13.19-14.6",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": -23,
+    "julian_day_number": 2460413,
+    "year": 2024,
+    "month": 4,
+    "day": 12,
+    "weekday": 5,
+    "tone": 3,
+    "titles": [
+      "Sexta-feira da Quarta Semana da Quaresma"
+    ],
+    "summary_title": "São Basílio, o Confessor, Bispo de Parium",
+    "feast_level": 1,
+    "feast_level_description": "Pré-santificado",
+    "feasts": null,
+    "fast_level": 2,
+    "fast_level_desc": "Jejum da Quaresma",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "São Basílio, o Confessor, Bispo de Parium",
+      "São Isaac, o Sírio, abade de Spoleto, Itália (ca. 550)",
+      "Nossa Santa Mãe Atanásia (860)"
+    ],
+    "service_notes": [
+      "Liturgia Pré-Santificada"
+    ],
+    "abbreviated_reading_indices": [
+      0,
+      1,
+      2
+    ],
+    "readings": [
+      {
+        "source": "6ª hora",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Isaías 29.13-23",
+        "short_display": "Is 29.13-23",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Gênesis 12.1-7",
+        "short_display": "Gen 12.1-7",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Provérbios 14.15-26",
+        "short_display": "Pv 14.15-26",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": -22,
+    "julian_day_number": 2460414,
+    "year": 2024,
+    "month": 4,
+    "day": 13,
+    "weekday": 6,
+    "tone": 3,
+    "titles": [
+      "Quarto sábado da Quaresma"
+    ],
+    "summary_title": "Sábado Memorial",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": [
+      "Sábado Memorial"
+    ],
+    "fast_level": 2,
+    "fast_level_desc": "Jejum da Quaresma",
+    "fast_exception": 3,
+    "fast_exception_desc": "Vinho e azeite são permitidos",
+    "saints": [
+      "Hieromártir Artemon, Presbítero de Laodicéia",
+      "São Martinho, o Confessor, papa de Roma (655)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      2
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Hebreus 6.9-12",
+        "short_display": "Obteve 6,9-12",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "Partiu",
+        "display": "1 Corinthians 15.47-57",
+        "short_display": "1 Cor 15.47-57",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Marca",
+        "description": "",
+        "display": "Marcos 7.31-37",
+        "short_display": "Marcos 7.31-37",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "John",
+        "description": "Partiu",
+        "display": "João 5.24-30",
+        "short_display": "João 5.24-30",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": -21,
+    "julian_day_number": 2460415,
+    "year": 2024,
+    "month": 4,
+    "day": 14,
+    "weekday": 0,
+    "tone": 4,
+    "titles": [
+      "Quarto Domingo da Quaresma"
+    ],
+    "summary_title": "Quarto Domingo da Quaresma",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": [
+      "São João Clímaco"
+    ],
+    "fast_level": 2,
+    "fast_level_desc": "Jejum da Quaresma",
+    "fast_exception": 3,
+    "fast_exception_desc": "Vinho e azeite são permitidos",
+    "saints": [
+      "São Martinho, o Confessor, Papa de Roma",
+      "Apóstolos Aristarco, Pudens e Trófimo dos Setenta",
+      "Santo Mártir Ardalion, o Ator (3º c.)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      1,
+      3
+    ],
+    "readings": [
+      {
+        "source": "1ª Matinas Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 28.16-20",
+        "short_display": "Mateus 28.16-20",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Hebreus 6.13-20",
+        "short_display": "Tem 6.13-20",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "São João",
+        "display": "Efésios 5.8-19",
+        "short_display": "Ef 5.8-19",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Marca",
+        "description": "",
+        "display": "Marcos 9.17-31",
+        "short_display": "Marcos 9.17-31",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "São João",
+        "display": "Mateus 4.25-5.12",
+        "short_display": "Mateus 4.25-5.12",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": -20,
+    "julian_day_number": 2460416,
+    "year": 2024,
+    "month": 4,
+    "day": 15,
+    "weekday": 1,
+    "tone": 4,
+    "titles": [
+      "Segunda-feira da Quinta Semana da Quaresma"
+    ],
+    "summary_title": "Apóstolos dos Setenta Aristarco, Pudens e Trófimo",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 2,
+    "fast_level_desc": "Jejum da Quaresma",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Apóstolos dos Setenta Aristarco, Pudens e Trófimo",
+      "Santo Mártir Sabbas, o Gótico (372)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1,
+      2
+    ],
+    "readings": [
+      {
+        "source": "6ª hora",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Isaías 37.33-38.6",
+        "short_display": "Um 37,33-38,6",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Gênesis 13.12-18",
+        "short_display": "Gen 13.12-18",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Provérbios 14.27-15.4",
+        "short_display": "Pv 14.27-15.4",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": -19,
+    "julian_day_number": 2460417,
+    "year": 2024,
+    "month": 4,
+    "day": 16,
+    "weekday": 2,
+    "tone": 4,
+    "titles": [
+      "Terça-feira da Quinta Semana da Quaresma"
+    ],
+    "summary_title": "Virgem Mártires Ágape, Irene e Chionia",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 2,
+    "fast_level_desc": "Jejum da Quaresma",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Virgem Mártires Ágape, Irene e Chionia"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1,
+      2
+    ],
+    "readings": [
+      {
+        "source": "6ª hora",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Isaías 40.18-31",
+        "short_display": "Is 40.18-31",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Gênesis 15.1-15",
+        "short_display": "Gen 15.1-15",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Provérbios 15.7-19",
+        "short_display": "Pv 15.7-19",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": -18,
+    "julian_day_number": 2460418,
+    "year": 2024,
+    "month": 4,
+    "day": 17,
+    "weekday": 3,
+    "tone": 4,
+    "titles": [
+      "Quarta-feira da Quinta Semana da Quaresma"
+    ],
+    "summary_title": "Ven. Zósima de Solovetsk",
+    "feast_level": 3,
+    "feast_level_description": "Squigg vermelho (símbolo doxologia typikon)",
+    "feasts": null,
+    "fast_level": 2,
+    "fast_level_desc": "Jejum da Quaresma",
+    "fast_exception": 3,
+    "fast_exception_desc": "Vinho e azeite são permitidos",
+    "saints": [
+      "Ven. Zósima de Solovetsk",
+      "Hieromártir Simeão, bispo na Pérsia, e aqueles que estavam com ele (343)"
+    ],
+    "service_notes": [
+      "Liturgia Pré-Santificada"
+    ],
+    "abbreviated_reading_indices": [
+      0,
+      1,
+      2
+    ],
+    "readings": [
+      {
+        "source": "6ª hora",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Isaías 41.4-14",
+        "short_display": "Um 41,4-14",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Gênesis 17.1-9",
+        "short_display": "Gen 17.1-9",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Provérbios 15.20-16.9 (LXX)",
+        "short_display": "Pv 15.20-16.9",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": -17,
+    "julian_day_number": 2460419,
+    "year": 2024,
+    "month": 4,
+    "day": 18,
+    "weekday": 4,
+    "tone": 4,
+    "titles": [
+      "Quinta-feira da Quinta Semana da Quaresma"
+    ],
+    "summary_title": "Grande Cânone de Santo André de Creta",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": [
+      "Grande Cânone de Santo André de Creta"
+    ],
+    "fast_level": 2,
+    "fast_level_desc": "Jejum da Quaresma",
+    "fast_exception": 3,
+    "fast_exception_desc": "Vinho e azeite são permitidos",
+    "saints": [
+      "Liturgia Pré-Santificada",
+      "Ven. João, discípulo de Gregório Decapolitas",
+      "O Santo Mártir João, o Novo de Ioannina (1526)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1,
+      2
+    ],
+    "readings": [
+      {
+        "source": "6ª hora",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Isaías 42.5-16",
+        "short_display": "Um 42,5-16",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Gênesis 18.20-33",
+        "short_display": "Gen 18.20-33",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Provérbios 16.17-17.17",
+        "short_display": "Pv 16.17-17.17",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": -16,
+    "julian_day_number": 2460420,
+    "year": 2024,
+    "month": 4,
+    "day": 19,
+    "weekday": 5,
+    "tone": 4,
+    "titles": [
+      "Sexta-feira da Quinta Semana da Quaresma"
+    ],
+    "summary_title": "Ven. João das Cavernas Antigas na Palestina",
+    "feast_level": 1,
+    "feast_level_description": "Pré-santificado",
+    "feasts": null,
+    "fast_level": 2,
+    "fast_level_desc": "Jejum da Quaresma",
+    "fast_exception": 3,
+    "fast_exception_desc": "Vinho e azeite são permitidos",
+    "saints": [
+      "Ven. João das Cavernas Antigas na Palestina",
+      "Nosso Santo Padre Agathangelos (1819)"
+    ],
+    "service_notes": [
+      "Liturgia Pré-Santificada"
+    ],
+    "abbreviated_reading_indices": [
+      0,
+      1,
+      2
+    ],
+    "readings": [
+      {
+        "source": "6ª hora",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Isaías 45.11-17",
+        "short_display": "Is 45.11-17",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Gênesis 22.1-18",
+        "short_display": "Gen 22.1-18",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Provérbios 17.17-18.5",
+        "short_display": "Provérbios 17.17-18.5",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": -15,
+    "julian_day_number": 2460421,
+    "year": 2024,
+    "month": 4,
+    "day": 20,
+    "weekday": 6,
+    "tone": 4,
+    "titles": [
+      "Quinto Sábado da Quaresma"
+    ],
+    "summary_title": "Sábado do Akathist ao Santíssimo Theotokos",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": [
+      "Sábado do Akathist ao Santíssimo Theotokos"
+    ],
+    "fast_level": 2,
+    "fast_level_desc": "Jejum da Quaresma",
+    "fast_exception": 3,
+    "fast_exception_desc": "Vinho e azeite são permitidos",
+    "saints": [
+      "Eles. Teodoro Trichinus",
+      "Santo Apóstolo Zaqueu"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      2
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Hebreus 9.24-28",
+        "short_display": "Obteve 9,24-28",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "Theotokos",
+        "display": "Hebreus 9.1-7",
+        "short_display": "Tenha 9,1-7",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Marca",
+        "description": "",
+        "display": "Marcos 8.27-31",
+        "short_display": "Marcos 8.27-31",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "Theotokos",
+        "display": "Lucas 10.38-42, 11.27-28",
+        "short_display": "Lucas 10.38-42, 11.27-28",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": -14,
+    "julian_day_number": 2460422,
+    "year": 2024,
+    "month": 4,
+    "day": 21,
+    "weekday": 0,
+    "tone": 5,
+    "titles": [
+      "Quinto Domingo da Quaresma"
+    ],
+    "summary_title": "Quinto Domingo da Quaresma",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": [
+      "Santa Maria do Egito"
+    ],
+    "fast_level": 2,
+    "fast_level_desc": "Jejum da Quaresma",
+    "fast_exception": 3,
+    "fast_exception_desc": "Vinho e azeite são permitidos",
+    "saints": [
+      "Hieromártir Januário e Companheiros"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      1,
+      3
+    ],
+    "readings": [
+      {
+        "source": "2ª Matinas Evangelho",
+        "book": "Marca",
+        "description": "",
+        "display": "Marcos 16.1-8",
+        "short_display": "Marcos 16.1-8",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Hebreus 9.11-14",
+        "short_display": "Tem 9.11-14",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "Santa Maria",
+        "display": "Gálatas 3.23-29",
+        "short_display": "Gl 3.23-29",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Marca",
+        "description": "",
+        "display": "Marcos 10.32-45",
+        "short_display": "Marcos 10.32-45",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "Santa Maria",
+        "display": "Lucas 7.36-50",
+        "short_display": "Lucas 7.36-50",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": -13,
+    "julian_day_number": 2460423,
+    "year": 2024,
+    "month": 4,
+    "day": 22,
+    "weekday": 1,
+    "tone": 5,
+    "titles": [
+      "Segunda-feira da Sexta Semana da Quaresma"
+    ],
+    "summary_title": "São Teodoro, o Sykeote",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 2,
+    "fast_level_desc": "Jejum da Quaresma",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "São Teodoro, o Sykeote",
+      "Santo Mártir Leônidas (202)",
+      "Nosso Santo Padre, o monge Vitalis"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1,
+      2
+    ],
+    "readings": [
+      {
+        "source": "6ª hora",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Isaías 48.17-49.4",
+        "short_display": "Um 48,17-49,4",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Gênesis 27.1-41",
+        "short_display": "Gen 27.1-41",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Provérbios 19.16-25",
+        "short_display": "Pv 19.16-25",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "São Jorge",
+        "display": "Isaías 43.9-14",
+        "short_display": "Um 43,9-14",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "São Jorge",
+        "display": "Sabedoria de Salomão 3.1-9",
+        "short_display": "Já 3.1-9",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "São Jorge",
+        "display": "Sabedoria de Salomão 4.7-15",
+        "short_display": "Já 4,7-15",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": -12,
+    "julian_day_number": 2460424,
+    "year": 2024,
+    "month": 4,
+    "day": 23,
+    "weekday": 2,
+    "tone": 5,
+    "titles": [
+      "Terça-feira da Sexta Semana da Quaresma"
+    ],
+    "summary_title": "Santo Grande Mártir, Vitorioso e Wonderworker George",
+    "feast_level": 5,
+    "feast_level_description": "Semicírculo da cruz vermelha (símbolo vigília typikon)",
+    "feasts": [
+      "Santo Grande Mártir, Vitorioso e Wonderworker George"
+    ],
+    "fast_level": 2,
+    "fast_level_desc": "Jejum da Quaresma",
+    "fast_exception": 1,
+    "fast_exception_desc": "Vinho e azeite são permitidos",
+    "saints": null,
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      4,
+      5
+    ],
+    "readings": [
+      {
+        "source": "Manhãs Evangélicas",
+        "book": "Lucas",
+        "description": "São Jorge",
+        "display": "Lucas 12.2-12",
+        "short_display": "Lucas 12.2-12",
+        "passage": null
+      },
+      {
+        "source": "6ª hora",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Isaías 49.6-10",
+        "short_display": "Um 49,6-10",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Gênesis 31.3-16",
+        "short_display": "Gen 31.3-16",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Provérbios 21.3-21",
+        "short_display": "Pv 21.3-21",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "São Jorge",
+        "display": "Atos 12.1-11",
+        "short_display": "Atos 12.1-11",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "John",
+        "description": "São Jorge",
+        "display": "João 15.17-16.2",
+        "short_display": "João 15.17-16.2",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": -11,
+    "julian_day_number": 2460425,
+    "year": 2024,
+    "month": 4,
+    "day": 24,
+    "weekday": 3,
+    "tone": 5,
+    "titles": [
+      "Quarta-feira da Sexta Semana da Quaresma"
+    ],
+    "summary_title": "Mártir Savvas Stratilatis",
+    "feast_level": 1,
+    "feast_level_description": "Pré-santificado",
+    "feasts": null,
+    "fast_level": 2,
+    "fast_level_desc": "Jejum da Quaresma",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Mártir Savvas Stratilatis"
+    ],
+    "service_notes": [
+      "Liturgia Pré-Santificada"
+    ],
+    "abbreviated_reading_indices": [
+      0,
+      1,
+      2
+    ],
+    "readings": [
+      {
+        "source": "6ª hora",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Isaías 58.1-11",
+        "short_display": "Um 58,1-11",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Gênesis 43.26-31, 45.1-16",
+        "short_display": "Gen 43.26-31, 45.1-16",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Provérbios 21.23-22.4",
+        "short_display": "Pv 21.23-22.4",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Apóstolo",
+        "description": "São Marcos",
+        "display": "Tiago 1.1-12",
+        "short_display": "Tg 1.1-12",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Apóstolo",
+        "description": "São Marcos",
+        "display": "Tiago 1.13-27",
+        "short_display": "Tg 1.13-27",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Apóstolo",
+        "description": "São Marcos",
+        "display": "Tiago 2.1-13",
+        "short_display": "Tg 2.1-13",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": -10,
+    "julian_day_number": 2460426,
+    "year": 2024,
+    "month": 4,
+    "day": 25,
+    "weekday": 4,
+    "tone": 5,
+    "titles": [
+      "Quinta-feira da Sexta Semana da Quaresma"
+    ],
+    "summary_title": "Santo Apóstolo e Evangelista Marcos",
+    "feast_level": 4,
+    "feast_level_description": "Cruz vermelha (símbolo polyeleos typikon)",
+    "feasts": [
+      "Santo Apóstolo e Evangelista Marcos"
+    ],
+    "fast_level": 2,
+    "fast_level_desc": "Jejum da Quaresma",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Santo Ananias, segundo bispo de Alexandria (séc. I)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      4,
+      5
+    ],
+    "readings": [
+      {
+        "source": "Manhãs Evangélicas",
+        "book": "Lucas",
+        "description": "São Marcos",
+        "display": "Lucas 10.1-15",
+        "short_display": "Lucas 10.1-15",
+        "passage": null
+      },
+      {
+        "source": "6ª hora",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Isaías 65.8-16",
+        "short_display": "Um 65,8-16",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Gênesis 46.1-7",
+        "short_display": "Gen 46.1-7",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Provérbios 23.15-24.5",
+        "short_display": "Pv 23.15-24.5",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "São Marcos",
+        "display": "1 Pedro 5.6-14",
+        "short_display": "1 Animal de estimação 5,6-14",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Marca",
+        "description": "São Marcos",
+        "display": "Marcos 6.7-13",
+        "short_display": "Marcos 6.7-13",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": -9,
+    "julian_day_number": 2460427,
+    "year": 2024,
+    "month": 4,
+    "day": 26,
+    "weekday": 5,
+    "tone": 5,
+    "titles": [
+      "Sexta-feira da Sexta Semana da Quaresma"
+    ],
+    "summary_title": "Santo Estêvão, Bispo de Perm",
+    "feast_level": 3,
+    "feast_level_description": "Squigg vermelho (símbolo doxologia typikon)",
+    "feasts": null,
+    "fast_level": 2,
+    "fast_level_desc": "Jejum da Quaresma",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Santo Estêvão, Bispo de Perm",
+      "Hieromártir Basílio, bispo de Amasia e da Justa Virgem Glaphyra (322)"
+    ],
+    "service_notes": [
+      "Liturgia Pré-Santificada"
+    ],
+    "abbreviated_reading_indices": [
+      0,
+      1,
+      2
+    ],
+    "readings": [
+      {
+        "source": "6ª hora",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Isaías 66.10-24",
+        "short_display": "Um 66,10-24",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Gênesis 49.33-50.26",
+        "short_display": "Gen 49.33-50.26",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Provérbios 31.8-31",
+        "short_display": "Pv 31.8-31",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": -8,
+    "julian_day_number": 2460428,
+    "year": 2024,
+    "month": 4,
+    "day": 27,
+    "weekday": 6,
+    "tone": 0,
+    "titles": [
+      "Lázaro sábado"
+    ],
+    "summary_title": "Lázaro sábado",
+    "feast_level": 2,
+    "feast_level_description": "Squigg preto (símbolo typikon de 6 pontos)",
+    "feasts": null,
+    "fast_level": 2,
+    "fast_level_desc": "Jejum da Quaresma",
+    "fast_exception": 6,
+    "fast_exception_desc": "Vinho, azeite e caviar são permitidos",
+    "saints": [
+      "Hieromártir Simeão, Parente do Senhor",
+      "Nosso Santo Padre Estêvão, Abade das Cavernas de Kiev e Bispo de Vladimir (1094)",
+      "Queima das relíquias de São Sava I da Sérvia pelos turcos (1594)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Hebreus 12.28-13.8",
+        "short_display": "Obteve 12,28-13,8",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "John",
+        "description": "",
+        "display": "João 11.1-45",
+        "short_display": "João 11.1-45",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": -7,
+    "julian_day_number": 2460429,
+    "year": 2024,
+    "month": 4,
+    "day": 28,
+    "weekday": 0,
+    "tone": 0,
+    "titles": [
+      "Domingo de Ramos: Entrada de Nosso Senhor em Jerusalém"
+    ],
+    "summary_title": "Domingo de Ramos: Entrada de Nosso Senhor em Jerusalém",
+    "feast_level": 8,
+    "feast_level_description": "Festa principal Senhor",
+    "feasts": null,
+    "fast_level": 2,
+    "fast_level_desc": "Jejum da Quaresma",
+    "fast_exception": 4,
+    "fast_exception_desc": "Peixe, vinho e azeite são permitidos",
+    "saints": [
+      "Apóstolos Jasão e Sosípatro dos Setenta",
+      "Os Nove Mártires em Cízico (3º c.)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      4,
+      5
+    ],
+    "readings": [
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Gênesis 49.1-2, 8-12",
+        "short_display": "Gen 49.1-2, 8-12",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Sofonias 3.14-19",
+        "short_display": "Sof 3.14-19",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Zacarias 9.9-15",
+        "short_display": "Zc 9.9-15",
+        "passage": null
+      },
+      {
+        "source": "Manhãs Evangélicas",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 21.1-11, 15-17",
+        "short_display": "Mateus 21.1-11, 15-17",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Filipenses 4.4-9",
+        "short_display": "Fil 4.4-9",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "John",
+        "description": "",
+        "display": "João 12.1-18",
+        "short_display": "João 12.1-18",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": -6,
+    "julian_day_number": 2460430,
+    "year": 2024,
+    "month": 4,
+    "day": 29,
+    "weekday": 1,
+    "tone": 0,
+    "titles": [
+      "Ótima e Santa Segunda-feira"
+    ],
+    "summary_title": "Ótima e Santa Segunda-feira",
+    "feast_level": 1,
+    "feast_level_description": "Pré-santificado",
+    "feasts": null,
+    "fast_level": 2,
+    "fast_level_desc": "Jejum da Quaresma",
+    "fast_exception": 10,
+    "fast_exception_desc": "Sem substituições",
+    "saints": [
+      "Nove Mártires em Cízico",
+      "São Basílio, bispo de Ostrog em Montenegro (Sérvia) (1671)"
+    ],
+    "service_notes": [
+      "Liturgia Pré-Santificada"
+    ],
+    "abbreviated_reading_indices": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "readings": [
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "Noivo",
+        "display": "Mateus 21.18-43",
+        "short_display": "Mateus 21.18-43",
+        "passage": null
+      },
+      {
+        "source": "6ª hora",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Ezequiel 1.1-20",
+        "short_display": "Ezequiel 1.1-20",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Êxodo 1.1-20",
+        "short_display": "Êxodo 1.1-20",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Trabalho 1.1-12",
+        "short_display": "Trabalho 1.1-12",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "Pré-santificado",
+        "display": "Mateus 24.3-35",
+        "short_display": "Mateus 24.3-35",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": -5,
+    "julian_day_number": 2460431,
+    "year": 2024,
+    "month": 4,
+    "day": 30,
+    "weekday": 2,
+    "tone": 0,
+    "titles": [
+      "Grande e Santa Terça-feira"
+    ],
+    "summary_title": "Grande e Santa Terça-feira",
+    "feast_level": 4,
+    "feast_level_description": "Cruz vermelha (símbolo polyeleos typikon)",
+    "feasts": [
+      "Santo Apóstolo Tiago, Irmão de São João"
+    ],
+    "fast_level": 2,
+    "fast_level_desc": "Jejum da Quaresma",
+    "fast_exception": 10,
+    "fast_exception_desc": "Sem substituições",
+    "saints": [
+      "Santo Inácio (Brianchaninov), Bispo de Stavropol e Kavkaz (1867)"
+    ],
+    "service_notes": [
+      "Liturgia Pré-Santificada"
+    ],
+    "abbreviated_reading_indices": [
+      0,
+      1,
+      2,
+      3,
+      9
+    ],
+    "readings": [
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "Noivo",
+        "display": "Mateus 22.15-23.39",
+        "short_display": "Mateus 22.15-23.39",
+        "passage": null
+      },
+      {
+        "source": "6ª hora",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Ezequiel 1.21-28 (-2.1 LXX)",
+        "short_display": "Estes são 1,21-28 (LXX)",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Êxodo 2,5-10",
+        "short_display": "Êxodo 2.5-10",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Jó 1.13-22",
+        "short_display": "Jó 1.13-22",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Apóstolo",
+        "description": "São Tiago",
+        "display": "Tiago 1.1-12",
+        "short_display": "Tg 1.1-12",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Apóstolo",
+        "description": "São Tiago",
+        "display": "Tiago 1.13-27",
+        "short_display": "Tg 1.13-27",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Apóstolo",
+        "description": "São Tiago",
+        "display": "Tiago 2.1-13",
+        "short_display": "Tg 2.1-13",
+        "passage": null
+      },
+      {
+        "source": "Manhãs Evangélicas",
+        "book": "John",
+        "description": "",
+        "display": "João 21.15-25",
+        "short_display": "João 21.15-25",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "São Tiago",
+        "display": "Atos 12.1-11",
+        "short_display": "Atos 12.1-11",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "Pré-santificado",
+        "display": "Mateus 24.36-26.2",
+        "short_display": "Mateus 24.36-26.2",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "São Tiago",
+        "display": "Lucas 5.1-11",
+        "short_display": "Lucas 5.1-11",
+        "passage": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,2261 @@
+[
+    {
+        "pascha_distance": -11,
+        "julian_day_number": 2461132,
+        "year": 2026,
+        "month": 3,
+        "day": 19,
+        "weekday": 3,
+        "tone": 1,
+        "titles": [
+            "Wednesday of the Sixth Week of Lent"
+        ],
+        "summary_title": "Martyrs Chrysanthius and Daria",
+        "feast_level": 1,
+        "feast_level_description": "Presanctified",
+        "feasts": null,
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Martyrs Chrysanthius and Daria"
+        ],
+        "service_notes": [
+            "Presanctified Liturgy"
+        ],
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "6th Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 58.1-11",
+                "short_display": "Isa 58.1-11",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 43.26-31, 45.1-16",
+                "short_display": "Gen 43.26-31, 45.1-16",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 21.23-22.4",
+                "short_display": "Prov 21.23-22.4",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -10,
+        "julian_day_number": 2461133,
+        "year": 2026,
+        "month": 3,
+        "day": 20,
+        "weekday": 4,
+        "tone": 1,
+        "titles": [
+            "Thursday of the Sixth Week of Lent"
+        ],
+        "summary_title": "Holy Fathers Slain at St Sabbas Monastery",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Holy Fathers Slain at St Sabbas Monastery",
+            "St Photine the Samaritan Woman (66)",
+            "St Cuthbert the Wonderworker, Bishop of Lindisfarne (687)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "6th Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 65.8-16",
+                "short_display": "Isa 65.8-16",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 46.1-7",
+                "short_display": "Gen 46.1-7",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 23.15-24.5",
+                "short_display": "Prov 23.15-24.5",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -9,
+        "julian_day_number": 2461134,
+        "year": 2026,
+        "month": 3,
+        "day": 21,
+        "weekday": 5,
+        "tone": 1,
+        "titles": [
+            "Friday of the Sixth Week of Lent"
+        ],
+        "summary_title": "St James the Confessor of Catania",
+        "feast_level": 1,
+        "feast_level_description": "Presanctified",
+        "feasts": null,
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "St James the Confessor of Catania",
+            "Our Holy Father Serapion (366)"
+        ],
+        "service_notes": [
+            "Presanctified Liturgy"
+        ],
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "6th Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 66.10-24",
+                "short_display": "Isa 66.10-24",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 49.33-50.26",
+                "short_display": "Gen 49.33-50.26",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 31.8-31",
+                "short_display": "Prov 31.8-31",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -8,
+        "julian_day_number": 2461135,
+        "year": 2026,
+        "month": 3,
+        "day": 22,
+        "weekday": 6,
+        "tone": 0,
+        "titles": [
+            "Lazarus Saturday"
+        ],
+        "summary_title": "Lazarus Saturday",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 6,
+        "fast_exception_desc": "Wine, Oil and Caviar are Allowed",
+        "saints": [
+            "Hieromartyr Basil of Ancyra",
+            "Martyr Drosida of Antioch, and five nuns (104)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Hebrews 12.28-13.8",
+                "short_display": "Heb 12.28-13.8",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 11.1-45",
+                "short_display": "John 11.1-45",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -7,
+        "julian_day_number": 2461136,
+        "year": 2026,
+        "month": 3,
+        "day": 23,
+        "weekday": 0,
+        "tone": 0,
+        "titles": [
+            "Palm Sunday: Entrance of Our Lord into Jerusalem"
+        ],
+        "summary_title": "Palm Sunday: Entrance of Our Lord into Jerusalem",
+        "feast_level": 8,
+        "feast_level_description": "Major feast Lord",
+        "feasts": null,
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 4,
+        "fast_exception_desc": "Fish, Wine and Oil are Allowed",
+        "saints": [
+            "Martyr Nikon and 199 Disciples"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            4,
+            5
+        ],
+        "readings": [
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 49.1-2, 8-12",
+                "short_display": "Gen 49.1-2, 8-12",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Zephaniah 3.14-19",
+                "short_display": "Zeph 3.14-19",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Zechariah 9.9-15",
+                "short_display": "Zech 9.9-15",
+                "passage": null
+            },
+            {
+                "source": "Matins Gospel",
+                "book": "Matthew",
+                "description": "",
+                "display": "Matthew 21.1-11, 15-17",
+                "short_display": "Matt 21.1-11, 15-17",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Philippians 4.4-9",
+                "short_display": "Phil 4.4-9",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 12.1-18",
+                "short_display": "John 12.1-18",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -6,
+        "julian_day_number": 2461137,
+        "year": 2026,
+        "month": 3,
+        "day": 24,
+        "weekday": 1,
+        "tone": 0,
+        "titles": [
+            "Great and Holy Monday"
+        ],
+        "summary_title": "Great and Holy Monday",
+        "feast_level": 1,
+        "feast_level_description": "Presanctified",
+        "feasts": [
+            "Forefeast of Annunciation"
+        ],
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 10,
+        "fast_exception_desc": "No overrides",
+        "saints": [
+            "Ven. Zachariah the Recluse",
+            "Saint Zacharias the Recluse of Egypt (4th c.)",
+            "Commemoration of the Miracle at the Monastery of the Caves in Kiev (?)"
+        ],
+        "service_notes": [
+            "Presanctified Liturgy"
+        ],
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2,
+            3,
+            7
+        ],
+        "readings": [
+            {
+                "source": "Gospel",
+                "book": "Matthew",
+                "description": "Bridegroom",
+                "display": "Matthew 21.18-43",
+                "short_display": "Matt 21.18-43",
+                "passage": null
+            },
+            {
+                "source": "6th Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Ezekiel 1.1-20",
+                "short_display": "Ezekiel 1.1-20",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Exodus 1.1-20",
+                "short_display": "Exod 1.1-20",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Job 1.1-12",
+                "short_display": "Job 1.1-12",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "Annunciation",
+                "display": "Genesis 28.10-17",
+                "short_display": "Gen 28.10-17",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "Annunciation",
+                "display": "Ezekiel 43.27-44.4",
+                "short_display": "Ezek 43.27-44.4",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "Annunciation",
+                "display": "Proverbs 9.1-11",
+                "short_display": "Prov 9.1-11",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Matthew",
+                "description": "Presanctified",
+                "display": "Matthew 24.3-35",
+                "short_display": "Matt 24.3-35",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -5,
+        "julian_day_number": 2461138,
+        "year": 2026,
+        "month": 3,
+        "day": 25,
+        "weekday": 2,
+        "tone": 0,
+        "titles": [
+            "Great and Holy Tuesday"
+        ],
+        "summary_title": "Great and Holy Tuesday",
+        "feast_level": 7,
+        "feast_level_description": "Major feast Theotokos",
+        "feasts": [
+            "Annunciation Most Holy Theotokos"
+        ],
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 10,
+        "fast_exception_desc": "No overrides",
+        "saints": [
+            "New Confessor/Hieromartyr Tikhon, patriarch of Moscow (1925)"
+        ],
+        "service_notes": [
+            "Presanctified Liturgy"
+        ],
+        "abbreviated_reading_indices": [
+            7,
+            8
+        ],
+        "readings": [
+            {
+                "source": "Gospel",
+                "book": "Matthew",
+                "description": "Bridegroom",
+                "display": "Matthew 22.15-23.39",
+                "short_display": "Matt 22.15-23.39",
+                "passage": null
+            },
+            {
+                "source": "Matins Gospel",
+                "book": "Luke",
+                "description": "Annunciation",
+                "display": "Luke 1.39-49, 56",
+                "short_display": "Luke 1.39-49, 56",
+                "passage": null
+            },
+            {
+                "source": "6th Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Ezekiel 1.21-28 (-2.1 LXX)",
+                "short_display": "Ezek 1.21-28 (LXX)",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Exodus 2.5-10",
+                "short_display": "Exod 2.5-10",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Job 1.13-22",
+                "short_display": "Job 1.13-22",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "Annunciation",
+                "display": "Exodus 3.1-8",
+                "short_display": "Exod 3.1-8",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "Annunciation",
+                "display": "Proverbs 8.22-30",
+                "short_display": "Prov 8.22-30",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "Annunciation",
+                "display": "Hebrews 2.11-18",
+                "short_display": "Heb 2.11-18",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Luke",
+                "description": "Annunciation",
+                "display": "Luke 1.24-38",
+                "short_display": "Luke 1.24-38",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Matthew",
+                "description": "Presanctified",
+                "display": "Matthew 24.36-26.2",
+                "short_display": "Matt 24.36-26.2",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -4,
+        "julian_day_number": 2461139,
+        "year": 2026,
+        "month": 3,
+        "day": 26,
+        "weekday": 3,
+        "tone": 0,
+        "titles": [
+            "Great and Holy Wednesday"
+        ],
+        "summary_title": "Great and Holy Wednesday",
+        "feast_level": 3,
+        "feast_level_description": "Red squigg (doxology typikon symbol)",
+        "feasts": null,
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 10,
+        "fast_exception_desc": "No overrides",
+        "saints": [
+            "Leavetaking of Annunciation",
+            "Synaxis of Archangel Gabriel",
+            "Synaxis of the Archangel Gabriel"
+        ],
+        "service_notes": [
+            "Presanctified Liturgy"
+        ],
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2,
+            3,
+            5
+        ],
+        "readings": [
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "Bridegroom",
+                "display": "John 12.17-50",
+                "short_display": "John 12.17-50",
+                "passage": null
+            },
+            {
+                "source": "6th Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Ezekiel 2.3-3.3",
+                "short_display": "Ezek 2.3-3.3",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Exodus 2.11-22",
+                "short_display": "Exod 2.11-22",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Job 2.1-10",
+                "short_display": "Job 2.1-10",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "Theotokos",
+                "display": "Hebrews 2.11-18",
+                "short_display": "Heb 2.11-18",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Matthew",
+                "description": "Presanctified",
+                "display": "Matthew 26.6-16",
+                "short_display": "Matt 26.6-16",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Luke",
+                "description": "Theotokos",
+                "display": "Luke 1.24-38",
+                "short_display": "Luke 1.24-38",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -3,
+        "julian_day_number": 2461140,
+        "year": 2026,
+        "month": 3,
+        "day": 27,
+        "weekday": 4,
+        "tone": 0,
+        "titles": [
+            "Great and Holy Thursday"
+        ],
+        "summary_title": "Great and Holy Thursday",
+        "feast_level": 3,
+        "feast_level_description": "Red squigg (doxology typikon symbol)",
+        "feasts": null,
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 3,
+        "fast_exception_desc": "Wine and Oil are Allowed",
+        "saints": [
+            "Martyr Matrona of Thessalonica"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            5,
+            6
+        ],
+        "readings": [
+            {
+                "source": "Gospel",
+                "book": "Luke",
+                "description": "Bridegroom",
+                "display": "Luke 22.1-39",
+                "short_display": "Luke 22.1-39",
+                "passage": null
+            },
+            {
+                "source": "1st Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Jeremiah 11.18-12.5, 9-11, 14-15",
+                "short_display": "Jer 11.18-12.5, 9-11, 14-15",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Exodus 19.10-19",
+                "short_display": "Exod 19.10-19",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Job 38.1-23; 42.1-5",
+                "short_display": "Job 38.1-23; 42.1-5",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 50.4-11",
+                "short_display": "Isa 50.4-11",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "1 Corinthians 11.23-32",
+                "short_display": "1 Cor 11.23-32",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Matthew",
+                "description": "Composite",
+                "display": "Matthew 26:2-20; John 13:3-17; Matt 26:21-39; Luke 22:43-45; Matt 26:40-27:2",
+                "short_display": "Matt 26:2-20; John 13:3-17; Matt 26:21-39; Luke 22:43-45; Matt 26:40-27:2",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "At the Washing of the Feet",
+                "display": "John 13.1-11",
+                "short_display": "John 13.1-11",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "After the Washing of the Feet",
+                "display": "John 13.12-17",
+                "short_display": "John 13.12-17",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -2,
+        "julian_day_number": 2461141,
+        "year": 2026,
+        "month": 3,
+        "day": 28,
+        "weekday": 5,
+        "tone": 0,
+        "titles": [
+            "Great and Holy Friday"
+        ],
+        "summary_title": "Great and Holy Friday",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 9,
+        "fast_exception_desc": "Strict Fast",
+        "saints": [
+            "Ven. Hilarion the New",
+            "Repose of Gerontissa Gavrilia (1992) (March 15 OC)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            28,
+            29
+        ],
+        "readings": [
+            {
+                "source": "1st Passion Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 13.31-18.1",
+                "short_display": "John 13.31-18.1",
+                "passage": null
+            },
+            {
+                "source": "2nd Passion Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 18.1-28",
+                "short_display": "John 18.1-28",
+                "passage": null
+            },
+            {
+                "source": "3rd Passion Gospel",
+                "book": "Matthew",
+                "description": "",
+                "display": "Matthew 26.57-75",
+                "short_display": "Matt 26.57-75",
+                "passage": null
+            },
+            {
+                "source": "4th Passion Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 18.28-19.16",
+                "short_display": "John 18.28-19.16",
+                "passage": null
+            },
+            {
+                "source": "5th Passion Gospel",
+                "book": "Matthew",
+                "description": "",
+                "display": "Matthew 27.3-32",
+                "short_display": "Matt 27.3-32",
+                "passage": null
+            },
+            {
+                "source": "6th Passion Gospel",
+                "book": "Mark",
+                "description": "",
+                "display": "Mark 15.16-32",
+                "short_display": "Mark 15.16-32",
+                "passage": null
+            },
+            {
+                "source": "7th Passion Gospel",
+                "book": "Matthew",
+                "description": "",
+                "display": "Matthew 27.33-54",
+                "short_display": "Matt 27.33-54",
+                "passage": null
+            },
+            {
+                "source": "8th Passion Gospel",
+                "book": "Luke",
+                "description": "",
+                "display": "Luke 23.32-49",
+                "short_display": "Luke 23.32-49",
+                "passage": null
+            },
+            {
+                "source": "9th Passion Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 19.25-37",
+                "short_display": "John 19.25-37",
+                "passage": null
+            },
+            {
+                "source": "10th Passion Gospel",
+                "book": "Mark",
+                "description": "",
+                "display": "Mark 15.43-47",
+                "short_display": "Mark 15.43-47",
+                "passage": null
+            },
+            {
+                "source": "11th Passion Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 19.38-42",
+                "short_display": "John 19.38-42",
+                "passage": null
+            },
+            {
+                "source": "12th Passion Gospel",
+                "book": "Matthew",
+                "description": "",
+                "display": "Matthew 27.62-66",
+                "short_display": "Matt 27.62-66",
+                "passage": null
+            },
+            {
+                "source": "1st Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Zechariah 11.10-13",
+                "short_display": "Zech 11.10-13",
+                "passage": null
+            },
+            {
+                "source": "1st Hour",
+                "book": "Apostol",
+                "description": "Epistle",
+                "display": "Galatians 6.14-18",
+                "short_display": "Gal 6.14-18",
+                "passage": null
+            },
+            {
+                "source": "1st Hour",
+                "book": "Matthew",
+                "description": "Gospel",
+                "display": "Matthew 27.1-56",
+                "short_display": "Matt 27.1-56",
+                "passage": null
+            },
+            {
+                "source": "3rd Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 50.4-11",
+                "short_display": "Isa 50.4-11",
+                "passage": null
+            },
+            {
+                "source": "3rd Hour",
+                "book": "Apostol",
+                "description": "Epistle",
+                "display": "Romans 5.6-11",
+                "short_display": "Rom 5.6-11",
+                "passage": null
+            },
+            {
+                "source": "3rd Hour",
+                "book": "Mark",
+                "description": "Gospel",
+                "display": "Mark 15.16-41",
+                "short_display": "Mark 15.16-41",
+                "passage": null
+            },
+            {
+                "source": "6th Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 52.13-54.1",
+                "short_display": "Isa 52.13-54.1",
+                "passage": null
+            },
+            {
+                "source": "6th Hour",
+                "book": "OT",
+                "description": "alternate",
+                "display": "Amos 8.9-12",
+                "short_display": "Amos 8.9-12",
+                "passage": null
+            },
+            {
+                "source": "6th Hour",
+                "book": "Apostol",
+                "description": "Epistle",
+                "display": "Hebrews 2.11-18",
+                "short_display": "Heb 2.11-18",
+                "passage": null
+            },
+            {
+                "source": "6th Hour",
+                "book": "Luke",
+                "description": "Gospel",
+                "display": "Luke 23.32-49",
+                "short_display": "Luke 23.32-49",
+                "passage": null
+            },
+            {
+                "source": "9th Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Jeremiah 11.18-12.5, 9-11, 14-15",
+                "short_display": "Jer 11.18-12.5, 9-11, 14-15",
+                "passage": null
+            },
+            {
+                "source": "9th Hour",
+                "book": "Apostol",
+                "description": "Epistle",
+                "display": "Hebrews 10.19-31",
+                "short_display": "Heb 10.19-31",
+                "passage": null
+            },
+            {
+                "source": "9th Hour",
+                "book": "John",
+                "description": "Gospel",
+                "display": "John 18.28-19.37",
+                "short_display": "John 18.28-19.37",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Exodus 33.11-23",
+                "short_display": "Exod 33.11-23",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Job 42.12-17 (LXX)",
+                "short_display": "Job 42.12-17 (LXX)",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 52.13-54.1",
+                "short_display": "Isa 52.13-54.1",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "Vespers",
+                "display": "1 Corinthians 1.18-2.2",
+                "short_display": "1 Cor 1.18-2.2",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Matthew",
+                "description": "Composite",
+                "display": "Matthew 27.1-38; Luke 23:39-43; Matt 27:39-54; John 19:31-37; Matt 27:55-61",
+                "short_display": "Matt 27.1-38; Luke 23:39-43; Matt 27:39-54; John 19:31-37; Matt 27:55-61",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -1,
+        "julian_day_number": 2461142,
+        "year": 2026,
+        "month": 3,
+        "day": 29,
+        "weekday": 6,
+        "tone": 0,
+        "titles": [
+            "Great and Holy Saturday"
+        ],
+        "summary_title": "Great and Holy Saturday",
+        "feast_level": 3,
+        "feast_level_description": "Red squigg (doxology typikon symbol)",
+        "feasts": null,
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 5,
+        "fast_exception_desc": "Wine is Allowed",
+        "saints": [
+            "Hieromartyr Mark, Bishop of Anthusa",
+            "Our Holy Father John the Hermit (4th c.)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            18,
+            19
+        ],
+        "readings": [
+            {
+                "source": "Matins",
+                "book": "OT",
+                "description": "Prophecy",
+                "display": "Ezekiel 37.1-14",
+                "short_display": "Ezek 37.1-14",
+                "passage": null
+            },
+            {
+                "source": "Matins Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "1 Corinthians 5.6-8; Galatians 3.13-14",
+                "short_display": "1 Cor 5.6-8; Gal 3.13-14",
+                "passage": null
+            },
+            {
+                "source": "Matins Gospel",
+                "book": "Matthew",
+                "description": "",
+                "display": "Matthew 27.62-66",
+                "short_display": "Matt 27.62-66",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "1st reading",
+                "display": "Genesis 1.1-13",
+                "short_display": "Gen 1.1-13",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "2nd reading",
+                "display": "Isaiah 60.1-16",
+                "short_display": "Isa 60.1-16",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "3rd reading",
+                "display": "Exodus 12.1-11",
+                "short_display": "Exod 12.1-11",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "4th reading",
+                "display": "Jonah 1.1-4.11",
+                "short_display": "Jonah 1.1-4.11",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "5th reading",
+                "display": "Joshua 5.10-15",
+                "short_display": "Josh 5.10-15",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "6th reading",
+                "display": "Exodus 13.20-15.19",
+                "short_display": "Exod 13.20-15.19",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "7th reading",
+                "display": "Zephaniah 3.8-15",
+                "short_display": "Zeph 3.8-15",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "8th reading",
+                "display": "3[1] Kings 17.8-24",
+                "short_display": "3 Kgs 17.8-24",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "9th reading",
+                "display": "Isaiah 61.10-62.5",
+                "short_display": "Isa 61.10-62.5",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "10th reading",
+                "display": "Genesis 22.1-18",
+                "short_display": "Gen 22.1-18",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "11th reading",
+                "display": "Isaiah 61.1-9",
+                "short_display": "Isa 61.1-9",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "12th reading",
+                "display": "4[2] Kings 4.8-37",
+                "short_display": "4 Kgs 4.8-37",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "13th reading",
+                "display": "Isaiah 63.11-64.5",
+                "short_display": "Isa 63.11-64.5",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "14th reading",
+                "display": "Jeremiah 31.31-34",
+                "short_display": "Jer 31.31-34",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "15th reading",
+                "display": "Daniel 3.1-23; Song of the Three 1-66 with verses",
+                "short_display": "Daniel 3.1-23; Song of the Three 1-66",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Romans 6.3-11",
+                "short_display": "Rom 6.3-11",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Matthew",
+                "description": "",
+                "display": "Matthew 28.1-20",
+                "short_display": "Matt 28.1-20",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 0,
+        "julian_day_number": 2461143,
+        "year": 2026,
+        "month": 3,
+        "day": 30,
+        "weekday": 0,
+        "tone": 1,
+        "titles": [
+            "Holy Pascha"
+        ],
+        "summary_title": "Holy Pascha",
+        "feast_level": 8,
+        "feast_level_description": "Major feast Lord",
+        "feasts": [
+            "The Resurrection of our Lord and Savior Jesus Christ"
+        ],
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 11,
+        "fast_exception_desc": "Fast Free",
+        "saints": [
+            "Beginning of the Pentecostarion",
+            "Ven. John Climacus",
+            "Commemoration of an Uncondemning Monk"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 1.1-8",
+                "short_display": "Acts 1.1-8",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 1.1-17",
+                "short_display": "John 1.1-17",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 1,
+        "julian_day_number": 2461144,
+        "year": 2026,
+        "month": 3,
+        "day": 31,
+        "weekday": 1,
+        "tone": 2,
+        "titles": [
+            "Bright Monday"
+        ],
+        "summary_title": "Bright Monday",
+        "feast_level": 4,
+        "feast_level_description": "Red cross (polyeleos typikon symbol)",
+        "feasts": [
+            "Repose St Innocent, Metr. Moscow and Apostle to Americas"
+        ],
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 11,
+        "fast_exception_desc": "Fast Free",
+        "saints": [
+            "Hieromartyr Hypatius, Bishop of Gangra (326)",
+            "St Jonah, Metropolitan of Moscow (1461)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            5,
+            7
+        ],
+        "readings": [
+            {
+                "source": "Matins Gospel",
+                "book": "John",
+                "description": "St Innocent",
+                "display": "John 10.1-9",
+                "short_display": "John 10.1-9",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "St Innocent",
+                "display": "Composite 2 - Proverbs 10, 3, 8",
+                "short_display": "Prov 10, 3, 8",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "St Innocent",
+                "display": "Composite 3 - Wisdom of Solomon 4, 5",
+                "short_display": "Wis 4, 5",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "St Innocent",
+                "display": "Composite 4 - Proverbs 10; Wisdom of Solomon 6, 7, 8, 9",
+                "short_display": "Prov 10; Wis 6, 7, 8, 9",
+                "passage": null
+            },
+            {
+                "source": "Vespers Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 20.19-25",
+                "short_display": "John 20.19-25",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 1.12-17, 21-26",
+                "short_display": "Acts 1.12-17, 21-26",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "St Innocent",
+                "display": "Hebrews 7.26-8.2",
+                "short_display": "Heb 7.26-8.2",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 1.18-28",
+                "short_display": "John 1.18-28",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "St Innocent",
+                "display": "John 10.9-16",
+                "short_display": "John 10.9-16",
+                "passage": null
+            },
+            {
+                "source": "Cross Procession",
+                "book": "Matthew",
+                "description": "1st Reading",
+                "display": "Matthew 28.1-20",
+                "short_display": "Matt 28.1-20",
+                "passage": null
+            },
+            {
+                "source": "Cross Procession",
+                "book": "Mark",
+                "description": "2nd Reading",
+                "display": "Mark 16.1-8",
+                "short_display": "Mark 16.1-8",
+                "passage": null
+            },
+            {
+                "source": "Cross Procession",
+                "book": "Luke",
+                "description": "3rd Reading",
+                "display": "Luke 24.1-12",
+                "short_display": "Luke 24.1-12",
+                "passage": null
+            },
+            {
+                "source": "Cross Procession",
+                "book": "John",
+                "description": "4th Reading",
+                "display": "John 20.1-10",
+                "short_display": "John 20.1-10",
+                "passage": null
+            },
+            {
+                "source": "Cross Procession",
+                "book": "Luke",
+                "description": "5th Reading",
+                "display": "Luke 24.36-53",
+                "short_display": "Luke 24.36-53",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 2,
+        "julian_day_number": 2461145,
+        "year": 2026,
+        "month": 4,
+        "day": 1,
+        "weekday": 2,
+        "tone": 3,
+        "titles": [
+            "Bright Tuesday"
+        ],
+        "summary_title": "Bright Tuesday",
+        "feast_level": 3,
+        "feast_level_description": "Red squigg (doxology typikon symbol)",
+        "feasts": null,
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 11,
+        "fast_exception_desc": "Fast Free",
+        "saints": [
+            "Ven. Euthymius of Suzdal",
+            "Our Holy Mother Mary of Egypt (4th-6th c.)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 2.14-21",
+                "short_display": "Acts 2.14-21",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Luke",
+                "description": "",
+                "display": "Luke 24.12-35",
+                "short_display": "Luke 24.12-35",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 3,
+        "julian_day_number": 2461146,
+        "year": 2026,
+        "month": 4,
+        "day": 2,
+        "weekday": 3,
+        "tone": 4,
+        "titles": [
+            "Bright Wednesday"
+        ],
+        "summary_title": "Bright Wednesday",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 11,
+        "fast_exception_desc": "Fast Free",
+        "saints": [
+            "Ven. Titus the Wonderworker",
+            "Holy Martyrs Amphianus and Aedesius (ca. 306)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 2.22-36",
+                "short_display": "Acts 2.22-36",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 1.35-51",
+                "short_display": "John 1.35-51",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 4,
+        "julian_day_number": 2461147,
+        "year": 2026,
+        "month": 4,
+        "day": 3,
+        "weekday": 4,
+        "tone": 5,
+        "titles": [
+            "Bright Thursday"
+        ],
+        "summary_title": "Bright Thursday",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 11,
+        "fast_exception_desc": "Fast Free",
+        "saints": [
+            "Ven. Nicetas the Confessor",
+            "Saint Joseph the Hymnographer (886)",
+            "Saint Seraphim of Vyritsa (1949) (March 21 OC)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 2.38-43",
+                "short_display": "Acts 2.38-43",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 3.1-15",
+                "short_display": "John 3.1-15",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 5,
+        "julian_day_number": 2461148,
+        "year": 2026,
+        "month": 4,
+        "day": 4,
+        "weekday": 5,
+        "tone": 6,
+        "titles": [
+            "Bright Friday"
+        ],
+        "summary_title": "Bright Friday",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": [
+            "The Life-Giving Spring of the Most-holy Theotokos"
+        ],
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 11,
+        "fast_exception_desc": "Fast Free",
+        "saints": [
+            "Ven. Joseph the Hymnographer",
+            "St Zosimas, monk, of Palestine (523)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            2
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 3.1-8",
+                "short_display": "Acts 3.1-8",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "Theotokos",
+                "display": "Philippians 2.5-11",
+                "short_display": "Phil 2.5-11",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 2.12-22",
+                "short_display": "John 2.12-22",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Luke",
+                "description": "Theotokos",
+                "display": "Luke 10.38-42, 11.27-28",
+                "short_display": "Luke 10.38-42, 11.27-28",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 6,
+        "julian_day_number": 2461149,
+        "year": 2026,
+        "month": 4,
+        "day": 5,
+        "weekday": 6,
+        "tone": 8,
+        "titles": [
+            "Bright Saturday"
+        ],
+        "summary_title": "Bright Saturday",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 11,
+        "fast_exception_desc": "Fast Free",
+        "saints": [
+            "Martyrs Agathopedes, Theodulus and Their Companions",
+            "Our Holy Father Mark of Trache (ca. 400)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 3.11-16",
+                "short_display": "Acts 3.11-16",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 3.22-33",
+                "short_display": "John 3.22-33",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 7,
+        "julian_day_number": 2461150,
+        "year": 2026,
+        "month": 4,
+        "day": 6,
+        "weekday": 0,
+        "tone": 1,
+        "titles": [
+            "Antipascha: 2nd Sunday of Pascha"
+        ],
+        "summary_title": "Antipascha: 2nd Sunday of Pascha",
+        "feast_level": 4,
+        "feast_level_description": "Red cross (polyeleos typikon symbol)",
+        "feasts": [
+            "St Thomas Sunday"
+        ],
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "St Methodius, Enilightener of the Slavs",
+            "St Eutychius, patriarch of Constantinople (582)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "1st Matins Gospel",
+                "book": "Matthew",
+                "description": "",
+                "display": "Matthew 28.16-20",
+                "short_display": "Matt 28.16-20",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 5.12-20",
+                "short_display": "Acts 5.12-20",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 20.19-31",
+                "short_display": "John 20.19-31",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 8,
+        "julian_day_number": 2461151,
+        "year": 2026,
+        "month": 4,
+        "day": 7,
+        "weekday": 1,
+        "tone": 1,
+        "titles": [
+            "Monday of the 2nd Sunday of Pascha"
+        ],
+        "summary_title": "Repose St. Tikhon, Patriarch of Moscow, Enlightener N. America",
+        "feast_level": 4,
+        "feast_level_description": "Red cross (polyeleos typikon symbol)",
+        "feasts": [
+            "Repose St. Tikhon, Patriarch of Moscow, Enlightener N. America"
+        ],
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 1,
+        "fast_exception_desc": "Wine and Oil are Allowed",
+        "saints": [
+            "Holy Martyr Calliopius, with his mother Theoclea (304)",
+            "St George the Confessor, bishop of Mitylene (ca. 820)",
+            "St Nilus (Nil Sorsky), abbot of Sora (1508)",
+            "Saint Savvas the New of Kalymnos (1948) (March 25 OC)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            4,
+            6
+        ],
+        "readings": [
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "St Tikhon",
+                "display": "Wisdom of Solomon 3.1-9",
+                "short_display": "Wis 3.1-9",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "St Tikhon",
+                "display": "Wisdom of Solomon 5.15-6.3",
+                "short_display": "Wis 5.15-6.3",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "St Tikhon",
+                "display": "Wisdom of Solomon 4.7-15",
+                "short_display": "Wis 4.7-15",
+                "passage": null
+            },
+            {
+                "source": "Matins Gospel",
+                "book": "John",
+                "description": "St Tikhon",
+                "display": "John 10.1-9",
+                "short_display": "John 10.1-9",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 3.19-26",
+                "short_display": "Acts 3.19-26",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "St Tikhon",
+                "display": "Hebrews 7.26-8.2",
+                "short_display": "Heb 7.26-8.2",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 2.1-11",
+                "short_display": "John 2.1-11",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "St Tikhon",
+                "display": "John 10.9-16",
+                "short_display": "John 10.9-16",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 9,
+        "julian_day_number": 2461152,
+        "year": 2026,
+        "month": 4,
+        "day": 8,
+        "weekday": 2,
+        "tone": 1,
+        "titles": [
+            "Tuesday of the 2nd Sunday of Pascha"
+        ],
+        "summary_title": "Day of Rejoicing (Radonitsa)",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": [
+            "Day of Rejoicing (Radonitsa)"
+        ],
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Apostles of the Seventy Herodion, Agabus, Asyncritus, Rufuf, Phlegon, Hermes",
+            "Saint Celestine, Pope of Rome (432)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 4.1-10",
+                "short_display": "Acts 4.1-10",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 3.16-21",
+                "short_display": "John 3.16-21",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 10,
+        "julian_day_number": 2461153,
+        "year": 2026,
+        "month": 4,
+        "day": 9,
+        "weekday": 3,
+        "tone": 1,
+        "titles": [
+            "Wednesday of the 2nd Sunday of Pascha"
+        ],
+        "summary_title": "Martyr Eupsychius of Caesarea in Cappadocia",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 1,
+        "fast_level_desc": "Fast",
+        "fast_exception": 1,
+        "fast_exception_desc": "Wine and Oil are Allowed",
+        "saints": [
+            "Martyr Eupsychius of Caesarea in Cappadocia"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 4.13-22",
+                "short_display": "Acts 4.13-22",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 5.17-24",
+                "short_display": "John 5.17-24",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 11,
+        "julian_day_number": 2461154,
+        "year": 2026,
+        "month": 4,
+        "day": 10,
+        "weekday": 4,
+        "tone": 1,
+        "titles": [
+            "Thursday of the 2nd Sunday of Pascha"
+        ],
+        "summary_title": "Martyrs Terence, Pompeius, Africanus and Companions",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Martyrs Terence, Pompeius, Africanus and Companions",
+            "Six Thousand Holy Martyrs in Georgia (1615)",
+            "New Hieromartyr Gregory, Patriarch of Constantinople (1821)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 4.23-31",
+                "short_display": "Acts 4.23-31",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 5.24-30",
+                "short_display": "John 5.24-30",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 12,
+        "julian_day_number": 2461155,
+        "year": 2026,
+        "month": 4,
+        "day": 11,
+        "weekday": 5,
+        "tone": 1,
+        "titles": [
+            "Friday of the 2nd Sunday of Pascha"
+        ],
+        "summary_title": "Hieromartyr Antipas, Bishop of Pergamum",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 1,
+        "fast_level_desc": "Fast",
+        "fast_exception": 1,
+        "fast_exception_desc": "Wine and Oil are Allowed",
+        "saints": [
+            "Hieromartyr Antipas, Bishop of Pergamum",
+            "Holy Martyrs Processus and Martinian (1st c.)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 5.1-11",
+                "short_display": "Acts 5.1-11",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 5.30-6.2",
+                "short_display": "John 5.30-6.2",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 13,
+        "julian_day_number": 2461156,
+        "year": 2026,
+        "month": 4,
+        "day": 12,
+        "weekday": 6,
+        "tone": 1,
+        "titles": [
+            "Saturday of the 2nd Sunday of Pascha"
+        ],
+        "summary_title": "St Basil the Confessor, Bishop of Parium",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "St Basil the Confessor, Bishop of Parium",
+            "St Isaac the Syrian, abbot of Spoleto, Italy (ca. 550)",
+            "Our Holy Mother Athanasia (860)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 5.21-33",
+                "short_display": "Acts 5.21-33",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 6.14-27",
+                "short_display": "John 6.14-27",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 14,
+        "julian_day_number": 2461157,
+        "year": 2026,
+        "month": 4,
+        "day": 13,
+        "weekday": 0,
+        "tone": 2,
+        "titles": [
+            "3rd Sunday of Pascha"
+        ],
+        "summary_title": "3rd Sunday of Pascha",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": [
+            "Myrrhbearing Women"
+        ],
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Hieromartyr Artemon, Presbyter of Laodicea",
+            "St Martin the Confessor, pope of Rome (655)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "3rd Matins Gospel",
+                "book": "Mark",
+                "description": "",
+                "display": "Mark 16.9-20",
+                "short_display": "Mark 16.9-20",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 6.1-7",
+                "short_display": "Acts 6.1-7",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Mark",
+                "description": "",
+                "display": "Mark 15.43-16.8",
+                "short_display": "Mark 15.43-16.8",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 15,
+        "julian_day_number": 2461158,
+        "year": 2026,
+        "month": 4,
+        "day": 14,
+        "weekday": 1,
+        "tone": 2,
+        "titles": [
+            "Monday of the 3rd Sunday of Pascha"
+        ],
+        "summary_title": "St Martin the Confessor, Pope of Rome",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "St Martin the Confessor, Pope of Rome",
+            "Apostles Aristarchus, Pudens and Trophimus of the Seventy",
+            "Holy Martyr Ardalion the Actor (3rd c.)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 6.8-7.5, 47-60",
+                "short_display": "Acts 6.8-7.5, 47-60",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 4.46-54",
+                "short_display": "John 4.46-54",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 16,
+        "julian_day_number": 2461159,
+        "year": 2026,
+        "month": 4,
+        "day": 15,
+        "weekday": 2,
+        "tone": 2,
+        "titles": [
+            "Tuesday of the 3rd Sunday of Pascha"
+        ],
+        "summary_title": "Apostles of the Seventy Aristarchus, Pudens and Trophimus",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Apostles of the Seventy Aristarchus, Pudens and Trophimus",
+            "Holy Martyr Sabbas the Goth (372)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 8.5-17",
+                "short_display": "Acts 8.5-17",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 6.27-33",
+                "short_display": "John 6.27-33",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 17,
+        "julian_day_number": 2461160,
+        "year": 2026,
+        "month": 4,
+        "day": 16,
+        "weekday": 3,
+        "tone": 2,
+        "titles": [
+            "Wednesday of the 3rd Sunday of Pascha"
+        ],
+        "summary_title": "Virgin Martyrs Agape, Irene and Chionia",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 1,
+        "fast_level_desc": "Fast",
+        "fast_exception": 1,
+        "fast_exception_desc": "Wine and Oil are Allowed",
+        "saints": [
+            "Virgin Martyrs Agape, Irene and Chionia"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 8.18-25",
+                "short_display": "Acts 8.18-25",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 6.35-39",
+                "short_display": "John 6.35-39",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 18,
+        "julian_day_number": 2461161,
+        "year": 2026,
+        "month": 4,
+        "day": 17,
+        "weekday": 4,
+        "tone": 2,
+        "titles": [
+            "Thursday of the 3rd Sunday of Pascha"
+        ],
+        "summary_title": "Ven. Zosima of Solovetsk",
+        "feast_level": 3,
+        "feast_level_description": "Red squigg (doxology typikon symbol)",
+        "feasts": null,
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Ven. Zosima of Solovetsk",
+            "Hieromartyr Simeon, Bishop in Persia, and those with him (343)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 8.26-39",
+                "short_display": "Acts 8.26-39",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 6.40-44",
+                "short_display": "John 6.40-44",
+                "passage": null
+            }
+        ]
+    }
+]

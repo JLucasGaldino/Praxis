@@ -1,0 +1,2018 @@
+[
+    {
+        "pascha_distance": -42,
+        "julian_day_number": 2461101,
+        "year": 2026,
+        "month": 3,
+        "day": 1,
+        "weekday": 0,
+        "tone": 5,
+        "titles": [
+            "First Sunday of Lent"
+        ],
+        "summary_title": "First Sunday of Lent",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": [
+            "Sunday of Orthodoxy"
+        ],
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 3,
+        "fast_exception_desc": "Wine and Oil are Allowed",
+        "saints": [
+            "Martyr Eudoxia of Heliopolis"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "5th Matins Gospel",
+                "book": "Luke",
+                "description": "",
+                "display": "Luke 24.12-35",
+                "short_display": "Luke 24.12-35",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Hebrews 11.24-26, 32-12.2",
+                "short_display": "Heb 11.24-26, 32-12.2",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 1.43-51",
+                "short_display": "John 1.43-51",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -41,
+        "julian_day_number": 2461102,
+        "year": 2026,
+        "month": 3,
+        "day": 2,
+        "weekday": 1,
+        "tone": 5,
+        "titles": [
+            "Monday of the Second Week of Lent"
+        ],
+        "summary_title": "Hieromartyr Theodotus, Bishop of Cyrenia; St Arseny, Bishop of Tver",
+        "feast_level": 3,
+        "feast_level_description": "Red squigg (doxology typikon symbol)",
+        "feasts": null,
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Hieromartyr Theodotus, Bishop of Cyrenia",
+            "St Arseny, Bishop of Tver",
+            "The Four Hundred and Forty Martyrs of Lombardy (579)",
+            "Holy Martyr Euthalia (257)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "6th Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 4.2-5.7",
+                "short_display": "Isa 4.2-5.7",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 3.21-4.7",
+                "short_display": "Gen 3.21-4.7",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 3.34-4.22",
+                "short_display": "Prov 3.34-4.22",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -40,
+        "julian_day_number": 2461103,
+        "year": 2026,
+        "month": 3,
+        "day": 3,
+        "weekday": 2,
+        "tone": 5,
+        "titles": [
+            "Tuesday of the Second Week of Lent"
+        ],
+        "summary_title": "Martyrs Eutropius, Cleonicus and Basiliscus",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Martyrs Eutropius, Cleonicus and Basiliscus",
+            "An Unknown Girl in Alexandria (?)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "6th Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 5.7-16",
+                "short_display": "Isa 5.7-16",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 4.8-15",
+                "short_display": "Gen 4.8-15",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 5.1-15",
+                "short_display": "Prov 5.1-15",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -39,
+        "julian_day_number": 2461104,
+        "year": 2026,
+        "month": 3,
+        "day": 4,
+        "weekday": 3,
+        "tone": 5,
+        "titles": [
+            "Wednesday of the Second Week of Lent"
+        ],
+        "summary_title": "Ven. Gerasimus of the Jordan; Rt. Blv. Prince Daniel of Moscow",
+        "feast_level": 1,
+        "feast_level_description": "Presanctified",
+        "feasts": null,
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Ven. Gerasimus of the Jordan",
+            "Rt. Blv. Prince Daniel of Moscow",
+            "St James the Faster of Phoenecia (6th c.)"
+        ],
+        "service_notes": [
+            "Presanctified Liturgy"
+        ],
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "6th Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 5.16-25",
+                "short_display": "Isa 5.16-25",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 4.16-26",
+                "short_display": "Gen 4.16-26",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 5.15-6.3",
+                "short_display": "Prov 5.15-6.3",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -38,
+        "julian_day_number": 2461105,
+        "year": 2026,
+        "month": 3,
+        "day": 5,
+        "weekday": 4,
+        "tone": 5,
+        "titles": [
+            "Thursday of the Second Week of Lent"
+        ],
+        "summary_title": "Martyr Conon of Isauria",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Martyr Conon of Isauria",
+            "St Mark of Athens (4th c.)",
+            "St Mark the Ascetic (5th c.)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "6th Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 6.1-12",
+                "short_display": "Isa 6.1-12",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 5.1-24",
+                "short_display": "Gen 5.1-24",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 6.3-20",
+                "short_display": "Prov 6.3-20",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -37,
+        "julian_day_number": 2461106,
+        "year": 2026,
+        "month": 3,
+        "day": 6,
+        "weekday": 5,
+        "tone": 5,
+        "titles": [
+            "Friday of the Second Week of Lent"
+        ],
+        "summary_title": "Forty-two Martyrs of Ammoria",
+        "feast_level": 1,
+        "feast_level_description": "Presanctified",
+        "feasts": null,
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Forty-two Martyrs of Ammoria"
+        ],
+        "service_notes": [
+            "Presanctified Liturgy"
+        ],
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "6th Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 7.1-14",
+                "short_display": "Isa 7.1-14",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 5.32-6.8",
+                "short_display": "Gen 5.32-6.8",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 6.20-7.1",
+                "short_display": "Prov 6.20-7.1",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -36,
+        "julian_day_number": 2461107,
+        "year": 2026,
+        "month": 3,
+        "day": 7,
+        "weekday": 6,
+        "tone": 5,
+        "titles": [
+            "Second Saturday of Lent"
+        ],
+        "summary_title": "Memorial Saturday",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": [
+            "Memorial Saturday"
+        ],
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 3,
+        "fast_exception_desc": "Wine and Oil are Allowed",
+        "saints": [
+            "Seven Hieromartyrs of Cherson"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            2
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Hebrews 3.12-16",
+                "short_display": "Heb 3.12-16",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "Departed",
+                "display": "1 Thessalonians 4.13-17",
+                "short_display": "1 Thess 4.13-17",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Mark",
+                "description": "",
+                "display": "Mark 1.35-44",
+                "short_display": "Mark 1.35-44",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "Departed",
+                "display": "John 5.24-30",
+                "short_display": "John 5.24-30",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -35,
+        "julian_day_number": 2461108,
+        "year": 2026,
+        "month": 3,
+        "day": 8,
+        "weekday": 0,
+        "tone": 6,
+        "titles": [
+            "Second Sunday of Lent"
+        ],
+        "summary_title": "Second Sunday of Lent",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": [
+            "St Gregory Palamas"
+        ],
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 3,
+        "fast_exception_desc": "Wine and Oil are Allowed",
+        "saints": [
+            "St Theophylactus, Bishop of Nicomedia",
+            "Hieromartyr Theodoretus (362)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            1,
+            3
+        ],
+        "readings": [
+            {
+                "source": "6th Matins Gospel",
+                "book": "Luke",
+                "description": "",
+                "display": "Luke 24.36-53",
+                "short_display": "Luke 24.36-53",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Hebrews 1.10-2.3",
+                "short_display": "Heb 1.10-2.3",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "St Gregory",
+                "display": "Hebrews 7.26-8.2",
+                "short_display": "Heb 7.26-8.2",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Mark",
+                "description": "",
+                "display": "Mark 2.1-12",
+                "short_display": "Mark 2.1-12",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "St Gregory",
+                "display": "John 10.9-16",
+                "short_display": "John 10.9-16",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -34,
+        "julian_day_number": 2461109,
+        "year": 2026,
+        "month": 3,
+        "day": 9,
+        "weekday": 1,
+        "tone": 6,
+        "titles": [
+            "Monday of the Third Week of Lent"
+        ],
+        "summary_title": "Holy Forty Martyrs of Sebaste",
+        "feast_level": 4,
+        "feast_level_description": "Red cross (polyeleos typikon symbol)",
+        "feasts": [
+            "Holy Forty Martyrs of Sebaste"
+        ],
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "St Caesarius (369)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            7,
+            8
+        ],
+        "readings": [
+            {
+                "source": "Matins Gospel",
+                "book": "Luke",
+                "description": "Martyrs",
+                "display": "Luke 21.12-19",
+                "short_display": "Luke 21.12-19",
+                "passage": null
+            },
+            {
+                "source": "6th Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 8.13-9.7",
+                "short_display": "Isa 8.13-9.7",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 6.9-22",
+                "short_display": "Gen 6.9-22",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 8.1-21",
+                "short_display": "Prov 8.1-21",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "Martyrs",
+                "display": "Isaiah 43.9-14",
+                "short_display": "Isa 43.9-14",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "Martyrs",
+                "display": "Wisdom of Solomon 3.1-9",
+                "short_display": "Wis 3.1-9",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "Martyrs",
+                "display": "Wisdom of Solomon 5.15-6.3",
+                "short_display": "Wis 5.15-6.3",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "Martyrs",
+                "display": "Hebrews 12.1-10",
+                "short_display": "Heb 12.1-10",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Matthew",
+                "description": "Martyrs",
+                "display": "Matthew 20.1-16",
+                "short_display": "Matt 20.1-16",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -33,
+        "julian_day_number": 2461110,
+        "year": 2026,
+        "month": 3,
+        "day": 10,
+        "weekday": 2,
+        "tone": 6,
+        "titles": [
+            "Tuesday of the Third Week of Lent"
+        ],
+        "summary_title": "Martyr Quadratus and Companions",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Martyr Quadratus and Companions",
+            "Our Holy Mother Anastasia (563)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "6th Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 9.9-10.4",
+                "short_display": "Isa 9.9-10.4",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 7.1-5",
+                "short_display": "Gen 7.1-5",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 8.32-9.11",
+                "short_display": "Prov 8.32-9.11",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -32,
+        "julian_day_number": 2461111,
+        "year": 2026,
+        "month": 3,
+        "day": 11,
+        "weekday": 3,
+        "tone": 6,
+        "titles": [
+            "Wednesday of the Third Week of Lent"
+        ],
+        "summary_title": "St. Sophronius, Patriarch of Jerusalem; St Euthymius, Bishop of Novgorod",
+        "feast_level": 3,
+        "feast_level_description": "Red squigg (doxology typikon symbol)",
+        "feasts": null,
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "St. Sophronius, Patriarch of Jerusalem",
+            "St Euthymius, Bishop of Novgorod",
+            "St Sophronios, patriarch of Jerusalem (638)",
+            "St John Moschos, author of the Spiritual Meadow (622)",
+            "Holy Martyr Pionius (250)"
+        ],
+        "service_notes": [
+            "Presanctified Liturgy"
+        ],
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "6th Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 10.12-20",
+                "short_display": "Isa 10.12-20",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 7.6-9",
+                "short_display": "Gen 7.6-9",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 9.12-18 (LXX)",
+                "short_display": "Prov 9.12-18",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -31,
+        "julian_day_number": 2461112,
+        "year": 2026,
+        "month": 3,
+        "day": 12,
+        "weekday": 4,
+        "tone": 6,
+        "titles": [
+            "Thursday of the Third Week of Lent"
+        ],
+        "summary_title": "Ven. Theophanes the Confessor",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Ven. Theophanes the Confessor",
+            "St Gregory the Great (the Dialogist), Pope of Rome (604)",
+            "Repose of St Symeon the New Theologian (1021)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "6th Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 11.10-12.2",
+                "short_display": "Isa 11.10-12.2",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 7.11-8.3",
+                "short_display": "Gen 7.11-8.3",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 10.1-22",
+                "short_display": "Prov 10.1-22",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -30,
+        "julian_day_number": 2461113,
+        "year": 2026,
+        "month": 3,
+        "day": 13,
+        "weekday": 5,
+        "tone": 6,
+        "titles": [
+            "Friday of the Third Week of Lent"
+        ],
+        "summary_title": "Trans. Rel. Nicephorus, Patr. Constantinopole",
+        "feast_level": 1,
+        "feast_level_description": "Presanctified",
+        "feasts": null,
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Trans. Rel. Nicephorus, Patr. Constantinopole"
+        ],
+        "service_notes": [
+            "Presanctified Liturgy"
+        ],
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "6th Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 13.2-13",
+                "short_display": "Isa 13.2-13",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 8.4-21",
+                "short_display": "Gen 8.4-21",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 10.31-11.12",
+                "short_display": "Prov 10.31-11.12",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -29,
+        "julian_day_number": 2461114,
+        "year": 2026,
+        "month": 3,
+        "day": 14,
+        "weekday": 6,
+        "tone": 6,
+        "titles": [
+            "Third Saturday of Lent"
+        ],
+        "summary_title": "Memorial Saturday",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": [
+            "Memorial Saturday"
+        ],
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 3,
+        "fast_exception_desc": "Wine and Oil are Allowed",
+        "saints": [
+            "Ven. Benedict of Nursia",
+            "St Theognostus, Metropolitan of Kiev (1353)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            2
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Hebrews 10.32-38",
+                "short_display": "Heb 10.32-38",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "Departed",
+                "display": "1 Thessalonians 4.13-17",
+                "short_display": "1 Thess 4.13-17",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Mark",
+                "description": "",
+                "display": "Mark 2.14-17",
+                "short_display": "Mark 2.14-17",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "Departed",
+                "display": "John 5.24-30",
+                "short_display": "John 5.24-30",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -28,
+        "julian_day_number": 2461115,
+        "year": 2026,
+        "month": 3,
+        "day": 15,
+        "weekday": 0,
+        "tone": 7,
+        "titles": [
+            "Third Sunday of Lent"
+        ],
+        "summary_title": "Third Sunday of Lent",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": [
+            "Veneration of the Precious Cross"
+        ],
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 3,
+        "fast_exception_desc": "Wine and Oil are Allowed",
+        "saints": [
+            "Martyr Agapius and Seven with Him",
+            "Holy Martyr Alexander (270-275)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "7th Matins Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 20.1-10",
+                "short_display": "John 20.1-10",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Hebrews 4.14-5.6",
+                "short_display": "Heb 4.14-5.6",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Mark",
+                "description": "",
+                "display": "Mark 8.34-9.1",
+                "short_display": "Mark 8.34-9.1",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -27,
+        "julian_day_number": 2461116,
+        "year": 2026,
+        "month": 3,
+        "day": 16,
+        "weekday": 1,
+        "tone": 7,
+        "titles": [
+            "Monday of the Fourth Week of Lent"
+        ],
+        "summary_title": "Martyr Sabinas of Egypt",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Martyr Sabinas of Egypt",
+            "Our Holy Father Christodoulos, Wonderworker of Patmos (1111)",
+            "Holy Apostle Aristobulus of the Seventy, first Bishop of Britain (1st c.)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "6th Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 14.24-32",
+                "short_display": "Isa 14.24-32",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 8.21-9.7",
+                "short_display": "Gen 8.21-9.7",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 11.19-12.6",
+                "short_display": "Prov 11.19-12.6",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -26,
+        "julian_day_number": 2461117,
+        "year": 2026,
+        "month": 3,
+        "day": 17,
+        "weekday": 2,
+        "tone": 7,
+        "titles": [
+            "Tuesday of the Fourth Week of Lent"
+        ],
+        "summary_title": "Ven. Alexius the Man of God; Ven. Makary of Kalyazinsk",
+        "feast_level": 3,
+        "feast_level_description": "Red squigg (doxology typikon symbol)",
+        "feasts": null,
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Ven. Alexius the Man of God",
+            "Ven. Makary of Kalyazinsk",
+            "St Alexis, the Man of God (411)",
+            "St Patrick, Enlightener of Ireland (ca. 461)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "6th Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 25.1-9",
+                "short_display": "Isa 25.1-9",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 9.8-17",
+                "short_display": "Gen 9.8-17",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 12.8-22",
+                "short_display": "Prov 12.8-22",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -25,
+        "julian_day_number": 2461118,
+        "year": 2026,
+        "month": 3,
+        "day": 18,
+        "weekday": 3,
+        "tone": 7,
+        "titles": [
+            "Wednesday of the Fourth Week of Lent"
+        ],
+        "summary_title": "St Cyril, Archbishop of Jerusalem; Rep. St Nikolaj of Zhicha",
+        "feast_level": 1,
+        "feast_level_description": "Presanctified",
+        "feasts": null,
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "St Cyril, Archbishop of Jerusalem",
+            "Rep. St Nikolaj of Zhicha",
+            "St Ananias (Aninus) the Wonderworker (?)",
+            "Saint Nikolai (Velimirovic), Bishop of Ochrid and Zica, Serbia (1956)(March 5 OC)"
+        ],
+        "service_notes": [
+            "Presanctified Liturgy"
+        ],
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "6th Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 26.21-27.9",
+                "short_display": "Isa 26.21-27.9",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 9.18-10.1",
+                "short_display": "Gen 9.18-10.1",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 12.23-13.9 (LXX)",
+                "short_display": "Prov 12.23-13.9",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -24,
+        "julian_day_number": 2461119,
+        "year": 2026,
+        "month": 3,
+        "day": 19,
+        "weekday": 4,
+        "tone": 7,
+        "titles": [
+            "Thursday of the Fourth Week of Lent"
+        ],
+        "summary_title": "Martyrs Chrysanthius and Daria",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Martyrs Chrysanthius and Daria"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "6th Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 28.14-22",
+                "short_display": "Isa 28.14-22",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 10.32-11.9",
+                "short_display": "Gen 10.32-11.9",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 13.19-14.6",
+                "short_display": "Prov 13.19-14.6",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -23,
+        "julian_day_number": 2461120,
+        "year": 2026,
+        "month": 3,
+        "day": 20,
+        "weekday": 5,
+        "tone": 7,
+        "titles": [
+            "Friday of the Fourth Week of Lent"
+        ],
+        "summary_title": "Holy Fathers Slain at St Sabbas Monastery",
+        "feast_level": 1,
+        "feast_level_description": "Presanctified",
+        "feasts": null,
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Holy Fathers Slain at St Sabbas Monastery",
+            "St Photine the Samaritan Woman (66)",
+            "St Cuthbert the Wonderworker, Bishop of Lindisfarne (687)"
+        ],
+        "service_notes": [
+            "Presanctified Liturgy"
+        ],
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "6th Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 29.13-23",
+                "short_display": "Isa 29.13-23",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 12.1-7",
+                "short_display": "Gen 12.1-7",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 14.15-26",
+                "short_display": "Prov 14.15-26",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -22,
+        "julian_day_number": 2461121,
+        "year": 2026,
+        "month": 3,
+        "day": 21,
+        "weekday": 6,
+        "tone": 7,
+        "titles": [
+            "Fourth Saturday of Lent"
+        ],
+        "summary_title": "Memorial Saturday",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": [
+            "Memorial Saturday"
+        ],
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 3,
+        "fast_exception_desc": "Wine and Oil are Allowed",
+        "saints": [
+            "St James the Confessor of Catania",
+            "Our Holy Father Serapion (366)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            2
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Hebrews 6.9-12",
+                "short_display": "Heb 6.9-12",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "Departed",
+                "display": "1 Corinthians 15.47-57",
+                "short_display": "1 Cor 15.47-57",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Mark",
+                "description": "",
+                "display": "Mark 7.31-37",
+                "short_display": "Mark 7.31-37",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "Departed",
+                "display": "John 5.24-30",
+                "short_display": "John 5.24-30",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -21,
+        "julian_day_number": 2461122,
+        "year": 2026,
+        "month": 3,
+        "day": 22,
+        "weekday": 0,
+        "tone": 8,
+        "titles": [
+            "Fourth Sunday of Lent"
+        ],
+        "summary_title": "Fourth Sunday of Lent",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": [
+            "St John Climacus"
+        ],
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 3,
+        "fast_exception_desc": "Wine and Oil are Allowed",
+        "saints": [
+            "Hieromartyr Basil of Ancyra",
+            "Martyr Drosida of Antioch, and five nuns (104)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            1,
+            3
+        ],
+        "readings": [
+            {
+                "source": "8th Matins Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 20.11-18",
+                "short_display": "John 20.11-18",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Hebrews 6.13-20",
+                "short_display": "Heb 6.13-20",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "St John",
+                "display": "Ephesians 5.8-19",
+                "short_display": "Eph 5.8-19",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Mark",
+                "description": "",
+                "display": "Mark 9.17-31",
+                "short_display": "Mark 9.17-31",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Matthew",
+                "description": "St John",
+                "display": "Matthew 4.25-5.12",
+                "short_display": "Matt 4.25-5.12",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -20,
+        "julian_day_number": 2461123,
+        "year": 2026,
+        "month": 3,
+        "day": 23,
+        "weekday": 1,
+        "tone": 8,
+        "titles": [
+            "Monday of the Fifth Week of Lent"
+        ],
+        "summary_title": "Martyr Nikon and 199 Disciples",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Martyr Nikon and 199 Disciples"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "6th Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 37.33-38.6",
+                "short_display": "Isa 37.33-38.6",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 13.12-18",
+                "short_display": "Gen 13.12-18",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 14.27-15.4",
+                "short_display": "Prov 14.27-15.4",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -19,
+        "julian_day_number": 2461124,
+        "year": 2026,
+        "month": 3,
+        "day": 24,
+        "weekday": 2,
+        "tone": 8,
+        "titles": [
+            "Tuesday of the Fifth Week of Lent"
+        ],
+        "summary_title": "Forefeast of Annunciation",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": [
+            "Forefeast of Annunciation"
+        ],
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 3,
+        "fast_exception_desc": "Wine and Oil are Allowed",
+        "saints": [
+            "Ven. Zachariah the Recluse",
+            "Saint Zacharias the Recluse of Egypt (4th c.)",
+            "Commemoration of the Miracle at the Monastery of the Caves in Kiev (?)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "6th Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 40.18-31",
+                "short_display": "Isa 40.18-31",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 15.1-15",
+                "short_display": "Gen 15.1-15",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 15.7-19",
+                "short_display": "Prov 15.7-19",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "Annunciation",
+                "display": "Genesis 28.10-17",
+                "short_display": "Gen 28.10-17",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "Annunciation",
+                "display": "Ezekiel 43.27-44.4",
+                "short_display": "Ezek 43.27-44.4",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "Annunciation",
+                "display": "Proverbs 9.1-11",
+                "short_display": "Prov 9.1-11",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -18,
+        "julian_day_number": 2461125,
+        "year": 2026,
+        "month": 3,
+        "day": 25,
+        "weekday": 3,
+        "tone": 8,
+        "titles": [
+            "Wednesday of the Fifth Week of Lent"
+        ],
+        "summary_title": "Annunciation Most Holy Theotokos",
+        "feast_level": 7,
+        "feast_level_description": "Major feast Theotokos",
+        "feasts": [
+            "Annunciation Most Holy Theotokos"
+        ],
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 4,
+        "fast_exception_desc": "Fish, Wine and Oil are Allowed",
+        "saints": [
+            "New Confessor/Hieromartyr Tikhon, patriarch of Moscow (1925)"
+        ],
+        "service_notes": [
+            "Presanctified Liturgy"
+        ],
+        "abbreviated_reading_indices": [
+            6,
+            7
+        ],
+        "readings": [
+            {
+                "source": "Matins Gospel",
+                "book": "Luke",
+                "description": "Annunciation",
+                "display": "Luke 1.39-49, 56",
+                "short_display": "Luke 1.39-49, 56",
+                "passage": null
+            },
+            {
+                "source": "6th Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 41.4-14",
+                "short_display": "Isa 41.4-14",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 17.1-9",
+                "short_display": "Gen 17.1-9",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 15.20-16.9 (LXX)",
+                "short_display": "Prov 15.20-16.9",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "Annunciation",
+                "display": "Exodus 3.1-8",
+                "short_display": "Exod 3.1-8",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "Annunciation",
+                "display": "Proverbs 8.22-30",
+                "short_display": "Prov 8.22-30",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "Annunciation",
+                "display": "Hebrews 2.11-18",
+                "short_display": "Heb 2.11-18",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Luke",
+                "description": "Annunciation",
+                "display": "Luke 1.24-38",
+                "short_display": "Luke 1.24-38",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -17,
+        "julian_day_number": 2461126,
+        "year": 2026,
+        "month": 3,
+        "day": 26,
+        "weekday": 4,
+        "tone": 8,
+        "titles": [
+            "Thursday of the Fifth Week of Lent"
+        ],
+        "summary_title": "Great Canon of St Andrew of Crete",
+        "feast_level": 3,
+        "feast_level_description": "Red squigg (doxology typikon symbol)",
+        "feasts": [
+            "Great Canon of St Andrew of Crete"
+        ],
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 3,
+        "fast_exception_desc": "Wine and Oil are Allowed",
+        "saints": [
+            "Presanctified Liturgy",
+            "Leavetaking of Annunciation",
+            "Synaxis of Archangel Gabriel",
+            "Synaxis of the Archangel Gabriel"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "6th Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 42.5-16",
+                "short_display": "Isa 42.5-16",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 18.20-33",
+                "short_display": "Gen 18.20-33",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 16.17-17.17",
+                "short_display": "Prov 16.17-17.17",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -16,
+        "julian_day_number": 2461127,
+        "year": 2026,
+        "month": 3,
+        "day": 27,
+        "weekday": 5,
+        "tone": 8,
+        "titles": [
+            "Friday of the Fifth Week of Lent"
+        ],
+        "summary_title": "Martyr Matrona of Thessalonica",
+        "feast_level": 1,
+        "feast_level_description": "Presanctified",
+        "feasts": null,
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 3,
+        "fast_exception_desc": "Wine and Oil are Allowed",
+        "saints": [
+            "Martyr Matrona of Thessalonica"
+        ],
+        "service_notes": [
+            "Presanctified Liturgy"
+        ],
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "6th Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 45.11-17",
+                "short_display": "Isa 45.11-17",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 22.1-18",
+                "short_display": "Gen 22.1-18",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 17.17-18.5",
+                "short_display": "Prov 17.17-18.5",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -15,
+        "julian_day_number": 2461128,
+        "year": 2026,
+        "month": 3,
+        "day": 28,
+        "weekday": 6,
+        "tone": 8,
+        "titles": [
+            "Fifth Saturday of Lent"
+        ],
+        "summary_title": "Saturday of the Akathist to the Most-Holy Theotokos",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": [
+            "Saturday of the Akathist to the Most-Holy Theotokos"
+        ],
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 3,
+        "fast_exception_desc": "Wine and Oil are Allowed",
+        "saints": [
+            "Ven. Hilarion the New",
+            "Repose of Gerontissa Gavrilia (1992) (March 15 OC)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            2
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Hebrews 9.24-28",
+                "short_display": "Heb 9.24-28",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "Theotokos",
+                "display": "Hebrews 9.1-7",
+                "short_display": "Heb 9.1-7",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Mark",
+                "description": "",
+                "display": "Mark 8.27-31",
+                "short_display": "Mark 8.27-31",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Luke",
+                "description": "Theotokos",
+                "display": "Luke 10.38-42, 11.27-28",
+                "short_display": "Luke 10.38-42, 11.27-28",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -14,
+        "julian_day_number": 2461129,
+        "year": 2026,
+        "month": 3,
+        "day": 29,
+        "weekday": 0,
+        "tone": 1,
+        "titles": [
+            "Fifth Sunday of Lent"
+        ],
+        "summary_title": "Fifth Sunday of Lent",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": [
+            "St Mary of Egypt"
+        ],
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 3,
+        "fast_exception_desc": "Wine and Oil are Allowed",
+        "saints": [
+            "Hieromartyr Mark, Bishop of Anthusa",
+            "Our Holy Father John the Hermit (4th c.)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            1,
+            3
+        ],
+        "readings": [
+            {
+                "source": "9th Matins Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 20.19-31",
+                "short_display": "John 20.19-31",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Hebrews 9.11-14",
+                "short_display": "Heb 9.11-14",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "St Mary",
+                "display": "Galatians 3.23-29",
+                "short_display": "Gal 3.23-29",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Mark",
+                "description": "",
+                "display": "Mark 10.32-45",
+                "short_display": "Mark 10.32-45",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Luke",
+                "description": "St Mary",
+                "display": "Luke 7.36-50",
+                "short_display": "Luke 7.36-50",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -13,
+        "julian_day_number": 2461130,
+        "year": 2026,
+        "month": 3,
+        "day": 30,
+        "weekday": 1,
+        "tone": 1,
+        "titles": [
+            "Monday of the Sixth Week of Lent"
+        ],
+        "summary_title": "Ven. John Climacus",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Ven. John Climacus",
+            "Commemoration of an Uncondemning Monk"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "6th Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 48.17-49.4",
+                "short_display": "Isa 48.17-49.4",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 27.1-41",
+                "short_display": "Gen 27.1-41",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 19.16-25",
+                "short_display": "Prov 19.16-25",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "St Innocent",
+                "display": "Composite 2 - Proverbs 10, 3, 8",
+                "short_display": "Prov 10, 3, 8",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "St Innocent",
+                "display": "Composite 3 - Wisdom of Solomon 4, 5",
+                "short_display": "Wis 4, 5",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "St Innocent",
+                "display": "Composite 4 - Proverbs 10; Wisdom of Solomon 6, 7, 8, 9",
+                "short_display": "Prov 10; Wis 6, 7, 8, 9",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -12,
+        "julian_day_number": 2461131,
+        "year": 2026,
+        "month": 3,
+        "day": 31,
+        "weekday": 2,
+        "tone": 1,
+        "titles": [
+            "Tuesday of the Sixth Week of Lent"
+        ],
+        "summary_title": "Repose St Innocent, Metr. Moscow and Apostle to Americas",
+        "feast_level": 4,
+        "feast_level_description": "Red cross (polyeleos typikon symbol)",
+        "feasts": [
+            "Repose St Innocent, Metr. Moscow and Apostle to Americas"
+        ],
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Hieromartyr Hypatius, Bishop of Gangra (326)",
+            "St Jonah, Metropolitan of Moscow (1461)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            4,
+            5
+        ],
+        "readings": [
+            {
+                "source": "Matins Gospel",
+                "book": "John",
+                "description": "St Innocent",
+                "display": "John 10.1-9",
+                "short_display": "John 10.1-9",
+                "passage": null
+            },
+            {
+                "source": "6th Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 49.6-10",
+                "short_display": "Isa 49.6-10",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 31.3-16",
+                "short_display": "Gen 31.3-16",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 21.3-21",
+                "short_display": "Prov 21.3-21",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "St Innocent",
+                "display": "Hebrews 7.26-8.2",
+                "short_display": "Heb 7.26-8.2",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "St Innocent",
+                "display": "John 10.9-16",
+                "short_display": "John 10.9-16",
+                "passage": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,1838 @@
+[
+  {
+    "pascha_distance": 210,
+    "julian_day_number": 2460646,
+    "year": 2024,
+    "month": 11,
+    "day": 18,
+    "weekday": 0,
+    "tone": 6,
+    "titles": [
+      "23º domingo depois de Pentecostes"
+    ],
+    "summary_title": "23º domingo depois de Pentecostes",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 5,
+    "fast_level_desc": "Jejum da Natividade",
+    "fast_exception": 2,
+    "fast_exception_desc": "Peixe, vinho e azeite são permitidos",
+    "saints": [
+      "Mártires Platão e Romano",
+      "Santo Novo Mártir Anastácio de Épiro (1750) e Daniel, a quem ele converteu"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      1,
+      2
+    ],
+    "readings": [
+      {
+        "source": "1ª Matinas Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 28.16-20",
+        "short_display": "Mateus 28.16-20",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Efésios 2.4-10",
+        "short_display": "Ef 2.4-10",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "",
+        "display": "Lucas 12.16-21",
+        "short_display": "Lucas 12.16-21",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 211,
+    "julian_day_number": 2460647,
+    "year": 2024,
+    "month": 11,
+    "day": 19,
+    "weekday": 1,
+    "tone": 6,
+    "titles": [
+      "Segunda-feira da 24ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Profeta Obadias; Ven. Barlaão e Joasaf",
+    "feast_level": 3,
+    "feast_level_description": "Squigg vermelho (símbolo doxologia typikon)",
+    "feasts": null,
+    "fast_level": 5,
+    "fast_level_desc": "Jejum da Natividade",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Profeta Obadias",
+      "Ven. Barlaão e Joasaf",
+      "Nosso Santo Padre Philaret, Metropolita de Moscou (1867)",
+      "Santo Mártir Barlaão de Antioquia (304)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "1 Tessalonicenses 2.20-3.8",
+        "short_display": "1 Tessalonicenses 2.20-3.8",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "",
+        "display": "Lucas 17.20-25",
+        "short_display": "Lucas 17.20-25",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 212,
+    "julian_day_number": 2460648,
+    "year": 2024,
+    "month": 11,
+    "day": 20,
+    "weekday": 2,
+    "tone": 6,
+    "titles": [
+      "Terça-feira da 24ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Ven. Gregório Decapolitas",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 5,
+    "fast_level_desc": "Jejum da Natividade",
+    "fast_exception": 1,
+    "fast_exception_desc": "Vinho e azeite são permitidos",
+    "saints": [
+      "Ven. Gregório Decapolitas",
+      "Nosso Santo Padre Proclus, Arcebispo de Constantinopla (447)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "1 Tessalonicenses 3.9-13",
+        "short_display": "1 Tessalonicenses 3.9-13",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "",
+        "display": "Lucas 17.26-37",
+        "short_display": "Lucas 17.26-37",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 213,
+    "julian_day_number": 2460649,
+    "year": 2024,
+    "month": 11,
+    "day": 21,
+    "weekday": 3,
+    "tone": 6,
+    "titles": [
+      "Quarta-feira da 24ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Entrada do Santíssimo Theotokos no Templo",
+    "feast_level": 7,
+    "feast_level_description": "Festa principal Theotokos",
+    "feasts": [
+      "Entrada do Santíssimo Theotokos no Templo"
+    ],
+    "fast_level": 5,
+    "fast_level_desc": "Jejum da Natividade",
+    "fast_exception": 2,
+    "fast_exception_desc": "Peixe, vinho e azeite são permitidos",
+    "saints": null,
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      4,
+      6
+    ],
+    "readings": [
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Composição 17 - Êxodo 40:1-5, 9-10, 16, 34-35",
+        "short_display": "Êxodo 40:1-5, 9-10, 16, 34-35",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "​Composto 18 - 3 [1] Reis 7:51-8:1, 8:4-7, 9-11",
+        "short_display": "3Rs 7:51-8:1, 8:4-7, 9-11",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Ezequiel 43.27-44.4",
+        "short_display": "Ez 43.27-44.4",
+        "passage": null
+      },
+      {
+        "source": "Evangelho das Matinas",
+        "book": "Lucas",
+        "description": "",
+        "display": "Lucas 1.39-49, 56",
+        "short_display": "Lucas 1.39-49, 56",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "Entrada",
+        "display": "Hebreus 9.1-7",
+        "short_display": "Hebreus 9.1-7",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "1 Tessalonicenses 4.1-12",
+        "short_display": "1 Tessalonicenses 4.1-12",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "Entrada",
+        "display": "Lucas 10.38-42, 11.27-28",
+        "short_display": "Lucas 10.38-42, 11.27-28",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "",
+        "display": "Lucas 18.15-17, 26-30",
+        "short_display": "Lucas 18.15-17, 26-30",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 214,
+    "julian_day_number": 2460650,
+    "year": 2024,
+    "month": 11,
+    "day": 22,
+    "weekday": 4,
+    "tone": 6,
+    "titles": [
+      "Quinta-feira da 24ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Apóstolos dos 70 Filemon, Arquipo, Apphia; São Miguel, Príncipe de Tver",
+    "feast_level": 2,
+    "feast_level_description": "Squigg preto (símbolo typikon de 6 pontos)",
+    "feasts": null,
+    "fast_level": 5,
+    "fast_level_desc": "Jejum da Natividade",
+    "fast_exception": 1,
+    "fast_exception_desc": "Vinho e azeite são permitidos",
+    "saints": [
+      "Apóstolos dos 70 Filemon, Arquipo, Apphia",
+      "São Miguel, Príncipe de Tver",
+      "Santos Mártires Cecília, Valeriano, Tibúrcio e Máximo, em Roma (séc. III)",
+      "Santo Príncipe e Portador da Paixão Peter Yaropolk (1086)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "1 Tessalonicenses 5.1-8",
+        "short_display": "1 Tessalonicenses 5.1-8",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "",
+        "display": "Lucas 18.31-34",
+        "short_display": "Lucas 18.31-34",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 215,
+    "julian_day_number": 2460651,
+    "year": 2024,
+    "month": 11,
+    "day": 23,
+    "weekday": 5,
+    "tone": 6,
+    "titles": [
+      "Sexta-feira da 24ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Rota. Avenida. Grão-Duque Alexandre Nevsky",
+    "feast_level": 3,
+    "feast_level_description": "Squigg vermelho (símbolo doxologia typikon)",
+    "feasts": [
+      "Rota. Avenida. Grão-Duque Alexandre Nevsky"
+    ],
+    "fast_level": 5,
+    "fast_level_desc": "Jejum da Natividade",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Nosso Santo Padre Amphilocus, Bispo de Icônio (395)",
+      "São Columbano, Abade de Luxeuil (615)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      2
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "1 Tessalonicenses 5.9-13, 24-28",
+        "short_display": "1 Tessalonicenses 5.9-13, 24-28",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "Santo Alexandre",
+        "display": "Gálatas 5.22-6.2",
+        "short_display": "Gál 5.22-6.2",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "",
+        "display": "Lucas 19.12-28",
+        "short_display": "Lucas 19.12-28",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "Santo Alexandre",
+        "display": "Mateus 11.27-30",
+        "short_display": "Mateus 11.27-30",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 216,
+    "julian_day_number": 2460652,
+    "year": 2024,
+    "month": 11,
+    "day": 24,
+    "weekday": 6,
+    "tone": 6,
+    "titles": [
+      "Sábado da 24ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Grande Mártir Catarina de Alexandria",
+    "feast_level": 2,
+    "feast_level_description": "Squigg preto (símbolo typikon de 6 pontos)",
+    "feasts": null,
+    "fast_level": 5,
+    "fast_level_desc": "Jejum da Natividade",
+    "fast_exception": 2,
+    "fast_exception_desc": "Peixe, vinho e azeite são permitidos",
+    "saints": [
+      "Grande Mártir Catarina de Alexandria",
+      "Santo Hieromártir Clemente, Bispo de Roma (ca. 100)",
+      "Santo Hieromártir Pedro de Alexandria (312)",
+      "Santo Mártir Mercúrio de Smolensk (1238)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "2 Coríntios 11.1-6",
+        "short_display": "2Cor 11,1-6",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "",
+        "display": "Lucas 10.19-21",
+        "short_display": "Lucas 10.19-21",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 217,
+    "julian_day_number": 2460653,
+    "year": 2024,
+    "month": 11,
+    "day": 25,
+    "weekday": 0,
+    "tone": 7,
+    "titles": [
+      "24º Domingo depois de Pentecostes"
+    ],
+    "summary_title": "24º Domingo depois de Pentecostes",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": [
+      "Saída da entrada"
+    ],
+    "fast_level": 5,
+    "fast_level_desc": "Jejum da Natividade",
+    "fast_exception": 2,
+    "fast_exception_desc": "Peixe, vinho e azeite são permitidos",
+    "saints": [
+      "Santa Grande Mártir e Sábia Catarina de Alexandria e aqueles que estão com ela (305)",
+      "Grande Mártir Mercúrio (ca. 259)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      1,
+      3
+    ],
+    "readings": [
+      {
+        "source": "2ª Matinas Evangelho",
+        "book": "Marca",
+        "description": "",
+        "display": "Marcos 16.1-8",
+        "short_display": "Marcos 16.1-8",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Efésios 2.14-22",
+        "short_display": "Ef 2.14-22",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "Theotokos",
+        "display": "Hebreus 9.1-7",
+        "short_display": "Hebreus 9.1-7",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "",
+        "display": "Lucas 13.10-17",
+        "short_display": "Lucas 13.10-17",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "Theotokos",
+        "display": "Lucas 10.38-42, 11.27-28",
+        "short_display": "Lucas 10.38-42, 11.27-28",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 218,
+    "julian_day_number": 2460654,
+    "year": 2024,
+    "month": 11,
+    "day": 26,
+    "weekday": 1,
+    "tone": 7,
+    "titles": [
+      "Segunda-feira da 25ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Ven. Alípio, o Estilita",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 5,
+    "fast_level_desc": "Jejum da Natividade",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Ven. Alípio, o Estilita",
+      "Nosso Santo Padre Inocêncio, Bispo de Irkutsk (1731)",
+      "St Nikon Metanoite (\"Arrependam-se!\") (ca. 1000)",
+      "Santo Novo Mártir Jorge de Chios (1897)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "2 Tessalonicenses 1.1-10",
+        "short_display": "2 Tessalonicenses 1.1-10",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "",
+        "display": "Lucas 19.37-44",
+        "short_display": "Lucas 19.37-44",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 219,
+    "julian_day_number": 2460655,
+    "year": 2024,
+    "month": 11,
+    "day": 27,
+    "weekday": 2,
+    "tone": 7,
+    "titles": [
+      "Terça-feira da 25ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Grandemártir Jacó da Pérsia",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 5,
+    "fast_level_desc": "Jejum da Natividade",
+    "fast_exception": 1,
+    "fast_exception_desc": "Vinho e azeite são permitidos",
+    "saints": [
+      "Grandemártir Jacó da Pérsia",
+      "Repouso do Arquimandrita Lázaro (Moore) (1992) (14 de novembro OC)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "2 Tessalonicenses 1.10-2.2",
+        "short_display": "2 Tessalonicenses 1.10-2.2",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "",
+        "display": "Lucas 19.45-48",
+        "short_display": "Lucas 19.45-48",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 220,
+    "julian_day_number": 2460656,
+    "year": 2024,
+    "month": 11,
+    "day": 28,
+    "weekday": 3,
+    "tone": 7,
+    "titles": [
+      "Quarta-feira da 25ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Monge Mártir e Confessor Estêvão, o Novo",
+    "feast_level": 2,
+    "feast_level_description": "Squigg preto (símbolo typikon de 6 pontos)",
+    "feasts": null,
+    "fast_level": 5,
+    "fast_level_desc": "Jejum da Natividade",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Monge Mártir e Confessor Estêvão, o Novo"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "2 Tessalonicenses 2.1-12",
+        "short_display": "2 Tessalonicenses 2.1-12",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "",
+        "display": "Lucas 20.1-8",
+        "short_display": "Lucas 20.1-8",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 221,
+    "julian_day_number": 2460657,
+    "year": 2024,
+    "month": 11,
+    "day": 29,
+    "weekday": 4,
+    "tone": 7,
+    "titles": [
+      "Quinta-feira da 25ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Mártir Paramon e Companheiros",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 5,
+    "fast_level_desc": "Jejum da Natividade",
+    "fast_exception": 1,
+    "fast_exception_desc": "Vinho e azeite são permitidos",
+    "saints": [
+      "Mártir Paramon e Companheiros",
+      "Nosso Santo Padre Pitirim do Egito (séc. IV)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "2 Tessalonicenses 2.13-3.5",
+        "short_display": "2 Tessalonicenses 2.13-3.5",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "",
+        "display": "Lucas 20.9-18",
+        "short_display": "Lucas 20.9-18",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 222,
+    "julian_day_number": 2460658,
+    "year": 2024,
+    "month": 11,
+    "day": 30,
+    "weekday": 5,
+    "tone": 7,
+    "titles": [
+      "Sexta-feira da 25ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Santo Apóstolo André, o Primeiro Chamado",
+    "feast_level": 4,
+    "feast_level_description": "Cruz vermelha (símbolo polyeleos typikon)",
+    "feasts": [
+      "Santo Apóstolo André, o Primeiro Chamado"
+    ],
+    "fast_level": 5,
+    "fast_level_desc": "Jejum da Natividade",
+    "fast_exception": 2,
+    "fast_exception_desc": "Peixe, vinho e azeite são permitidos",
+    "saints": [
+      "Nosso Venerável Padre Frumentius, primeiro Bispo da Etiópia (séc. IV)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      4,
+      6
+    ],
+    "readings": [
+      {
+        "source": "Vésperas",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "1 Pedro 1.1-2.6",
+        "short_display": "1 animal de estimação 1,1-2,6",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "1 Pedro 2.21-3.9",
+        "short_display": "1 Pedro 2.21-3.9",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "1 Pedro 4.1-11",
+        "short_display": "1 Animal de estimação 4.1-11",
+        "passage": null
+      },
+      {
+        "source": "Evangelho das Matinas",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 4.18-23",
+        "short_display": "Mateus 4.18-23",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "2 Tessalonicenses 3.6-18",
+        "short_display": "2 Tessalonicenses 3.6-18",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "Santo André",
+        "display": "1 Coríntios 4.9-16",
+        "short_display": "1Co 4.9-16",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "",
+        "display": "Lucas 20.19-26",
+        "short_display": "Lucas 20.19-26",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "John",
+        "description": "Santo André",
+        "display": "João 1.35-51",
+        "short_display": "João 1.35-51",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 223,
+    "julian_day_number": 2460659,
+    "year": 2024,
+    "month": 12,
+    "day": 1,
+    "weekday": 6,
+    "tone": 7,
+    "titles": [
+      "Sábado da 25ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Profeta Naum",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 5,
+    "fast_level_desc": "Jejum da Natividade",
+    "fast_exception": 2,
+    "fast_exception_desc": "Peixe, vinho e azeite são permitidos",
+    "saints": [
+      "Profeta Naum",
+      "São Filareto, o Misericordioso de Constantinopla (762)",
+      "Nosso Venerável Padre Eligius (Eloi), Bispo de Noyon (660)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Gálatas 1.3-10",
+        "short_display": "Gálatas 1.3-10",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "",
+        "display": "Lucas 12.32-40",
+        "short_display": "Lucas 12.32-40",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 224,
+    "julian_day_number": 2460660,
+    "year": 2024,
+    "month": 12,
+    "day": 2,
+    "weekday": 0,
+    "tone": 8,
+    "titles": [
+      "25º Domingo depois de Pentecostes"
+    ],
+    "summary_title": "25º Domingo depois de Pentecostes",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 5,
+    "fast_level_desc": "Jejum da Natividade",
+    "fast_exception": 2,
+    "fast_exception_desc": "Peixe, vinho e azeite são permitidos",
+    "saints": [
+      "Profeta Habacuque",
+      "Santo Mártir Myrope (Myropea) de Quios (251)",
+      "Nosso Santo Padre Atanásio \"o Ressuscitado\", Recluso das Cavernas de Kiev (1176)",
+      "Santo (Estêvão) Uroš, Rei da Sérvia (1367)",
+      "São Porfírio de Kavsokalyvia (1991) (19 de novembro OC)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      1,
+      2
+    ],
+    "readings": [
+      {
+        "source": "Evangelho da 3ª Matinas",
+        "book": "Marca",
+        "description": "",
+        "display": "Marcos 16,9-20",
+        "short_display": "Marcos 16,9-20",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Efésios 4.1-6",
+        "short_display": "Ef 4.1-6",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "",
+        "display": "Lucas 18.18-27",
+        "short_display": "Lucas 18.18-27",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 225,
+    "julian_day_number": 2460661,
+    "year": 2024,
+    "month": 12,
+    "day": 3,
+    "weekday": 1,
+    "tone": 8,
+    "titles": [
+      "Segunda-feira da 26ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Profeta Sofonias; Ven. Savva de Zvenigorod",
+    "feast_level": 3,
+    "feast_level_description": "Squigg vermelho (símbolo doxologia typikon)",
+    "feasts": null,
+    "fast_level": 5,
+    "fast_level_desc": "Jejum da Natividade",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Profeta Sofonias",
+      "Ven. Savva de Zvenigorod",
+      "Nosso Venerável Padre João, o Silencioso, Bispo de Colônia (558)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "1 Timóteo 1.1-7",
+        "short_display": "1Tm 1.1-7",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "",
+        "display": "Lucas 20.27-44",
+        "short_display": "Lucas 20.27-44",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 226,
+    "julian_day_number": 2460662,
+    "year": 2024,
+    "month": 12,
+    "day": 4,
+    "weekday": 2,
+    "tone": 8,
+    "titles": [
+      "Terça-feira da 26ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Hieromártir Alexandre Hotovitzky",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": [
+      "Hieromártir Alexandre Hotovitzky"
+    ],
+    "fast_level": 5,
+    "fast_level_desc": "Jejum da Natividade",
+    "fast_exception": 1,
+    "fast_exception_desc": "Vinho e azeite são permitidos",
+    "saints": [
+      "Santa Grande Mártir Bárbara (290)",
+      "Nosso Justo Pai João de Damasco (760)",
+      "São Genádio, Arcebispo de Novgorod (1505)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      2
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "1 Timóteo 1.8-14",
+        "short_display": "1Tm 1.8-14",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "Santo Alexandre",
+        "display": "Hebreus 13.7-16",
+        "short_display": "Hebreus 13.7-16",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "",
+        "display": "Lucas 21.12-19",
+        "short_display": "Lucas 21.12-19",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "Santo Alexandre",
+        "display": "Lucas 12.32-40",
+        "short_display": "Lucas 12.32-40",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 227,
+    "julian_day_number": 2460663,
+    "year": 2024,
+    "month": 12,
+    "day": 5,
+    "weekday": 3,
+    "tone": 8,
+    "titles": [
+      "Quarta-feira da 26ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Ven. Sabbas, o Santificado",
+    "feast_level": 4,
+    "feast_level_description": "Cruz vermelha (símbolo polyeleos typikon)",
+    "feasts": [
+      "Ven. Sabbas, o Santificado"
+    ],
+    "fast_level": 5,
+    "fast_level_desc": "Jejum da Natividade",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "São Cosme, o Protos do Monte Athos e seus companheiros (ca. 1274)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      4,
+      6
+    ],
+    "readings": [
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Sabedoria de Salomão 3.1-9",
+        "short_display": "Sab 3.1-9",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Sabedoria de Salomão 5.15-6.3",
+        "short_display": "Sab 5,15-6,3",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Sabedoria de Salomão 4.7-15",
+        "short_display": "Sab 4,7-15",
+        "passage": null
+      },
+      {
+        "source": "Evangelho das Matinas",
+        "book": "Lucas",
+        "description": "",
+        "display": "Lucas 6.17-23",
+        "short_display": "Lucas 6.17-23",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "1 Timóteo 1.18-20, 2.8-15",
+        "short_display": "1Tm 1.18-20, 2.8-15",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "São Sabbas",
+        "display": "Gálatas 5.22-6.2",
+        "short_display": "Gál 5.22-6.2",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "",
+        "display": "Lucas 21,5-7, 10-11, 20-24",
+        "short_display": "Lucas 21,5-7, 10-11, 20-24",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "São Sabas",
+        "display": "Mateus 11.27-30",
+        "short_display": "Mateus 11.27-30",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 228,
+    "julian_day_number": 2460664,
+    "year": 2024,
+    "month": 12,
+    "day": 6,
+    "weekday": 4,
+    "tone": 8,
+    "titles": [
+      "Quinta-feira da 26ª semana depois de Pentecostes"
+    ],
+    "summary_title": "São Nicolau, o Wonderworker, Abp. de Myra na Lícia",
+    "feast_level": 5,
+    "feast_level_description": "Semicírculo da cruz vermelha (símbolo vigília typikon)",
+    "feasts": [
+      "São Nicolau, o Wonderworker, Abp. de Myra na Lícia"
+    ],
+    "fast_level": 5,
+    "fast_level_desc": "Jejum da Natividade",
+    "fast_exception": 2,
+    "fast_exception_desc": "Peixe, vinho e azeite são permitidos",
+    "saints": [
+      "Novo Mártir Nicolas Karamos de Esmirna (1657)",
+      "São Máximo, Metropolita de Kiev e Vladimir (1305)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      4,
+      6
+    ],
+    "readings": [
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Composição 2 – Provérbios 10, 3, 8",
+        "short_display": "Pv 10, 3, 8",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Provérbios 10.31-11.12",
+        "short_display": "Pv 10.31-11.12",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Sabedoria de Salomão 4.7-15",
+        "short_display": "Sab 4,7-15",
+        "passage": null
+      },
+      {
+        "source": "Evangelho das Matinas",
+        "book": "John",
+        "description": "",
+        "display": "João 10.9-16",
+        "short_display": "João 10.9-16",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "1 Timóteo 3.1-13",
+        "short_display": "1Tm 3.1-13",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "São Nicolau",
+        "display": "Hebreus 13.17-21",
+        "short_display": "Hebreus 13.17-21",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "",
+        "display": "Lucas 21.28-33",
+        "short_display": "Lucas 21.28-33",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "São Nicolau",
+        "display": "Lucas 6.17-23",
+        "short_display": "Lucas 6.17-23",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 229,
+    "julian_day_number": 2460665,
+    "year": 2024,
+    "month": 12,
+    "day": 7,
+    "weekday": 5,
+    "tone": 8,
+    "titles": [
+      "Sexta-feira da 26ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Santo Ambrósio, Bispo de Milão; Ven. Nilo de Stolobensk",
+    "feast_level": 3,
+    "feast_level_description": "Squigg vermelho (símbolo doxologia typikon)",
+    "feasts": null,
+    "fast_level": 5,
+    "fast_level_desc": "Jejum da Natividade",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Santo Ambrósio, bispo de Milão",
+      "Ven. Nilo de Stolobensk",
+      "Os Mártires da África, que sofreram durante a perseguição vândala (429 e seguintes)",
+      "Nosso Venerável Padre Antônio de Siya (1556)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "1 Timóteo 4.4-8, 16",
+        "short_display": "1Tm 4.4-8, 16",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "",
+        "display": "Lucas 21.37-22.8",
+        "short_display": "Lucas 21.37-22.8",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 230,
+    "julian_day_number": 2460666,
+    "year": 2024,
+    "month": 12,
+    "day": 8,
+    "weekday": 6,
+    "tone": 8,
+    "titles": [
+      "Sábado da 26ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Ven. Patápio de Tebas",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 5,
+    "fast_level_desc": "Jejum da Natividade",
+    "fast_exception": 2,
+    "fast_exception_desc": "Peixe, vinho e azeite são permitidos",
+    "saints": [
+      "Ven. Patápio de Tebas",
+      "Santos Apóstolos Sóstenes, Apolo, Tíquico e Epafrodito, Cefas e César"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Gálatas 3.8-12",
+        "short_display": "Gl 3.8-12",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "",
+        "display": "Lucas 13.18-29",
+        "short_display": "Lucas 13.18-29",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 231,
+    "julian_day_number": 2460667,
+    "year": 2024,
+    "month": 12,
+    "day": 9,
+    "weekday": 0,
+    "tone": 1,
+    "titles": [
+      "26º Domingo depois de Pentecostes"
+    ],
+    "summary_title": "26º Domingo depois de Pentecostes",
+    "feast_level": 3,
+    "feast_level_description": "Squigg vermelho (símbolo doxologia typikon)",
+    "feasts": [
+      "Conceição de Santa Ana de Theotokos"
+    ],
+    "fast_level": 5,
+    "fast_level_desc": "Jejum da Natividade",
+    "fast_exception": 2,
+    "fast_exception_desc": "Peixe, vinho e azeite são permitidos",
+    "saints": [
+      "Santa Ana (Ana), a Profetisa, mãe do Profeta Samuel (século XII aC)",
+      "Santo Estêvão, a Nova Luz (Neolampes) de Constantinopla (912)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      1,
+      3
+    ],
+    "readings": [
+      {
+        "source": "4º Evangelho das Matinas",
+        "book": "Lucas",
+        "description": "",
+        "display": "Lucas 24.1-12",
+        "short_display": "Lucas 24.1-12",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Efésios 5.8-19",
+        "short_display": "Ef 5.8-19",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "Santa Ana",
+        "display": "Gálatas 4.22-31",
+        "short_display": "Gl 4.22-31",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "",
+        "display": "Lucas 17.12-19",
+        "short_display": "Lucas 17.12-19",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "Santa Ana",
+        "display": "Lucas 8.16-21",
+        "short_display": "Lucas 8.16-21",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 232,
+    "julian_day_number": 2460668,
+    "year": 2024,
+    "month": 12,
+    "day": 10,
+    "weekday": 1,
+    "tone": 1,
+    "titles": [
+      "Segunda-feira da 27ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Mártires Menas, Hermógenes, Eugrafo",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 5,
+    "fast_level_desc": "Jejum da Natividade",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Mártires Menas, Hermógenes, Eugrafo"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "1 Timóteo 5.1-10",
+        "short_display": "1Tm 5.1-10",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Marca",
+        "description": "",
+        "display": "Marcos 8.11-21",
+        "short_display": "Marcos 8.11-21",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 233,
+    "julian_day_number": 2460669,
+    "year": 2024,
+    "month": 12,
+    "day": 11,
+    "weekday": 2,
+    "tone": 1,
+    "titles": [
+      "Terça-feira da 27ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Ven. Daniel, o Estilita",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 5,
+    "fast_level_desc": "Jejum da Natividade",
+    "fast_exception": 1,
+    "fast_exception_desc": "Vinho e azeite são permitidos",
+    "saints": [
+      "Ven. Daniel, o Estilita",
+      "São Nikon, o Seco das Cavernas de Kiev (1101)",
+      "Nosso Venerável Padre Lucas, o Novo Estilita (979)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "1 Timóteo 5.11-21",
+        "short_display": "1Tm 5.11-21",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Marca",
+        "description": "",
+        "display": "Marcos 8.22-26",
+        "short_display": "Marcos 8.22-26",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 234,
+    "julian_day_number": 2460670,
+    "year": 2024,
+    "month": 12,
+    "day": 12,
+    "weekday": 3,
+    "tone": 1,
+    "titles": [
+      "Quarta-feira da 27ª semana depois de Pentecostes"
+    ],
+    "summary_title": "São Spyridon, o Wonderworker",
+    "feast_level": 2,
+    "feast_level_description": "Squigg preto (símbolo typikon de 6 pontos)",
+    "feasts": null,
+    "fast_level": 5,
+    "fast_level_desc": "Jejum da Natividade",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "São Spyridon, o Wonderworker",
+      "São Herman, Wonderworker do Alasca (1836)",
+      "Nosso Santo Padre Spyridon, o Wonderworker (348).",
+      "São Finiano de Clonard (549)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "1 Timóteo 5.22-6.11",
+        "short_display": "1Tm 5.22-6.11",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Marca",
+        "description": "",
+        "display": "Marcos 8.30-34",
+        "short_display": "Marcos 8.30-34",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 235,
+    "julian_day_number": 2460671,
+    "year": 2024,
+    "month": 12,
+    "day": 13,
+    "weekday": 4,
+    "tone": 1,
+    "titles": [
+      "Quinta-feira da 27ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Repouso Ven. Herman do Alasca, Wonderworker de toda a América",
+    "feast_level": 5,
+    "feast_level_description": "Semicírculo da cruz vermelha (símbolo vigília typikon)",
+    "feasts": [
+      "Repouso Ven. Herman do Alasca, Wonderworker de toda a América"
+    ],
+    "fast_level": 5,
+    "fast_level_desc": "Jejum da Natividade",
+    "fast_exception": 2,
+    "fast_exception_desc": "Peixe, vinho e azeite são permitidos",
+    "saints": [
+      "Mártires Eustratius, Auxentius, Eugene, Mardarius e Orestes em Sebaste",
+      "Santa Virgem Maria Lúcia de Siracusa (304)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      4,
+      6
+    ],
+    "readings": [
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Sabedoria de Salomão 3.1-9",
+        "short_display": "Sab 3.1-9",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Sabedoria de Salomão 5.15-6.3",
+        "short_display": "Sab 5,15-6,3",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Sabedoria de Salomão 4.7-15",
+        "short_display": "Sab 4,7-15",
+        "passage": null
+      },
+      {
+        "source": "Evangelho das Matinas",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 11.27-30",
+        "short_display": "Mateus 11.27-30",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "1 Timóteo 6.17-21",
+        "short_display": "1 Timóteo 6.17-21",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "São Hermano",
+        "display": "Gálatas 5.22-6.2",
+        "short_display": "Gál 5.22-6.2",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Marca",
+        "description": "",
+        "display": "Marcos 9.10-16",
+        "short_display": "Marcos 9.10-16",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "São Hermano",
+        "display": "Lucas 6.17-23",
+        "short_display": "Lucas 6.17-23",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 236,
+    "julian_day_number": 2460672,
+    "year": 2024,
+    "month": 12,
+    "day": 14,
+    "weekday": 5,
+    "tone": 1,
+    "titles": [
+      "Sexta-feira da 27ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Mártires Tirso, Leucis, Calínico",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 5,
+    "fast_level_desc": "Jejum da Natividade",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Mártires Tirso, Leucis, Calínico",
+      "Santos Mártires Filemon, Apolônio, Ariano e aqueles com eles (3º c.)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "2 Timóteo 1.1-2, 8-18",
+        "short_display": "2Tm 1.1-2, 8-18",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Marca",
+        "description": "",
+        "display": "Marcos 9.33-41",
+        "short_display": "Marcos 9.33-41",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 237,
+    "julian_day_number": 2460673,
+    "year": 2024,
+    "month": 12,
+    "day": 15,
+    "weekday": 6,
+    "tone": 1,
+    "titles": [
+      "Sábado da 27ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Hieromártir Eleutério da Ilíria; Santo Estêvão de Surozh",
+    "feast_level": 2,
+    "feast_level_description": "Squigg preto (símbolo typikon de 6 pontos)",
+    "feasts": null,
+    "fast_level": 5,
+    "fast_level_desc": "Jejum da Natividade",
+    "fast_exception": 2,
+    "fast_exception_desc": "Peixe, vinho e azeite são permitidos",
+    "saints": [
+      "Hieromártir Eleutério da Ilíria",
+      "Santo Estêvão de Surozh",
+      "Santo Mártir Eleutério, o Cubicularius (séc. IV)",
+      "Santo Mártir Baco, o Novo (787)",
+      "Nosso Venerável Padre Trifão de Kola, apóstolo da Lapônia (1583), e seu discípulo, o Santo Mártir Jonas (1590)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Gálatas 5.22-6.2",
+        "short_display": "Gál 5.22-6.2",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "",
+        "display": "Lucas 14.1-11",
+        "short_display": "Lucas 14.1-11",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 238,
+    "julian_day_number": 2460674,
+    "year": 2024,
+    "month": 12,
+    "day": 16,
+    "weekday": 0,
+    "tone": 2,
+    "titles": [
+      "27º Domingo depois de Pentecostes"
+    ],
+    "summary_title": "27º Domingo depois de Pentecostes",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": [
+      "Domingo dos Antepassados"
+    ],
+    "fast_level": 5,
+    "fast_level_desc": "Jejum da Natividade",
+    "fast_exception": 2,
+    "fast_exception_desc": "Peixe, vinho e azeite são permitidos",
+    "saints": [
+      "Profeta Ageu",
+      "Santa Imperatriz e Maravilhas Teófano (893)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      1,
+      2
+    ],
+    "readings": [
+      {
+        "source": "5º Evangelho das Matinas",
+        "book": "Lucas",
+        "description": "",
+        "display": "Lucas 24.12-35",
+        "short_display": "Lucas 24.12-35",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "Antepassados",
+        "display": "Colossenses 3.4-11",
+        "short_display": "Col 3.4-11",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "Antepassados",
+        "display": "Lucas 14.16-24",
+        "short_display": "Lucas 14.16-24",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 239,
+    "julian_day_number": 2460675,
+    "year": 2024,
+    "month": 12,
+    "day": 17,
+    "weekday": 1,
+    "tone": 2,
+    "titles": [
+      "Segunda-feira da 28ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Santo Profeta Daniel e Três Jovens Santos",
+    "feast_level": 2,
+    "feast_level_description": "Squigg preto (símbolo typikon de 6 pontos)",
+    "feasts": null,
+    "fast_level": 5,
+    "fast_level_desc": "Jejum da Natividade",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Santo Profeta Daniel e Três Jovens Santos",
+      "Nosso Santo Padre Dionísio, o Novo de Zaquintos (1624)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "2 Timóteo 2.20-26",
+        "short_display": "2Tm 2.20-26",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Marca",
+        "description": "",
+        "display": "Marcos 9.42-10.1",
+        "short_display": "Marcos 9.42-10.1",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 240,
+    "julian_day_number": 2460676,
+    "year": 2024,
+    "month": 12,
+    "day": 18,
+    "weekday": 2,
+    "tone": 2,
+    "titles": [
+      "Terça-feira da 28ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Mártir Sebastião e companheiros em Roma",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 5,
+    "fast_level_desc": "Jejum da Natividade",
+    "fast_exception": 1,
+    "fast_exception_desc": "Vinho e azeite são permitidos",
+    "saints": [
+      "Mártir Sebastião e companheiros em Roma",
+      "Santo Hieromártir Modesto I, Arcebispo de Jerusalém (634)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "2 Timóteo 3.16-4.4",
+        "short_display": "2Tm 3.16-4.4",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Marca",
+        "description": "",
+        "display": "Marcos 10.2-12",
+        "short_display": "Marcos 10.2-12",
+        "passage": null
+      }
+    ]
+  }
+]

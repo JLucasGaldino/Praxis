@@ -1,0 +1,1842 @@
+[
+  {
+    "pascha_distance": 27,
+    "julian_day_number": 2460463,
+    "year": 2024,
+    "month": 6,
+    "day": 1,
+    "weekday": 6,
+    "tone": 3,
+    "titles": [
+      "Sábado do 4º Domingo da Páscoa"
+    ],
+    "summary_title": "Mártir Justino, o Filósofo",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 0,
+    "fast_level_desc": "Não rápido",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Mártir Justino, o Filósofo",
+      "Nosso Santo Padre Agápito das Cavernas de Kiev (1095)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Atos 12.1-11",
+        "short_display": "Atos 12.1-11",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "John",
+        "description": "",
+        "display": "João 8.31-42",
+        "short_display": "João 8.31-42",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 28,
+    "julian_day_number": 2460464,
+    "year": 2024,
+    "month": 6,
+    "day": 2,
+    "weekday": 0,
+    "tone": 4,
+    "titles": [
+      "5º domingo de Páscoa"
+    ],
+    "summary_title": "5º domingo de Páscoa",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": [
+      "Mulher samaritana"
+    ],
+    "fast_level": 0,
+    "fast_level_desc": "Não rápido",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "São Nicéforo, o Confessor",
+      "Santo Novo Mártir Constantino (1819)",
+      "Hieromártir Erazmo de Ocrida (303)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      1,
+      2
+    ],
+    "readings": [
+      {
+        "source": "7º Evangelho das Matinas",
+        "book": "John",
+        "description": "",
+        "display": "João 20.1-10",
+        "short_display": "João 20.1-10",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Atos 11.19-26, 29-30",
+        "short_display": "Atos 11.19-26, 29-30",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "John",
+        "description": "",
+        "display": "João 4.5-42",
+        "short_display": "João 4.5-42",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 29,
+    "julian_day_number": 2460465,
+    "year": 2024,
+    "month": 6,
+    "day": 3,
+    "weekday": 1,
+    "tone": 4,
+    "titles": [
+      "Segunda-feira do 5º Domingo da Páscoa"
+    ],
+    "summary_title": "Mártir Luciliano e seus companheiros",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 0,
+    "fast_level_desc": "Não rápido",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Mártir Luciliano e seus companheiros",
+      "Hieromártir Luciano (séc. II)",
+      "Santo Mártir Dimitri, Czarevich da Rússia (1591)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Atos 12.12-17",
+        "short_display": "Atos 12.12-17",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "John",
+        "description": "",
+        "display": "João 8.42-51",
+        "short_display": "João 8.42-51",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 30,
+    "julian_day_number": 2460466,
+    "year": 2024,
+    "month": 6,
+    "day": 4,
+    "weekday": 2,
+    "tone": 4,
+    "titles": [
+      "Terça-feira do 5º Domingo da Páscoa"
+    ],
+    "summary_title": "São Metrófanes, Primeiro Patriarca de Constantinopla",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 0,
+    "fast_level_desc": "Não rápido",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "São Metrófanes, Primeiro Patriarca de Constantinopla",
+      "Santas portadoras de mirra Maria e Marta, irmãs de São Lázaro (séc. I)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Atos 12.25-13.12",
+        "short_display": "Atos 12.25-13.12",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "John",
+        "description": "",
+        "display": "João 8.51-59",
+        "short_display": "João 8.51-59",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 31,
+    "julian_day_number": 2460467,
+    "year": 2024,
+    "month": 6,
+    "day": 5,
+    "weekday": 3,
+    "tone": 4,
+    "titles": [
+      "Quarta-feira do 5º Domingo da Páscoa"
+    ],
+    "summary_title": "Partida de meados de Pentecostes",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": [
+      "Partida de meados de Pentecostes"
+    ],
+    "fast_level": 1,
+    "fast_level_desc": "Rápido",
+    "fast_exception": 1,
+    "fast_exception_desc": "Vinho e azeite são permitidos",
+    "saints": [
+      "Hieromártir Doroteu, Bispo de Tiro",
+      "Nosso Santo Padre Teodoro, o Eremita e Maravilhas (583)",
+      "Bem-aventurado Igor-George, tonsurado Gabriel, grão-duque de Chernigov e Kiev (1147)",
+      "Bem-aventurado Constantino, Metropolita de Kiev (1159)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Atos 13.13-24",
+        "short_display": "Atos 13.13-24",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "John",
+        "description": "",
+        "display": "João 6.5-14",
+        "short_display": "João 6.5-14",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 32,
+    "julian_day_number": 2460468,
+    "year": 2024,
+    "month": 6,
+    "day": 6,
+    "weekday": 4,
+    "tone": 4,
+    "titles": [
+      "Quinta-feira do 5º Domingo da Páscoa"
+    ],
+    "summary_title": "Ven. Bessarion, o Wonderworker do Egito",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 0,
+    "fast_level_desc": "Não rápido",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Ven. Bessarion, o Wonderworker do Egito",
+      "Santo Hilarião, o Novo, abade do Mosteiro da Dalmácia (845)",
+      "Nossas Santas Mães, as Mártires Arquelau, Tecla e Susana (293)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Atos 14.20-27",
+        "short_display": "Atos 14.20-27",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "John",
+        "description": "",
+        "display": "João 9.39-10.9",
+        "short_display": "João 9.39-10.9",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 33,
+    "julian_day_number": 2460469,
+    "year": 2024,
+    "month": 6,
+    "day": 7,
+    "weekday": 5,
+    "tone": 4,
+    "titles": [
+      "Sexta-feira do 5º Domingo da Páscoa"
+    ],
+    "summary_title": "Hieromártir Teódoto, Bispo de Ancira",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 1,
+    "fast_level_desc": "Rápido",
+    "fast_exception": 1,
+    "fast_exception_desc": "Vinho e azeite são permitidos",
+    "saints": [
+      "Hieromártir Teódoto, Bispo de Ancira",
+      "Hieromártir Marcelino, papa de Roma (304)",
+      "São Daniel de Skete no Egito (séc. V)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Atos 15.5-34",
+        "short_display": "Atos 15.5-34",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "John",
+        "description": "",
+        "display": "João 10.17-28",
+        "short_display": "João 10.17-28",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 34,
+    "julian_day_number": 2460470,
+    "year": 2024,
+    "month": 6,
+    "day": 8,
+    "weekday": 6,
+    "tone": 4,
+    "titles": [
+      "Sábado do 5º Domingo da Páscoa"
+    ],
+    "summary_title": "Trad. Rel. Teodoro Estratelates",
+    "feast_level": 2,
+    "feast_level_description": "Squigg preto (símbolo typikon de 6 pontos)",
+    "feasts": null,
+    "fast_level": 0,
+    "fast_level_desc": "Não rápido",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Trad. Rel. Teodoro Estratelates",
+      "Santo Efraim, Patriarca de Antioquia (545)",
+      "Nossa Santa Mãe Melania, a Velha (410)",
+      "São Zózimo, monge, da Fenícia (Síria) (séc. VI)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Atos 15.35-41",
+        "short_display": "Atos 15.35-41",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "John",
+        "description": "",
+        "display": "João 10.27-38",
+        "short_display": "João 10.27-38",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 35,
+    "julian_day_number": 2460471,
+    "year": 2024,
+    "month": 6,
+    "day": 9,
+    "weekday": 0,
+    "tone": 5,
+    "titles": [
+      "6º Domingo de Páscoa"
+    ],
+    "summary_title": "6º Domingo de Páscoa",
+    "feast_level": 3,
+    "feast_level_description": "Squigg vermelho (símbolo doxologia typikon)",
+    "feasts": [
+      "Homem cego"
+    ],
+    "fast_level": 0,
+    "fast_level_desc": "Não rápido",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "São Cirilo de Alexandria",
+      "Ven. Cirilo de Belozersk",
+      "São Columba de Iona (597)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      1,
+      2
+    ],
+    "readings": [
+      {
+        "source": "8º Evangelho das Matinas",
+        "book": "John",
+        "description": "",
+        "display": "João 20.11-18",
+        "short_display": "João 20.11-18",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Atos 16.16-34",
+        "short_display": "Atos 16.16-34",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "John",
+        "description": "",
+        "display": "João 9.1-38",
+        "short_display": "João 9.1-38",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 36,
+    "julian_day_number": 2460472,
+    "year": 2024,
+    "month": 6,
+    "day": 10,
+    "weekday": 1,
+    "tone": 5,
+    "titles": [
+      "Segunda-feira do 6º Domingo da Páscoa"
+    ],
+    "summary_title": "Hieromártir Timóteo, Bispo da Prússia; São João Maximovitch, Metropolita de Tobolsk",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 0,
+    "fast_level_desc": "Não rápido",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Hieromártir Timóteo, Bispo da Prússia",
+      "São João Maximovitch, Metropolita de Tobolsk",
+      "Santos Mártires Alexandre e Antonina (313)",
+      "Hieromártir Metrófano, primeiro sacerdote chinês, e os Novos Mártires Chineses da Revolta dos Boxers (1900)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Atos 17.1-15",
+        "short_display": "Atos 17.1-15",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "John",
+        "description": "",
+        "display": "João 11.47-57",
+        "short_display": "João 11.47-57",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 37,
+    "julian_day_number": 2460473,
+    "year": 2024,
+    "month": 6,
+    "day": 11,
+    "weekday": 2,
+    "tone": 5,
+    "titles": [
+      "Terça-feira do 6º Domingo da Páscoa"
+    ],
+    "summary_title": "Santos Apóstolos Bartolomeu e Barnabé",
+    "feast_level": 4,
+    "feast_level_description": "Cruz vermelha (símbolo polyeleos typikon)",
+    "feasts": [
+      "Santos Apóstolos Bartolomeu e Barnabé"
+    ],
+    "fast_level": 0,
+    "fast_level_desc": "Não rápido",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Comemoração da aparição do Arcanjo Gabriel a um monge no Monte Athos e da revelação do hino \"É Verdadeiramente Encontro\" (Axion Estin (980)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      4,
+      6
+    ],
+    "readings": [
+      {
+        "source": "Vésperas",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "1 Pedro 1.3-9",
+        "short_display": "1 Pedro 1.3-9",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "1 Pedro 1.13-19",
+        "short_display": "1 Animal de estimação 1.13-19",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "1 Pedro 2.11-24",
+        "short_display": "1 Pedro 2.11-24",
+        "passage": null
+      },
+      {
+        "source": "Evangelho das Matinas",
+        "book": "John",
+        "description": "",
+        "display": "João 21.15-25",
+        "short_display": "João 21.15-25",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Atos 17.19-28",
+        "short_display": "Atos 17.19-28",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "Apóstolos",
+        "display": "Atos 11.19-26, 29-30",
+        "short_display": "Atos 11.19-26, 29-30",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "John",
+        "description": "",
+        "display": "João 12.19-36",
+        "short_display": "João 12.19-36",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "Apóstolos",
+        "display": "Lucas 10.16-21",
+        "short_display": "Lucas 10.16-21",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 38,
+    "julian_day_number": 2460474,
+    "year": 2024,
+    "month": 6,
+    "day": 12,
+    "weekday": 3,
+    "tone": 5,
+    "titles": [
+      "Quarta-feira do 6º Domingo da Páscoa"
+    ],
+    "summary_title": "Partida da Páscoa / Festa da Ascensão",
+    "feast_level": 2,
+    "feast_level_description": "Squigg preto (símbolo typikon de 6 pontos)",
+    "feasts": [
+      "Partida da Páscoa / Festa da Ascensão"
+    ],
+    "fast_level": 1,
+    "fast_level_desc": "Rápido",
+    "fast_exception": 2,
+    "fast_exception_desc": "Peixe, vinho e azeite são permitidos",
+    "saints": [
+      "Ven. Onufrio, o Grande"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Atos 18.22-28",
+        "short_display": "Atos 18.22-28",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "John",
+        "description": "",
+        "display": "João 12.36-47",
+        "short_display": "João 12.36-47",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 39,
+    "julian_day_number": 2460475,
+    "year": 2024,
+    "month": 6,
+    "day": 13,
+    "weekday": 4,
+    "tone": 5,
+    "titles": [
+      "A Ascensão de nosso Senhor, Deus e Salvador Jesus Cristo"
+    ],
+    "summary_title": "Ascensão do Senhor",
+    "feast_level": 8,
+    "feast_level_description": "Festa principal Senhor",
+    "feasts": [
+      "Ascensão do Senhor"
+    ],
+    "fast_level": 0,
+    "fast_level_desc": "Não rápido",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Mártir Aquilina de Biblos",
+      "São Trifílio, bispo de Leucosia (Nicósia) em Chipre (370)",
+      "Santa Ana e seu filho João (5h c.)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      4,
+      5
+    ],
+    "readings": [
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Isaías 2.2-3",
+        "short_display": "Is 2.2-3",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Composto 21 – Isaías 62.10-63.3, 7-9",
+        "short_display": "Is 62.10-63.3, 7-9",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Composto 22 – Zacarias 14.1, 4, 8-11",
+        "short_display": "Zacarias 14.1, 4, 8-11",
+        "passage": null
+      },
+      {
+        "source": "Evangelho das Matinas",
+        "book": "Marca",
+        "description": "",
+        "display": "Marcos 16,9-20",
+        "short_display": "Marcos 16,9-20",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Atos 1.1-12",
+        "short_display": "Atos 1.1-12",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "",
+        "display": "Lucas 24.36-53",
+        "short_display": "Lucas 24.36-53",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 40,
+    "julian_day_number": 2460476,
+    "year": 2024,
+    "month": 6,
+    "day": 14,
+    "weekday": 5,
+    "tone": 5,
+    "titles": [
+      "Sexta-feira do 6º Domingo da Páscoa"
+    ],
+    "summary_title": "Profeta Eliseu",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 1,
+    "fast_level_desc": "Rápido",
+    "fast_exception": 1,
+    "fast_exception_desc": "Vinho e azeite são permitidos",
+    "saints": [
+      "Profeta Eliseu",
+      "São Metódio, Patriarca de Constantinopla (847)",
+      "São João Mavropos, Metropolita de Euchaïta (1100)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Atos 19.1-8",
+        "short_display": "Atos 19.1-8",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "John",
+        "description": "",
+        "display": "João 14.1-11",
+        "short_display": "João 14.1-11",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 41,
+    "julian_day_number": 2460477,
+    "year": 2024,
+    "month": 6,
+    "day": 15,
+    "weekday": 6,
+    "tone": 5,
+    "titles": [
+      "Sábado do 6º Domingo da Páscoa"
+    ],
+    "summary_title": "Profeta Amós; São Jonas, Metr. de Moscou",
+    "feast_level": 4,
+    "feast_level_description": "Cruz vermelha (símbolo polyeleos typikon)",
+    "feasts": null,
+    "fast_level": 0,
+    "fast_level_desc": "Não rápido",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Profeta Amós",
+      "São Jonas, Metr. de Moscou",
+      "Santo Profeta Amós (séc. VIII a.C.)",
+      "Santo Mártir Vito, com Modesto e Crescentia (303)",
+      "Beato Agostinho, bispo de Hipona (430), e sua mãe Mônica (387)",
+      "Santo Mártir Lazar, Príncipe da Sérvia (1389)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Atos 20.7-12",
+        "short_display": "Atos 20.7-12",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "John",
+        "description": "",
+        "display": "João 14.10-21",
+        "short_display": "João 14.10-21",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 42,
+    "julian_day_number": 2460478,
+    "year": 2024,
+    "month": 6,
+    "day": 16,
+    "weekday": 0,
+    "tone": 6,
+    "titles": [
+      "7º domingo de Páscoa"
+    ],
+    "summary_title": "7º domingo de Páscoa",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": [
+      "Santos Padres do Primeiro Concílio Ecumênico"
+    ],
+    "fast_level": 0,
+    "fast_level_desc": "Não rápido",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "São Tycho, bispo de Amathus",
+      "Santos Mártires Tigris e Eutropios (404)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      4,
+      5
+    ],
+    "readings": [
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Gênesis 14.14-20",
+        "short_display": "Gn 14.14-20",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Deuteronômio 1.8-11, 15-17",
+        "short_display": "Deuteronômio 1.8-11, 15-17",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Deuteronômio 10.14-21",
+        "short_display": "Deuteronômio 10.14-21",
+        "passage": null
+      },
+      {
+        "source": "10º Evangelho das Matinas",
+        "book": "John",
+        "description": "",
+        "display": "João 21.1-14",
+        "short_display": "João 21.1-14",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Atos 20.16-18, 28-36",
+        "short_display": "Atos 20.16-18, 28-36",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "John",
+        "description": "",
+        "display": "João 17.1-13",
+        "short_display": "João 17.1-13",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 43,
+    "julian_day_number": 2460479,
+    "year": 2024,
+    "month": 6,
+    "day": 17,
+    "weekday": 1,
+    "tone": 6,
+    "titles": [
+      "Segunda-feira do 7º Domingo da Páscoa"
+    ],
+    "summary_title": "Mártires Manuel, Sabel, Ismael da Pérsia",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 0,
+    "fast_level_desc": "Não rápido",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Mártires Manuel, Sabel, Ismael da Pérsia",
+      "Nosso Santo Padre Botolph, Abade do Mosteiro de Ikanhoe (680)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Atos 21.8-14",
+        "short_display": "Atos 21.8-14",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "John",
+        "description": "",
+        "display": "João 14.27-15.7",
+        "short_display": "João 14.27-15.7",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 44,
+    "julian_day_number": 2460480,
+    "year": 2024,
+    "month": 6,
+    "day": 18,
+    "weekday": 2,
+    "tone": 6,
+    "titles": [
+      "Terça-feira do 7º Domingo da Páscoa"
+    ],
+    "summary_title": "Mártir Leôncio e Companheiros",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 0,
+    "fast_level_desc": "Não rápido",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Mártir Leôncio e Companheiros"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Atos 21.26-32",
+        "short_display": "Atos 21.26-32",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "John",
+        "description": "",
+        "display": "João 16.2-13",
+        "short_display": "João 16.2-13",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 45,
+    "julian_day_number": 2460481,
+    "year": 2024,
+    "month": 6,
+    "day": 19,
+    "weekday": 3,
+    "tone": 6,
+    "titles": [
+      "Quarta-feira do 7º Domingo da Páscoa"
+    ],
+    "summary_title": "Santo Apóstolo Judas, Irmão do Senhor",
+    "feast_level": 4,
+    "feast_level_description": "Cruz vermelha (símbolo polyeleos typikon)",
+    "feasts": [
+      "Santo Apóstolo Judas, Irmão do Senhor"
+    ],
+    "fast_level": 1,
+    "fast_level_desc": "Rápido",
+    "fast_exception": 1,
+    "fast_exception_desc": "Vinho e azeite são permitidos",
+    "saints": [
+      "Nosso Santo Padre Paisios, o Grande do Egito (400)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      4,
+      6
+    ],
+    "readings": [
+      {
+        "source": "Vésperas",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Judas 1-10",
+        "short_display": "Judas 1-10",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Judas 11-16",
+        "short_display": "Judas 11-16",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Judas 17-25",
+        "short_display": "Judas 17-25",
+        "passage": null
+      },
+      {
+        "source": "Evangelho das Matinas",
+        "book": "John",
+        "description": "",
+        "display": "João 21.15-25",
+        "short_display": "João 21.15-25",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Atos 23.1-11",
+        "short_display": "Atos 23.1-11",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "São Judas",
+        "display": "Judas 1-10",
+        "short_display": "Judas 1-10",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "John",
+        "description": "",
+        "display": "João 16.15-23",
+        "short_display": "João 16.15-23",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "John",
+        "description": "São Judas",
+        "display": "João 14.21-24",
+        "short_display": "João 14.21-24",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 46,
+    "julian_day_number": 2460482,
+    "year": 2024,
+    "month": 6,
+    "day": 20,
+    "weekday": 4,
+    "tone": 6,
+    "titles": [
+      "Quinta-feira do 7º Domingo da Páscoa"
+    ],
+    "summary_title": "Hieromártir Metódio, Bispo de Patar",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 0,
+    "fast_level_desc": "Não rápido",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Hieromártir Metódio, Bispo de Patar",
+      "São Calisto I, Patriarca de Constantinopla (1363)",
+      "Estúdios Abençoados (5º c.)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Atos 25.13-19",
+        "short_display": "Atos 25.13-19",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "John",
+        "description": "",
+        "display": "João 16.23-33",
+        "short_display": "João 16.23-33",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 47,
+    "julian_day_number": 2460483,
+    "year": 2024,
+    "month": 6,
+    "day": 21,
+    "weekday": 5,
+    "tone": 6,
+    "titles": [
+      "Sexta-feira do 7º Domingo da Páscoa"
+    ],
+    "summary_title": "Partida da Ascensão",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": [
+      "Partida da Ascensão"
+    ],
+    "fast_level": 1,
+    "fast_level_desc": "Rápido",
+    "fast_exception": 1,
+    "fast_exception_desc": "Vinho e azeite são permitidos",
+    "saints": [
+      "Mártir Juliano de Tarso",
+      "Nossos Santos Padres Júlio e Juliano (séc. V)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Atos 27.1-44",
+        "short_display": "Atos 27.1-44",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "John",
+        "description": "",
+        "display": "João 17.18-26",
+        "short_display": "João 17.18-26",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 48,
+    "julian_day_number": 2460484,
+    "year": 2024,
+    "month": 6,
+    "day": 22,
+    "weekday": 6,
+    "tone": 6,
+    "titles": [
+      "Sábado do 7º Domingo da Páscoa"
+    ],
+    "summary_title": "Sábado Memorial",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": [
+      "Sábado Memorial"
+    ],
+    "fast_level": 0,
+    "fast_level_desc": "Não rápido",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Hieromártir Eusébio, Bispo de Samósata",
+      "Santo Albano, primeiro mártir da Grã-Bretanha (início do século III)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      3
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Atos 28.1-31",
+        "short_display": "Atos 28.1-31",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "Partiu",
+        "display": "1 Tessalonicenses 4.13-17",
+        "short_display": "1 Tessalonicenses 4.13-17",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "Partiu, variante",
+        "display": "1 Coríntios 15.47-57",
+        "short_display": "1Cor 15,47-57",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "John",
+        "description": "",
+        "display": "João 21.15-25",
+        "short_display": "João 21.15-25",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "John",
+        "description": "Partiu",
+        "display": "João 5.24-30",
+        "short_display": "João 5.24-30",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "John",
+        "description": "Partiu, variante",
+        "display": "João 6.35-39",
+        "short_display": "João 6.35-39",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 49,
+    "julian_day_number": 2460485,
+    "year": 2024,
+    "month": 6,
+    "day": 23,
+    "weekday": 0,
+    "tone": 7,
+    "titles": [
+      "8º Domingo da Páscoa: Festa da Santíssima Trindade"
+    ],
+    "summary_title": "8º Domingo da Páscoa: Festa da Santíssima Trindade",
+    "feast_level": 8,
+    "feast_level_description": "Festa principal Senhor",
+    "feasts": [
+      "Santo Pentecostes"
+    ],
+    "fast_level": 0,
+    "fast_level_desc": "Não rápido",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Mártir Agripina de Roma",
+      "Mártir Agripina de Roma (séc. III)",
+      "Comemoração do Ícone Vladimir da Santíssima Mãe de Deus"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      4,
+      5
+    ],
+    "readings": [
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Números 11.16-17, 24-29",
+        "short_display": "Nm 11.16-17, 24-29",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Joel 2.23-32",
+        "short_display": "Joel 2.23-32",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Ezequiel 36.24-28",
+        "short_display": "Ezequiel 36.24-28",
+        "passage": null
+      },
+      {
+        "source": "Evangelho das Matinas",
+        "book": "John",
+        "description": "",
+        "display": "João 20.19-23",
+        "short_display": "João 20.19-23",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Atos 2.1-11",
+        "short_display": "Atos 2.1-11",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "John",
+        "description": "",
+        "display": "João 7.37-52, 8.12",
+        "short_display": "João 7.37-52, 8.12",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 50,
+    "julian_day_number": 2460486,
+    "year": 2024,
+    "month": 6,
+    "day": 24,
+    "weekday": 1,
+    "tone": 7,
+    "titles": [
+      "Segunda-feira da 1ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Dia do Espírito Santo; Natividade de São João Batista",
+    "feast_level": 6,
+    "feast_level_description": "Círculo da cruz vermelha (símbolo do typikon da grande festa)",
+    "feasts": [
+      "Dia do Espírito Santo",
+      "Natividade de São João Batista"
+    ],
+    "fast_level": 0,
+    "fast_level_desc": "Não rápido",
+    "fast_exception": 11,
+    "fast_exception_desc": "Rápido Grátis",
+    "saints": [
+      "Sinaxe dos Santos Zacarias e Isabel",
+      "Santos Mártires Orêncio, Farnácio, Eros, Firmus, Firminus, Cyriacus e Longinus (3º c.)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      4,
+      6
+    ],
+    "readings": [
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Composto 10 – Gênesis 17.15-17, 19; 18.11-14; 21.1-8",
+        "short_display": "Gn 17,15-17, 19; 18.11-14; 21.1-8",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Composto 11 - Juízes 13,2-8, 13-14, 17-18, 21",
+        "short_display": "Juízes 13,2-8, 13-14, 17-18, 21",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Composto 8 – Isaías 40, 41, 45, 48, 54",
+        "short_display": "Is 40, 41, 45, 48, 54",
+        "passage": null
+      },
+      {
+        "source": "Evangelho das Matinas",
+        "book": "Lucas",
+        "description": "",
+        "display": "Lucas 1.24-25, 57-68, 76, 80",
+        "short_display": "Lucas 1.24-25, 57-68, 76, 80",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Efésios 5.8-19",
+        "short_display": "Ef 5.8-19",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "Precursor",
+        "display": "Romanos 13.11-14.4",
+        "short_display": "Romanos 13.11-14.4",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 18.10-20",
+        "short_display": "Mateus 18.10-20",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "Precursor",
+        "display": "Lucas 1.1-25, 57-68, 76, 80",
+        "short_display": "Lucas 1.1-25, 57-68, 76, 80",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 51,
+    "julian_day_number": 2460487,
+    "year": 2024,
+    "month": 6,
+    "day": 25,
+    "weekday": 2,
+    "tone": 7,
+    "titles": [
+      "Terça-feira da 1ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Terceiro Dia da Trindade",
+    "feast_level": 3,
+    "feast_level_description": "Squigg vermelho (símbolo doxologia typikon)",
+    "feasts": [
+      "Terceiro Dia da Trindade"
+    ],
+    "fast_level": 0,
+    "fast_level_desc": "Não rápido",
+    "fast_exception": 11,
+    "fast_exception_desc": "Rápido Grátis",
+    "saints": [
+      "Virgem Mártir Febrônia",
+      "Pedro e Fevronia de Murom",
+      "Nosso Santo Padre Dionísio, fundador do Mosteiro de São João Precursor no Monte Athos (1380)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Romanos 1.1-7, 13-17",
+        "short_display": "Romanos 1.1-7, 13-17",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 4.25-5.13",
+        "short_display": "Mateus 4.25-5.13",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 52,
+    "julian_day_number": 2460488,
+    "year": 2024,
+    "month": 6,
+    "day": 26,
+    "weekday": 3,
+    "tone": 7,
+    "titles": [
+      "Quarta-feira da 1ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Ven. David de Tessalônica; Ícone de Tikhvin",
+    "feast_level": 4,
+    "feast_level_description": "Cruz vermelha (símbolo polyeleos typikon)",
+    "feasts": null,
+    "fast_level": 0,
+    "fast_level_desc": "Não rápido",
+    "fast_exception": 11,
+    "fast_exception_desc": "Rápido Grátis",
+    "saints": [
+      "Ven. Davi de Tessalônica",
+      "Ícone de Tikhvin"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Romanos 1.18-27",
+        "short_display": "Romanos 1.18-27",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 5.20-26",
+        "short_display": "Mateus 5.20-26",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 53,
+    "julian_day_number": 2460489,
+    "year": 2024,
+    "month": 6,
+    "day": 27,
+    "weekday": 4,
+    "tone": 7,
+    "titles": [
+      "Quinta-feira da 1ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Ven. Sansão, o Hospitaleiro de Constantinopla",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 0,
+    "fast_level_desc": "Não rápido",
+    "fast_exception": 11,
+    "fast_exception_desc": "Rápido Grátis",
+    "saints": [
+      "Ven. Sansão, o Hospitaleiro de Constantinopla",
+      "São Severo, o Sacerdote (séc. VI)",
+      "Santa Joana, a Portadora da Mirra (séc. I)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Romanos 1.28-2.9",
+        "short_display": "Romanos 1.28-2.9",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 5.27-32",
+        "short_display": "Mateus 5.27-32",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 54,
+    "julian_day_number": 2460490,
+    "year": 2024,
+    "month": 6,
+    "day": 28,
+    "weekday": 5,
+    "tone": 7,
+    "titles": [
+      "Sexta-feira da 1ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Trad. Rel. Ven. Ciro e João",
+    "feast_level": 2,
+    "feast_level_description": "Squigg preto (símbolo typikon de 6 pontos)",
+    "feasts": null,
+    "fast_level": 0,
+    "fast_level_desc": "Não rápido",
+    "fast_exception": 11,
+    "fast_exception_desc": "Rápido Grátis",
+    "saints": [
+      "Trad. Rel. Ven. Ciro e João",
+      "Santos Sérgio e Herman (1353), abades de Valaam",
+      "Sinaxe do Ícone de Nossa Santíssima Senhora Theotokos \"Das Três Mãos\"",
+      "Nosso Santo Padre Sennúfio, o Porta-estandarte (séc. IV)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Romanos 2.14-29",
+        "short_display": "Romanos 2.14-29",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 5.33-41",
+        "short_display": "Mateus 5.33-41",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 55,
+    "julian_day_number": 2460491,
+    "year": 2024,
+    "month": 6,
+    "day": 29,
+    "weekday": 6,
+    "tone": 7,
+    "titles": [
+      "Sábado da 1ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Partida de Pentecostes; Santos Apóstolos Pedro e Paulo",
+    "feast_level": 6,
+    "feast_level_description": "Círculo da cruz vermelha (símbolo do typikon da grande festa)",
+    "feasts": [
+      "Partida de Pentecostes",
+      "Santos Apóstolos Pedro e Paulo"
+    ],
+    "fast_level": 0,
+    "fast_level_desc": "Não rápido",
+    "fast_exception": 11,
+    "fast_exception_desc": "Rápido Grátis",
+    "saints": null,
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      4,
+      6
+    ],
+    "readings": [
+      {
+        "source": "Vésperas",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "1 Pedro 1.3-9",
+        "short_display": "1 Pedro 1.3-9",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "1 Pedro 1.13-19",
+        "short_display": "1 Animal de estimação 1.13-19",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "1 Pedro 2.11-24",
+        "short_display": "1 Pedro 2.11-24",
+        "passage": null
+      },
+      {
+        "source": "Evangelho das Matinas",
+        "book": "John",
+        "description": "",
+        "display": "João 21.15-25",
+        "short_display": "João 21.15-25",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Romanos 1.7-12",
+        "short_display": "Romanos 1.7-12",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "Apóstolos",
+        "display": "2 Coríntios 11.21-12.9",
+        "short_display": "2Cor 11,21-12,9",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 5.42-48",
+        "short_display": "Mateus 5.42-48",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "Apóstolos",
+        "display": "Mateus 16.13-19",
+        "short_display": "Mateus 16.13-19",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 56,
+    "julian_day_number": 2460492,
+    "year": 2024,
+    "month": 6,
+    "day": 30,
+    "weekday": 0,
+    "tone": 8,
+    "titles": [
+      "1º domingo depois de Pentecostes"
+    ],
+    "summary_title": "1º domingo depois de Pentecostes",
+    "feast_level": 4,
+    "feast_level_description": "Cruz vermelha (símbolo polyeleos typikon)",
+    "feasts": [
+      "Todos os Santos",
+      "Sinaxe dos Doze Apóstolos"
+    ],
+    "fast_level": 0,
+    "fast_level_desc": "Não rápido",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": null,
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      4,
+      6
+    ],
+    "readings": [
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Isaías 43.9-14",
+        "short_display": "Is 43.9-14",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Sabedoria de Salomão 3.1-9",
+        "short_display": "Sab 3.1-9",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Sabedoria de Salomão 5.15-6.3",
+        "short_display": "Sab 5,15-6,3",
+        "passage": null
+      },
+      {
+        "source": "1ª Matinas Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 28.16-20",
+        "short_display": "Mateus 28.16-20",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Hebreus 11.33-12.2",
+        "short_display": "Hebreus 11.33-12.2",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "Apóstolos",
+        "display": "1 Coríntios 4.9-16",
+        "short_display": "1Co 4.9-16",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 10.32-33, 37-38, 19.27-30",
+        "short_display": "Mateus 10.32-33, 37-38, 19.27-30",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Marca",
+        "description": "Apóstolos",
+        "display": "Marcos 3.13-19",
+        "short_display": "Marcos 3.13-19",
+        "passage": null
+      }
+    ]
+  }
+]

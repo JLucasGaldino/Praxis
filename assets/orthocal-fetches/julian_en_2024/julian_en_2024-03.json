@@ -1,0 +1,1875 @@
+[
+    {
+        "pascha_distance": -65,
+        "julian_day_number": 2460371,
+        "year": 2024,
+        "month": 2,
+        "day": 17,
+        "weekday": 5,
+        "tone": 5,
+        "titles": null,
+        "summary_title": "Greatmartyr Theodore Tyro; Hieromartyr Germogen, Patriarch of Moscow",
+        "feast_level": 2,
+        "feast_level_description": "Black squigg (6-stich typikon symbol)",
+        "feasts": null,
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 11,
+        "fast_exception_desc": "Fast Free",
+        "saints": [
+            "Greatmartyr Theodore Tyro",
+            "Hieromartyr Germogen, Patriarch of Moscow"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "1 John 2.7-17",
+                "short_display": "1 John 2.7-17",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Mark",
+                "description": "",
+                "display": "Mark 14.3-9",
+                "short_display": "Mark 14.3-9",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -64,
+        "julian_day_number": 2460372,
+        "year": 2024,
+        "month": 2,
+        "day": 18,
+        "weekday": 6,
+        "tone": 5,
+        "titles": null,
+        "summary_title": "St Leo the Great, Pope of Rome",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 11,
+        "fast_exception_desc": "Fast Free",
+        "saints": [
+            "St Leo the Great, Pope of Rome"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "2 Timothy 3.1-9",
+                "short_display": "2 Tim 3.1-9",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Luke",
+                "description": "",
+                "display": "Luke 20.46-21.4",
+                "short_display": "Luke 20.46-21.4",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -63,
+        "julian_day_number": 2460373,
+        "year": 2024,
+        "month": 2,
+        "day": 19,
+        "weekday": 0,
+        "tone": 6,
+        "titles": [
+            "Sunday of the Prodigal Son"
+        ],
+        "summary_title": "Sunday of the Prodigal Son",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Apostles of the Seventy Archippus and Philemon",
+            "Our Venerable Mother Philothea of Athens (1589)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "6th Matins Gospel",
+                "book": "Luke",
+                "description": "",
+                "display": "Luke 24.36-53",
+                "short_display": "Luke 24.36-53",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "1 Corinthians 6.12-20",
+                "short_display": "1 Cor 6.12-20",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Luke",
+                "description": "",
+                "display": "Luke 15.11-32",
+                "short_display": "Luke 15.11-32",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -62,
+        "julian_day_number": 2460374,
+        "year": 2024,
+        "month": 2,
+        "day": 20,
+        "weekday": 1,
+        "tone": 6,
+        "titles": [
+            "Monday of Meatfare"
+        ],
+        "summary_title": "St Leo, Bishop of Catania",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "St Leo, Bishop of Catania",
+            "St Bessarion the Great, wonder-worker of Egypt (466)",
+            "Thirty-four Holy Martyrs of the Monastery of Valaam (1578)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "1 John 2.18-3.10",
+                "short_display": "1 John 2.18-3.10",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Mark",
+                "description": "",
+                "display": "Mark 11.1-11",
+                "short_display": "Mark 11.1-11",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -61,
+        "julian_day_number": 2460375,
+        "year": 2024,
+        "month": 2,
+        "day": 21,
+        "weekday": 2,
+        "tone": 6,
+        "titles": [
+            "Tuesday of Meatfare"
+        ],
+        "summary_title": "Ven. Timothy of Symbola",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Ven. Timothy of Symbola",
+            "St Eustathius, archbishop of Antioch (337)",
+            "St John the Scholastic, patriarch of Constantinople (577)",
+            "Saint Zachariah, Patriarch of Jerusalem (632)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "1 John 3.10-20",
+                "short_display": "1 John 3.10-20",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Mark",
+                "description": "",
+                "display": "Mark 14.10-42",
+                "short_display": "Mark 14.10-42",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -60,
+        "julian_day_number": 2460376,
+        "year": 2024,
+        "month": 2,
+        "day": 22,
+        "weekday": 3,
+        "tone": 6,
+        "titles": [
+            "Wednesday of Meatfare"
+        ],
+        "summary_title": "Unc. Rel. Holy Martyrs at Gate of Eugenius",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 1,
+        "fast_level_desc": "Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Unc. Rel. Holy Martyrs at Gate of Eugenius"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "1 John 3.21-4.6",
+                "short_display": "1 John 3.21-4.6",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Mark",
+                "description": "",
+                "display": "Mark 14.43-15.1",
+                "short_display": "Mark 14.43-15.1",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -59,
+        "julian_day_number": 2460377,
+        "year": 2024,
+        "month": 2,
+        "day": 23,
+        "weekday": 4,
+        "tone": 6,
+        "titles": [
+            "Thursday of Meatfare"
+        ],
+        "summary_title": "Hieromartyr Polycarp, Bishop of Smyrna",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Hieromartyr Polycarp, Bishop of Smyrna",
+            "Saint Gorgonia (372)",
+            "Our Venerable Father Alexander the Unsleeping (430)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "1 John 4.20-5.21",
+                "short_display": "1 John 4.20-5.21",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Mark",
+                "description": "",
+                "display": "Mark 15.1-15",
+                "short_display": "Mark 15.1-15",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -58,
+        "julian_day_number": 2460378,
+        "year": 2024,
+        "month": 2,
+        "day": 24,
+        "weekday": 5,
+        "tone": 6,
+        "titles": [
+            "Friday of Meatfare"
+        ],
+        "summary_title": "1st and 2nd Finding Honorable Head of St John the Baptist",
+        "feast_level": 4,
+        "feast_level_description": "Red cross (polyeleos typikon symbol)",
+        "feasts": [
+            "1st and 2nd Finding Honorable Head of St John the Baptist"
+        ],
+        "fast_level": 1,
+        "fast_level_desc": "Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Saint Aethelberht (Ethelbert), first Christian King of Kent (616)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            4,
+            6
+        ],
+        "readings": [
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "Forerunner",
+                "display": "Composite 8 - Isaiah 40, 41, 45, 48, 54",
+                "short_display": "Isa 40, 41, 45, 48, 54",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "Forerunner",
+                "display": "Composite 9 - Malachi 3, 4",
+                "short_display": "Malachi 3, 4",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "Forerunner",
+                "display": "Composite 3 - Wisdom of Solomon 4, 5",
+                "short_display": "Wis 4, 5",
+                "passage": null
+            },
+            {
+                "source": "Matins Gospel",
+                "book": "Luke",
+                "description": "Forerunner",
+                "display": "Luke 7.17-30",
+                "short_display": "Luke 7.17-30",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "2 John 1.1-13",
+                "short_display": "2 John 1.1-13",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "Forerunner",
+                "display": "2 Corinthians 4.6-15",
+                "short_display": "2 Cor 4.6-15",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Mark",
+                "description": "",
+                "display": "Mark 15.22, 25, 33-41",
+                "short_display": "Mark 15.22, 25, 33-41",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Matthew",
+                "description": "Forerunner",
+                "display": "Matthew 11.2-15",
+                "short_display": "Matt 11.2-15",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -57,
+        "julian_day_number": 2460379,
+        "year": 2024,
+        "month": 2,
+        "day": 25,
+        "weekday": 6,
+        "tone": 6,
+        "titles": [
+            "Saturday of Meatfare"
+        ],
+        "summary_title": "Memorial Saturday",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": [
+            "Memorial Saturday"
+        ],
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "St Tarasius, Abp. of Constantinople"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            2
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "1 Corinthians 10.23-28",
+                "short_display": "1 Cor 10.23-28",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "Departed",
+                "display": "1 Thessalonians 4.13-17",
+                "short_display": "1 Thess 4.13-17",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Luke",
+                "description": "",
+                "display": "Luke 21.8-9, 25-27, 33-36",
+                "short_display": "Luke 21.8-9, 25-27, 33-36",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "Departed",
+                "display": "John 5.24-30",
+                "short_display": "John 5.24-30",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -56,
+        "julian_day_number": 2460380,
+        "year": 2024,
+        "month": 2,
+        "day": 26,
+        "weekday": 0,
+        "tone": 7,
+        "titles": [
+            "Sunday of Meatfare"
+        ],
+        "summary_title": "Sunday of Meatfare",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": [
+            "Sunday of the Last Judgment"
+        ],
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "St Porphyrius, Bishop of Gaza",
+            "St Photini the Samaritan Woman, and those with her (66)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "7th Matins Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 20.1-10",
+                "short_display": "John 20.1-10",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "1 Corinthians 8.8-9.2",
+                "short_display": "1 Cor 8.8-9.2",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Matthew",
+                "description": "",
+                "display": "Matthew 25.31-46",
+                "short_display": "Matt 25.31-46",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -55,
+        "julian_day_number": 2460381,
+        "year": 2024,
+        "month": 2,
+        "day": 27,
+        "weekday": 1,
+        "tone": 7,
+        "titles": [
+            "Monday of Cheesefare"
+        ],
+        "summary_title": "St Raphael Bishop of Brooklyn",
+        "feast_level": 5,
+        "feast_level_description": "Red cross half-circle (vigil typikon symbol)",
+        "feasts": [
+            "St Raphael Bishop of Brooklyn"
+        ],
+        "fast_level": 1,
+        "fast_level_desc": "Fast",
+        "fast_exception": 7,
+        "fast_exception_desc": "Meat Fast",
+        "saints": [
+            "Our Holy Father Procopius of Decapolis (9th c.)",
+            "Our Venerable Father Titus of the Lavra of the Kiev Caves (1190)",
+            "Our Holy Father Leander, Bishop of Seville and Apostle of Spain (600)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            4,
+            6
+        ],
+        "readings": [
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "St Raphael",
+                "display": "Composite 2 - Proverbs 10, 3, 8",
+                "short_display": "Prov 10, 3, 8",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "St Raphael",
+                "display": "Proverbs 10.31-11.12",
+                "short_display": "Prov 10.31-11.12",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "St Raphael",
+                "display": "Wisdom of Solomon 4.7-15",
+                "short_display": "Wis 4.7-15",
+                "passage": null
+            },
+            {
+                "source": "Matins Gospel",
+                "book": "John",
+                "description": "St Raphael",
+                "display": "John 10.1-9",
+                "short_display": "John 10.1-9",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "3 John 1.1-14",
+                "short_display": "3 John 1.1-14",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "St Raphael",
+                "display": "Hebrews 13.17-21",
+                "short_display": "Heb 13.17-21",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Luke",
+                "description": "",
+                "display": "Luke 19.29-40, 22.7-39",
+                "short_display": "Luke 19.29-40, 22.7-39",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "St Raphael",
+                "display": "John 10.9-16",
+                "short_display": "John 10.9-16",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -54,
+        "julian_day_number": 2460382,
+        "year": 2024,
+        "month": 2,
+        "day": 28,
+        "weekday": 2,
+        "tone": 7,
+        "titles": [
+            "Cheesefare Tuesday"
+        ],
+        "summary_title": "Ven. Basil the Confessor",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 1,
+        "fast_level_desc": "Fast",
+        "fast_exception": 7,
+        "fast_exception_desc": "Meat Fast",
+        "saints": [
+            "Ven. Basil the Confessor",
+            "Blessed Nicholas of Pskov, fool for Christ (1576)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Jude 1-10",
+                "short_display": "Jude 1-10",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Luke",
+                "description": "",
+                "display": "Luke 22.39-42, 45-23.1",
+                "short_display": "Luke 22.39-42, 45-23.1",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -53,
+        "julian_day_number": 2460383,
+        "year": 2024,
+        "month": 2,
+        "day": 29,
+        "weekday": 3,
+        "tone": 7,
+        "titles": [
+            "Cheesefare Wednesday"
+        ],
+        "summary_title": "Ven. John Cassian",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 1,
+        "fast_level_desc": "Fast",
+        "fast_exception": 7,
+        "fast_exception_desc": "Meat Fast",
+        "saints": [
+            "Ven. John Cassian"
+        ],
+        "service_notes": [
+            "No Liturgy"
+        ],
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Sixth Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Joel 2.12-26",
+                "short_display": "Joel 2.12-26",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Joel 3.12-21",
+                "short_display": "Joel 3.12-21",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "St John",
+                "display": "1 John 2.18-3.10",
+                "short_display": "1 John 2.18-3.10",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Mark",
+                "description": "St John",
+                "display": "Mark 11.1-11",
+                "short_display": "Mark 11.1-11",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -52,
+        "julian_day_number": 2460384,
+        "year": 2024,
+        "month": 3,
+        "day": 1,
+        "weekday": 4,
+        "tone": 7,
+        "titles": [
+            "Cheesefare Thursday"
+        ],
+        "summary_title": "Martyr Eudoxia of Heliopolis",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 1,
+        "fast_level_desc": "Fast",
+        "fast_exception": 7,
+        "fast_exception_desc": "Meat Fast",
+        "saints": [
+            "Martyr Eudoxia of Heliopolis"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Jude 11-25",
+                "short_display": "Jude 11-25",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Luke",
+                "description": "",
+                "display": "Luke 23.2-34, 44-56",
+                "short_display": "Luke 23.2-34, 44-56",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -51,
+        "julian_day_number": 2460385,
+        "year": 2024,
+        "month": 3,
+        "day": 2,
+        "weekday": 5,
+        "tone": 7,
+        "titles": [
+            "Cheesefare Friday"
+        ],
+        "summary_title": "Hieromartyr Theodotus, Bishop of Cyrenia; St Arseny, Bishop of Tver",
+        "feast_level": 3,
+        "feast_level_description": "Red squigg (doxology typikon symbol)",
+        "feasts": null,
+        "fast_level": 1,
+        "fast_level_desc": "Fast",
+        "fast_exception": 7,
+        "fast_exception_desc": "Meat Fast",
+        "saints": [
+            "Hieromartyr Theodotus, Bishop of Cyrenia",
+            "St Arseny, Bishop of Tver",
+            "The Four Hundred and Forty Martyrs of Lombardy (579)",
+            "Holy Martyr Euthalia (257)"
+        ],
+        "service_notes": [
+            "No Liturgy"
+        ],
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "6th Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Zechariah 8.7-17",
+                "short_display": "Zech 8.7-17",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Zechariah 8.19-23",
+                "short_display": "Zech 8.19-23",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -50,
+        "julian_day_number": 2460386,
+        "year": 2024,
+        "month": 3,
+        "day": 3,
+        "weekday": 6,
+        "tone": 7,
+        "titles": [
+            "Cheesefare Saturday"
+        ],
+        "summary_title": "Commemoration of Departed Righteous Monastics",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": [
+            "Commemoration of Departed Righteous Monastics"
+        ],
+        "fast_level": 1,
+        "fast_level_desc": "Fast",
+        "fast_exception": 7,
+        "fast_exception_desc": "Meat Fast",
+        "saints": [
+            "Martyrs Eutropius, Cleonicus and Basiliscus",
+            "An Unknown Girl in Alexandria (?)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            2
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Romans 14.19-23, 16.25-27",
+                "short_display": "Rom 14.19-23, 16.25-27",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "Departed",
+                "display": "Galatians 5.22-6.2",
+                "short_display": "Gal 5.22-6.2",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Matthew",
+                "description": "",
+                "display": "Matthew 6.1-13",
+                "short_display": "Matt 6.1-13",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Matthew",
+                "description": "Departed",
+                "display": "Matthew 11.27-30",
+                "short_display": "Matt 11.27-30",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -49,
+        "julian_day_number": 2460387,
+        "year": 2024,
+        "month": 3,
+        "day": 4,
+        "weekday": 0,
+        "tone": 8,
+        "titles": [
+            "Sunday of Cheesefare: Expulsion of Adam from Paradise"
+        ],
+        "summary_title": "Sunday of Cheesefare: Expulsion of Adam from Paradise",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": [
+            "Forgiveness Sunday"
+        ],
+        "fast_level": 1,
+        "fast_level_desc": "Fast",
+        "fast_exception": 7,
+        "fast_exception_desc": "Meat Fast",
+        "saints": [
+            "Ven. Gerasimus of the Jordan",
+            "Rt. Blv. Prince Daniel of Moscow",
+            "St James the Faster of Phoenecia (6th c.)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "8th Matins Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 20.11-18",
+                "short_display": "John 20.11-18",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Romans 13.11-14.4",
+                "short_display": "Rom 13.11-14.4",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Matthew",
+                "description": "",
+                "display": "Matthew 6.14-21",
+                "short_display": "Matt 6.14-21",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -48,
+        "julian_day_number": 2460388,
+        "year": 2024,
+        "month": 3,
+        "day": 5,
+        "weekday": 1,
+        "tone": 8,
+        "titles": [
+            "Monday of the First Week of Lent"
+        ],
+        "summary_title": "Beginning of the Great Fast",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": [
+            "Beginning of the Great Fast"
+        ],
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 10,
+        "fast_exception_desc": "No overrides",
+        "saints": [
+            "Martyr Conon of Isauria",
+            "St Mark of Athens (4th c.)",
+            "St Mark the Ascetic (5th c.)"
+        ],
+        "service_notes": [
+            "Great Canon"
+        ],
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "6th Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 1.1-20",
+                "short_display": "Isa 1.1-20",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 1.1-13",
+                "short_display": "Gen 1.1-13",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 1.1-20",
+                "short_display": "Prov 1.1-20",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -47,
+        "julian_day_number": 2460389,
+        "year": 2024,
+        "month": 3,
+        "day": 6,
+        "weekday": 2,
+        "tone": 8,
+        "titles": [
+            "Tuesday of the First Week of Lent"
+        ],
+        "summary_title": "Forty-two Martyrs of Ammoria",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 10,
+        "fast_exception_desc": "No overrides",
+        "saints": [
+            "Forty-two Martyrs of Ammoria"
+        ],
+        "service_notes": [
+            "Great Canon"
+        ],
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "6th Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 1.19-2.3",
+                "short_display": "Isa 1.19-2.3",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 1.14-23",
+                "short_display": "Gen 1.14-23",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 1.20-33",
+                "short_display": "Prov 1.20-33",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -46,
+        "julian_day_number": 2460390,
+        "year": 2024,
+        "month": 3,
+        "day": 7,
+        "weekday": 3,
+        "tone": 8,
+        "titles": [
+            "Wednesday of the First Week of Lent"
+        ],
+        "summary_title": "Seven Hieromartyrs of Cherson",
+        "feast_level": 1,
+        "feast_level_description": "Presanctified",
+        "feasts": null,
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 10,
+        "fast_exception_desc": "No overrides",
+        "saints": [
+            "Seven Hieromartyrs of Cherson"
+        ],
+        "service_notes": [
+            "Great Canon; Presanctified Liturgy"
+        ],
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "6th Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 2.3-11",
+                "short_display": "Isa 2.3-11",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 1.24-2.3",
+                "short_display": "Gen 1.24-2.3",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 2.1-22",
+                "short_display": "Prov 2.1-22",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -45,
+        "julian_day_number": 2460391,
+        "year": 2024,
+        "month": 3,
+        "day": 8,
+        "weekday": 4,
+        "tone": 8,
+        "titles": [
+            "Thursday of the First Week of Lent"
+        ],
+        "summary_title": "St Theophylactus, Bishop of Nicomedia",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 10,
+        "fast_exception_desc": "No overrides",
+        "saints": [
+            "St Theophylactus, Bishop of Nicomedia",
+            "Hieromartyr Theodoretus (362)"
+        ],
+        "service_notes": [
+            "Great Canon"
+        ],
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "6th Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 2.11-21",
+                "short_display": "Isa 2.11-21",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 2.4-19",
+                "short_display": "Gen 2.4-19",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 3.1-18",
+                "short_display": "Prov 3.1-18",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -44,
+        "julian_day_number": 2460392,
+        "year": 2024,
+        "month": 3,
+        "day": 9,
+        "weekday": 5,
+        "tone": 8,
+        "titles": [
+            "Friday of the First Week of Lent"
+        ],
+        "summary_title": "Holy Forty Martyrs of Sebaste",
+        "feast_level": 4,
+        "feast_level_description": "Red cross (polyeleos typikon symbol)",
+        "feasts": [
+            "Holy Forty Martyrs of Sebaste"
+        ],
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 10,
+        "fast_exception_desc": "No overrides",
+        "saints": [
+            "St Caesarius (369)"
+        ],
+        "service_notes": [
+            "Presanctified Liturgy"
+        ],
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "6th Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 3.1-14",
+                "short_display": "Isa 3.1-14",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 2.20-3.20",
+                "short_display": "Gen 2.20-3.20",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 3.19-34",
+                "short_display": "Prov 3.19-34",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "Martyrs",
+                "display": "Isaiah 43.9-14",
+                "short_display": "Isa 43.9-14",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "Martyrs",
+                "display": "Wisdom of Solomon 3.1-9",
+                "short_display": "Wis 3.1-9",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "Martyrs",
+                "display": "Wisdom of Solomon 5.15-6.3",
+                "short_display": "Wis 5.15-6.3",
+                "passage": null
+            },
+            {
+                "source": "Matins Gospel",
+                "book": "Luke",
+                "description": "Martyrs",
+                "display": "Luke 21.12-19",
+                "short_display": "Luke 21.12-19",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "Martyrs",
+                "display": "Hebrews 12.1-10",
+                "short_display": "Heb 12.1-10",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Matthew",
+                "description": "Martyrs",
+                "display": "Matthew 20.1-16",
+                "short_display": "Matt 20.1-16",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -43,
+        "julian_day_number": 2460393,
+        "year": 2024,
+        "month": 3,
+        "day": 10,
+        "weekday": 6,
+        "tone": 8,
+        "titles": [
+            "First Saturday of Lent"
+        ],
+        "summary_title": "St Theodore Tyro (the Recruit)",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": [
+            "St Theodore Tyro (the Recruit)"
+        ],
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 3,
+        "fast_exception_desc": "Wine and Oil are Allowed",
+        "saints": [
+            "Martyr Quadratus and Companions",
+            "Our Holy Mother Anastasia (563)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            2
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Hebrews 1.1-12",
+                "short_display": "Heb 1.1-12",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "St Theodore",
+                "display": "2 Timothy 2.1-10",
+                "short_display": "2 Tim 2.1-10",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Mark",
+                "description": "",
+                "display": "Mark 2.23-3.5",
+                "short_display": "Mark 2.23-3.5",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "St Theodore",
+                "display": "John 15.17-16.2",
+                "short_display": "John 15.17-16.2",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -42,
+        "julian_day_number": 2460394,
+        "year": 2024,
+        "month": 3,
+        "day": 11,
+        "weekday": 0,
+        "tone": 1,
+        "titles": [
+            "First Sunday of Lent"
+        ],
+        "summary_title": "First Sunday of Lent",
+        "feast_level": 3,
+        "feast_level_description": "Red squigg (doxology typikon symbol)",
+        "feasts": [
+            "Sunday of Orthodoxy"
+        ],
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 3,
+        "fast_exception_desc": "Wine and Oil are Allowed",
+        "saints": [
+            "St. Sophronius, Patriarch of Jerusalem",
+            "St Euthymius, Bishop of Novgorod",
+            "St Sophronios, patriarch of Jerusalem (638)",
+            "St John Moschos, author of the Spiritual Meadow (622)",
+            "Holy Martyr Pionius (250)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "9th Matins Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 20.19-31",
+                "short_display": "John 20.19-31",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Hebrews 11.24-26, 32-12.2",
+                "short_display": "Heb 11.24-26, 32-12.2",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 1.43-51",
+                "short_display": "John 1.43-51",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -41,
+        "julian_day_number": 2460395,
+        "year": 2024,
+        "month": 3,
+        "day": 12,
+        "weekday": 1,
+        "tone": 1,
+        "titles": [
+            "Monday of the Second Week of Lent"
+        ],
+        "summary_title": "Ven. Theophanes the Confessor",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Ven. Theophanes the Confessor",
+            "St Gregory the Great (the Dialogist), Pope of Rome (604)",
+            "Repose of St Symeon the New Theologian (1021)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "6th Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 4.2-5.7",
+                "short_display": "Isa 4.2-5.7",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 3.21-4.7",
+                "short_display": "Gen 3.21-4.7",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 3.34-4.22",
+                "short_display": "Prov 3.34-4.22",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -40,
+        "julian_day_number": 2460396,
+        "year": 2024,
+        "month": 3,
+        "day": 13,
+        "weekday": 2,
+        "tone": 1,
+        "titles": [
+            "Tuesday of the Second Week of Lent"
+        ],
+        "summary_title": "Trans. Rel. Nicephorus, Patr. Constantinopole",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Trans. Rel. Nicephorus, Patr. Constantinopole"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "6th Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 5.7-16",
+                "short_display": "Isa 5.7-16",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 4.8-15",
+                "short_display": "Gen 4.8-15",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 5.1-15",
+                "short_display": "Prov 5.1-15",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -39,
+        "julian_day_number": 2460397,
+        "year": 2024,
+        "month": 3,
+        "day": 14,
+        "weekday": 3,
+        "tone": 1,
+        "titles": [
+            "Wednesday of the Second Week of Lent"
+        ],
+        "summary_title": "Ven. Benedict of Nursia",
+        "feast_level": 1,
+        "feast_level_description": "Presanctified",
+        "feasts": null,
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Ven. Benedict of Nursia",
+            "St Theognostus, Metropolitan of Kiev (1353)"
+        ],
+        "service_notes": [
+            "Presanctified Liturgy"
+        ],
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "6th Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 5.16-25",
+                "short_display": "Isa 5.16-25",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 4.16-26",
+                "short_display": "Gen 4.16-26",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 5.15-6.3",
+                "short_display": "Prov 5.15-6.3",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -38,
+        "julian_day_number": 2460398,
+        "year": 2024,
+        "month": 3,
+        "day": 15,
+        "weekday": 4,
+        "tone": 1,
+        "titles": [
+            "Thursday of the Second Week of Lent"
+        ],
+        "summary_title": "Martyr Agapius and Seven with Him",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Martyr Agapius and Seven with Him",
+            "Holy Martyr Alexander (270-275)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "6th Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 6.1-12",
+                "short_display": "Isa 6.1-12",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 5.1-24",
+                "short_display": "Gen 5.1-24",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 6.3-20",
+                "short_display": "Prov 6.3-20",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -37,
+        "julian_day_number": 2460399,
+        "year": 2024,
+        "month": 3,
+        "day": 16,
+        "weekday": 5,
+        "tone": 1,
+        "titles": [
+            "Friday of the Second Week of Lent"
+        ],
+        "summary_title": "Martyr Sabinas of Egypt",
+        "feast_level": 1,
+        "feast_level_description": "Presanctified",
+        "feasts": null,
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Martyr Sabinas of Egypt",
+            "Our Holy Father Christodoulos, Wonderworker of Patmos (1111)",
+            "Holy Apostle Aristobulus of the Seventy, first Bishop of Britain (1st c.)"
+        ],
+        "service_notes": [
+            "Presanctified Liturgy"
+        ],
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "6th Hour",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 7.1-14",
+                "short_display": "Isa 7.1-14",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 5.32-6.8",
+                "short_display": "Gen 5.32-6.8",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 6.20-7.1",
+                "short_display": "Prov 6.20-7.1",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -36,
+        "julian_day_number": 2460400,
+        "year": 2024,
+        "month": 3,
+        "day": 17,
+        "weekday": 6,
+        "tone": 1,
+        "titles": [
+            "Second Saturday of Lent"
+        ],
+        "summary_title": "Memorial Saturday",
+        "feast_level": 3,
+        "feast_level_description": "Red squigg (doxology typikon symbol)",
+        "feasts": [
+            "Memorial Saturday"
+        ],
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 3,
+        "fast_exception_desc": "Wine and Oil are Allowed",
+        "saints": [
+            "Ven. Alexius the Man of God",
+            "Ven. Makary of Kalyazinsk",
+            "St Alexis, the Man of God (411)",
+            "St Patrick, Enlightener of Ireland (ca. 461)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            2
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Hebrews 3.12-16",
+                "short_display": "Heb 3.12-16",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "Departed",
+                "display": "1 Thessalonians 4.13-17",
+                "short_display": "1 Thess 4.13-17",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Mark",
+                "description": "",
+                "display": "Mark 1.35-44",
+                "short_display": "Mark 1.35-44",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "Departed",
+                "display": "John 5.24-30",
+                "short_display": "John 5.24-30",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": -35,
+        "julian_day_number": 2460401,
+        "year": 2024,
+        "month": 3,
+        "day": 18,
+        "weekday": 0,
+        "tone": 2,
+        "titles": [
+            "Second Sunday of Lent"
+        ],
+        "summary_title": "Second Sunday of Lent",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": [
+            "St Gregory Palamas"
+        ],
+        "fast_level": 2,
+        "fast_level_desc": "Lenten Fast",
+        "fast_exception": 3,
+        "fast_exception_desc": "Wine and Oil are Allowed",
+        "saints": [
+            "St Cyril, Archbishop of Jerusalem",
+            "Rep. St Nikolaj of Zhicha",
+            "St Ananias (Aninus) the Wonderworker (?)",
+            "Saint Nikolai (Velimirovic), Bishop of Ochrid and Zica, Serbia (1956)(March 5 OC)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            1,
+            3
+        ],
+        "readings": [
+            {
+                "source": "10th Matins Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 21.1-14",
+                "short_display": "John 21.1-14",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Hebrews 1.10-2.3",
+                "short_display": "Heb 1.10-2.3",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "St Gregory",
+                "display": "Hebrews 7.26-8.2",
+                "short_display": "Heb 7.26-8.2",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Mark",
+                "description": "",
+                "display": "Mark 2.1-12",
+                "short_display": "Mark 2.1-12",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "St Gregory",
+                "display": "John 10.9-16",
+                "short_display": "John 10.9-16",
+                "passage": null
+            }
+        ]
+    }
+]

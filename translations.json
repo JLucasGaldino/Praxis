@@ -7,6 +7,7 @@
                         "morningPrayers": "Morning prayers",
                         "eveningPrayers": "Evening prayers",
                         "throughDayPrayers": "Throughout the day",
+                        "selectDate": "Select a date"
                 },
                 "settingsContent": {
                         "languages": "Languages",

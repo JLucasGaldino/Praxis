@@ -1,0 +1,1791 @@
+[
+    {
+        "pascha_distance": 27,
+        "julian_day_number": 2460463,
+        "year": 2024,
+        "month": 5,
+        "day": 19,
+        "weekday": 6,
+        "tone": 3,
+        "titles": [
+            "Saturday of the 4th Sunday of Pascha"
+        ],
+        "summary_title": "Hieromartyr Patrick, Bishop of Prussa",
+        "feast_level": 3,
+        "feast_level_description": "Red squigg (doxology typikon symbol)",
+        "feasts": null,
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Hieromartyr Patrick, Bishop of Prussa"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 12.1-11",
+                "short_display": "Acts 12.1-11",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 8.31-42",
+                "short_display": "John 8.31-42",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 28,
+        "julian_day_number": 2460464,
+        "year": 2024,
+        "month": 5,
+        "day": 20,
+        "weekday": 0,
+        "tone": 4,
+        "titles": [
+            "5th Sunday of Pascha"
+        ],
+        "summary_title": "5th Sunday of Pascha",
+        "feast_level": 3,
+        "feast_level_description": "Red squigg (doxology typikon symbol)",
+        "feasts": [
+            "Samaritan Woman"
+        ],
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Unc. Rel. St Aleksy, Metropolitan of Kiev",
+            "Martyr Thalelaeus at Aegae in Cilicia and those with him (327)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "7th Matins Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 20.1-10",
+                "short_display": "John 20.1-10",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 11.19-26, 29-30",
+                "short_display": "Acts 11.19-26, 29-30",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 4.5-42",
+                "short_display": "John 4.5-42",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 29,
+        "julian_day_number": 2460465,
+        "year": 2024,
+        "month": 5,
+        "day": 21,
+        "weekday": 1,
+        "tone": 4,
+        "titles": [
+            "Monday of the 5th Sunday of Pascha"
+        ],
+        "summary_title": "SS Constantine and Helen, Equals-to-the-Apostles",
+        "feast_level": 4,
+        "feast_level_description": "Red cross (polyeleos typikon symbol)",
+        "feasts": [
+            "SS Constantine and Helen, Equals-to-the-Apostles"
+        ],
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Holy New Martyr Pachomius (1730)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            4,
+            6
+        ],
+        "readings": [
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "3[1] Kings 8.22-23, 27-30",
+                "short_display": "3 Kgs 8.22-23, 27-30",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 61.10-62.5",
+                "short_display": "Isa 61.10-62.5",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 60.1-16",
+                "short_display": "Isa 60.1-16",
+                "passage": null
+            },
+            {
+                "source": "Matins Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 10.9-16",
+                "short_display": "John 10.9-16",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 12.12-17",
+                "short_display": "Acts 12.12-17",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "Saints",
+                "display": "Acts 26.1-5, 12-20",
+                "short_display": "Acts 26.1-5, 12-20",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 8.42-51",
+                "short_display": "John 8.42-51",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "Saints",
+                "display": "John 10.1-9",
+                "short_display": "John 10.1-9",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 30,
+        "julian_day_number": 2460466,
+        "year": 2024,
+        "month": 5,
+        "day": 22,
+        "weekday": 2,
+        "tone": 4,
+        "titles": [
+            "Tuesday of the 5th Sunday of Pascha"
+        ],
+        "summary_title": "Martyr Basiliscus, Bishop of Comana",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Martyr Basiliscus, Bishop of Comana",
+            "Righteous Melchizedek, king of Salem.",
+            "Commemoration of the Second Ecumenical Council (381)."
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 12.25-13.12",
+                "short_display": "Acts 12.25-13.12",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 8.51-59",
+                "short_display": "John 8.51-59",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 31,
+        "julian_day_number": 2460467,
+        "year": 2024,
+        "month": 5,
+        "day": 23,
+        "weekday": 3,
+        "tone": 4,
+        "titles": [
+            "Wednesday of the 5th Sunday of Pascha"
+        ],
+        "summary_title": "Leavetaking of Mid-Pentecost",
+        "feast_level": 3,
+        "feast_level_description": "Red squigg (doxology typikon symbol)",
+        "feasts": [
+            "Leavetaking of Mid-Pentecost"
+        ],
+        "fast_level": 1,
+        "fast_level_desc": "Fast",
+        "fast_exception": 1,
+        "fast_exception_desc": "Wine and Oil are Allowed",
+        "saints": [
+            "St Michael the Confessor",
+            "Unc. Rel. St Leonty, Bishop of Rostov",
+            "St Michael the Confessor, bishop of Synnada (818)",
+            "Holy Myrrh-bearer Mary, wife of Cleopas",
+            "Holy Martyr Michael of St Sabbas' Monastery(9th c.)",
+            "Holy Virgin Euphrosyne, Princess of Polotsk (1173)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 13.13-24",
+                "short_display": "Acts 13.13-24",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 6.5-14",
+                "short_display": "John 6.5-14",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 32,
+        "julian_day_number": 2460468,
+        "year": 2024,
+        "month": 5,
+        "day": 24,
+        "weekday": 4,
+        "tone": 4,
+        "titles": [
+            "Thursday of the 5th Sunday of Pascha"
+        ],
+        "summary_title": "Ven. Simeon the Stylite; Ven. Nikita the Stylite",
+        "feast_level": 3,
+        "feast_level_description": "Red squigg (doxology typikon symbol)",
+        "feasts": null,
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Ven. Simeon the Stylite",
+            "Ven. Nikita the Stylite",
+            "St Vincent of Lerins (445)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 14.20-27",
+                "short_display": "Acts 14.20-27",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 9.39-10.9",
+                "short_display": "John 9.39-10.9",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 33,
+        "julian_day_number": 2460469,
+        "year": 2024,
+        "month": 5,
+        "day": 25,
+        "weekday": 5,
+        "tone": 4,
+        "titles": [
+            "Friday of the 5th Sunday of Pascha"
+        ],
+        "summary_title": "3rd Finding of the Head of St John the Baptist",
+        "feast_level": 4,
+        "feast_level_description": "Red cross (polyeleos typikon symbol)",
+        "feasts": [
+            "3rd Finding of the Head of St John the Baptist"
+        ],
+        "fast_level": 1,
+        "fast_level_desc": "Fast",
+        "fast_exception": 1,
+        "fast_exception_desc": "Wine and Oil are Allowed",
+        "saints": [
+            "Holy Hieromartyr Therapon, Bishop of Cyprus (4th c.)",
+            "Holy Martyrs Pasicrates, Valentian, Julius and those with them (302)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            4,
+            6
+        ],
+        "readings": [
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Composite 8 - Isaiah 40, 41, 45, 48, 54",
+                "short_display": "Isa 40, 41, 45, 48, 54",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Composite 9 - Malachi 3, 4",
+                "short_display": "Malachi 3, 4",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Composite 3 - Wisdom of Solomon 4, 5",
+                "short_display": "Wis 4, 5",
+                "passage": null
+            },
+            {
+                "source": "Matins Gospel",
+                "book": "Luke",
+                "description": "",
+                "display": "Luke 7.17-30",
+                "short_display": "Luke 7.17-30",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 15.5-34",
+                "short_display": "Acts 15.5-34",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "Forerunner",
+                "display": "2 Corinthians 4.6-15",
+                "short_display": "2 Cor 4.6-15",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 10.17-28",
+                "short_display": "John 10.17-28",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Matthew",
+                "description": "Forerunner",
+                "display": "Matthew 11.2-15",
+                "short_display": "Matt 11.2-15",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 34,
+        "julian_day_number": 2460470,
+        "year": 2024,
+        "month": 5,
+        "day": 26,
+        "weekday": 6,
+        "tone": 4,
+        "titles": [
+            "Saturday of the 5th Sunday of Pascha"
+        ],
+        "summary_title": "Apostles Carpus and Alphaeus of the Seventy; Greatmartyr George the New at Sofia",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Apostles Carpus and Alphaeus of the Seventy",
+            "Greatmartyr George the New at Sofia",
+            "Saint Augustine of Canterbury, evangelizer of England (ca. 605)",
+            "Holy New Martyr Alexander of Thessalonica (1794)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 15.35-41",
+                "short_display": "Acts 15.35-41",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 10.27-38",
+                "short_display": "John 10.27-38",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 35,
+        "julian_day_number": 2460471,
+        "year": 2024,
+        "month": 5,
+        "day": 27,
+        "weekday": 0,
+        "tone": 5,
+        "titles": [
+            "6th Sunday of Pascha"
+        ],
+        "summary_title": "6th Sunday of Pascha",
+        "feast_level": 3,
+        "feast_level_description": "Red squigg (doxology typikon symbol)",
+        "feasts": [
+            "Blind Man"
+        ],
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Hieromartyr Therapon",
+            "Trans. Rel. Ven. Nilus of Stolbensk",
+            "Hieromartyr Therapon, bishop of Sardis (259)",
+            "Holy Martyrs Theodora and Didymus (304)",
+            "Holy New Confessor John the Russian (1730)",
+            "Saint David of Garesjei (6th c.)",
+            "Venerable Bede (Baeda) (735)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            1,
+            2
+        ],
+        "readings": [
+            {
+                "source": "8th Matins Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 20.11-18",
+                "short_display": "John 20.11-18",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 16.16-34",
+                "short_display": "Acts 16.16-34",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 9.1-38",
+                "short_display": "John 9.1-38",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 36,
+        "julian_day_number": 2460472,
+        "year": 2024,
+        "month": 5,
+        "day": 28,
+        "weekday": 1,
+        "tone": 5,
+        "titles": [
+            "Monday of the 6th Sunday of Pascha"
+        ],
+        "summary_title": "St Nicetas, Bishop of Chalcedon; St Ignaty, Bishop of Rostov",
+        "feast_level": 2,
+        "feast_level_description": "Black squigg (6-stich typikon symbol)",
+        "feasts": null,
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "St Nicetas, Bishop of Chalcedon",
+            "St Ignaty, Bishop of Rostov",
+            "St Nicetas the Confessor, bishop of Chalcedon (9th c.)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 17.1-15",
+                "short_display": "Acts 17.1-15",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 11.47-57",
+                "short_display": "John 11.47-57",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 37,
+        "julian_day_number": 2460473,
+        "year": 2024,
+        "month": 5,
+        "day": 29,
+        "weekday": 2,
+        "tone": 5,
+        "titles": [
+            "Tuesday of the 6th Sunday of Pascha"
+        ],
+        "summary_title": "Virgin Martyr Theodosia of Tyre; Rep. Bl. John of Ustiug",
+        "feast_level": 2,
+        "feast_level_description": "Black squigg (6-stich typikon symbol)",
+        "feasts": null,
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Virgin Martyr Theodosia of Tyre",
+            "Rep. Bl. John of Ustiug",
+            "Commemoration of the First Ecumenical Council (325)",
+            "The Fall of Constantinople (1453); \"Blessed Constantine XII, last of the Byzantine emperors, martyred by the Turks (1453)\""
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 17.19-28",
+                "short_display": "Acts 17.19-28",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 12.19-36",
+                "short_display": "John 12.19-36",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 38,
+        "julian_day_number": 2460474,
+        "year": 2024,
+        "month": 5,
+        "day": 30,
+        "weekday": 3,
+        "tone": 5,
+        "titles": [
+            "Wednesday of the 6th Sunday of Pascha"
+        ],
+        "summary_title": "Leavetaking of Pascha / Forefeast of Ascension",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": [
+            "Leavetaking of Pascha / Forefeast of Ascension"
+        ],
+        "fast_level": 1,
+        "fast_level_desc": "Fast",
+        "fast_exception": 2,
+        "fast_exception_desc": "Fish, Wine and Oil are Allowed",
+        "saints": [
+            "Ven. Isaac, Founder of Dalmatian Monastery",
+            "St Macrina, grandmother of St Basil the Great (4th c.)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 18.22-28",
+                "short_display": "Acts 18.22-28",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 12.36-47",
+                "short_display": "John 12.36-47",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 39,
+        "julian_day_number": 2460475,
+        "year": 2024,
+        "month": 5,
+        "day": 31,
+        "weekday": 4,
+        "tone": 5,
+        "titles": [
+            "The Ascension of our Lord, God, and Saviour Jesus Christ"
+        ],
+        "summary_title": "Ascension of the Lord",
+        "feast_level": 8,
+        "feast_level_description": "Major feast Lord",
+        "feasts": [
+            "Ascension of the Lord"
+        ],
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Apostle Hermes of the Seventy"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            4,
+            5
+        ],
+        "readings": [
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 2.2-3",
+                "short_display": "Isa 2.2-3",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Composite 21 - Isaiah 62.10-63.3, 7-9",
+                "short_display": "Isa 62.10-63.3, 7-9",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Composite 22 - Zechariah 14.1, 4, 8-11",
+                "short_display": "Zech 14.1, 4, 8-11",
+                "passage": null
+            },
+            {
+                "source": "Matins Gospel",
+                "book": "Mark",
+                "description": "",
+                "display": "Mark 16.9-20",
+                "short_display": "Mark 16.9-20",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 1.1-12",
+                "short_display": "Acts 1.1-12",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Luke",
+                "description": "",
+                "display": "Luke 24.36-53",
+                "short_display": "Luke 24.36-53",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 40,
+        "julian_day_number": 2460476,
+        "year": 2024,
+        "month": 6,
+        "day": 1,
+        "weekday": 5,
+        "tone": 5,
+        "titles": [
+            "Friday of the 6th Sunday of Pascha"
+        ],
+        "summary_title": "Martyr Justin the Philosopher",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 1,
+        "fast_level_desc": "Fast",
+        "fast_exception": 1,
+        "fast_exception_desc": "Wine and Oil are Allowed",
+        "saints": [
+            "Martyr Justin the Philosopher",
+            "Our Holy Father Agapitus of the Kiev Caves (1095)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 19.1-8",
+                "short_display": "Acts 19.1-8",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 14.1-11",
+                "short_display": "John 14.1-11",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 41,
+        "julian_day_number": 2460477,
+        "year": 2024,
+        "month": 6,
+        "day": 2,
+        "weekday": 6,
+        "tone": 5,
+        "titles": [
+            "Saturday of the 6th Sunday of Pascha"
+        ],
+        "summary_title": "St Nicephorus the Confessor",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "St Nicephorus the Confessor",
+            "Holy New Martyr Constantine (1819)",
+            "Hieromartyr Erazmo of Ochrid (303)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 20.7-12",
+                "short_display": "Acts 20.7-12",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 14.10-21",
+                "short_display": "John 14.10-21",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 42,
+        "julian_day_number": 2460478,
+        "year": 2024,
+        "month": 6,
+        "day": 3,
+        "weekday": 0,
+        "tone": 6,
+        "titles": [
+            "7th Sunday of Pascha"
+        ],
+        "summary_title": "7th Sunday of Pascha",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": [
+            "Holy Fathers of the First Ecumenical Council"
+        ],
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Martyr Lucillian and His Companions",
+            "Hieromartyr Lucian (2nd c.)",
+            "Holy Martyr Dimitri, Tsarevich of Russia (1591)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            4,
+            5
+        ],
+        "readings": [
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 14.14-20",
+                "short_display": "Gen 14.14-20",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Deuteronomy 1.8-11, 15-17",
+                "short_display": "Deut 1.8-11, 15-17",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Deuteronomy 10.14-21",
+                "short_display": "Deut 10.14-21",
+                "passage": null
+            },
+            {
+                "source": "10th Matins Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 21.1-14",
+                "short_display": "John 21.1-14",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 20.16-18, 28-36",
+                "short_display": "Acts 20.16-18, 28-36",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 17.1-13",
+                "short_display": "John 17.1-13",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 43,
+        "julian_day_number": 2460479,
+        "year": 2024,
+        "month": 6,
+        "day": 4,
+        "weekday": 1,
+        "tone": 6,
+        "titles": [
+            "Monday of the 7th Sunday of Pascha"
+        ],
+        "summary_title": "St Metrophanes, First Patriarch of Constantinople",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "St Metrophanes, First Patriarch of Constantinople",
+            "Holy Myrrh-bearers Mary and Martha, sisters of St Lazarus (1st c.)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 21.8-14",
+                "short_display": "Acts 21.8-14",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 14.27-15.7",
+                "short_display": "John 14.27-15.7",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 44,
+        "julian_day_number": 2460480,
+        "year": 2024,
+        "month": 6,
+        "day": 5,
+        "weekday": 2,
+        "tone": 6,
+        "titles": [
+            "Tuesday of the 7th Sunday of Pascha"
+        ],
+        "summary_title": "Hieromartyr Dorotheus, Bishop of Tyre",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Hieromartyr Dorotheus, Bishop of Tyre",
+            "Our Holy Father Theodore the Hermit and Wonderworker (583)",
+            "Blessed Igor-George, tonsured Gabriel, great prince of Chernigov and Kiev (1147)",
+            "Blessed Constantine, Metropolitan of Kiev (1159)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 21.26-32",
+                "short_display": "Acts 21.26-32",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 16.2-13",
+                "short_display": "John 16.2-13",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 45,
+        "julian_day_number": 2460481,
+        "year": 2024,
+        "month": 6,
+        "day": 6,
+        "weekday": 3,
+        "tone": 6,
+        "titles": [
+            "Wednesday of the 7th Sunday of Pascha"
+        ],
+        "summary_title": "Ven. Bessarion the Wonderworker of Egypt",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 1,
+        "fast_level_desc": "Fast",
+        "fast_exception": 1,
+        "fast_exception_desc": "Wine and Oil are Allowed",
+        "saints": [
+            "Ven. Bessarion the Wonderworker of Egypt",
+            "St Hilarion the New, abbot of the Dalmatian Monastery (845)",
+            "Our Holy Mothers the Martyrs Archelaïs, Thekla and Susanna (293)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 23.1-11",
+                "short_display": "Acts 23.1-11",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 16.15-23",
+                "short_display": "John 16.15-23",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 46,
+        "julian_day_number": 2460482,
+        "year": 2024,
+        "month": 6,
+        "day": 7,
+        "weekday": 4,
+        "tone": 6,
+        "titles": [
+            "Thursday of the 7th Sunday of Pascha"
+        ],
+        "summary_title": "Hieromartyr Theodotus, Bishop of Ancyra",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Hieromartyr Theodotus, Bishop of Ancyra",
+            "Hieromartyr Marcellinus, pope of Rome (304)",
+            "St Daniel of Skete in Egypt (5th c.)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 25.13-19",
+                "short_display": "Acts 25.13-19",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 16.23-33",
+                "short_display": "John 16.23-33",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 47,
+        "julian_day_number": 2460483,
+        "year": 2024,
+        "month": 6,
+        "day": 8,
+        "weekday": 5,
+        "tone": 6,
+        "titles": [
+            "Friday of the 7th Sunday of Pascha"
+        ],
+        "summary_title": "Leavetaking of Ascension",
+        "feast_level": 2,
+        "feast_level_description": "Black squigg (6-stich typikon symbol)",
+        "feasts": [
+            "Leavetaking of Ascension"
+        ],
+        "fast_level": 1,
+        "fast_level_desc": "Fast",
+        "fast_exception": 1,
+        "fast_exception_desc": "Wine and Oil are Allowed",
+        "saints": [
+            "Trans. Rel. Theodore Stratelates",
+            "St Ephraim, Patriarch of Antioch (545)",
+            "Our Holy Mother Melania the Elder (410)",
+            "St Zosimas, monk, of Phoenicia (Syria) (6th c.)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 27.1-44",
+                "short_display": "Acts 27.1-44",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 17.18-26",
+                "short_display": "John 17.18-26",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 48,
+        "julian_day_number": 2460484,
+        "year": 2024,
+        "month": 6,
+        "day": 9,
+        "weekday": 6,
+        "tone": 6,
+        "titles": [
+            "Saturday of the 7th Sunday of Pascha"
+        ],
+        "summary_title": "Memorial Saturday",
+        "feast_level": 3,
+        "feast_level_description": "Red squigg (doxology typikon symbol)",
+        "feasts": [
+            "Memorial Saturday"
+        ],
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "St Cyril of Alexandria",
+            "Ven. Kirill of Belozersk",
+            "St Columba of Iona (597)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            3
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 28.1-31",
+                "short_display": "Acts 28.1-31",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "Departed",
+                "display": "1 Thessalonians 4.13-17",
+                "short_display": "1 Thess 4.13-17",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "Departed, variant",
+                "display": "1 Corinthians 15.47-57",
+                "short_display": "1 Cor 15.47-57",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 21.15-25",
+                "short_display": "John 21.15-25",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "Departed",
+                "display": "John 5.24-30",
+                "short_display": "John 5.24-30",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "Departed, variant",
+                "display": "John 6.35-39",
+                "short_display": "John 6.35-39",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 49,
+        "julian_day_number": 2460485,
+        "year": 2024,
+        "month": 6,
+        "day": 10,
+        "weekday": 0,
+        "tone": 7,
+        "titles": [
+            "8th Sunday of Pascha: Feast of the Holy Trinity"
+        ],
+        "summary_title": "8th Sunday of Pascha: Feast of the Holy Trinity",
+        "feast_level": 8,
+        "feast_level_description": "Major feast Lord",
+        "feasts": [
+            "Holy Pentecost"
+        ],
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Hieromartyr Timothy, Bishop of Prussa",
+            "St John Maximovitch, Metropolitan of Tobolsk",
+            "Holy Martyrs Alexander and Antonina (313)",
+            "Hieromartyr Metrophanes, first Chinese priest, and the Chinese New Martyrs of the Boxer Uprising (1900)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            4,
+            5
+        ],
+        "readings": [
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Numbers 11.16-17, 24-29",
+                "short_display": "Num 11.16-17, 24-29",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Joel 2.23-32",
+                "short_display": "Joel 2.23-32",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Ezekiel 36.24-28",
+                "short_display": "Ezek 36.24-28",
+                "passage": null
+            },
+            {
+                "source": "Matins Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 20.19-23",
+                "short_display": "John 20.19-23",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Acts 2.1-11",
+                "short_display": "Acts 2.1-11",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 7.37-52, 8.12",
+                "short_display": "John 7.37-52, 8.12",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 50,
+        "julian_day_number": 2460486,
+        "year": 2024,
+        "month": 6,
+        "day": 11,
+        "weekday": 1,
+        "tone": 7,
+        "titles": [
+            "Monday of the 1st week after Pentecost"
+        ],
+        "summary_title": "Day of the Holy Spirit; Holy Apostles Bartholomew and Barnabas",
+        "feast_level": 4,
+        "feast_level_description": "Red cross (polyeleos typikon symbol)",
+        "feasts": [
+            "Day of the Holy Spirit",
+            "Holy Apostles Bartholomew and Barnabas"
+        ],
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 11,
+        "fast_exception_desc": "Fast Free",
+        "saints": [
+            "Commemoration of the appearance of the Archangel Gabriel to a monk on Mt Athos, and the revelation of the hymn \"It is Truly Meet\" (Axion Estin (980)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            4,
+            6
+        ],
+        "readings": [
+            {
+                "source": "Vespers",
+                "book": "Apostol",
+                "description": "",
+                "display": "1 Peter 1.3-9",
+                "short_display": "1 Pet 1.3-9",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "Apostol",
+                "description": "",
+                "display": "1 Peter 1.13-19",
+                "short_display": "1 Pet 1.13-19",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "Apostol",
+                "description": "",
+                "display": "1 Peter 2.11-24",
+                "short_display": "1 Pet 2.11-24",
+                "passage": null
+            },
+            {
+                "source": "Matins Gospel",
+                "book": "John",
+                "description": "",
+                "display": "John 21.15-25",
+                "short_display": "John 21.15-25",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Ephesians 5.8-19",
+                "short_display": "Eph 5.8-19",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "Apostles",
+                "display": "Acts 11.19-26, 29-30",
+                "short_display": "Acts 11.19-26, 29-30",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Matthew",
+                "description": "",
+                "display": "Matthew 18.10-20",
+                "short_display": "Matt 18.10-20",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Luke",
+                "description": "Apostles",
+                "display": "Luke 10.16-21",
+                "short_display": "Luke 10.16-21",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 51,
+        "julian_day_number": 2460487,
+        "year": 2024,
+        "month": 6,
+        "day": 12,
+        "weekday": 2,
+        "tone": 7,
+        "titles": [
+            "Tuesday of the 1st week after Pentecost"
+        ],
+        "summary_title": "Third Day of the Trinity",
+        "feast_level": 2,
+        "feast_level_description": "Black squigg (6-stich typikon symbol)",
+        "feasts": [
+            "Third Day of the Trinity"
+        ],
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 11,
+        "fast_exception_desc": "Fast Free",
+        "saints": [
+            "Ven. Onuphrius the Great"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Romans 1.1-7, 13-17",
+                "short_display": "Rom 1.1-7, 13-17",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Matthew",
+                "description": "",
+                "display": "Matthew 4.25-5.13",
+                "short_display": "Matt 4.25-5.13",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 52,
+        "julian_day_number": 2460488,
+        "year": 2024,
+        "month": 6,
+        "day": 13,
+        "weekday": 3,
+        "tone": 7,
+        "titles": [
+            "Wednesday of the 1st week after Pentecost"
+        ],
+        "summary_title": "Martyr Aquilina of Byblos",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 11,
+        "fast_exception_desc": "Fast Free",
+        "saints": [
+            "Martyr Aquilina of Byblos",
+            "Saint Triphyllius, bishop of Leucosia (Nicosia) in Cyprus (370)",
+            "St Anna and her son John (5h c.)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Romans 1.18-27",
+                "short_display": "Rom 1.18-27",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Matthew",
+                "description": "",
+                "display": "Matthew 5.20-26",
+                "short_display": "Matt 5.20-26",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 53,
+        "julian_day_number": 2460489,
+        "year": 2024,
+        "month": 6,
+        "day": 14,
+        "weekday": 4,
+        "tone": 7,
+        "titles": [
+            "Thursday of the 1st week after Pentecost"
+        ],
+        "summary_title": "Prophet Elisha",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 11,
+        "fast_exception_desc": "Fast Free",
+        "saints": [
+            "Prophet Elisha",
+            "St Methodios, Patriarch of Constantinople (847)",
+            "St John Mavropos, Metropolitan of Euchaïta(1100)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Romans 1.28-2.9",
+                "short_display": "Rom 1.28-2.9",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Matthew",
+                "description": "",
+                "display": "Matthew 5.27-32",
+                "short_display": "Matt 5.27-32",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 54,
+        "julian_day_number": 2460490,
+        "year": 2024,
+        "month": 6,
+        "day": 15,
+        "weekday": 5,
+        "tone": 7,
+        "titles": [
+            "Friday of the 1st week after Pentecost"
+        ],
+        "summary_title": "Prophet Amos; St Jonah, Metr. of Moscow",
+        "feast_level": 4,
+        "feast_level_description": "Red cross (polyeleos typikon symbol)",
+        "feasts": null,
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 11,
+        "fast_exception_desc": "Fast Free",
+        "saints": [
+            "Prophet Amos",
+            "St Jonah, Metr. of Moscow",
+            "Holy Prophet Amos (8th c. BC)",
+            "Holy Martyr Vitus, with Modestus and Crescentia (303)",
+            "Blessed Augustine, bishop of Hippo (430), and his mother Monica (387)",
+            "Holy Martyr Lazar, Prince of Serbia (1389)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Romans 2.14-29",
+                "short_display": "Rom 2.14-29",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Matthew",
+                "description": "",
+                "display": "Matthew 5.33-41",
+                "short_display": "Matt 5.33-41",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 55,
+        "julian_day_number": 2460491,
+        "year": 2024,
+        "month": 6,
+        "day": 16,
+        "weekday": 6,
+        "tone": 7,
+        "titles": [
+            "Saturday of the 1st week after Pentecost"
+        ],
+        "summary_title": "Leavetaking of Pentecost",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": [
+            "Leavetaking of Pentecost"
+        ],
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 11,
+        "fast_exception_desc": "Fast Free",
+        "saints": [
+            "St Tycho, Bishop of Amathus",
+            "Holy Martyrs Tigrios and Eutropios (404)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            0,
+            1
+        ],
+        "readings": [
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Romans 1.7-12",
+                "short_display": "Rom 1.7-12",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Matthew",
+                "description": "",
+                "display": "Matthew 5.42-48",
+                "short_display": "Matt 5.42-48",
+                "passage": null
+            }
+        ]
+    },
+    {
+        "pascha_distance": 56,
+        "julian_day_number": 2460492,
+        "year": 2024,
+        "month": 6,
+        "day": 17,
+        "weekday": 0,
+        "tone": 8,
+        "titles": [
+            "1st Sunday after Pentecost"
+        ],
+        "summary_title": "1st Sunday after Pentecost",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": [
+            "All Saints"
+        ],
+        "fast_level": 0,
+        "fast_level_desc": "No Fast",
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "saints": [
+            "Martyrs Manuel, Sabel, Ismael of Persia",
+            "Our Holy Father Botolph, Abbot of the Monastery of Ikanhoe (680)"
+        ],
+        "service_notes": null,
+        "abbreviated_reading_indices": [
+            4,
+            5
+        ],
+        "readings": [
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 43.9-14",
+                "short_display": "Isa 43.9-14",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Wisdom of Solomon 3.1-9",
+                "short_display": "Wis 3.1-9",
+                "passage": null
+            },
+            {
+                "source": "Vespers",
+                "book": "OT",
+                "description": "",
+                "display": "Wisdom of Solomon 5.15-6.3",
+                "short_display": "Wis 5.15-6.3",
+                "passage": null
+            },
+            {
+                "source": "1st Matins Gospel",
+                "book": "Matthew",
+                "description": "",
+                "display": "Matthew 28.16-20",
+                "short_display": "Matt 28.16-20",
+                "passage": null
+            },
+            {
+                "source": "Epistle",
+                "book": "Apostol",
+                "description": "",
+                "display": "Hebrews 11.33-12.2",
+                "short_display": "Heb 11.33-12.2",
+                "passage": null
+            },
+            {
+                "source": "Gospel",
+                "book": "Matthew",
+                "description": "",
+                "display": "Matthew 10.32-33, 37-38, 19.27-30",
+                "short_display": "Matt 10.32-33, 37-38, 19.27-30",
+                "passage": null
+            }
+        ]
+    }
+]

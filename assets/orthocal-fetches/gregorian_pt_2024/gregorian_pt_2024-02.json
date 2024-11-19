@@ -1,0 +1,1624 @@
+[
+  {
+    "pascha_distance": 291,
+    "julian_day_number": 2460342,
+    "year": 2024,
+    "month": 2,
+    "day": 1,
+    "weekday": 4,
+    "tone": 1,
+    "titles": [
+      "Quinta-feira da 35ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Mártir Trifão",
+    "feast_level": 2,
+    "feast_level_description": "Squigg preto (símbolo typikon de 6 pontos)",
+    "feasts": null,
+    "fast_level": 0,
+    "fast_level_desc": "No Fast",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Mártir Trifão",
+      "Santos Mártires Perpétua e Felicidade, e aqueles que estavam com eles em Cartago (203)",
+      "Nossa Santa Mãe Brígida de Kildare (524)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Hebreus 10.35-11.7",
+        "short_display": "Tem 10,35-11,7",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Marcos",
+        "description": "",
+        "display": "Marcos 9.10-16",
+        "short_display": "Marcos 9.10-16",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 292,
+    "julian_day_number": 2460343,
+    "year": 2024,
+    "month": 2,
+    "day": 2,
+    "weekday": 5,
+    "tone": 1,
+    "titles": [
+      "Sexta-feira da 35ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Encontro de Cristo no Templo",
+    "feast_level": 8,
+    "feast_level_description": "Festa principal Senhor",
+    "feasts": [
+      "Encontro de Cristo no Templo"
+    ],
+    "fast_level": 1,
+    "fast_level_desc": "Rápido",
+    "fast_exception": 2,
+    "fast_exception_desc": "Peixe, vinho e azeite são permitidos",
+    "saints": null,
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      4,
+      6
+    ],
+    "readings": [
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Composto 6 – Êxodo 12, 13; Números 8; Levítico 12",
+        "short_display": "Exod 12, 13; Num 8; Lev 12",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Isaías 6.1-12",
+        "short_display": "Um 6,1-12",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Composto 7 - Isaías 19.1, 3, 4-5, 12, 16, 19-21",
+        "short_display": "Is 19.1, 3, 4-5, 12, 16, 19-21",
+        "passage": null
+      },
+      {
+        "source": "Manhãs Evangélicas",
+        "book": "Lucas",
+        "description": "",
+        "display": "Lucas 2.25-32",
+        "short_display": "Lucas 2.25-32",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "Reunião",
+        "display": "Hebreus 7.7-17",
+        "short_display": "Obteve 7,7-17",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Hebreus 11.8, 11-16",
+        "short_display": "Tem 11,8, 11-16",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "Reunião",
+        "display": "Lucas 2.22-40",
+        "short_display": "Lucas 2.22-40",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Marcos",
+        "description": "",
+        "display": "Marcos 9.33-41",
+        "short_display": "Marcos 9.33-41",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 293,
+    "julian_day_number": 2460344,
+    "year": 2024,
+    "month": 2,
+    "day": 3,
+    "weekday": 6,
+    "tone": 1,
+    "titles": [
+      "Sábado da 35ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Os justos Simeão, o Portador de Deus, e Ana, a Profetisa",
+    "feast_level": 2,
+    "feast_level_description": "Squigg preto (símbolo typikon de 6 pontos)",
+    "feasts": null,
+    "fast_level": 0,
+    "fast_level_desc": "No Fast",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Os justos Simeão, o Portador de Deus, e Ana, a Profetisa",
+      "Pai Nosso entre os Santos, Nikolai (Nicholas), Arcebispo e Iluminador do Japão (1912)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Efésios 5.1-8",
+        "short_display": "Ef 5.1-8",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "",
+        "display": "Lucas 14.1-11",
+        "short_display": "Lucas 14.1-11",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 294,
+    "julian_day_number": 2460345,
+    "year": 2024,
+    "month": 2,
+    "day": 4,
+    "weekday": 0,
+    "tone": 2,
+    "titles": [
+      "35º domingo depois de Pentecostes"
+    ],
+    "summary_title": "35º domingo depois de Pentecostes",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 0,
+    "fast_level_desc": "No Fast",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Sex. Isidoro de Pelusium",
+      "Venerável Cirilo do Lago Novo (Novoezezrsk) (1532)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      1,
+      2
+    ],
+    "readings": [
+      {
+        "source": "2ª Matinas Evangelho",
+        "book": "Marcos",
+        "description": "",
+        "display": "Marcos 16.1-8",
+        "short_display": "Marcos 16.1-8",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Colossenses 3.12-16",
+        "short_display": "Col 3.12-16",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 25.14-30",
+        "short_display": "Mateus 25.14-30",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 295,
+    "julian_day_number": 2460346,
+    "year": 2024,
+    "month": 2,
+    "day": 5,
+    "weekday": 1,
+    "tone": 2,
+    "titles": [
+      "Segunda-feira da 36ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Repouso de São Teodósio de Chernigov",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": [
+      "Repouso de São Teodósio de Chernigov"
+    ],
+    "fast_level": 0,
+    "fast_level_desc": "No Fast",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Santa Mártir Ágata de Palermo na Sicília (251)",
+      "Nosso Santo Padre Polieucto, Patriarca de Constantinopla (970)",
+      "Santo Novo Mártir Antônio de Atenas (1774)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      4,
+      6
+    ],
+    "readings": [
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Composição 2 – Provérbios 10, 3, 8",
+        "short_display": "Pv 10, 3, 8",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Composto 4 – Provérbios 10; Sabedoria de Salomão 6, 7, 8, 9",
+        "short_display": "Província 10; Sabia 6, 7, 8, 9",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Sabedoria de Salomão 4.7-15",
+        "short_display": "Já 4,7-15",
+        "passage": null
+      },
+      {
+        "source": "Manhãs Evangélicas",
+        "book": "John",
+        "description": "",
+        "display": "João 10.9-16",
+        "short_display": "João 10.9-16",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Hebreus 11.17-23, 27-31",
+        "short_display": "Tem 11.17-23, 27-31",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "São Teodósio",
+        "display": "Hebreus 13.17-21",
+        "short_display": "Tem 13.17-21",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Marcos",
+        "description": "",
+        "display": "Marcos 9.42-10.1",
+        "short_display": "Marcos 9.42-10.1",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "São Teodósio",
+        "display": "Lucas 6.17-23",
+        "short_display": "Lucas 6.17-23",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 296,
+    "julian_day_number": 2460347,
+    "year": 2024,
+    "month": 2,
+    "day": 6,
+    "weekday": 2,
+    "tone": 2,
+    "titles": [
+      "Terça-feira da 36ª semana depois de Pentecostes"
+    ],
+    "summary_title": "São Bucolus, Bispo de Esmirna",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 0,
+    "fast_level_desc": "No Fast",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "São Bucolus, Bispo de Esmirna",
+      "São Fócio, patriarca de Constantinopla (891)",
+      "Santos Barsanuphius e João Profeta, monges da Palestina (séc. VI)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Hebreus 12.25-26, 13.22-25",
+        "short_display": "Tem 12,25-26, 13,22-25",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Marcos",
+        "description": "",
+        "display": "Marcos 10.2-12",
+        "short_display": "Marcos 10.2-12",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 297,
+    "julian_day_number": 2460348,
+    "year": 2024,
+    "month": 2,
+    "day": 7,
+    "weekday": 3,
+    "tone": 2,
+    "titles": [
+      "Quarta-feira da 36ª semana depois de Pentecostes"
+    ],
+    "summary_title": "São Partenius, Bispo de Lâmpsaco",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 1,
+    "fast_level_desc": "Rápido",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "São Partenius, Bispo de Lâmpsaco",
+      "Nosso Venerável Padre Lucas, o Novo, do Monte Stirion (ca. 950)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Tiago 1.1-18",
+        "short_display": "Tg 1.1-18",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Marcos",
+        "description": "",
+        "display": "Marcos 10.11-16",
+        "short_display": "Marcos 10.11-16",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 298,
+    "julian_day_number": 2460349,
+    "year": 2024,
+    "month": 2,
+    "day": 8,
+    "weekday": 4,
+    "tone": 2,
+    "titles": [
+      "Quinta-feira da 36ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Grande Mártir Teodoro Stratelates",
+    "feast_level": 2,
+    "feast_level_description": "Squigg preto (símbolo typikon de 6 pontos)",
+    "feasts": null,
+    "fast_level": 0,
+    "fast_level_desc": "No Fast",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Grande Mártir Teodoro Stratelates",
+      "Santo Profeta Zacarias (6º c. AC)",
+      "São Sabbas II, Arcebispo da Sérvia (1271)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Tiago 1.19-27",
+        "short_display": "Tg 1.19-27",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Marcos",
+        "description": "",
+        "display": "Marcos 10.17-27",
+        "short_display": "Marcos 10.17-27",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 299,
+    "julian_day_number": 2460350,
+    "year": 2024,
+    "month": 2,
+    "day": 9,
+    "weekday": 5,
+    "tone": 2,
+    "titles": [
+      "Sexta-feira da 36ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Sair da reunião",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": [
+      "Sair da reunião"
+    ],
+    "fast_level": 1,
+    "fast_level_desc": "Rápido",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Mártir Nicéforo de Antioquia",
+      "Relíquias de São Inocêncio de Irkutsk",
+      "Hieromártir Pedro de Damasco, bispo de Damasco (ca. 776)",
+      "Pedro de Damasco, Hesicasta (séc. XII)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      2
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Tiago 2.1-13",
+        "short_display": "Tg 2.1-13",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "Reunião",
+        "display": "Hebreus 7.7-17",
+        "short_display": "Obteve 7,7-17",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Marcos",
+        "description": "",
+        "display": "Marcos 10.23-32",
+        "short_display": "Marcos 10.23-32",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "Reunião",
+        "display": "Lucas 2.22-40",
+        "short_display": "Lucas 2.22-40",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 300,
+    "julian_day_number": 2460351,
+    "year": 2024,
+    "month": 2,
+    "day": 10,
+    "weekday": 6,
+    "tone": 2,
+    "titles": [
+      "Sábado da 36ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Hieromártir Haralambos",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 0,
+    "fast_level_desc": "No Fast",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Hieromártir Haralambos",
+      "Hieromártir Haralambos (Charalampus), bispo de Magnésia (202)",
+      "Santa Escolástica da Itália, irmã de São Bento (543)",
+      "Nosso Venerável Padre Prócoro das Cavernas de Kiev (1107)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Colossenses 1.3-6",
+        "short_display": "Col 1.3-6",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "",
+        "display": "Lucas 16.10-15",
+        "short_display": "Lucas 16.10-15",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 301,
+    "julian_day_number": 2460352,
+    "year": 2024,
+    "month": 2,
+    "day": 11,
+    "weekday": 0,
+    "tone": 3,
+    "titles": [
+      "36º domingo depois de Pentecostes"
+    ],
+    "summary_title": "36º domingo depois de Pentecostes",
+    "feast_level": 3,
+    "feast_level_description": "Squigg vermelho (símbolo doxologia typikon)",
+    "feasts": null,
+    "fast_level": 0,
+    "fast_level_desc": "No Fast",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Hieromártir Brás de Sebaste",
+      "Vinte. Dimitri de Priluk",
+      "Hieromártir Brás, bispo de Sebaste (316)",
+      "Santa Teodora, a Imperatriz (867)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      1,
+      2
+    ],
+    "readings": [
+      {
+        "source": "Evangelho da 3ª Matinas",
+        "book": "Marcos",
+        "description": "",
+        "display": "Marcos 16,9-20",
+        "short_display": "Marcos 16,9-20",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "1 Timóteo 1.15-17",
+        "short_display": "1Tm 1.15-17",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 15.21-28",
+        "short_display": "Mateus 15.21-28",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 302,
+    "julian_day_number": 2460353,
+    "year": 2024,
+    "month": 2,
+    "day": 12,
+    "weekday": 1,
+    "tone": 3,
+    "titles": [
+      "Segunda-feira da 37ª semana depois de Pentecostes"
+    ],
+    "summary_title": "São Melécio, Arcebispo de Antioquia; Santo Aleksy, Metr. de toda a Rússia",
+    "feast_level": 4,
+    "feast_level_description": "Cruz vermelha (símbolo polyeleos typikon)",
+    "feasts": null,
+    "fast_level": 0,
+    "fast_level_desc": "No Fast",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "São Melécio, Arcebispo de Antioquia",
+      "Santo Aleksy, Metr. de toda a Rússia",
+      "São Meletios, arcebispo de Antioquia (381)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Tiago 2.14-26",
+        "short_display": "Tg 2.14-26",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Marcos",
+        "description": "",
+        "display": "Marcos 10.46-52",
+        "short_display": "Marcos 10.46-52",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 303,
+    "julian_day_number": 2460354,
+    "year": 2024,
+    "month": 2,
+    "day": 13,
+    "weekday": 2,
+    "tone": 3,
+    "titles": [
+      "Terça-feira da 37ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Ven. Martiniano de Cesaréia",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 0,
+    "fast_level_desc": "No Fast",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Ven. Martiniano de Cesaréia",
+      "Santos Apóstolos e Mártires Priscila e Áquila",
+      "São Simeão, o streamer de mirra, fundador do Mosteiro de Chilandar (1200)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Tiago 3.1-10",
+        "short_display": "Tg 3.1-10",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Marcos",
+        "description": "",
+        "display": "Marcos 11.11-23",
+        "short_display": "Marcos 11.11-23",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 304,
+    "julian_day_number": 2460355,
+    "year": 2024,
+    "month": 2,
+    "day": 14,
+    "weekday": 3,
+    "tone": 3,
+    "titles": [
+      "Quarta-feira da 37ª semana depois de Pentecostes"
+    ],
+    "summary_title": "São Cirilo, Mestre dos Eslavos",
+    "feast_level": 4,
+    "feast_level_description": "Cruz vermelha (símbolo polyeleos typikon)",
+    "feasts": null,
+    "fast_level": 1,
+    "fast_level_desc": "Rápido",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "São Cirilo, Mestre dos Eslavos",
+      "Nosso Santo Padre Auxêncio (470)",
+      "O que aconteceu com o Dia dos Namorados?",
+      "Venerável Maron, o Eremita da Síria (ca. 423)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Tiago 3.11-4.6",
+        "short_display": "Tg 3.11-4.6",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Marcos",
+        "description": "",
+        "display": "Marcos 11.22-26",
+        "short_display": "Marcos 11.22-26",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 305,
+    "julian_day_number": 2460356,
+    "year": 2024,
+    "month": 2,
+    "day": 15,
+    "weekday": 4,
+    "tone": 3,
+    "titles": [
+      "Quinta-feira da 37ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Apóstolo Onésimo dos Setenta",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 0,
+    "fast_level_desc": "No Fast",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Apóstolo Onésimo dos Setenta",
+      "Nosso Venerável Padre Dalmácio da Sibéria (1697)",
+      "Nosso Venerável Padre Anthimos de Chios (1960)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Tiago 4.7-5.9",
+        "short_display": "Tg 4.7-5.9",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Marcos",
+        "description": "",
+        "display": "Marcos 11.27-33",
+        "short_display": "Marcos 11.27-33",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 306,
+    "julian_day_number": 2460357,
+    "year": 2024,
+    "month": 2,
+    "day": 16,
+    "weekday": 5,
+    "tone": 3,
+    "titles": [
+      "Sexta-feira da 37ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Mártir Panfílio e seus companheiros",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 1,
+    "fast_level_desc": "Rápido",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Mártir Panfílio e seus companheiros"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "1 Pedro 1.1-2, 10-12, 2.6-10",
+        "short_display": "1 Pedro 1.1-2, 10-12, 2.6-10",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Marcos",
+        "description": "",
+        "display": "Marcos 12.1-12",
+        "short_display": "Marcos 12.1-12",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 307,
+    "julian_day_number": 2460358,
+    "year": 2024,
+    "month": 2,
+    "day": 17,
+    "weekday": 6,
+    "tone": 3,
+    "titles": [
+      "Sábado da 37ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Grande Mártir Theodore Tyro; Hieromártir Germógenes, Patriarca de Moscou",
+    "feast_level": 2,
+    "feast_level_description": "Squigg preto (símbolo typikon de 6 pontos)",
+    "feasts": null,
+    "fast_level": 0,
+    "fast_level_desc": "No Fast",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Grande Mártir Teodoro Tyro",
+      "Hieromártir Germógenes, Patriarca de Moscou"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "1 Tessalonicenses 5.14-23",
+        "short_display": "1 Tessalonicenses 5.14-23",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "",
+        "display": "Lucas 17.3-10",
+        "short_display": "Lucas 17.3-10",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": -77,
+    "julian_day_number": 2460359,
+    "year": 2024,
+    "month": 2,
+    "day": 18,
+    "weekday": 0,
+    "tone": 4,
+    "titles": [
+      "Domingo de Zaqueu"
+    ],
+    "summary_title": "Domingo de Zaqueu",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 0,
+    "fast_level_desc": "No Fast",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "São Leão Magno, Papa de Roma"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      1,
+      2
+    ],
+    "readings": [
+      {
+        "source": "4º Evangelho das Matinas",
+        "book": "Lucas",
+        "description": "",
+        "display": "Lucas 24.1-12",
+        "short_display": "Lucas 24.1-12",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "1 Timóteo 4.9-15",
+        "short_display": "1Tm 4.9-15",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "",
+        "display": "Lucas 19.1-10",
+        "short_display": "Lucas 19.1-10",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": -76,
+    "julian_day_number": 2460360,
+    "year": 2024,
+    "month": 2,
+    "day": 19,
+    "weekday": 1,
+    "tone": 4,
+    "titles": null,
+    "summary_title": "Apóstolos dos Setenta Arquipo e Filemom",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 0,
+    "fast_level_desc": "No Fast",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Apóstolos dos Setenta Arquipo e Filemom",
+      "Nossa Venerável Madre Filoteia de Atenas (1589)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "1 Pedro 2.21-3.9",
+        "short_display": "1 Pedro 2.21-3.9",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Marcos",
+        "description": "",
+        "display": "Marcos 12.13-17",
+        "short_display": "Marcos 12.13-17",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": -75,
+    "julian_day_number": 2460361,
+    "year": 2024,
+    "month": 2,
+    "day": 20,
+    "weekday": 2,
+    "tone": 4,
+    "titles": null,
+    "summary_title": "São Leão, Bispo de Catânia",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 0,
+    "fast_level_desc": "No Fast",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "São Leão, Bispo de Catânia",
+      "São Bessarião, o Grande, milagreiro do Egito (466)",
+      "Trinta e quatro Santos Mártires do Mosteiro de Valaam (1578)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "1 Pedro 3.10-22",
+        "short_display": "1 Pedro 3.10-22",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Marcos",
+        "description": "",
+        "display": "Marcos 12.18-27",
+        "short_display": "Marcos 12.18-27",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": -74,
+    "julian_day_number": 2460362,
+    "year": 2024,
+    "month": 2,
+    "day": 21,
+    "weekday": 3,
+    "tone": 4,
+    "titles": null,
+    "summary_title": "Ven. Timóteo de Símbolo",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 1,
+    "fast_level_desc": "Rápido",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Ven. Timóteo de Símbolo",
+      "Santo Eustáquio, arcebispo de Antioquia (337)",
+      "São João, o Escolástico, patriarca de Constantinopla (577)",
+      "São Zacarias, Patriarca de Jerusalém (632)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "1 Pedro 4.1-11",
+        "short_display": "1 Pedro 4.1-11",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Marcos",
+        "description": "",
+        "display": "Marcos 12.28-37",
+        "short_display": "Marcos 12.28-37",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": -73,
+    "julian_day_number": 2460363,
+    "year": 2024,
+    "month": 2,
+    "day": 22,
+    "weekday": 4,
+    "tone": 4,
+    "titles": null,
+    "summary_title": "Unc. Rel. Santos Mártires na Porta de Eugênio",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 0,
+    "fast_level_desc": "No Fast",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Unc. Rel. Santos Mártires na Porta de Eugênio"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "1 Pedro 4.12-5.5",
+        "short_display": "1 Pedro 4.12-5.5",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Marcos",
+        "description": "",
+        "display": "Marcos 12.38-44",
+        "short_display": "Marcos 12.38-44",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": -72,
+    "julian_day_number": 2460364,
+    "year": 2024,
+    "month": 2,
+    "day": 23,
+    "weekday": 5,
+    "tone": 4,
+    "titles": null,
+    "summary_title": "Hieromártir Policarpo, Bispo de Esmirna",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 1,
+    "fast_level_desc": "Rápido",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Hieromártir Policarpo, Bispo de Esmirna",
+      "Santa Gorgônia (372)",
+      "Nosso Venerável Padre Alexandre, o Insone (430)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "2 Pedro 1.1-10",
+        "short_display": "2 Pedro 1.1-10",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Marcos",
+        "description": "",
+        "display": "Marcos 13.1-8",
+        "short_display": "Marcos 13.1-8",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": -71,
+    "julian_day_number": 2460365,
+    "year": 2024,
+    "month": 2,
+    "day": 24,
+    "weekday": 6,
+    "tone": 4,
+    "titles": null,
+    "summary_title": "1º e 2º Encontro Honorável Chefe de São João Batista",
+    "feast_level": 4,
+    "feast_level_description": "Cruz vermelha (símbolo polyeleos typikon)",
+    "feasts": [
+      "1º e 2º Encontro Honorável Chefe de São João Batista"
+    ],
+    "fast_level": 0,
+    "fast_level_desc": "No Fast",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Santo Etelberto (Etelberto), primeiro rei cristão de Kent (616)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      4,
+      6
+    ],
+    "readings": [
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "Precursor",
+        "display": "Composto 8 – Isaías 40, 41, 45, 48, 54",
+        "short_display": "Um 40, 41, 45, 48, 54",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "Precursor",
+        "display": "Composto 9 - Malaquias 3, 4",
+        "short_display": "Malaquias 3, 4",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "Precursor",
+        "display": "Composto 3 - Sabedoria de Salomão 4, 5",
+        "short_display": "Já 4, 5",
+        "passage": null
+      },
+      {
+        "source": "Manhãs Evangélicas",
+        "book": "Lucas",
+        "description": "Precursor",
+        "display": "Lucas 7.17-30",
+        "short_display": "Lucas 7.17-30",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "2 Timóteo 2.11-19",
+        "short_display": "2Tm 2.11-19",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "Precursor",
+        "display": "2 Corinthians 4.6-15",
+        "short_display": "2 Cor 4.6-15",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "",
+        "display": "Lucas 18.2-8",
+        "short_display": "Lucas 18.2-8",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "Precursor",
+        "display": "Mateus 11.2-15",
+        "short_display": "Mateus 11.2-15",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": -70,
+    "julian_day_number": 2460366,
+    "year": 2024,
+    "month": 2,
+    "day": 25,
+    "weekday": 0,
+    "tone": 5,
+    "titles": [
+      "Domingo do Publicano e do Fariseu"
+    ],
+    "summary_title": "Domingo do Publicano e do Fariseu",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": [
+      "Início do Triodion Quaresmal"
+    ],
+    "fast_level": 0,
+    "fast_level_desc": "No Fast",
+    "fast_exception": 11,
+    "fast_exception_desc": "Rápido Grátis",
+    "saints": [
+      "São Tarásio, Abp. de Constantinopla"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      1,
+      2
+    ],
+    "readings": [
+      {
+        "source": "5º Evangelho das Matinas",
+        "book": "Lucas",
+        "description": "",
+        "display": "Lucas 24.12-35",
+        "short_display": "Lucas 24.12-35",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "2 Timóteo 3.10-15",
+        "short_display": "2Tm 3.10-15",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "",
+        "display": "Lucas 18.10-14",
+        "short_display": "Lucas 18.10-14",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": -69,
+    "julian_day_number": 2460367,
+    "year": 2024,
+    "month": 2,
+    "day": 26,
+    "weekday": 1,
+    "tone": 5,
+    "titles": null,
+    "summary_title": "São Porfírio, Bispo de Gaza",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 0,
+    "fast_level_desc": "No Fast",
+    "fast_exception": 11,
+    "fast_exception_desc": "Rápido Grátis",
+    "saints": [
+      "São Porfírio, Bispo de Gaza",
+      "São Fotini, a Samaritana, e aqueles que estão com ela (66)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "2 Pedro 1.20-2.9",
+        "short_display": "2 Pedro 1,20-2,9",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Marcos",
+        "description": "",
+        "display": "Marcos 13.9-13",
+        "short_display": "Marcos 13.9-13",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": -68,
+    "julian_day_number": 2460368,
+    "year": 2024,
+    "month": 2,
+    "day": 27,
+    "weekday": 2,
+    "tone": 5,
+    "titles": null,
+    "summary_title": "São Rafael Bispo do Brooklyn",
+    "feast_level": 5,
+    "feast_level_description": "Semicírculo da cruz vermelha (símbolo vigília typikon)",
+    "feasts": [
+      "São Rafael Bispo do Brooklyn"
+    ],
+    "fast_level": 0,
+    "fast_level_desc": "No Fast",
+    "fast_exception": 11,
+    "fast_exception_desc": "Rápido Grátis",
+    "saints": [
+      "Nosso Santo Padre Procópio de Decápolis (séc. IX)",
+      "Nosso Venerável Padre Tito da Lavra das Cavernas de Kiev (1190)",
+      "Nosso Santo Padre Leandro, Bispo de Sevilha e Apóstolo da Espanha (600)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      4,
+      6
+    ],
+    "readings": [
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "São Rafael",
+        "display": "Composição 2 – Provérbios 10, 3, 8",
+        "short_display": "Pv 10, 3, 8",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "São Rafael",
+        "display": "Provérbios 10.31-11.12",
+        "short_display": "Pv 10.31-11.12",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "São Rafael",
+        "display": "Sabedoria de Salomão 4.7-15",
+        "short_display": "Já 4,7-15",
+        "passage": null
+      },
+      {
+        "source": "Manhãs Evangélicas",
+        "book": "John",
+        "description": "São Rafael",
+        "display": "João 10.1-9",
+        "short_display": "João 10.1-9",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "2 Pedro 2.9-22",
+        "short_display": "2 Pedro 2,9-22",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "São Rafael",
+        "display": "Hebreus 13.17-21",
+        "short_display": "Tem 13.17-21",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Marcos",
+        "description": "",
+        "display": "Marcos 13.14-23",
+        "short_display": "Marcos 13.14-23",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "John",
+        "description": "São Rafael",
+        "display": "João 10.9-16",
+        "short_display": "João 10.9-16",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": -67,
+    "julian_day_number": 2460369,
+    "year": 2024,
+    "month": 2,
+    "day": 28,
+    "weekday": 3,
+    "tone": 5,
+    "titles": null,
+    "summary_title": "Ven. Basílio, o Confessor",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 0,
+    "fast_level_desc": "No Fast",
+    "fast_exception": 11,
+    "fast_exception_desc": "Rápido Grátis",
+    "saints": [
+      "Ven. Basílio, o Confessor",
+      "Bem-aventurado Nicolau de Pskov, tolo por Cristo (1576)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "2 Pedro 3.1-18",
+        "short_display": "2 Pedro 3.1-18",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Marcos",
+        "description": "",
+        "display": "Marcos 13.24-31",
+        "short_display": "Marcos 13.24-31",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": -66,
+    "julian_day_number": 2460370,
+    "year": 2024,
+    "month": 2,
+    "day": 29,
+    "weekday": 4,
+    "tone": 5,
+    "titles": null,
+    "summary_title": "Ven. João Cassiano",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 0,
+    "fast_level_desc": "No Fast",
+    "fast_exception": 11,
+    "fast_exception_desc": "Rápido Grátis",
+    "saints": [
+      "Ven. João Cassiano"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      2
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "1 João 1.8-2.6",
+        "short_display": "1 João 1.8-2.6",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "São João",
+        "display": "1 João 2.18-3.10",
+        "short_display": "1 João 2.18-3.10",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Marcos",
+        "description": "",
+        "display": "Marcos 13,31-14,2",
+        "short_display": "Marcos 13,31-14,2",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Marcos",
+        "description": "São João",
+        "display": "Marcos 11.1-11",
+        "short_display": "Marcos 11.1-11",
+        "passage": null
+      }
+    ]
+  }
+]

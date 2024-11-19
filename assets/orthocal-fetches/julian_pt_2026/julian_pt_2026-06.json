@@ -1,0 +1,1689 @@
+[
+  {
+    "pascha_distance": 50,
+    "julian_day_number": 2461193,
+    "year": 2026,
+    "month": 5,
+    "day": 19,
+    "weekday": 1,
+    "tone": 7,
+    "titles": [
+      "Segunda-feira da 1ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Dia do Espírito Santo",
+    "feast_level": 3,
+    "feast_level_description": "Squigg vermelho (símbolo doxologia typikon)",
+    "feasts": [
+      "Dia do Espírito Santo"
+    ],
+    "fast_level": 0,
+    "fast_level_desc": "Não rápido",
+    "fast_exception": 11,
+    "fast_exception_desc": "Rápido Grátis",
+    "saints": [
+      "Hieromártir Patrício, Bispo da Prússia"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Efésios 5.8-19",
+        "short_display": "Ef 5.8-19",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 18.10-20",
+        "short_display": "Mateus 18.10-20",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 51,
+    "julian_day_number": 2461194,
+    "year": 2026,
+    "month": 5,
+    "day": 20,
+    "weekday": 2,
+    "tone": 7,
+    "titles": [
+      "Terça-feira da 1ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Terceiro Dia da Trindade",
+    "feast_level": 3,
+    "feast_level_description": "Squigg vermelho (símbolo doxologia typikon)",
+    "feasts": [
+      "Terceiro Dia da Trindade"
+    ],
+    "fast_level": 0,
+    "fast_level_desc": "Não rápido",
+    "fast_exception": 11,
+    "fast_exception_desc": "Rápido Grátis",
+    "saints": [
+      "Unc. Rel. Santo Alexis, Metropolita de Kiev",
+      "Mártir Talelaeus em Aegae na Cilícia e aqueles que estavam com ele (327)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Romanos 1.1-7, 13-17",
+        "short_display": "Romanos 1.1-7, 13-17",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 4.25-5.13",
+        "short_display": "Mateus 4.25-5.13",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 52,
+    "julian_day_number": 2461195,
+    "year": 2026,
+    "month": 5,
+    "day": 21,
+    "weekday": 3,
+    "tone": 7,
+    "titles": [
+      "Quarta-feira da 1ª semana depois de Pentecostes"
+    ],
+    "summary_title": "SS Constantino e Helena, Iguais aos Apóstolos",
+    "feast_level": 4,
+    "feast_level_description": "Cruz vermelha (símbolo polyeleos typikon)",
+    "feasts": [
+      "SS Constantino e Helena, Iguais aos Apóstolos"
+    ],
+    "fast_level": 0,
+    "fast_level_desc": "Não rápido",
+    "fast_exception": 11,
+    "fast_exception_desc": "Rápido Grátis",
+    "saints": [
+      "Santo Novo Mártir Pacômio (1730)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      4,
+      6
+    ],
+    "readings": [
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "3[1] Reis 8.22-23, 27-30",
+        "short_display": "3kg 8,22-23, 27-30",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Isaías 61.10-62.5",
+        "short_display": "Is 61.10-62.5",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Isaías 60.1-16",
+        "short_display": "Is 60.1-16",
+        "passage": null
+      },
+      {
+        "source": "Evangelho das Matinas",
+        "book": "John",
+        "description": "",
+        "display": "João 10.9-16",
+        "short_display": "João 10.9-16",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Romanos 1.18-27",
+        "short_display": "Romanos 1.18-27",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "Santos",
+        "display": "Atos 26.1-5, 12-20",
+        "short_display": "Atos 26.1-5, 12-20",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 5.20-26",
+        "short_display": "Mateus 5.20-26",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "John",
+        "description": "Santos",
+        "display": "João 10.1-9",
+        "short_display": "João 10.1-9",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 53,
+    "julian_day_number": 2461196,
+    "year": 2026,
+    "month": 5,
+    "day": 22,
+    "weekday": 4,
+    "tone": 7,
+    "titles": [
+      "Quinta-feira da 1ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Mártir Basilisco, Bispo de Comana",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 0,
+    "fast_level_desc": "Não rápido",
+    "fast_exception": 11,
+    "fast_exception_desc": "Rápido Grátis",
+    "saints": [
+      "Mártir Basilisco, Bispo de Comana",
+      "Justo Melquisedeque, rei de Salém.",
+      "Comemoração do Segundo Concílio Ecumênico (381)."
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Romanos 1.28-2.9",
+        "short_display": "Romanos 1.28-2.9",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 5.27-32",
+        "short_display": "Mateus 5.27-32",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 54,
+    "julian_day_number": 2461197,
+    "year": 2026,
+    "month": 5,
+    "day": 23,
+    "weekday": 5,
+    "tone": 7,
+    "titles": [
+      "Sexta-feira da 1ª semana depois de Pentecostes"
+    ],
+    "summary_title": "São Miguel, o Confessor; Unc. Rel. São Leôncio, Bispo de Rostov",
+    "feast_level": 3,
+    "feast_level_description": "Squigg vermelho (símbolo doxologia typikon)",
+    "feasts": null,
+    "fast_level": 0,
+    "fast_level_desc": "Não rápido",
+    "fast_exception": 11,
+    "fast_exception_desc": "Rápido Grátis",
+    "saints": [
+      "São Miguel, o Confessor",
+      "Unc. Rel. São Leôncio, Bispo de Rostov",
+      "São Miguel, o Confessor, bispo de Synnada (818)",
+      "Santa Maria, portadora da mirra, esposa de Cleofas",
+      "Santo Mártir Miguel do Mosteiro de São Sabbas (séc. IX)",
+      "Santa Virgem Eufrosina, Princesa de Polotsk (1173)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Romanos 2.14-29",
+        "short_display": "Romanos 2.14-29",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 5.33-41",
+        "short_display": "Mateus 5.33-41",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 55,
+    "julian_day_number": 2461198,
+    "year": 2026,
+    "month": 5,
+    "day": 24,
+    "weekday": 6,
+    "tone": 7,
+    "titles": [
+      "Sábado da 1ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Partida de Pentecostes",
+    "feast_level": 3,
+    "feast_level_description": "Squigg vermelho (símbolo doxologia typikon)",
+    "feasts": [
+      "Partida de Pentecostes"
+    ],
+    "fast_level": 0,
+    "fast_level_desc": "Não rápido",
+    "fast_exception": 11,
+    "fast_exception_desc": "Rápido Grátis",
+    "saints": [
+      "Ven. Simeão, o Estilita",
+      "Ven. Nikita, a Estilita",
+      "São Vicente de Lérins (445)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Romanos 1.7-12",
+        "short_display": "Romanos 1.7-12",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 5.42-48",
+        "short_display": "Mateus 5.42-48",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 56,
+    "julian_day_number": 2461199,
+    "year": 2026,
+    "month": 5,
+    "day": 25,
+    "weekday": 0,
+    "tone": 8,
+    "titles": [
+      "1º domingo depois de Pentecostes"
+    ],
+    "summary_title": "1º domingo depois de Pentecostes",
+    "feast_level": 4,
+    "feast_level_description": "Cruz vermelha (símbolo polyeleos typikon)",
+    "feasts": [
+      "Todos os Santos",
+      "3º Encontro da Cabeça de São João Batista"
+    ],
+    "fast_level": 0,
+    "fast_level_desc": "Não rápido",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Santo Hieromártir Therapon, Bispo de Chipre (séc. IV)",
+      "Santos Mártires Pasicrates, Valentiano, Júlio e aqueles que estão com eles (302)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      7,
+      9
+    ],
+    "readings": [
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Isaías 43.9-14",
+        "short_display": "Is 43.9-14",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Sabedoria de Salomão 3.1-9",
+        "short_display": "Sab 3.1-9",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Sabedoria de Salomão 5.15-6.3",
+        "short_display": "Sab 5,15-6,3",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Composto 8 – Isaías 40, 41, 45, 48, 54",
+        "short_display": "Is 40, 41, 45, 48, 54",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Composto 9 - Malaquias 3, 4",
+        "short_display": "Malaquias 3, 4",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Composto 3 - Sabedoria de Salomão 4, 5",
+        "short_display": "Sab 4, 5",
+        "passage": null
+      },
+      {
+        "source": "1ª Matinas Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 28.16-20",
+        "short_display": "Mateus 28.16-20",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Hebreus 11.33-12.2",
+        "short_display": "Hebreus 11.33-12.2",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "Precursor",
+        "display": "2 Coríntios 4.6-15",
+        "short_display": "2Cor 4,6-15",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 10.32-33, 37-38, 19.27-30",
+        "short_display": "Mateus 10.32-33, 37-38, 19.27-30",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "Precursor",
+        "display": "Mateus 11.2-15",
+        "short_display": "Mateus 11.2-15",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 57,
+    "julian_day_number": 2461200,
+    "year": 2026,
+    "month": 5,
+    "day": 26,
+    "weekday": 1,
+    "tone": 8,
+    "titles": [
+      "Segunda-feira da 2ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Apóstolos Carpo e Alfeu dos Setenta; Grande mártir Jorge, o Novo, em Sófia",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 3,
+    "fast_level_desc": "Apóstolos rápido",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Apóstolos Carpo e Alfeu dos Setenta",
+      "Grande mártir Jorge, o Novo, em Sófia",
+      "Santo Agostinho de Cantuária, evangelizador da Inglaterra (ca. 605)",
+      "Santo Novo Mártir Alexandre de Tessalônica (1794)"
+    ],
+    "service_notes": [
+      "Início do Jejum dos Apóstolos"
+    ],
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Romanos 2.28-3.18",
+        "short_display": "Romanos 2.28-3.18",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 6.31-34, 7.9-11",
+        "short_display": "Mateus 6,31-34, 7,9-11",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 58,
+    "julian_day_number": 2461201,
+    "year": 2026,
+    "month": 5,
+    "day": 27,
+    "weekday": 2,
+    "tone": 8,
+    "titles": [
+      "Terça-feira da 2ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Hieromártir Terapon; Trad. Rel. Ven. Nilo de Stolbensk",
+    "feast_level": 3,
+    "feast_level_description": "Squigg vermelho (símbolo doxologia typikon)",
+    "feasts": null,
+    "fast_level": 3,
+    "fast_level_desc": "Apóstolos rápido",
+    "fast_exception": 1,
+    "fast_exception_desc": "Vinho e azeite são permitidos",
+    "saints": [
+      "Hieromártir Terapon",
+      "Trad. Rel. Ven. Nilo de Stolbensk",
+      "Hieromártir Therapon, bispo de Sardes (259)",
+      "Santos Mártires Teodora e Dídimo (304)",
+      "Santo Novo Confessor João, o Russo (1730)",
+      "São David de Garesjei (séc. VI)",
+      "Venerável Beda (Baeda) (735)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Romanos 4.4-12",
+        "short_display": "Romanos 4.4-12",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 7.15-21",
+        "short_display": "Mateus 7.15-21",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 59,
+    "julian_day_number": 2461202,
+    "year": 2026,
+    "month": 5,
+    "day": 28,
+    "weekday": 3,
+    "tone": 8,
+    "titles": [
+      "Quarta-feira da 2ª semana depois de Pentecostes"
+    ],
+    "summary_title": "São Nicetas, bispo de Calcedônia; Santo Inácio, bispo de Rostov",
+    "feast_level": 2,
+    "feast_level_description": "Squigg preto (símbolo typikon de 6 pontos)",
+    "feasts": null,
+    "fast_level": 3,
+    "fast_level_desc": "Apóstolos rápido",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "São Nicetas, bispo de Calcedônia",
+      "Santo Inácio, bispo de Rostov",
+      "São Nicetas, o Confessor, bispo de Calcedônia (séc. IX)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Romanos 4.13-25",
+        "short_display": "Romanos 4.13-25",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 7.21-23",
+        "short_display": "Mateus 7.21-23",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 60,
+    "julian_day_number": 2461203,
+    "year": 2026,
+    "month": 5,
+    "day": 29,
+    "weekday": 4,
+    "tone": 8,
+    "titles": [
+      "Quinta-feira da 2ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Virgem Mártir Teodósia de Tiro; Representante Bl. João de Ustiug",
+    "feast_level": 2,
+    "feast_level_description": "Squigg preto (símbolo typikon de 6 pontos)",
+    "feasts": null,
+    "fast_level": 3,
+    "fast_level_desc": "Apóstolos rápido",
+    "fast_exception": 1,
+    "fast_exception_desc": "Vinho e azeite são permitidos",
+    "saints": [
+      "Virgem Mártir Teodósia de Tiro",
+      "Representante Bl. João de Ustiug",
+      "Comemoração do Primeiro Concílio Ecumênico (325)",
+      "A Queda de Constantinopla (1453); \"Bem-aventurado Constantino XII, último dos imperadores bizantinos, martirizado pelos turcos (1453)\""
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Romanos 5.10-16",
+        "short_display": "Romanos 5.10-16",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 8.23-27",
+        "short_display": "Mateus 8.23-27",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 61,
+    "julian_day_number": 2461204,
+    "year": 2026,
+    "month": 5,
+    "day": 30,
+    "weekday": 5,
+    "tone": 8,
+    "titles": [
+      "Sexta-feira da 2ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Ven. Isaac, fundador do Mosteiro da Dalmácia",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 3,
+    "fast_level_desc": "Apóstolos rápido",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Ven. Isaac, fundador do Mosteiro da Dalmácia",
+      "Santa Macrina, avó de São Basílio Magno (séc. IV)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Romanos 5.17-6.2",
+        "short_display": "Romanos 5.17-6.2",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 9.14-17",
+        "short_display": "Mateus 9.14-17",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 62,
+    "julian_day_number": 2461205,
+    "year": 2026,
+    "month": 5,
+    "day": 31,
+    "weekday": 6,
+    "tone": 8,
+    "titles": [
+      "Sábado da 2ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Apóstolo Hermes dos Setenta",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 3,
+    "fast_level_desc": "Apóstolos rápido",
+    "fast_exception": 2,
+    "fast_exception_desc": "Peixe, vinho e azeite são permitidos",
+    "saints": [
+      "Apóstolo Hermes dos Setenta"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Romanos 3.19-26",
+        "short_display": "Romanos 3.19-26",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 7.1-8",
+        "short_display": "Mateus 7.1-8",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 63,
+    "julian_day_number": 2461206,
+    "year": 2026,
+    "month": 6,
+    "day": 1,
+    "weekday": 0,
+    "tone": 1,
+    "titles": [
+      "2º domingo depois de Pentecostes"
+    ],
+    "summary_title": "2º domingo depois de Pentecostes",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": [
+      "Todos os Santos da América, Todos os Santos da Rússia"
+    ],
+    "fast_level": 3,
+    "fast_level_desc": "Apóstolos rápido",
+    "fast_exception": 2,
+    "fast_exception_desc": "Peixe, vinho e azeite são permitidos",
+    "saints": [
+      "Mártir Justino, o Filósofo",
+      "Nosso Santo Padre Agápito das Cavernas de Kiev (1095)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      4,
+      6
+    ],
+    "readings": [
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Isaías 43.9-14",
+        "short_display": "Is 43.9-14",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Sabedoria de Salomão 3.1-9",
+        "short_display": "Sab 3.1-9",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Antigo Testamento",
+        "description": "",
+        "display": "Sabedoria de Salomão 5.15-6.3",
+        "short_display": "Sab 5,15-6,3",
+        "passage": null
+      },
+      {
+        "source": "2ª Matinas Evangelho",
+        "book": "Marca",
+        "description": "",
+        "display": "Marcos 16.1-8",
+        "short_display": "Marcos 16.1-8",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Romanos 2.10-16",
+        "short_display": "Romanos 2.10-16",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "Santos",
+        "display": "Hebreus 11.33-12.2",
+        "short_display": "Hebreus 11.33-12.2",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 4.18-23",
+        "short_display": "Mateus 4.18-23",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "Santos",
+        "display": "Mateus 4.25-5.12",
+        "short_display": "Mateus 4.25-5.12",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 64,
+    "julian_day_number": 2461207,
+    "year": 2026,
+    "month": 6,
+    "day": 2,
+    "weekday": 1,
+    "tone": 1,
+    "titles": [
+      "Segunda-feira da 3ª semana depois de Pentecostes"
+    ],
+    "summary_title": "São Nicéforo, o Confessor",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 3,
+    "fast_level_desc": "Apóstolos rápido",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "São Nicéforo, o Confessor",
+      "Santo Novo Mártir Constantino (1819)",
+      "Hieromártir Erazmo de Ocrida (303)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Romanos 7.1-13",
+        "short_display": "Romanos 7.1-13",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 9.36-10.8",
+        "short_display": "Mateus 9.36-10.8",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 65,
+    "julian_day_number": 2461208,
+    "year": 2026,
+    "month": 6,
+    "day": 3,
+    "weekday": 2,
+    "tone": 1,
+    "titles": [
+      "Terça-feira da 3ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Mártir Luciliano e seus companheiros",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 3,
+    "fast_level_desc": "Apóstolos rápido",
+    "fast_exception": 1,
+    "fast_exception_desc": "Vinho e azeite são permitidos",
+    "saints": [
+      "Mártir Luciliano e seus companheiros",
+      "Hieromártir Luciano (séc. II)",
+      "Santo Mártir Dimitri, Czarevich da Rússia (1591)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Romanos 7.14-8.2",
+        "short_display": "Romanos 7.14-8.2",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 10.9-15",
+        "short_display": "Mateus 10.9-15",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 66,
+    "julian_day_number": 2461209,
+    "year": 2026,
+    "month": 6,
+    "day": 4,
+    "weekday": 3,
+    "tone": 1,
+    "titles": [
+      "Quarta-feira da 3ª semana depois de Pentecostes"
+    ],
+    "summary_title": "São Metrófanes, Primeiro Patriarca de Constantinopla",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 3,
+    "fast_level_desc": "Apóstolos rápido",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "São Metrófanes, Primeiro Patriarca de Constantinopla",
+      "Santas portadoras de mirra Maria e Marta, irmãs de São Lázaro (séc. I)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Romanos 8.2-13",
+        "short_display": "Romanos 8.2-13",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 10.16-22",
+        "short_display": "Mateus 10.16-22",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 67,
+    "julian_day_number": 2461210,
+    "year": 2026,
+    "month": 6,
+    "day": 5,
+    "weekday": 4,
+    "tone": 1,
+    "titles": [
+      "Quinta-feira da 3ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Hieromártir Doroteu, Bispo de Tiro",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 3,
+    "fast_level_desc": "Apóstolos rápido",
+    "fast_exception": 1,
+    "fast_exception_desc": "Vinho e azeite são permitidos",
+    "saints": [
+      "Hieromártir Doroteu, Bispo de Tiro",
+      "Nosso Santo Padre Teodoro, o Eremita e Maravilhas (583)",
+      "Bem-aventurado Igor-George, tonsurado Gabriel, grão-duque de Chernigov e Kiev (1147)",
+      "Bem-aventurado Constantino, Metropolita de Kiev (1159)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Romanos 8.22-27",
+        "short_display": "Romanos 8.22-27",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 10.23-31",
+        "short_display": "Mateus 10.23-31",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 68,
+    "julian_day_number": 2461211,
+    "year": 2026,
+    "month": 6,
+    "day": 6,
+    "weekday": 5,
+    "tone": 1,
+    "titles": [
+      "Sexta-feira da 3ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Ven. Bessarion, o Wonderworker do Egito",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 3,
+    "fast_level_desc": "Apóstolos rápido",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Ven. Bessarion, o Wonderworker do Egito",
+      "Santo Hilarião, o Novo, abade do Mosteiro da Dalmácia (845)",
+      "Nossas Santas Mães, as Mártires Arquelau, Tecla e Susana (293)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Romanos 9.6-19",
+        "short_display": "Romanos 9.6-19",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 10.32-36, 11.1",
+        "short_display": "Mateus 10.32-36, 11.1",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 69,
+    "julian_day_number": 2461212,
+    "year": 2026,
+    "month": 6,
+    "day": 7,
+    "weekday": 6,
+    "tone": 1,
+    "titles": [
+      "Sábado da 3ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Hieromártir Teódoto, Bispo de Ancira",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 3,
+    "fast_level_desc": "Apóstolos rápido",
+    "fast_exception": 2,
+    "fast_exception_desc": "Peixe, vinho e azeite são permitidos",
+    "saints": [
+      "Hieromártir Teódoto, Bispo de Ancira",
+      "Hieromártir Marcelino, papa de Roma (304)",
+      "São Daniel de Skete no Egito (séc. V)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Romanos 3.28-4.3",
+        "short_display": "Romanos 3.28-4.3",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 7.24-8.4",
+        "short_display": "Mateus 7.24-8.4",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 70,
+    "julian_day_number": 2461213,
+    "year": 2026,
+    "month": 6,
+    "day": 8,
+    "weekday": 0,
+    "tone": 2,
+    "titles": [
+      "3º domingo depois de Pentecostes"
+    ],
+    "summary_title": "3º domingo depois de Pentecostes",
+    "feast_level": 2,
+    "feast_level_description": "Squigg preto (símbolo typikon de 6 pontos)",
+    "feasts": null,
+    "fast_level": 3,
+    "fast_level_desc": "Apóstolos rápido",
+    "fast_exception": 2,
+    "fast_exception_desc": "Peixe, vinho e azeite são permitidos",
+    "saints": [
+      "Trad. Rel. Teodoro Estratelates",
+      "Santo Efraim, Patriarca de Antioquia (545)",
+      "Nossa Santa Mãe Melania, a Velha (410)",
+      "São Zózimo, monge, da Fenícia (Síria) (séc. VI)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      1,
+      2
+    ],
+    "readings": [
+      {
+        "source": "Evangelho da 3ª Matinas",
+        "book": "Marca",
+        "description": "",
+        "display": "Marcos 16,9-20",
+        "short_display": "Marcos 16,9-20",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Romanos 5.1-10",
+        "short_display": "Romanos 5.1-10",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 6.22-33",
+        "short_display": "Mateus 6.22-33",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 71,
+    "julian_day_number": 2461214,
+    "year": 2026,
+    "month": 6,
+    "day": 9,
+    "weekday": 1,
+    "tone": 2,
+    "titles": [
+      "Segunda-feira da 4ª semana depois de Pentecostes"
+    ],
+    "summary_title": "São Cirilo de Alexandria; Ven. Cirilo de Belozersk",
+    "feast_level": 3,
+    "feast_level_description": "Squigg vermelho (símbolo doxologia typikon)",
+    "feasts": null,
+    "fast_level": 3,
+    "fast_level_desc": "Apóstolos rápido",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "São Cirilo de Alexandria",
+      "Ven. Cirilo de Belozersk",
+      "São Columba de Iona (597)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Romanos 9.18-33",
+        "short_display": "Romanos 9.18-33",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 11.2-15",
+        "short_display": "Mateus 11.2-15",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 72,
+    "julian_day_number": 2461215,
+    "year": 2026,
+    "month": 6,
+    "day": 10,
+    "weekday": 2,
+    "tone": 2,
+    "titles": [
+      "Terça-feira da 4ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Hieromártir Timóteo, Bispo da Prússia; São João Maximovitch, Metropolita de Tobolsk",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 3,
+    "fast_level_desc": "Apóstolos rápido",
+    "fast_exception": 1,
+    "fast_exception_desc": "Vinho e azeite são permitidos",
+    "saints": [
+      "Hieromártir Timóteo, Bispo da Prússia",
+      "São João Maximovitch, Metropolita de Tobolsk",
+      "Santos Mártires Alexandre e Antonina (313)",
+      "Hieromártir Metrófano, primeiro sacerdote chinês, e os Novos Mártires Chineses da Revolta dos Boxers (1900)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Romanos 10.11-11.2",
+        "short_display": "Romanos 10.11-11.2",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 11.16-20",
+        "short_display": "Mateus 11.16-20",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 73,
+    "julian_day_number": 2461216,
+    "year": 2026,
+    "month": 6,
+    "day": 11,
+    "weekday": 3,
+    "tone": 2,
+    "titles": [
+      "Quarta-feira da 4ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Santos Apóstolos Bartolomeu e Barnabé",
+    "feast_level": 4,
+    "feast_level_description": "Cruz vermelha (símbolo polyeleos typikon)",
+    "feasts": [
+      "Santos Apóstolos Bartolomeu e Barnabé"
+    ],
+    "fast_level": 3,
+    "fast_level_desc": "Apóstolos rápido",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Comemoração da aparição do Arcanjo Gabriel a um monge no Monte Athos e da revelação do hino \"É Verdadeiramente Encontro\" (Axion Estin (980)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      4,
+      6
+    ],
+    "readings": [
+      {
+        "source": "Vésperas",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "1 Pedro 1.3-9",
+        "short_display": "1 Pedro 1.3-9",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "1 Pedro 1.13-19",
+        "short_display": "1 Animal de estimação 1.13-19",
+        "passage": null
+      },
+      {
+        "source": "Vésperas",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "1 Pedro 2.11-24",
+        "short_display": "1 Pedro 2.11-24",
+        "passage": null
+      },
+      {
+        "source": "Evangelho das Matinas",
+        "book": "John",
+        "description": "",
+        "display": "João 21.15-25",
+        "short_display": "João 21.15-25",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Romanos 11.2-12",
+        "short_display": "Romanos 11.2-12",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "Apóstolos",
+        "display": "Atos 11.19-26, 29-30",
+        "short_display": "Atos 11.19-26, 29-30",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 11.20-26",
+        "short_display": "Mateus 11.20-26",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Lucas",
+        "description": "Apóstolos",
+        "display": "Lucas 10.16-21",
+        "short_display": "Lucas 10.16-21",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 74,
+    "julian_day_number": 2461217,
+    "year": 2026,
+    "month": 6,
+    "day": 12,
+    "weekday": 4,
+    "tone": 2,
+    "titles": [
+      "Quinta-feira da 4ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Ven. Onufrio, o Grande",
+    "feast_level": 2,
+    "feast_level_description": "Squigg preto (símbolo typikon de 6 pontos)",
+    "feasts": null,
+    "fast_level": 3,
+    "fast_level_desc": "Apóstolos rápido",
+    "fast_exception": 1,
+    "fast_exception_desc": "Vinho e azeite são permitidos",
+    "saints": [
+      "Ven. Onufrio, o Grande"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Romanos 11.13-24",
+        "short_display": "Romanos 11.13-24",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 11.27-30",
+        "short_display": "Mateus 11.27-30",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 75,
+    "julian_day_number": 2461218,
+    "year": 2026,
+    "month": 6,
+    "day": 13,
+    "weekday": 5,
+    "tone": 2,
+    "titles": [
+      "Sexta-feira da 4ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Mártir Aquilina de Biblos",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 3,
+    "fast_level_desc": "Apóstolos rápido",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "Mártir Aquilina de Biblos",
+      "São Trifílio, bispo de Leucosia (Nicósia) em Chipre (370)",
+      "Santa Ana e seu filho João (5h c.)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Romanos 11.25-36",
+        "short_display": "Romanos 11.25-36",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 12.1-8",
+        "short_display": "Mateus 12.1-8",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 76,
+    "julian_day_number": 2461219,
+    "year": 2026,
+    "month": 6,
+    "day": 14,
+    "weekday": 6,
+    "tone": 2,
+    "titles": [
+      "Sábado da 4ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Profeta Eliseu",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 3,
+    "fast_level_desc": "Apóstolos rápido",
+    "fast_exception": 2,
+    "fast_exception_desc": "Peixe, vinho e azeite são permitidos",
+    "saints": [
+      "Profeta Eliseu",
+      "São Metódio, Patriarca de Constantinopla (847)",
+      "São João Mavropos, Metropolita de Euchaïta (1100)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Romanos 6.11-17",
+        "short_display": "Romanos 6.11-17",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 8.14-23",
+        "short_display": "Mateus 8.14-23",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 77,
+    "julian_day_number": 2461220,
+    "year": 2026,
+    "month": 6,
+    "day": 15,
+    "weekday": 0,
+    "tone": 3,
+    "titles": [
+      "4º domingo depois de Pentecostes"
+    ],
+    "summary_title": "4º domingo depois de Pentecostes",
+    "feast_level": 4,
+    "feast_level_description": "Cruz vermelha (símbolo polyeleos typikon)",
+    "feasts": null,
+    "fast_level": 3,
+    "fast_level_desc": "Apóstolos rápido",
+    "fast_exception": 2,
+    "fast_exception_desc": "Peixe, vinho e azeite são permitidos",
+    "saints": [
+      "Profeta Amós",
+      "São Jonas, Metr. de Moscou",
+      "Santo Profeta Amós (séc. VIII a.C.)",
+      "Santo Mártir Vito, com Modesto e Crescentia (303)",
+      "Beato Agostinho, bispo de Hipona (430), e sua mãe Mônica (387)",
+      "Santo Mártir Lazar, Príncipe da Sérvia (1389)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      1,
+      2
+    ],
+    "readings": [
+      {
+        "source": "4º Evangelho das Matinas",
+        "book": "Lucas",
+        "description": "",
+        "display": "Lucas 24.1-12",
+        "short_display": "Lucas 24.1-12",
+        "passage": null
+      },
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Romanos 6.18-23",
+        "short_display": "Romanos 6.18-23",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 8.5-13",
+        "short_display": "Mateus 8.5-13",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 78,
+    "julian_day_number": 2461221,
+    "year": 2026,
+    "month": 6,
+    "day": 16,
+    "weekday": 1,
+    "tone": 3,
+    "titles": [
+      "Segunda-feira da 5ª semana depois de Pentecostes"
+    ],
+    "summary_title": "São Tycho, bispo de Amathus",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 3,
+    "fast_level_desc": "Apóstolos rápido",
+    "fast_exception": 0,
+    "fast_exception_desc": "",
+    "saints": [
+      "São Tycho, bispo de Amathus",
+      "Santos Mártires Tigris e Eutropios (404)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Romanos 12.4-5, 15-21",
+        "short_display": "Romanos 12.4-5, 15-21",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 12.9-13",
+        "short_display": "Mateus 12.9-13",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 79,
+    "julian_day_number": 2461222,
+    "year": 2026,
+    "month": 6,
+    "day": 17,
+    "weekday": 2,
+    "tone": 3,
+    "titles": [
+      "Terça-feira da 5ª semana depois de Pentecostes"
+    ],
+    "summary_title": "Mártires Manuel, Sabel, Ismael da Pérsia",
+    "feast_level": 0,
+    "feast_level_description": "Liturgia",
+    "feasts": null,
+    "fast_level": 3,
+    "fast_level_desc": "Apóstolos rápido",
+    "fast_exception": 1,
+    "fast_exception_desc": "Vinho e azeite são permitidos",
+    "saints": [
+      "Mártires Manuel, Sabel, Ismael da Pérsia",
+      "Nosso Santo Padre Botolph, Abade do Mosteiro de Ikanhoe (680)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      1
+    ],
+    "readings": [
+      {
+        "source": "Epístola",
+        "book": "Apóstolo",
+        "description": "",
+        "display": "Romanos 14.9-18",
+        "short_display": "Romanos 14.9-18",
+        "passage": null
+      },
+      {
+        "source": "Evangelho",
+        "book": "Mateus",
+        "description": "",
+        "display": "Mateus 12.14-16, 22-30",
+        "short_display": "Mateus 12.14-16, 22-30",
+        "passage": null
+      }
+    ]
+  }
+]
