@@ -1,4 +1,4 @@
-import React, { useState, useEffect, Suspense, useMemo } from 'react';
+import React, { useContext, useState, useEffect, Suspense, useMemo } from 'react';
 import { View, Text, StyleSheet, Image, FlatList, Pressable, Dimensions, ImageBackground, ScrollView, ActivityIndicator } from 'react-native';
 import axios from 'axios';
 import { useLanguage } from "@/constants/LanguageContext";
@@ -39,6 +39,8 @@ const Orthocal = () => {
 
     //DateTimePicker variables
     const [appDate, setAppDate] = useState(new Date());
+    const firstDay = new Date(2024, 0, 1);
+    const [diffIndex, setDiffIndex] = useState(Math.floor(Math.abs(appDate - firstDay) / (1000 * 60 * 60 * 24)))
     const [mode, setMode] = useState('date');
     const [show, setShow] = useState(false);
 
@@ -68,6 +70,7 @@ const Orthocal = () => {
         currentDate.setHours(0);
         setShow(false);
         setAppDate(currentDate);
+        setDiffIndex(Math.floor(Math.abs(currentDate - firstDay) / (1000 * 60 * 60 * 24)))
         fetchDate(`https://praxis-prayers-default-rtdb.europe-west1.firebasedatabase.app/VCALENDAR/0/VEVENT/${Math.floor(Math.abs(currentDate - dayOne) / (1000 * 60 * 60 * 24))}.json`); //Should happen simultaneously
     };
 
@@ -80,6 +83,7 @@ const Orthocal = () => {
     const [tester, setTester] = useState([]);
     const [orthocalInfo, setOrthocalInfo] = useState([]);
     const [loading, setLoading] = useState(true);
+    const [chosenCalendar, setChosenCalendar] = useState([]);
 
     //Day message
     const weekDay = appDate.getDay();
@@ -119,8 +123,8 @@ const Orthocal = () => {
     let dateTitle = "";
     if (language === 'pt') {
         dateTitle = weekDayName + ", " + String(dayNumber) + " de " + monthName + ", " + String(yearNumber);
-    } else {
-        dateTitle = "Error";
+    } else if (language === 'en') {
+        dateTitle = weekDayName + ", " + monthName + " " + String(dayNumber) + ", " + String(yearNumber);
     }
 
     useEffect(() => {
@@ -216,7 +220,7 @@ const Orthocal = () => {
         {
             title: String(summary),
             image: require('@/assets/images/orthodox-date.jpg'),
-            description: String(fastLevel),
+            description: String(fastLevel) + String(language) + String(calendar),
         },
         {
             title: "COMEMORAÇÕES",
@@ -228,17 +232,95 @@ const Orthocal = () => {
             image: require('@/assets/images/bible.jpg'),
             description: String(readings),
         }
-    ], [summary, fastLevel, commemorations, readings]);
+    ], [summary, fastLevel, commemorations, readings, language, calendar]);
+
 
     const areDataReady = summary && fastLevel && commemorations && readings;
 
     // For the new API replacement
+
+    const fallbackSynaxList = [
+        {
+            title: 'Please select a language and calendar',
+            image: require('@/assets/images/saints.jpg'),
+            description: 'Selecione uma língua e um calendário',
+        },
+        {
+            title: 'Please select a language and calendar',
+            image: require('@/assets/images/saints.jpg'),
+            description: 'Selecione uma língua e um calendário',
+        },
+        {
+            title: 'Please select a language and calendar',
+            image: require('@/assets/images/saints.jpg'),
+            description: 'Selecione uma língua e um calendário',
+        },
+    ];
+
+    const [synaxList, setSynaxList] = useState(fallbackSynaxList);
+
+    // Now, create functions to get titles and descriptions from langCal
+    // Generate object
+    const generateDescriptions = (langCal, index) => {
+        return({
+            titles: langCal[index].titles.join(" • "),
+            fasting: langCal[index].fast_exception_desc === "" ? langCal[index].fast_level_desc : langCal[index].fast_level_desc + " — " + langCal[index].fast_exception_desc,
+            commemorations: langCal[index].feasts === null || langCal[index].saints === null ? (langCal[index].feasts === null ? langCal[index].saints.join(" • ") : langCal[index].feasts.join(" • ")) : langCal[index].feasts.concat(langCal[index]).join(" • "),
+            readings: langCal[index].abbreviated_reading_indices.map((i) => langCal[index].readings[i].display).join(" • "),
+        });
+    };
+
+    useEffect(() => {
+        const newLangCal = () => {
+            let langCal = {};
+            let langCalString = String(calendar) + String(language);
+            switch(langCalString) {
+                case 'julen':
+                    langCal = julen;
+                    break;
+                case 'julpt':
+                    langCal = julpt;
+                    break;
+                case 'gregen':
+                    langCal = gregen;
+                    break;
+                case 'gregpt':
+                    langCal = gregpt;
+            }
+            return(langCal);
+        };
+        const generateSynax = () => {
+            return([
+                {
+                    title: generateDescriptions(newLangCal(), diffIndex).titles,
+                    image: require('@/assets/images/saints.jpg'),
+                    description: generateDescriptions(newLangCal(), diffIndex).fasting,
+                },
+                {
+                    title: i18n.t('cardContent.commemorations'),
+                    image: require('@/assets/images/saints.jpg'),
+                    description: generateDescriptions(newLangCal(), diffIndex).commemorations,
+                },
+                {
+                    title: i18n.t("cardContent.readings"),
+                    image: require('@/assets/images/bible.jpg'),
+                    description: generateDescriptions(newLangCal(), diffIndex).readings,
+                },
+            ]);
+        };
+        setSynaxList(generateSynax());
+    }, [language, calendar, diffIndex]);
+
     const thisDay = new Date();
-    const firstDay = new Date(2024, 0, 1);
     const gregDayIndex = Math.floor(Math.abs(thisDay - firstDay) / (1000 * 60 * 60 * 24));
     /*
     const diffTime = Math.abs(today - dayOne); //Standard diff in time, as fallback
     const dateIndexFallback = Math.floor(diffTime / (1000 * 60 * 60 * 24));
+    */
+    /*
+       Switching completely
+    /
+    /  The trick will be to reset and rewrite so that onChange of one of the settings picker, things restart
     */
 
     return (
@@ -266,45 +348,15 @@ const Orthocal = () => {
             ) : (
                 <Text>No data available.</Text>
             )}
-            <Text style={styles.heading}>Testing the new API - Greg. En.</Text>
-            <Text style={styles.title}>Title</Text>
-            <Text style={styles.title2}>{String(thisDay)}</Text>
-            <Text style={styles.title2}>{gregen[gregDayIndex].titles.join(" • ")}</Text>
-            <Text style={styles.title2}>{gregen[gregDayIndex].fast_exception_desc === "" ? gregen[gregDayIndex].fast_level_desc : gregen[gregDayIndex].fast_level_desc + " — " + gregen[gregDayIndex].fast_exception_desc}</Text>
-            <Text style={styles.title}>Commemorations</Text>
-            <Text style={styles.title2}>{gregen[gregDayIndex].saints.join(" • ")}</Text>
-            <Text style={styles.title}>Readings</Text>
-            <Text style={styles.title2}>{gregen[gregDayIndex].abbreviated_reading_indices.map((index) => gregen[gregDayIndex].readings[index].display).join(" • ")}</Text>
-            <Text style={styles.heading}>Testing the new API - Greg. Pt.</Text>
-            <Text style={styles.title}>Title</Text>
-            <Text style={styles.title2}>{String(thisDay)}</Text>
-            <Text style={styles.title2}>{gregpt[gregDayIndex].titles.join(" • ")}</Text>
-            <Text style={styles.title2}>{gregpt[gregDayIndex].fast_exception_desc === "" ? gregpt[gregDayIndex].fast_level_desc : gregpt[gregDayIndex].fast_level_desc + " — " + gregpt[gregDayIndex].fast_exception_desc}</Text>
-            <Text style={styles.title}>Commemorations</Text>
-            <Text style={styles.title2}>{gregpt[gregDayIndex].saints.join(" • ")}</Text>
-            <Text style={styles.title}>Readings</Text>
-            <Text style={styles.title2}>{gregpt[gregDayIndex].abbreviated_reading_indices.map((index) => gregpt[gregDayIndex].readings[index].display).join(" • ")}</Text>
-            <Text style={styles.heading}>Testing the new API - Jul. En.</Text>
-            <Text style={styles.title}>Title</Text>
-            <Text style={styles.title2}>{String(thisDay)}</Text>
-            <Text style={styles.title2}>{julen[gregDayIndex].titles.join(" • ")}</Text>
-            <Text style={styles.title2}>{julen[gregDayIndex].fast_exception_desc === "" ? julen[gregDayIndex].fast_level_desc : julen[gregDayIndex].fast_level_desc + " — " + julen[gregDayIndex].fast_exception_desc}</Text>
-            <Text style={styles.title}>Commemorations</Text>
-            <Text style={styles.title2}>{julen[gregDayIndex].saints.join(" • ")}</Text>
-            <Text style={styles.title}>Readings</Text>
-            <Text style={styles.title2}>{julen[gregDayIndex].abbreviated_reading_indices.map((index) => julen[gregDayIndex].readings[index].display).join(" • ")}</Text>
-            <Text style={styles.heading}>Testing the new API - Jul. Pt.</Text>
-            <Text style={styles.title}>Title</Text>
-            <Text style={styles.title2}>{String(thisDay)}</Text>
-            <Text style={styles.title2}>{julpt[gregDayIndex].titles.join(" • ")}</Text>
-            <Text style={styles.title2}>{julpt[gregDayIndex].fast_exception_desc === "" ? julpt[gregDayIndex].fast_level_desc : julpt[gregDayIndex].fast_level_desc + " — " + julpt[gregDayIndex].fast_exception_desc}</Text>
-            <Text style={styles.title}>Commemorations</Text>
-            <Text style={styles.title2}>{julpt[gregDayIndex].saints.join(" • ")}</Text>
-            <Text style={styles.title}>Readings</Text>
-            <Text style={styles.title2}>{julpt[gregDayIndex].abbreviated_reading_indices.map((index) => julpt[gregDayIndex].readings[index].display).join(" • ")}</Text>
-            <Text style={styles.heading}>Testing the calendar/language selector</Text>
-            <Text style={styles.title2}>The language chosen is: {language}</Text>
-            <Text style={styles.title2}>The calendar chosen is: {calendar}</Text>
+            <Text style={styles.heading}>{diffIndex}</Text>
+            {/* {synaxList ? (
+                <DaySlider itemList={synaxList} />
+                ) : (
+                <Text>Loading</Text>
+                )} */}
+            <Suspense fallback={<ActivityIndicator size="large" color="blue"/>}>
+                <DaySlider key={JSON.stringify(synaxList)} itemList={synaxList} />
+            </Suspense>
         </View>
     );
 };
