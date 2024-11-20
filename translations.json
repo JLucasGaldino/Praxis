@@ -16,6 +16,11 @@
                                 "portuguese": "Portuguese",
                         },
                         "notice": "Please understand that, since this app is in development, it does not yet contain the full prayers in English.",
+                        "calendar": "Calendar",
+                        "calendarSelection": {
+                                "julian": "Julian",
+                                "gregorian": "Gregorian",
+                        }
                 },
         },
         "pt": {
@@ -977,6 +982,11 @@ e sempiternamente, e pelos séculos dos séculos. Ámen.
                                 "portuguese": "Português",
                         },
                         "notice": "Por favor, compreenda que, uma vez que esta aplicação está a ser desenvolvida, ainda não contém as orações completas em inglês.",
+                        "calendar": "Calendário",
+                        "calendarSelection": {
+                                "julian": "Juliano",
+                                "gregorian": "Gregoriano",
+                        }
                 },
         },
 }

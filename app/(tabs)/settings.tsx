@@ -2,6 +2,7 @@ import React from 'react';
 import { Text, View, StyleSheet } from 'react-native';
 import { Picker } from '@react-native-picker/picker';
 import { useLanguage } from '@/constants/LanguageContext';
+import { useCalendar } from '@/constants/CalContext';
 import { useState } from 'react';
 import { I18n } from 'i18n-js';
 import translations from "@/translations.json";
@@ -15,6 +16,8 @@ const Settings = () => {
   i18n.defaultLocale = "en";
   i18n.locale = language;
 
+  const { calendar, setCalendar } = useCalendar();
+
   return (
     <View style={styles.container}>
       <Text style={styles.text}>{i18n.t("settingsContent.languages")}</Text>
@@ -27,6 +30,18 @@ const Settings = () => {
         >
           <Picker.Item label={i18n.t("settingsContent.languageSelection.english")} value="en" />
           <Picker.Item label={i18n.t("settingsContent.languageSelection.portuguese")} value="pt" />
+        </Picker>
+      </View>
+      <Text style={styles.text}>{i18n.t("settingsContent.calendar")}</Text>
+      <View style={styles.pickerContainer}>
+        <Picker
+          selectedValue={calendar}
+          onValueChange={(itemValue) => setCalendar(itemValue)}
+          dropdownIconColor='#fff'
+          style={{color: "white"}}
+        >
+          <Picker.Item label={i18n.t("settingsContent.calendarSelection.julian")} value="jul" />
+          <Picker.Item label={i18n.t("settingsContent.calendarSelection.gregorian")} value="greg" />
         </Picker>
       </View>
       <Text style={styles.text}>{i18n.t("settingsContent.notice")}</Text>

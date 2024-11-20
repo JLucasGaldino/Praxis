@@ -2,9 +2,15 @@ import React, { useState, useEffect, Suspense, useMemo } from 'react';
 import { View, Text, StyleSheet, Image, FlatList, Pressable, Dimensions, ImageBackground, ScrollView, ActivityIndicator } from 'react-native';
 import axios from 'axios';
 import { useLanguage } from "@/constants/LanguageContext";
+import { useCalendar } from "@/constants/CalContext";
 import * as Localization from 'expo-localization';
 import { I18n } from 'i18n-js';
 import translations from "@/translations.json";
+import gregorianen from "@/assets/orthocal-fetches/gregorian_en_2024/gregorian_en_2024-01.json";
+import gregen from "@/assets/orthocal-fetches/gregorian_en.json";
+import gregpt from "@/assets/orthocal-fetches/gregorian_pt.json";
+import julen from "@/assets/orthocal-fetches/julian_en.json";
+import julpt from "@/assets/orthocal-fetches/julian_pt.json";
 import DateTimePicker from "@react-native-community/datetimepicker";
 import ReadMore from '@fawazahmed/react-native-read-more';
 import { useSharedValue } from "react-native-reanimated";
@@ -14,6 +20,7 @@ import DaySlider from "@/components/DaySlider";
 import { ImageSlider } from "@/constants/CommonPrayerSliderData";
 
 const i18n = new I18n(translations);
+// const gregen = JSON.parse(String(gregorianen));
 const {width} = Dimensions.get('screen');
 
 let testerester = [];
@@ -22,10 +29,12 @@ let testerester = [];
 
 const Orthocal = () => {
     //Language variables
-    const { language } = useLanguage()
+    const { language } = useLanguage();
     let [locale, setLocale] = useState(Localization.locale);
     i18n.defaultLocale = "en";
     i18n.locale = language;
+
+    const { calendar } = useCalendar();
 
 
     //DateTimePicker variables
@@ -223,6 +232,15 @@ const Orthocal = () => {
 
     const areDataReady = summary && fastLevel && commemorations && readings;
 
+    // For the new API replacement
+    const thisDay = new Date();
+    const firstDay = new Date(2024, 0, 1);
+    const gregDayIndex = Math.floor(Math.abs(thisDay - firstDay) / (1000 * 60 * 60 * 24));
+    /*
+    const diffTime = Math.abs(today - dayOne); //Standard diff in time, as fallback
+    const dateIndexFallback = Math.floor(diffTime / (1000 * 60 * 60 * 24));
+    */
+
     return (
         <View>
             <View style={styles.container}>
@@ -248,6 +266,45 @@ const Orthocal = () => {
             ) : (
                 <Text>No data available.</Text>
             )}
+            <Text style={styles.heading}>Testing the new API - Greg. En.</Text>
+            <Text style={styles.title}>Title</Text>
+            <Text style={styles.title2}>{String(thisDay)}</Text>
+            <Text style={styles.title2}>{gregen[gregDayIndex].titles.join(" • ")}</Text>
+            <Text style={styles.title2}>{gregen[gregDayIndex].fast_exception_desc === "" ? gregen[gregDayIndex].fast_level_desc : gregen[gregDayIndex].fast_level_desc + " — " + gregen[gregDayIndex].fast_exception_desc}</Text>
+            <Text style={styles.title}>Commemorations</Text>
+            <Text style={styles.title2}>{gregen[gregDayIndex].saints.join(" • ")}</Text>
+            <Text style={styles.title}>Readings</Text>
+            <Text style={styles.title2}>{gregen[gregDayIndex].abbreviated_reading_indices.map((index) => gregen[gregDayIndex].readings[index].display).join(" • ")}</Text>
+            <Text style={styles.heading}>Testing the new API - Greg. Pt.</Text>
+            <Text style={styles.title}>Title</Text>
+            <Text style={styles.title2}>{String(thisDay)}</Text>
+            <Text style={styles.title2}>{gregpt[gregDayIndex].titles.join(" • ")}</Text>
+            <Text style={styles.title2}>{gregpt[gregDayIndex].fast_exception_desc === "" ? gregpt[gregDayIndex].fast_level_desc : gregpt[gregDayIndex].fast_level_desc + " — " + gregpt[gregDayIndex].fast_exception_desc}</Text>
+            <Text style={styles.title}>Commemorations</Text>
+            <Text style={styles.title2}>{gregpt[gregDayIndex].saints.join(" • ")}</Text>
+            <Text style={styles.title}>Readings</Text>
+            <Text style={styles.title2}>{gregpt[gregDayIndex].abbreviated_reading_indices.map((index) => gregpt[gregDayIndex].readings[index].display).join(" • ")}</Text>
+            <Text style={styles.heading}>Testing the new API - Jul. En.</Text>
+            <Text style={styles.title}>Title</Text>
+            <Text style={styles.title2}>{String(thisDay)}</Text>
+            <Text style={styles.title2}>{julen[gregDayIndex].titles.join(" • ")}</Text>
+            <Text style={styles.title2}>{julen[gregDayIndex].fast_exception_desc === "" ? julen[gregDayIndex].fast_level_desc : julen[gregDayIndex].fast_level_desc + " — " + julen[gregDayIndex].fast_exception_desc}</Text>
+            <Text style={styles.title}>Commemorations</Text>
+            <Text style={styles.title2}>{julen[gregDayIndex].saints.join(" • ")}</Text>
+            <Text style={styles.title}>Readings</Text>
+            <Text style={styles.title2}>{julen[gregDayIndex].abbreviated_reading_indices.map((index) => julen[gregDayIndex].readings[index].display).join(" • ")}</Text>
+            <Text style={styles.heading}>Testing the new API - Jul. Pt.</Text>
+            <Text style={styles.title}>Title</Text>
+            <Text style={styles.title2}>{String(thisDay)}</Text>
+            <Text style={styles.title2}>{julpt[gregDayIndex].titles.join(" • ")}</Text>
+            <Text style={styles.title2}>{julpt[gregDayIndex].fast_exception_desc === "" ? julpt[gregDayIndex].fast_level_desc : julpt[gregDayIndex].fast_level_desc + " — " + julpt[gregDayIndex].fast_exception_desc}</Text>
+            <Text style={styles.title}>Commemorations</Text>
+            <Text style={styles.title2}>{julpt[gregDayIndex].saints.join(" • ")}</Text>
+            <Text style={styles.title}>Readings</Text>
+            <Text style={styles.title2}>{julpt[gregDayIndex].abbreviated_reading_indices.map((index) => julpt[gregDayIndex].readings[index].display).join(" • ")}</Text>
+            <Text style={styles.heading}>Testing the calendar/language selector</Text>
+            <Text style={styles.title2}>The language chosen is: {language}</Text>
+            <Text style={styles.title2}>The calendar chosen is: {calendar}</Text>
         </View>
     );
 };
