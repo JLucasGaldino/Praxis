@@ -1,31 +1,20 @@
 import React, { useContext, useState, useEffect, Suspense, useMemo } from 'react';
 import { View, Text, StyleSheet, Image, FlatList, Pressable, Dimensions, ImageBackground, ScrollView, ActivityIndicator } from 'react-native';
-import axios from 'axios';
 import { useLanguage } from "@/constants/LanguageContext";
 import { useCalendar } from "@/constants/CalContext";
 import * as Localization from 'expo-localization';
 import { I18n } from 'i18n-js';
 import translations from "@/translations.json";
-import gregorianen from "@/assets/orthocal-fetches/gregorian_en_2024/gregorian_en_2024-01.json";
 import gregen from "@/assets/orthocal-fetches/gregorian_en.json";
 import gregpt from "@/assets/orthocal-fetches/gregorian_pt.json";
 import julen from "@/assets/orthocal-fetches/julian_en.json";
 import julpt from "@/assets/orthocal-fetches/julian_pt.json";
 import DateTimePicker from "@react-native-community/datetimepicker";
-import ReadMore from '@fawazahmed/react-native-read-more';
-import { useSharedValue } from "react-native-reanimated";
-import Carousel, { ICarouselInstance, Pagination } from "react-native-reanimated-carousel";
-import { LinearGradient } from 'expo-linear-gradient';
 import DaySlider from "@/components/DaySlider";
-import { ImageSlider } from "@/constants/CommonPrayerSliderData";
 
 const i18n = new I18n(translations);
 // const gregen = JSON.parse(String(gregorianen));
 const {width} = Dimensions.get('screen');
-
-let testerester = [];
-
-//ATTENTION: API REQUEST SHOULD BE DONE AT EVERY BUTTON CLICK
 
 const Orthocal = () => {
     //Language variables
@@ -44,7 +33,6 @@ const Orthocal = () => {
     const [mode, setMode] = useState('date');
     const [show, setShow] = useState(false);
 
-
     const showMode = (currentMode) => {
         setShow(true);
         setMode(currentMode);
@@ -54,38 +42,16 @@ const Orthocal = () => {
         showMode('date');
     };
 
-    const today = new Date();
-    today.setHours(0);
-    const dayOne = new Date(2024, 8, 28);
-    dayOne.setHours(0);
-    const diffTime = Math.abs(today - dayOne); //Standard diff in time, as fallback
-    const dateIndexFallback = Math.floor(diffTime / (1000 * 60 * 60 * 24));
-
-
-    const praxisApiUrlFallback = `https://praxis-prayers-default-rtdb.europe-west1.firebasedatabase.app/VCALENDAR/0/VEVENT/${dateIndexFallback}.json`
-    const [praxisApiUrl, setPraxisApiUrl] = useState(praxisApiUrlFallback);
-
+    // Changes date when a new one is selected in the picker
     const onChange = (event, selectedDate) => {
         const currentDate = selectedDate;
         currentDate.setHours(0);
         setShow(false);
         setAppDate(currentDate);
         setDiffIndex(Math.floor(Math.abs(currentDate - firstDay) / (1000 * 60 * 60 * 24)))
-        fetchDate(`https://praxis-prayers-default-rtdb.europe-west1.firebasedatabase.app/VCALENDAR/0/VEVENT/${Math.floor(Math.abs(currentDate - dayOne) / (1000 * 60 * 60 * 24))}.json`); //Should happen simultaneously
     };
 
-    //Create function declaration that takes takes the url and gets all the information
-    const [date, setDate] = useState([]);
-    const [fastLevel, setFastLevel] = useState([]);
-    const [commemorations, setCommemorations] = useState([]);
-    const [readings, setReadings] = useState([]);
-    const [summary, setSummary] = useState([]);
-    const [tester, setTester] = useState([]);
-    const [orthocalInfo, setOrthocalInfo] = useState([]);
-    const [loading, setLoading] = useState(true);
-    const [chosenCalendar, setChosenCalendar] = useState([]);
-
-    //Day message
+    // Generates a title for the selected day in the synaxarion
     const weekDay = appDate.getDay();
     const dayNumber = appDate.getDate();
     const monthNumber = appDate.getMonth();
@@ -127,118 +93,7 @@ const Orthocal = () => {
         dateTitle = weekDayName + ", " + monthName + " " + String(dayNumber) + ", " + String(yearNumber);
     }
 
-    useEffect(() => {
-        fetchDate();
-    }, []);
-
-    const fetchDate = async (url = praxisApiUrlFallback) => {
-        setLoading(true);
-        try {
-            const response = await axios.get(url);
-            setDate(response.data);
-
-            const fetchedSummary = response.data.SUMMARY;
-            const fullDescription = response.data.DESCRIPTION;
-
-            // Separators
-            const firstSeparator = fullDescription.search(/\\n\\n/) //Separates fast level from the rest
-            const fastDescription = fullDescription.slice(0, firstSeparator).toUpperCase();
-            const lastSeparator = fullDescription.length - fullDescription.split("").reverse().join("").search(/n\\n\\/); //Separates link at the end from the rest
-            const commemorationsAndReadingsDescription = fullDescription.slice(firstSeparator + 4, lastSeparator - 4);
-            const beforeLastSeparator = commemorationsAndReadingsDescription.length - commemorationsAndReadingsDescription.split("").reverse().join("").search(/n\\n\\/);
-            const readingsDescriptionUnprocessed = commemorationsAndReadingsDescription.slice(beforeLastSeparator);
-            const commemorationsDescriptionUnprocessed = commemorationsAndReadingsDescription.slice(0, beforeLastSeparator - 4);
-
-            setSummary(fetchedSummary);
-            setFastLevel(fastDescription);
-
-            let commemorationsDescriptionArray = [];
-            commemorationsDescriptionArray.push(commemorationsDescriptionUnprocessed);
-            while (commemorationsDescriptionArray[commemorationsDescriptionArray.length - 1].search(/\\n\\n/) !== -1) {
-                let separatorIndex = commemorationsDescriptionArray[commemorationsDescriptionArray.length - 1].search(/\\n\\n/);
-                let firstCommemorations = commemorationsDescriptionArray[commemorationsDescriptionArray.length - 1].slice(0, separatorIndex);
-                let nextCommemorations = commemorationsDescriptionArray[commemorationsDescriptionArray.length - 1].slice(separatorIndex + 4);
-                commemorationsDescriptionArray.pop();
-                commemorationsDescriptionArray.push(firstCommemorations);
-                commemorationsDescriptionArray.push(nextCommemorations);
-            }
-
-            setCommemorations(commemorationsDescriptionArray.join(" • "));
-
-
-            // Processing readings
-            let readingsDescriptionArray = [];
-            readingsDescriptionArray.push(readingsDescriptionUnprocessed);
-            while (readingsDescriptionArray[readingsDescriptionArray.length - 1].search(/\\n/) !== -1) {
-               // Create an empty array outside. While not true, remove and push first part into an array of strings. Continue with remnant. Repeat.
-                //Replace reading description by while lastelement of array has /\\n/
-                let separatorIndex = readingsDescriptionArray[readingsDescriptionArray.length - 1].search(/\\n/);
-                let firstReadings = readingsDescriptionArray[readingsDescriptionArray.length - 1].slice(0, separatorIndex);
-                let nextReadings = readingsDescriptionArray[readingsDescriptionArray.length - 1].slice(separatorIndex + 2);
-                readingsDescriptionArray.pop();
-                readingsDescriptionArray.push(firstReadings);
-                readingsDescriptionArray.push(nextReadings);
-
-            }
-            setReadings(readingsDescriptionArray.join(" • "));
-
-            console.log('Summary:', summary);
-            console.log('Fast Level:', fastLevel);
-            console.log('Commemorations:', commemorations);
-            console.log('Readings:', readings);
-
-            /* setOrthocalInfo([
-             *     {
-             *         title: String(fetchedSummary),
-             *         image: require('@/assets/images/orthodox-date.jpg'),
-             *         description: String(fastLevel),
-             *         link: '/home/prayers/morning-prayers'
-             *     },
-             *     {
-             *         title: "COMEMORAÇÕES",
-             *         image: require('@/assets/images/orthodox-date.jpg'),
-             *         description: String(commemorations),
-             *         link: '/home/prayers/morning-prayers'
-             *     },
-             *     {
-             *         title: "LEITURAS",
-             *         image: require('@/assets/images/orthodox-date.jpg'),
-             *         description: String(readings),
-             *         link: '/home/prayers/morning-prayers'
-             *     }
-             * ]); */
-
-
-        } catch (error) {
-            console.error('Error fetching data:', error);
-        } finally {
-            setLoading(false);
-        }
-    };
-
-    const itemList = useMemo(() => [
-        {
-            title: String(summary),
-            image: require('@/assets/images/orthodox-date.jpg'),
-            description: String(fastLevel) + String(language) + String(calendar),
-        },
-        {
-            title: "COMEMORAÇÕES",
-            image: require('@/assets/images/saints.jpg'),
-            description: String(commemorations),
-        },
-        {
-            title: "LEITURAS",
-            image: require('@/assets/images/bible.jpg'),
-            description: String(readings),
-        }
-    ], [summary, fastLevel, commemorations, readings, language, calendar]);
-
-
-    const areDataReady = summary && fastLevel && commemorations && readings;
-
-    // For the new API replacement
-
+    // Initiates synaxList variable, which contains all relevant synaxarion information for the chosen day
     const fallbackSynaxList = [
         {
             title: 'Please select a language and calendar',
@@ -256,11 +111,9 @@ const Orthocal = () => {
             description: 'Selecione uma língua e um calendário',
         },
     ];
-
     const [synaxList, setSynaxList] = useState(fallbackSynaxList);
 
-    // Now, create functions to get titles and descriptions from langCal
-    // Generate object
+    // Extracts information from one of the json source files
     const generateDescriptions = (langCal, index) => {
         return({
             titles: langCal[index].titles.join(" • "),
@@ -270,6 +123,7 @@ const Orthocal = () => {
         });
     };
 
+    // Listens to changes in calendar, language, and date, and updates the content of the synaxarion
     useEffect(() => {
         const newLangCal = () => {
             let langCal = {};
@@ -293,7 +147,7 @@ const Orthocal = () => {
             return([
                 {
                     title: generateDescriptions(newLangCal(), diffIndex).titles,
-                    image: require('@/assets/images/saints.jpg'),
+                    image: require('@/assets/images/title.jpg'),
                     description: generateDescriptions(newLangCal(), diffIndex).fasting,
                 },
                 {
@@ -310,18 +164,6 @@ const Orthocal = () => {
         };
         setSynaxList(generateSynax());
     }, [language, calendar, diffIndex]);
-
-    const thisDay = new Date();
-    const gregDayIndex = Math.floor(Math.abs(thisDay - firstDay) / (1000 * 60 * 60 * 24));
-    /*
-    const diffTime = Math.abs(today - dayOne); //Standard diff in time, as fallback
-    const dateIndexFallback = Math.floor(diffTime / (1000 * 60 * 60 * 24));
-    */
-    /*
-       Switching completely
-    /
-    /  The trick will be to reset and rewrite so that onChange of one of the settings picker, things restart
-    */
 
     return (
         <View>
@@ -341,19 +183,6 @@ const Orthocal = () => {
                     )}
                 </Pressable>
             </View>
-            {loading? (
-                <ActivityIndicator size="large" color="0000ff" />
-            ) : areDataReady ? (
-                <DaySlider itemList={itemList} />
-            ) : (
-                <Text>No data available.</Text>
-            )}
-            <Text style={styles.heading}>{diffIndex}</Text>
-            {/* {synaxList ? (
-                <DaySlider itemList={synaxList} />
-                ) : (
-                <Text>Loading</Text>
-                )} */}
             <Suspense fallback={<ActivityIndicator size="large" color="blue"/>}>
                 <DaySlider key={JSON.stringify(synaxList)} itemList={synaxList} />
             </Suspense>

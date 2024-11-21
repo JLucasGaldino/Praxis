@@ -36,7 +36,17 @@
                         "morningPrayers": "Morning prayers",
                         "eveningPrayers": "Evening prayers",
                         "throughDayPrayers": "Throughout the day",
-                        "selectDate": "Select a date"
+                        "selectDate": "Select a date",
+                        "communion": "Sacred Communion"
+                },
+                "pageDescriptions": {
+                        "morningPrayers": "Prayers for the morning",
+                        "throughDayPrayers": "Prayers to say throughout the day",
+                        "eveningPrayers": "Prayers to say before sleep",
+                        "confessionInstruction": "sobre a confissão",
+                        "confessionGuide": "para a confissão",
+                        "communionOffice": "para a Sagrada Comunhão",
+                        "communionThanks": "pela Sagrada Comunhão",
                 },
                 "settingsContent": {
                         "languages": "Languages",
@@ -50,6 +60,11 @@
                                 "julian": "Julian",
                                 "gregorian": "Gregorian",
                         }
+                },
+                "prayerContent": {
+                        "morningPrayersV2": `
+# Hello
+`
                 },
         },
         "pt": {
