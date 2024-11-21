@@ -65,6 +65,10 @@ const SliderItem = ({ item, index, scrollX }: Props) => {
         setActualTitle(i18n.t("pageTitles.communionOffice"));
     } else if (actualTitle === 'communion thanks') {
         setActualTitle(i18n.t("pageTitles.communionThanks"));
+    } else if (actualTitle === 'Midday Prayers') {
+        setActualTitle(i18n.t("pageTitles.middayPrayers"));
+    } else if (actualTitle === 'Occasional Prayers') {
+        setActualTitle(i18n.t("pageTitles.occasionalPrayers"))
     }
 
     if (actualDescription === 'morning prayers') {
@@ -81,6 +85,10 @@ const SliderItem = ({ item, index, scrollX }: Props) => {
         setActualDescription(i18n.t("pageDescriptions.communionOffice"));
     } else if (actualDescription === 'communion thanks') {
         setActualDescription(i18n.t("pageDescriptions.communionThanks"))
+    } else if (actualDescription === 'midday prayers') {
+        setActualDescription(i18n.t("pageDescriptions.middayPrayers"));
+    } else if (actualDescription === 'occasional prayers') {
+        setActualDescription(i18n.t("pageDescriptions.occasionalPrayers"));
     }
 
     return (

@@ -11,6 +11,7 @@ import julen from "@/assets/orthocal-fetches/julian_en.json";
 import julpt from "@/assets/orthocal-fetches/julian_pt.json";
 import DateTimePicker from "@react-native-community/datetimepicker";
 import DaySlider from "@/components/DaySlider";
+import Ionicons from '@expo/vector-icons/Ionicons';
 
 const i18n = new I18n(translations);
 // const gregen = JSON.parse(String(gregorianen));
@@ -169,7 +170,14 @@ const Orthocal = () => {
         <View>
             <View style={styles.container}>
                 <Pressable onPress={showDatepicker}>
-                    <Text style={[styles.heading, {marginTop: 0}]}>{dateTitle}</Text>
+                    <View style={{
+                        flex: 1,
+                        flexDirection: 'row',
+                        alignItems: 'center',
+                    }}>
+                        <Ionicons style={{marginBottom: 10,}} name="calendar" size={25} color="#999" />
+                        <Text style={[styles.heading2, {marginTop: 0}]}> {dateTitle}</Text>
+                    </View>
                     {show && (
                         <DateTimePicker
                             testID="dateTimePicker"
@@ -250,7 +258,7 @@ const styles = StyleSheet.create({
     },
     heading2: {
         fontSize: 18,
-        color: '#ffd33d',
+        color: '#999',
         textAlign: 'center',
         marginBottom: 10,
         marginTop: 10,

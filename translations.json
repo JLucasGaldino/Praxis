@@ -30,12 +30,14 @@
                         },
                 },
                 "pageTitles": {
+                        "synaxarion": "Synaxarion",
                         "prayers": "Prayers",
                         "settings": "Settings",
                         "commonPrayers": "Daily prayers",
                         "morningPrayers": "Morning prayers",
                         "eveningPrayers": "Evening prayers",
                         "throughDayPrayers": "Throughout the day",
+                        "middayPrayers": "Midday Prayers",
                         "selectDate": "Select a date",
                         "communion": "Sacred Communion"
                 },
@@ -62,8 +64,77 @@
                         }
                 },
                 "prayerContent": {
-                        "morningPrayersV2": `
-# Hello
+                        "morningPrayersV3": `
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: #25292e;
+  color: #fff;
+  padding: 0px 90px;
+  padding-bottom: 180px;
+}
+h1 {
+  font-size: 60px;
+  letter-spacing: 6px;
+  text-align: center;
+}
+p {
+  font-size: 43px;
+  letter-spacing: 0px;
+  text-align: justify;
+  font-weight: 400;
+}
+em {
+  color: #999;
+}
+</style>
+</head>
+<body>
+<h1>MORNING PRAYERS</h1>
+<hr />
+<h1>The Trisagion Prayers</h1>
+<p>In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.</p>
+<p>Glory to thee, our God, glory to thee.</p>
+<p>O heavenly King, the Comforter, Spirit of Truth, Who art in all places, and fillest all things, Treasury of good things, and Giver of life, come, and dwell in us, and cleanse us from every stain; and save our souls, O good One.</p>
+<p>Holy God, Holy Mighty, Holy&nbsp;Immortal: have mercy on us. <em>(thrice)</em></p>
+<p>Glory to the Father, and to the Son, and to the Holy Spirit; both&nbsp;now and ever and unto ages of ages. Amen.</p>
+<p>All-holy Trinity, have mercy on us. Lord, cleanse us from our sins. Master, pardon our iniquities. Holy God, visit and heal our infirmities for thy Name's sake.</p>
+<p>Lord, have mercy. <em>(thrice)</em></p>
+<p>Glory to the Father, and to the Son, and to the Holy Spirit; both&nbsp;now and ever, and unto ages of ages. Amen.</p>
+<p>Our Father, who art in heaven, hallowed be thy Name; thy kingdom come; thy will be done on earth, as it is in heaven. Give us this day our daily bread; and forgive us our trespasses, as we forgive those who trespass against us; and lead us not into temptation, but deliver us from evil.</p>
+<p>Through the prayers of our holy Fathers, Lord Jesus Christ our God, have mercy on us and save us. Amen.</p>
+<h1>Troparia to the Holy Trinity</h1>
+<p>Having arisen from sleep, we fall down before thee, O Blessed One, and sing to thee, O Mighty One, the Angelic Hymn: Holy, holy, holy art thou, O God. Through the Theotokos have mercy on us.</p>
+<p><em>Glory to the Father, and to the Son, and to the Holy Spirit:</em></p>
+<p>From my bed and sleep Thou hast raised me: O Lord, enlighten my mind and my heart, and open my lips that I may praise thee, O Holy Trinity: Holy, holy, holy art thou, O God. Through the Theotokos have mercy on us.</p>
+<p><em>Both now and ever, and unto ages of ages. Amen.</em></p>
+<p>Suddenly the Judge shall come, and the deeds of each shall be revealed: but with fear we cry out in the middle of the night: Holy, holy, holy art thou, O God. Through the Theotokos have mercy on us.</p>
+<p>Lord, have mercy. <em>(12 times)</em></p>
+<h1>A Prayer to the Holy Trinity</h1>
+<p>Arising from sleep I thank thee, O holy Trinity, because of the abundance of thy goodness and long-suffering thou wast not wroth with me, slothful and sinful as I am; neither hast thou destroyed me in my transgressions: but in thy compassion raised me up, as I lay in despair; that at dawn I might sing the glories of thy Majesty. Do thou now enlighten the eyes of my understanding, open my mouth to receive thy words, teach me thy commandments, help me to do thy will, confessing thee from my heart, singing and praising thine All-holy Name: of the Father, and of the Son, and of the Holy Spirit: now and ever, and unto ages of ages. Amen. </p>
+<h1>The Creed</h1>
+<p>I believe in one God, the Father Almighty, Maker of heaven and earth, and of all things visible and invisible;</p>
+<p>And in one Lord Jesus Christ, the Son of God, the Only-begotten, Begotten of the Father before all worlds, Light of Light, Very God of Very God, Begotten, not made; of one essence with the Father, by whom all things were made:</p>
+<p>Who for us men and for our salvation came down from heaven, And was incarnate of the Holy Spirit and the Virgin Mary, and became&nbsp;man;</p>
+<p>And was crucified also for us under Pontius Pilate, and suffered and was buried; And the third day He rose again, according to the Scriptures;</p>
+<p>And ascended into heaven, and sitteth at the right hand of the Father; And He shall come again with glory to judge the living and the dead, Whose kingdom shall have no end.</p>
+<p>And I believe in the Holy Spirit, the Lord, and Giver of Life, Who proceedeth from the Father, Who with the Father and the Son together is worshipped and glorified, Who spake by the Prophets;</p>
+<p>And I believe in One Holy Catholic and Apostolic Church.</p>
+<p>I acknowledge one Baptism for the remission of sins. I look for the Resurrection of the dead. And the Life of the world to come.</p>
+<p>Amen. </p>
+<h1>A Prayer of St. Basil the Great</h1>
+<p>We bless thee, O God most high and Lord of mercies, who ever workest great and mysterious deeds for us, glorious, wonderful, and numberless; who providest us with sleep as a rest from our infirmities and as a repose for our bodies tired by labor. We thank thee that thou hast not destroyed us in our transgressions, but in thy love toward mankind thou hast raised us up, as we lay in despair, that we may glorify thy Majesty. We entreat thine infinite goodness, enlighten the eyes of our understanding and raise up our minds from the heavy sleep of indolence; open our mouths and fill them with thy praise, that we may unceasingly sing and confess thee, who art God glorified in all and by all, the eternal Father, the Only-Begotten Son, and the all-holy and good and life-giving Spirit: now and ever, and unto ages of ages. Amen. <strong> </strong></p>
+<h1>Prayer at the Beginning of the Day – Metropolitan Philaret</h1>
+<p>O Lord, grant me to greet the coming day in peace. Help me in all things to rely upon Your holy will. In every hour of the day reveal Your will to me. Bless my dealings with all who surround me. Teach me to treat all that comes to me throughout the day with peace of soul and with firm conviction that Your will governs all. In all my deeds and words guide my thoughts and feelings. In unforseen events let me not forget that all are sent by You. Teach me to act firmly and wisely, without embittering and embarrassing others. Give me strength to bear the fatigue of the coming day with all that it shall bring. Direct my will, teach me to pray. Pray You Yourself in me.</p>
+<p>Most Holy God, I pray and beseech you, give me a pure heart, a way of speaking that befits the faith I profess. Grant me uprightness of purpose, powers of reasoning unhindered by passions, conduct that becomes those who fear you, and perfect knowledge of your commandments. May I enjoy health in body and in spirit.</p>
+<p>Grant me a life of peace, genuine faith and living hope, sincere charity and bountiful generosity, patience that knows no bounds and the light of Your truth to proclaim Your goodness to me, that for ever and in all things placing my trust only in You, I may abound in every good work, and that in Christ Your gifts may increase in every soul.</p>
+<p>For to You belong all glory, honor and majesty, Father, Son and Holy Spirit, now and ever and unto ages of ages. Amen.</p>
+<p><em>[Here may be added your own private devotions and intercessions, using your own words or the "Occasional Prayers". When you have finished, conclude with this prayer:]</em></p>
+<p>Through the prayers of our holy Fathers, Lord Jesus Christ our God, have mercy upon us and save us. Amen. </p>
+</body>
+</html>
 `
                 },
         },
@@ -99,6 +170,7 @@
                         },
                 },
                 "pageTitles": {
+                        "synaxarion": "Sinaxário",
                         "selectDate": "Selecione uma data ↓",
                         "prayers": "Orações",
                         "settings": "Parâmetros",
@@ -598,429 +670,296 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pelas orações dos nossos santos padres, ó Senhor Jesus Cristo, nosso Deus, tem piedade de nós e salva-nos. Ámen.
 
 `,
-                        "morningPrayersV2": `
-# ORAÇÕES MATINAIS
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Tendo despertado do sono, antes de qualquer outra ação, levanta-te com reverência, considerando estar na presença do Deus que tudo vê, e, tendo feito o sinal da Cruz, dize:*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em Nome do Pai, do Filho e do Espírito Santo. Ámen.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Depois pausa por um momento, até que tenhas recobrado todos os teus sentidos e que teus pensamentos abandonem todas as coisas mundanas; e faze três pequenas metanóias, dizendo:*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ó Deus, sê misericordioso comigo que sou pecador. *(3x)*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senhor Jesus Cristo, Filho de Deus, pelas orações da Tua puríssima Mãe e de todos os santos, tem piedade de nós. Ámen.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Glória a Ti, ó nosso Deus, glória a Ti.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ó Rei celeste, Consolador, Espírito da Verdade, que em tudo estás presente e tudo preenches; Tesouro dos bens e Dador da vida, vem e habita em nós, e purifica-nos de toda a impureza e salva, ó Bondoso, as nossas almas.
-
-# Triságio
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Santo Deus, Santo Forte, Santo Imortal, tem piedade de nós. *(3x)*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Glória ao Pai e ao Filho, e ao Espírito Santo; agora e sempiternamente, e pelos séculos dos séculos. Ámen.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Santíssima Trindade, tem piedade de nós; Senhor, purifica-nos dos nossos pecados; Soberano, perdoa as nossas injustiças; Santo, visita-nos e cura as nossas enfermidades, por causa de Teu Nome.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kyrie, eléison *(3x)*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Glória ao Pai e ao Filho, e ao Espírito Santo, agora e sempiternamente, e pelos séculos dos séculos. Ámen.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pai nosso, que estás nos Céus, santificado seja o Teu nome, venha a nós o Teu Reino, faça-se a Tua vontade assim na terra como no céu. O pão nosso de cada dia nos dá hoje; e perdoa as nossas dívidas, assim como nós perdoamos aos nossos devedores; e não nos deixes cair em tentação, mas livra-nos do maligno.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pois Teu é o Reino, o Poder e a Glória *[Pai, Filho e Espírito Santo]*, agora e sempiternamente, e pelos séculos dos séculos. Ámen.
-
-# ***
-
-# Tropário à Santíssima Trindade
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tendo despertado do sono, nós nos prostramos diante de Ti, ó Bondoso, e cantamos-Te alto o hino angélico, a Ti ó Poderoso: Santo, Santo, Santo és Tu, ó nosso Deus; pelas orações da Deípara, tem piedade de nós.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Glória ao Pai, ao Filho e ao Espírito Santo.*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Foste Tu que me levantaste do leito e do sono, ó Senhor: Ilumina a minha mente e o meu coração, e abre meus lábios para que Te louve, Trindade Santa: Santo, Santo, Santo és Tu ó Deus; pelas orações da Deípara, tem piedade de nós.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Agora e sempiternamente e pelos séculos dos séculos. Ámen.*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O Juiz Supremo virá subitamente e as obras de cada um serão reveladas. Eis porque, de madrugada, nós Te invocamos com temor: Santo, Santo, Santo és Tu, ó meu Deus; pelas orações da Deípara, tem piedade de nós.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Kyrie, eléison (12x)*
-
-# Oração de São Basílio Magno à Santíssima Trindade
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quando me levanto do sono, eu Te agradeço Trindade Santa pois em Tua Bondade infinita e em Tua paciência, não Te encolerizaste comigo, pecador indolente, nem me destruíste junto com minhas iniqüidades, mas mostraste a Tua habitual filantropia e quando estava prostrado em desespero, Tu me levantaste para contemplar o amanhecer e glorificar o Teu poder. Ilumina agora os olhos da minha mente e abre a minha boca para que eu possa meditar em Tuas palavras, entender Teus mandamentos, fazer Tua vontade, louvar-Te em confissão sincera, e erguer orações ao Teu santíssimo nome: do Pai, do Filho e do Espírito Santo, agora e sempiternamente e pelos séculos dos séculos. Ámen.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vinde, adoremos o nosso Rei e Deus.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vinde, adoremos e prostremo-nos diante de Cristo, nosso Rei e Deus.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vinde, adoremos e prostremo-nos diante do próprio Cristo, nosso Rei e Deus.
-
-# Salmo 50
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tem misericórdia de mim, ó Deus, pela Tua grande piedade, e pela Tua imensa clemência apaga a minha transgressão. Lava-me completamente da minha iniqüidade e purifica-me do meu pecado. Pois reconheço as minhas culpas e o meu pecado tenho sempre ante mim. Só contra Ti pequei e fiz o mal diante de Ti; para que sejas achado Justo em Tuas sentenças e venças se Te puserem em questão. Eis que entre iniqüidades fui concebido e em pecados nasci de minha mãe. Mas Tu amaste a verdade, e mostraste-me os arcanos e os segredos da Tua sabedoria. Aspergir-me-ás com o hissope e quedarei puro, lavar-me-ás e ficarei mais branco do que a neve. Far-me-ás ouvir júbilo e alegria, e rejubilarão os ossos que humilhaste. Desvia o Teu rosto dos meus pecados e apaga todas as minhas iniqüidades. ó Deus, cria em mim um coração puro; e renova nas minhas entranhas um espírito de retidão. Não me repudies da Tua face, nem afastes de mim o Teu Santo Espírito! Restitui-me a alegria da Tua salvação e ampara-me com o Espírito soberano. Ensinarei aos iníquos Teus caminhos e os ímpios voltar-se-ão para Ti. Livra-me da punição de sangue, ó Deus, ó Deus da minha salvação; e a minha língua exaltará Tua justiça. Abre, Senhor, os meus lábios e a minha boca proclamará o Teu louvor. Se Te aprouvessem sacrifícios, oferecer-tos-ia, mas não Te comprazes nos holocaustos. O sacrifício que praz a Deus é o espírito contrito; um coração contrito e humilhado, Deus não o desprezará. Bem-faze, Senhor, na tua benevolência a Sião; e reerguer-se-ão as muralhas de Jerusalém. Então aceitarás com agrado um sacrifício de justiça, oferendas e holocaustos; então serão oferecidos novilhos sobre o Teu altar.
-
-# Credo Niceno-Constantinopolitano
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Creio em Um só Deus: Pai, Omnipotente, Criador do céu e da terra, de todas as coisas visíveis e invisíveis.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E em Um só Senhor, Jesus Cristo, Filho Unigénito de Deus, nascido do Pai antes de todos os séculos. Luz da Luz, Deus verdadeiro de Deus verdadeiro; gerado, não criado, consubstancial ao Pai, por Quem tudo foi feito. Que por nós homens e por nossa salvação, desceu dos céus e Se encarnou pelo Espírito Santo e da Virgem Maria e Se fez homem. E por nós foi crucificado sob Pôncio Pilatos; padeceu e foi sepultado, e ressuscitou ao terceiro dia, conforme as Escrituras. E subiu aos Céus e está sentado à direita do Pai, e novamente virá com glória para julgar os vivos e os mortos, e o Seu Reino não terá fim.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E no Espírito Santo, Senhor Vivificante, que procede do Pai, e que juntamente com o Pai e o Filho é adorado e glorificado, e que falou pelos profetas.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E na Igreja Una, Santa, Católica e Apostólica. Confesso um só batismo para a remissão dos pecados. Espero a ressurreição dos mortos e a vida do século vindouro. Ámen.
-
-# Oração I, de São Macário Egípcio
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senhor, purifica o pecador que eu sou, pois nunca fiz algo de bom à Tua vista; livra-me do maligno e que seja feita a Tua vontade em mim e que eu possa, sem condenação, abrir a minha indigna boca e louvar o Teu santo Nome, do Pai, do Filho e do Espírito Santo, agora e sempiternamente e pelos séculos dos séculos. Ámen.
-
-# Oração II, do mesmo santo
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tendo-me levantado do sono eu Te ofereço, a Ti ó Salvador, o hino matinal, e prostrando-me a Ti clamo: Concede-me que não adormeça na morte do pecado, mas tem compaixão de mim, ó Tu que foste voluntariamente crucificado, e apressa-Te a erguer-me, a mim que estou reclinado na indolência e salva-me a mim que estou em oração; e após o sono da noite faz brilhar sobre mim um dia sem pecado, ó Cristo Deus, e salva-me.
-
-# Oração III, do mesmo santo
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tendo-me levantado do sono, corro para Ti, ó filantropo Soberano, e por Teu amor me esforço para executar a Tua obra, e rogo-Te: ajuda-me em todo o tempo e em tudo, liberta-me de todas as coisas mundanas e ruins, e de todo impulso do demónio e salva-me. Conduze-me ao Teu Reino eterno pois Tu és o meu Criador, o Doador e Provedor de tudo o que é bom, e em Ti está toda a minha esperança e a Ti dou glória, agora e sempiternamente e pelos séculos dos séculos. Ámen.
-
-# Oração IV, do mesmo santo
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senhor, Tu que em Tua abundante bondade e em Tua imensa compaixão me concedeste a mim, Teu servo, atravessar a noite passada sem sofrer ataque de nenhum adversário maligno, ó Soberano e Criador de todas as coisas, concede-me que com Tua verdadeira luz e de coração iluminado, eu faça a Tua vontade, Agora e sempiternamente e pelos séculos dos séculos. Ámen.
-
-# Oração V, de São Basílio Magno
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senhor Todo-Poderoso, Deus dos exércitos e de toda a carne, que habitas nas alturas e olhas o que está abaixo, que sondas os corações e o íntimo de cada ser, que conheces clara e antecipadamente os segredos dos homens; ó Luz incriada e eterna, em que não há variação nem sombra de mudança, recebe, ó Rei Imortal, na imensidão da Tua compaixão, as súplicas que ousamos fazer-Te, e que agora Te oferecemos com nossos lábios impuros; perdoa-nos os nossos pecados cometidos por atos, palavras e pensamentos consciente ou inconscientemente e purifica-nos de toda a mancha da carne e do espírito. Concede-nos atravessar a noite da vida presente com o coração atento e a mente sóbria, sempre esperando a vinda do brilhante e santo dia do Teu Filho Unigénito, nosso Senhor, Deus e Salvador Jesus Cristo, em que, como Juiz de todos, virá em glória para recompensar cada um segundo as suas obras. Que não sejamos encontrados caídos e sonolentos, mas vigilantes, ativos e prontos a acompanhá-Lo com alegria ao palácio divino de Sua glória, onde reinam sempre a voz dos que Te louvam e indescritíveis delícias para aqueles que contemplam a inefável beleza da Tua Face. Pois Tu és a verdadeira Luz que ilumina e santifica tudo, e toda a criação Te louva pelos séculos dos séculos. Ámen.
-
-# Oração VI, também de São Basílio
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nós Te bendizemos, Deus Altíssimo e Senhor de misericórdia que sempre obras para connosco grandes e inescrutáveis coisas, gloriosas e magníficas, para as quais não há medida; Tu que nos concedeste dormir para repouso de nossas enfermidades e relaxamento dos trabalhos de nossa carne fatigada. A Ti Te damos graças por que não nos destruíste junto com as nossas iniqüidades, mas, como de costume, mostraste ao homem o Teu amor, e enquanto em desespero jazíamos em nossos leitos, Tu nos levantaste para que pudéssemos glorificar o Teu domínio. Assim, imploramos à Tua infinita bondade: ilumina os olhos do nosso entendimento e ergue as nossas mentes do pesado sono da indolência; abre a nossa boca e enche-a de Teu louvor para que possamos, prontamente, cantar-Te e confessar-Te, a Ti que és Deus, glorificado em tudo e por tudo: o Pai incriado, com Teu Filho Unigénito e Teu Santíssimo, Bom e Vivificante Espírito, agora e sempiternamente e pelos séculos dos séculos. Ámen.
-
-# Oração VII, à Santíssima Mãe de Deus
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Canto a tua graça, Soberana Mãe de Deus, e a ti oro para que clarifiques a minha mente. Ensina-me a caminhar com retidão no caminho dos mandamentos de Cristo. Fortalece-me para que eu permaneça desperto em louvor e afasta de mim o sono do desânimo, ó Esposa de Deus. E por tuas orações, liberta-me, pois estou preso nas correntes do pecado. Ó portadora do Deus Dador de vida, vivifica-me pois estou entorpecido pelas paixões. Portadora da Luz sem declínio, ilumina minha alma cega. Admirável palácio do Soberano, faz de mim morada do Divino Espírito. Portadora d\'Aquele que cura, cura-me das perpétuas paixões da minha alma. Guia-me pelos caminhos do arrependimento, pois sou sacudido pela tempestade da vida. Livra-me do fogo eterno, dos vermes malignos e do Tártaro. Não deixes que me torne em alegria dos demónios, culpado que sou de tantos pecados. Rejuvenesce-me, ó Puríssima, pois envelheço por causa dos meus pecados insensatos. Apresenta-me intocado pelos tormentos, e ora por mim ao Soberano de tudo e de todos. Concede-me encontrar as alegrias do céu junto a todos os santos. Santíssima Virgem, ouve a voz do teu servo inútil. Concede-me torrentes de lágrimas, ó Toda Pura, que limpem a minha alma de toda impureza. Ofereço-te, incessantemente, os gemidos de meu coração; luta por mim, Soberana Senhora. Aceita minhas súplicas e oferece-as ao Deus compassivo. Tu que estás acima dos anjos, ergue-me acima da desordem do mundo. Tu, portadora da Luz do tabernáculo celeste, acompanha-me na graça do Espírito. Embora impuros, ergo minhas mãos e meus lábios em louvor a ti, ó Imaculada. Livra-me dos males que corrompem a alma e intercede com fervor junto a Cristo a Quem devemos honra e louvor, agora e sempiternamente e pelos séculos dos séculos. Ámen.
-
-# Oração VIII, a nosso Senhor Jesus Cristo
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ó meu Deus imensamente misericordioso, Senhor Jesus Cristo, pelo Teu infinito amor desceste do céu e encarnaste para salvação de todos. Salvador, suplico-Te, salva-me uma vez mais pela Tua graça. Pois se Tu me salvasses pelas minhas obras, não seria graça nem dom, mas antes uma dívida. Mas Tu, ó Cristo, que és rico em compaixão e inefável em misericórdia, disseste: "Todo aquele que crê em mim, viverá e não verá a morte". Se, portanto, é a fé em Ti que salva os que perderam a esperança, vê a minha fé e salva-me, Tu que és meu Deus e meu Criador, pois espero em Ti. Deixa que, ao invés de obras, me seja imputada a fé, meu Deus, pois não acharias obras que me pudessem justificar. Conta com a minha fé e não com as minhas obras, para me absolveres e me fazeres partícipe da Tua glória eterna. Não permitas, ó Verbo, que Satanás se apodere de mim e se vanglorie de me ter arrebatado das Tuas mãos e envolvido. Que eu procure ou não, salva-me, Cristo meu Salvador, e antecipa-Te prontamente, pois pereço. Tu és o meu Deus desde o ventre de minha mãe. Concede-me, Senhor, que Te ame agora com tanto fervor quanto outrora amei o pecado, e que trabalhe para Ti sem preguiça, diligentemente, como outrora fiz para o enganador Satanás. E acima de tudo, que eu possa trabalhar para Ti, meu Senhor e meu Deus, Jesus Cristo, todos os dias da minha vida, agora e sempiternamente e pelos séculos dos séculos. Ámen.
-
-# Oração IX, ao Santo Anjo Guardião
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ó Santo anjo, tu que permaneces ao lado da minha alma miserável e da minha vida desvairada, não abandones o pecador que sou, nem te afastes de mim por causa da minha intemperança. Não dês espaço ao astuto demónio para que me conduza através da violência do meu corpo mortal. Fortalece as minhas pobres e fracas mãos e guia-me pelo caminho da salvação. Sim, santo anjo de Deus, guardião e protetor da minha alma miserável e de meu corpo, perdoa-me tudo aquilo em que te possa ter ofendido em todos os dias da minha vida. Se pequei durante a noite que passou, protege-me durante este dia, e guarda-me de toda a tentação do inimigo, para que eu não desagrade a Deus com pecado algum. E roga ao Senhor por mim, que Ele me estabeleça no Seu temor e que eu, Seu servo, seja digno de Sua bondade. Ámen.
-
-# Oração X, à Santíssima Mãe de Deus
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ó minha santíssima Senhora Deípara, por tuas santas e poderosas orações, retira de mim, servo vil e miserável, o desânimo, a ignorância, a insensatez, a negligência, e todo o pensamento impuro, maligno e blasfemo do meu coração miserável e da minha mente obscurecida. Apaga o fogo das minhas paixões, pois sou um pobre miserável. Livra-me dos atos e lembranças perversas, assim como de seus efeitos malignos. Pois tu és bendita por todas as gerações, e glorificado é o teu nome pelos séculos dos séculos. Ámen.
-
-# Oração ao santo cujo nome usamos
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ora junto a Deus por mim, ó Santo *(N do santo protetor)*, bem-aventurado de Deus, pois com fervor te imploro, ó propiciador e intercessor pela minha alma.
-
-# Oração à Santíssima Mãe de Deus
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ó Deípara Virgem, ave! Cheia de graça, Maria, o Senhor é contigo! Bendita és tu entre as mulheres e bendito é o fruto do teu ventre, porque deste nascimento ao Salvador das nossas almas!
-
-# Tropário da Cruz
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salva, Senhor, o Teu povo e abençoa a Tua herança, concedendo aos fiéis cristãos a vitória sobre os inimigos, e guardando o Teu povo pela Tua Cruz.
-
-# Oração dos monges de Optina
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senhor, concede-me a graça de saber aceitar tudo o que venha acontecer neste dia que se inicia. Permite que eu me entregue completamente à Tua santa vontade em todos os momentos deste dia. Ajuda-me e orienta-me em tudo: em todos os meus atos e palavras. Guia os meus pensamentos e sentimentos em todos os casos inesperados. Não permitas que eu me esqueça de que tudo provém de Ti. Ensina-me a agir corretamente para com cada um dos meus próximos, para que não ofenda nem magoe ninguém. Senhor, dá-me forças para superar as fadigas deste dia e suportar tudo o que hoje venha a acontecer. Dirige a minha vontade e ensina-me a rezar, a ter fé, esperança, paciência, a saber perdoar e a amar. Ámen.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Oferece agora uma pequena oração pela saúde e salvação do teu pai espiritual, dos teus pais, familiares, governantes, benfeitores e outros conhecidos, dos enfermos ou aqueles que passam por algum sofrimento. E se possível, lê esta comemoração:*
-
-# Pelos vivos
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lembra-Te, Senhor Jesus Cristo, nosso Deus, das Tuas misericórdias e da Tua compaixão, que são pelos séculos dos séculos, pelas quais Te tornaste homem e quiseste suportar a crucifixão e a morte para salvação dos que verdadeiramente creem em Ti, Tu que tendo ressuscitado dos mortos ascendeste aos céus onde estás sentado à dextra de Deus Pai. Olha às humildes preces daqueles que Te clamam de todo o coração. Inclina o Teu ouvido e ouve as minhas súplicas, deste Teu servo inútil, como um perfume de espiritual suavidade que Te ofereço por todo o Teu povo. Lembra-Te em primeiro lugar da Tua Igreja Santa, Católica e Apostólica que redimiste pelo Teu precioso sangue; estabelece-a, fortalece-a, expande-a, aumenta-a, pacifica-a e mantêm-na invencível às portas dos infernos. Abranda as dissensões das igrejas, extingue a fúria dos gentios, destrói prontamente as sementes de heresia, aniquila-as pelo poder do Teu Espírito Santo. *(pequena metanóia)*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salva, Senhor, e tem misericórdia dos Teus venerandos bispos ortodoxos, de todas as ordens sacerdotais e monásticas, de todos os que servem na Tua Igreja e a quem Tu escolheste para pastorear Teu rebanho racional. Pelas suas orações, tem misericórdia de mim e salva o pecador que sou. *(pequena metanóia)*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salva, Senhor, e tem misericórdia do meu pai espiritual *(N)* e por suas santas orações perdoa os meus pecados *(pequena metanóia)*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salva, Senhor, e tem misericórdia de meus pais *(NN)*, irmãos e irmãs, familiares segundo a carne, todos os vizinhos da minha família e amigos, concedendo-lhes Teus bens terrenos e espirituais *(pequena metanóia)*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salva, Senhor, e tem misericórdia, do idoso e do jovem, do pobre, do órfão e da viúva, daqueles que sofrem por doença ou tristeza, infortúnio e tribulação, dos que estão em situação difícil e em cativeiro, nas prisões e nos calabouços, e, especialmente, daqueles Teus servos que são perseguidos pelos povos sem Deus, pelos apóstatas e pelos heréticos por manterem a pura fé em Ti. Lembra-Te deles, visita-os, fortalece-os, conforta-os pelo Teu poder e concede-lhes, prontamente, o alívio, a libertação e a liberdade *(pequena metanóia)*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salva, Senhor, e tem piedade daqueles que me odeiam e me enganam ou me tentam; que eles não pereçam por culpa do pecador que sou. *(pequena metanóia)*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ilumina com a luz do reto conhecimento os apóstatas da fé ortodoxa e os que foram cegados por heresias perniciosas, e junta-os à Tua Igreja santa, católica e apostólica *(pequena metanóia)*
-
-# Pelos defuntos
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lembra-Te, Senhor, de todos os bispos ortodoxos, de todas as ordens sacerdotais e monásticas que adormeceram na verdadeira fé, e concede-lhes o repouso junto aos Teus santos nos Teus tabernáculos eternos *(pequena metanóia)*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lembra-Te, Senhor, da alma de Teus servos defuntos, meus pais *(NN)* e de meus familiares segundo a carne. Perdoa-lhes as transgressões voluntárias e involuntárias, concede-lhes o Reino e a participação nos Teus bens perpétuos e nas delícias da Tua vida eterna e bendita *(pequena metanóia)*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lembra-Te, Senhor, também, dos nossos pais e irmãos e irmãs que aqui repousam, e de todos os cristãos ortodoxos que partiram na esperança da ressurreição e da vida eterna. Estabelece-os junto aos Teus santos, onde a luz da Tua Face brilhará sobre eles, e tem piedade de nós, pois Tu és bom e filantropo *(pequena metanóia)*
-
-# Final de qualquer ofício
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Digno é na verdade honrar-te, ó Deípara, sempre venturosa e toda Imaculada, e Mãe do nosso Deus. Mais veneranda que os Querubins e mais gloriosa, sem comparação, que os Serafins, a ti que, sem corrupção, deste nascimento ao Verbo de Deus, a ti, vera Deípara, nós te magnificamos.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Glória ao Pai ao Filho e ao Espírito Santo, Agora e sempiternamente e pelos séculos dos séculos. Ámen.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Kyrie, eléison (3 x)*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senhor Jesus Cristo, Filho de Deus, pelas orações da Tua puríssima Mãe, dos santos e teóforos padres, e de todos os santos, tem piedade de nós. Ámen.
-
+                        "morningPrayersV3": `
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: #25292e;
+  color: #fff;
+  padding: 0px 90px;
+  padding-bottom: 180px;
+}
+h1 {
+  font-size: 60px;
+  letter-spacing: 6px;
+  text-align: center;
+}
+p {
+  font-size: 43px;
+  letter-spacing: 0px;
+  text-align: justify;
+  font-weight: 400;
+}
+em {
+  color: #999;
+}
+</style>
+</head>
+<body>
+<h1>ORAÇÕES MATINAIS</h1>
+<hr />
+<p><em>Tendo despertado do sono, antes de qualquer outra ação, levanta-te com reverência, considerando estar na presença do Deus que tudo vê, e, tendo feito o sinal da Cruz, dize:</em></p>
+<p>Em Nome do Pai, do Filho e do Espírito Santo. Ámen.</p>
+<p><em>Depois pausa por um momento, até que tenhas recobrado todos os teus sentidos e que teus pensamentos abandonem todas as coisas mundanas; e faze três pequenas metanóias, dizendo:</em></p>
+<p>Ó Deus, sê misericordioso comigo que sou pecador. <em>(3x)</em></p>
+<p>Senhor Jesus Cristo, Filho de Deus, pelas orações da Tua puríssima Mãe e de todos os santos, tem piedade de nós. Ámen.</p>
+<p>Glória a Ti, ó nosso Deus, glória a Ti.</p>
+<p>Ó Rei celeste, Consolador, Espírito da Verdade, que em tudo estás presente e tudo preenches; Tesouro dos bens e Dador da vida, vem e habita em nós, e purifica-nos de toda a impureza e salva, ó Bondoso, as nossas almas.</p>
+<h1>Triságio</h1>
+<p>Santo Deus, Santo Forte, Santo Imortal, tem piedade de nós. <em>(3x)</em></p>
+<p>Glória ao Pai e ao Filho, e ao Espírito Santo; agora e sempiternamente, e pelos séculos dos séculos. Ámen.</p>
+<p>Santíssima Trindade, tem piedade de nós; Senhor, purifica-nos dos nossos pecados; Soberano, perdoa as nossas injustiças; Santo, visita-nos e cura as nossas enfermidades, por causa de Teu Nome.</p>
+<p>Kyrie, eléison <em>(3x)</em></p>
+<p>Glória ao Pai e ao Filho, e ao Espírito Santo, agora e sempiternamente, e pelos séculos dos séculos. Ámen.</p>
+<p>Pai nosso, que estás nos Céus, santificado seja o Teu nome, venha a nós o Teu Reino, faça-se a Tua vontade assim na terra como no céu. O pão nosso de cada dia nos dá hoje; e perdoa as nossas dívidas, assim como nós perdoamos aos nossos devedores; e não nos deixes cair em tentação, mas livra-nos do maligno.</p>
+<p>Pois Teu é o Reino, o Poder e a Glória <em>[Pai, Filho e Espírito Santo]</em>, agora e sempiternamente, e pelos séculos dos séculos. Ámen.</p>
+<h1>***</h1>
+<h1>Tropário à Santíssima Trindade</h1>
+<p>Tendo despertado do sono, nós nos prostramos diante de Ti, ó Bondoso, e cantamos-Te alto o hino angélico, a Ti ó Poderoso: Santo, Santo, Santo és Tu, ó nosso Deus; pelas orações da Deípara, tem piedade de nós.</p>
+<p><em>Glória ao Pai, ao Filho e ao Espírito Santo.</em></p>
+<p>Foste Tu que me levantaste do leito e do sono, ó Senhor: Ilumina a minha mente e o meu coração, e abre meus lábios para que Te louve, Trindade Santa: Santo, Santo, Santo és Tu ó Deus; pelas orações da Deípara, tem piedade de nós.</p>
+<p><em>Agora e sempiternamente e pelos séculos dos séculos. Ámen.</em></p>
+<p>O Juiz Supremo virá subitamente e as obras de cada um serão reveladas. Eis porque, de madrugada, nós Te invocamos com temor: Santo, Santo, Santo és Tu, ó meu Deus; pelas orações da Deípara, tem piedade de nós.</p>
+<p><em>Kyrie, eléison (12x)</em></p>
+<h1>Oração de São Basílio Magno à Santíssima Trindade</h1>
+<p>Quando me levanto do sono, eu Te agradeço Trindade Santa pois em Tua Bondade infinita e em Tua paciência, não Te encolerizaste comigo, pecador indolente, nem me destruíste junto com minhas iniqüidades, mas mostraste a Tua habitual filantropia e quando estava prostrado em desespero, Tu me levantaste para contemplar o amanhecer e glorificar o Teu poder. Ilumina agora os olhos da minha mente e abre a minha boca para que eu possa meditar em Tuas palavras, entender Teus mandamentos, fazer Tua vontade, louvar-Te em confissão sincera, e erguer orações ao Teu santíssimo nome: do Pai, do Filho e do Espírito Santo, agora e sempiternamente e pelos séculos dos séculos. Ámen.</p>
+<p>Vinde, adoremos o nosso Rei e Deus.</p>
+<p>Vinde, adoremos e prostremo-nos diante de Cristo, nosso Rei e Deus.</p>
+<p>Vinde, adoremos e prostremo-nos diante do próprio Cristo, nosso Rei e Deus.</p>
+<h1>Salmo 50</h1>
+<p>Tem misericórdia de mim, ó Deus, pela Tua grande piedade, e pela Tua imensa clemência apaga a minha transgressão. Lava-me completamente da minha iniqüidade e purifica-me do meu pecado. Pois reconheço as minhas culpas e o meu pecado tenho sempre ante mim. Só contra Ti pequei e fiz o mal diante de Ti; para que sejas achado Justo em Tuas sentenças e venças se Te puserem em questão. Eis que entre iniqüidades fui concebido e em pecados nasci de minha mãe. Mas Tu amaste a verdade, e mostraste-me os arcanos e os segredos da Tua sabedoria. Aspergir-me-ás com o hissope e quedarei puro, lavar-me-ás e ficarei mais branco do que a neve. Far-me-ás ouvir júbilo e alegria, e rejubilarão os ossos que humilhaste. Desvia o Teu rosto dos meus pecados e apaga todas as minhas iniqüidades. ó Deus, cria em mim um coração puro; e renova nas minhas entranhas um espírito de retidão. Não me repudies da Tua face, nem afastes de mim o Teu Santo Espírito! Restitui-me a alegria da Tua salvação e ampara-me com o Espírito soberano. Ensinarei aos iníquos Teus caminhos e os ímpios voltar-se-ão para Ti. Livra-me da punição de sangue, ó Deus, ó Deus da minha salvação; e a minha língua exaltará Tua justiça. Abre, Senhor, os meus lábios e a minha boca proclamará o Teu louvor. Se Te aprouvessem sacrifícios, oferecer-tos-ia, mas não Te comprazes nos holocaustos. O sacrifício que praz a Deus é o espírito contrito; um coração contrito e humilhado, Deus não o desprezará. Bem-faze, Senhor, na tua benevolência a Sião; e reerguer-se-ão as muralhas de Jerusalém. Então aceitarás com agrado um sacrifício de justiça, oferendas e holocaustos; então serão oferecidos novilhos sobre o Teu altar.</p>
+<h1>Credo Niceno-Constantinopolitano</h1>
+<p>Creio em Um só Deus: Pai, Omnipotente, Criador do céu e da terra, de todas as coisas visíveis e invisíveis.</p>
+<p>E em Um só Senhor, Jesus Cristo, Filho Unigénito de Deus, nascido do Pai antes de todos os séculos. Luz da Luz, Deus verdadeiro de Deus verdadeiro; gerado, não criado, consubstancial ao Pai, por Quem tudo foi feito. Que por nós homens e por nossa salvação, desceu dos céus e Se encarnou pelo Espírito Santo e da Virgem Maria e Se fez homem. E por nós foi crucificado sob Pôncio Pilatos; padeceu e foi sepultado, e ressuscitou ao terceiro dia, conforme as Escrituras. E subiu aos Céus e está sentado à direita do Pai, e novamente virá com glória para julgar os vivos e os mortos, e o Seu Reino não terá fim.</p>
+<p>E no Espírito Santo, Senhor Vivificante, que procede do Pai, e que juntamente com o Pai e o Filho é adorado e glorificado, e que falou pelos profetas.</p>
+<p>E na Igreja Una, Santa, Católica e Apostólica. Confesso um só batismo para a remissão dos pecados. Espero a ressurreição dos mortos e a vida do século vindouro. Ámen.</p>
+<h1>Oração I, de São Macário Egípcio</h1>
+<p>Senhor, purifica o pecador que eu sou, pois nunca fiz algo de bom à Tua vista; livra-me do maligno e que seja feita a Tua vontade em mim e que eu possa, sem condenação, abrir a minha indigna boca e louvar o Teu santo Nome, do Pai, do Filho e do Espírito Santo, agora e sempiternamente e pelos séculos dos séculos. Ámen.</p>
+<h1>Oração II, do mesmo santo</h1>
+<p>Tendo-me levantado do sono eu Te ofereço, a Ti ó Salvador, o hino matinal, e prostrando-me a Ti clamo: Concede-me que não adormeça na morte do pecado, mas tem compaixão de mim, ó Tu que foste voluntariamente crucificado, e apressa-Te a erguer-me, a mim que estou reclinado na indolência e salva-me a mim que estou em oração; e após o sono da noite faz brilhar sobre mim um dia sem pecado, ó Cristo Deus, e salva-me.</p>
+<h1>Oração III, do mesmo santo</h1>
+<p>Tendo-me levantado do sono, corro para Ti, ó filantropo Soberano, e por Teu amor me esforço para executar a Tua obra, e rogo-Te: ajuda-me em todo o tempo e em tudo, liberta-me de todas as coisas mundanas e ruins, e de todo impulso do demónio e salva-me. Conduze-me ao Teu Reino eterno pois Tu és o meu Criador, o Doador e Provedor de tudo o que é bom, e em Ti está toda a minha esperança e a Ti dou glória, agora e sempiternamente e pelos séculos dos séculos. Ámen.</p>
+<h1>Oração IV, do mesmo santo</h1>
+<p>Senhor, Tu que em Tua abundante bondade e em Tua imensa compaixão me concedeste a mim, Teu servo, atravessar a noite passada sem sofrer ataque de nenhum adversário maligno, ó Soberano e Criador de todas as coisas, concede-me que com Tua verdadeira luz e de coração iluminado, eu faça a Tua vontade, Agora e sempiternamente e pelos séculos dos séculos. Ámen.</p>
+<h1>Oração V, de São Basílio Magno</h1>
+<p>Senhor Todo-Poderoso, Deus dos exércitos e de toda a carne, que habitas nas alturas e olhas o que está abaixo, que sondas os corações e o íntimo de cada ser, que conheces clara e antecipadamente os segredos dos homens; ó Luz incriada e eterna, em que não há variação nem sombra de mudança, recebe, ó Rei Imortal, na imensidão da Tua compaixão, as súplicas que ousamos fazer-Te, e que agora Te oferecemos com nossos lábios impuros; perdoa-nos os nossos pecados cometidos por atos, palavras e pensamentos consciente ou inconscientemente e purifica-nos de toda a mancha da carne e do espírito. Concede-nos atravessar a noite da vida presente com o coração atento e a mente sóbria, sempre esperando a vinda do brilhante e santo dia do Teu Filho Unigénito, nosso Senhor, Deus e Salvador Jesus Cristo, em que, como Juiz de todos, virá em glória para recompensar cada um segundo as suas obras. Que não sejamos encontrados caídos e sonolentos, mas vigilantes, ativos e prontos a acompanhá-Lo com alegria ao palácio divino de Sua glória, onde reinam sempre a voz dos que Te louvam e indescritíveis delícias para aqueles que contemplam a inefável beleza da Tua Face. Pois Tu és a verdadeira Luz que ilumina e santifica tudo, e toda a criação Te louva pelos séculos dos séculos. Ámen.</p>
+<h1>Oração VI, também de São Basílio</h1>
+<p>Nós Te bendizemos, Deus Altíssimo e Senhor de misericórdia que sempre obras para connosco grandes e inescrutáveis coisas, gloriosas e magníficas, para as quais não há medida; Tu que nos concedeste dormir para repouso de nossas enfermidades e relaxamento dos trabalhos de nossa carne fatigada. A Ti Te damos graças por que não nos destruíste junto com as nossas iniqüidades, mas, como de costume, mostraste ao homem o Teu amor, e enquanto em desespero jazíamos em nossos leitos, Tu nos levantaste para que pudéssemos glorificar o Teu domínio. Assim, imploramos à Tua infinita bondade: ilumina os olhos do nosso entendimento e ergue as nossas mentes do pesado sono da indolência; abre a nossa boca e enche-a de Teu louvor para que possamos, prontamente, cantar-Te e confessar-Te, a Ti que és Deus, glorificado em tudo e por tudo: o Pai incriado, com Teu Filho Unigénito e Teu Santíssimo, Bom e Vivificante Espírito, agora e sempiternamente e pelos séculos dos séculos. Ámen.</p>
+<h1>Oração VII, à Santíssima Mãe de Deus</h1>
+<p>Canto a tua graça, Soberana Mãe de Deus, e a ti oro para que clarifiques a minha mente. Ensina-me a caminhar com retidão no caminho dos mandamentos de Cristo. Fortalece-me para que eu permaneça desperto em louvor e afasta de mim o sono do desânimo, ó Esposa de Deus. E por tuas orações, liberta-me, pois estou preso nas correntes do pecado. Ó portadora do Deus Dador de vida, vivifica-me pois estou entorpecido pelas paixões. Portadora da Luz sem declínio, ilumina minha alma cega. Admirável palácio do Soberano, faz de mim morada do Divino Espírito. Portadora d\'Aquele que cura, cura-me das perpétuas paixões da minha alma. Guia-me pelos caminhos do arrependimento, pois sou sacudido pela tempestade da vida. Livra-me do fogo eterno, dos vermes malignos e do Tártaro. Não deixes que me torne em alegria dos demónios, culpado que sou de tantos pecados. Rejuvenesce-me, ó Puríssima, pois envelheço por causa dos meus pecados insensatos. Apresenta-me intocado pelos tormentos, e ora por mim ao Soberano de tudo e de todos. Concede-me encontrar as alegrias do céu junto a todos os santos. Santíssima Virgem, ouve a voz do teu servo inútil. Concede-me torrentes de lágrimas, ó Toda Pura, que limpem a minha alma de toda impureza. Ofereço-te, incessantemente, os gemidos de meu coração; luta por mim, Soberana Senhora. Aceita minhas súplicas e oferece-as ao Deus compassivo. Tu que estás acima dos anjos, ergue-me acima da desordem do mundo. Tu, portadora da Luz do tabernáculo celeste, acompanha-me na graça do Espírito. Embora impuros, ergo minhas mãos e meus lábios em louvor a ti, ó Imaculada. Livra-me dos males que corrompem a alma e intercede com fervor junto a Cristo a Quem devemos honra e louvor, agora e sempiternamente e pelos séculos dos séculos. Ámen.</p>
+<h1>Oração VIII, a nosso Senhor Jesus Cristo</h1>
+<p>Ó meu Deus imensamente misericordioso, Senhor Jesus Cristo, pelo Teu infinito amor desceste do céu e encarnaste para salvação de todos. Salvador, suplico-Te, salva-me uma vez mais pela Tua graça. Pois se Tu me salvasses pelas minhas obras, não seria graça nem dom, mas antes uma dívida. Mas Tu, ó Cristo, que és rico em compaixão e inefável em misericórdia, disseste: "Todo aquele que crê em mim, viverá e não verá a morte". Se, portanto, é a fé em Ti que salva os que perderam a esperança, vê a minha fé e salva-me, Tu que és meu Deus e meu Criador, pois espero em Ti. Deixa que, ao invés de obras, me seja imputada a fé, meu Deus, pois não acharias obras que me pudessem justificar. Conta com a minha fé e não com as minhas obras, para me absolveres e me fazeres partícipe da Tua glória eterna. Não permitas, ó Verbo, que Satanás se apodere de mim e se vanglorie de me ter arrebatado das Tuas mãos e envolvido. Que eu procure ou não, salva-me, Cristo meu Salvador, e antecipa-Te prontamente, pois pereço. Tu és o meu Deus desde o ventre de minha mãe. Concede-me, Senhor, que Te ame agora com tanto fervor quanto outrora amei o pecado, e que trabalhe para Ti sem preguiça, diligentemente, como outrora fiz para o enganador Satanás. E acima de tudo, que eu possa trabalhar para Ti, meu Senhor e meu Deus, Jesus Cristo, todos os dias da minha vida, agora e sempiternamente e pelos séculos dos séculos. Ámen.</p>
+<h1>Oração IX, ao Santo Anjo Guardião</h1>
+<p>Ó Santo anjo, tu que permaneces ao lado da minha alma miserável e da minha vida desvairada, não abandones o pecador que sou, nem te afastes de mim por causa da minha intemperança. Não dês espaço ao astuto demónio para que me conduza através da violência do meu corpo mortal. Fortalece as minhas pobres e fracas mãos e guia-me pelo caminho da salvação. Sim, santo anjo de Deus, guardião e protetor da minha alma miserável e de meu corpo, perdoa-me tudo aquilo em que te possa ter ofendido em todos os dias da minha vida. Se pequei durante a noite que passou, protege-me durante este dia, e guarda-me de toda a tentação do inimigo, para que eu não desagrade a Deus com pecado algum. E roga ao Senhor por mim, que Ele me estabeleça no Seu temor e que eu, Seu servo, seja digno de Sua bondade. Ámen.</p>
+<h1>Oração X, à Santíssima Mãe de Deus</h1>
+<p>Ó minha santíssima Senhora Deípara, por tuas santas e poderosas orações, retira de mim, servo vil e miserável, o desânimo, a ignorância, a insensatez, a negligência, e todo o pensamento impuro, maligno e blasfemo do meu coração miserável e da minha mente obscurecida. Apaga o fogo das minhas paixões, pois sou um pobre miserável. Livra-me dos atos e lembranças perversas, assim como de seus efeitos malignos. Pois tu és bendita por todas as gerações, e glorificado é o teu nome pelos séculos dos séculos. Ámen.</p>
+<h1>Oração ao santo cujo nome usamos</h1>
+<p>Ora junto a Deus por mim, ó Santo <em>(N do santo protetor)</em>, bem-aventurado de Deus, pois com fervor te imploro, ó propiciador e intercessor pela minha alma.</p>
+<h1>Oração à Santíssima Mãe de Deus</h1>
+<p>Ó Deípara Virgem, ave! Cheia de graça, Maria, o Senhor é contigo! Bendita és tu entre as mulheres e bendito é o fruto do teu ventre, porque deste nascimento ao Salvador das nossas almas!</p>
+<h1>Tropário da Cruz</h1>
+<p>Salva, Senhor, o Teu povo e abençoa a Tua herança, concedendo aos fiéis cristãos a vitória sobre os inimigos, e guardando o Teu povo pela Tua Cruz.</p>
+<h1>Oração dos monges de Optina</h1>
+<p>Senhor, concede-me a graça de saber aceitar tudo o que venha acontecer neste dia que se inicia. Permite que eu me entregue completamente à Tua santa vontade em todos os momentos deste dia. Ajuda-me e orienta-me em tudo: em todos os meus atos e palavras. Guia os meus pensamentos e sentimentos em todos os casos inesperados. Não permitas que eu me esqueça de que tudo provém de Ti. Ensina-me a agir corretamente para com cada um dos meus próximos, para que não ofenda nem magoe ninguém. Senhor, dá-me forças para superar as fadigas deste dia e suportar tudo o que hoje venha a acontecer. Dirige a minha vontade e ensina-me a rezar, a ter fé, esperança, paciência, a saber perdoar e a amar. Ámen.</p>
+<p><em>Oferece agora uma pequena oração pela saúde e salvação do teu pai espiritual, dos teus pais, familiares, governantes, benfeitores e outros conhecidos, dos enfermos ou aqueles que passam por algum sofrimento. E se possível, lê esta comemoração:</em></p>
+<h1>Pelos vivos</h1>
+<p>Lembra-Te, Senhor Jesus Cristo, nosso Deus, das Tuas misericórdias e da Tua compaixão, que são pelos séculos dos séculos, pelas quais Te tornaste homem e quiseste suportar a crucifixão e a morte para salvação dos que verdadeiramente creem em Ti, Tu que tendo ressuscitado dos mortos ascendeste aos céus onde estás sentado à dextra de Deus Pai. Olha às humildes preces daqueles que Te clamam de todo o coração. Inclina o Teu ouvido e ouve as minhas súplicas, deste Teu servo inútil, como um perfume de espiritual suavidade que Te ofereço por todo o Teu povo. Lembra-Te em primeiro lugar da Tua Igreja Santa, Católica e Apostólica que redimiste pelo Teu precioso sangue; estabelece-a, fortalece-a, expande-a, aumenta-a, pacifica-a e mantêm-na invencível às portas dos infernos. Abranda as dissensões das igrejas, extingue a fúria dos gentios, destrói prontamente as sementes de heresia, aniquila-as pelo poder do Teu Espírito Santo. <em>(pequena metanóia)</em></p>
+<p>Salva, Senhor, e tem misericórdia dos Teus venerandos bispos ortodoxos, de todas as ordens sacerdotais e monásticas, de todos os que servem na Tua Igreja e a quem Tu escolheste para pastorear Teu rebanho racional. Pelas suas orações, tem misericórdia de mim e salva o pecador que sou. <em>(pequena metanóia)</em></p>
+<p>Salva, Senhor, e tem misericórdia do meu pai espiritual <em>(N)</em> e por suas santas orações perdoa os meus pecados *(pequena metanóia)*</p>
+<p>Salva, Senhor, e tem misericórdia de meus pais <em>(NN)</em>, irmãos e irmãs, familiares segundo a carne, todos os vizinhos da minha família e amigos, concedendo-lhes Teus bens terrenos e espirituais *(pequena metanóia)*</p>
+<p>Salva, Senhor, e tem misericórdia, do idoso e do jovem, do pobre, do órfão e da viúva, daqueles que sofrem por doença ou tristeza, infortúnio e tribulação, dos que estão em situação difícil e em cativeiro, nas prisões e nos calabouços, e, especialmente, daqueles Teus servos que são perseguidos pelos povos sem Deus, pelos apóstatas e pelos heréticos por manterem a pura fé em Ti. Lembra-Te deles, visita-os, fortalece-os, conforta-os pelo Teu poder e concede-lhes, prontamente, o alívio, a libertação e a liberdade <em>(pequena metanóia)</em></p>
+<p>Salva, Senhor, e tem piedade daqueles que me odeiam e me enganam ou me tentam; que eles não pereçam por culpa do pecador que sou. <em>(pequena metanóia)</em></p>
+<p>Ilumina com a luz do reto conhecimento os apóstatas da fé ortodoxa e os que foram cegados por heresias perniciosas, e junta-os à Tua Igreja santa, católica e apostólica <em>(pequena metanóia)</em></p>
+<h1>Pelos defuntos</h1>
+<p>Lembra-Te, Senhor, de todos os bispos ortodoxos, de todas as ordens sacerdotais e monásticas que adormeceram na verdadeira fé, e concede-lhes o repouso junto aos Teus santos nos Teus tabernáculos eternos <em>(pequena metanóia)</em></p>
+<p>Lembra-Te, Senhor, da alma de Teus servos defuntos, meus pais <em>(NN)</em> e de meus familiares segundo a carne. Perdoa-lhes as transgressões voluntárias e involuntárias, concede-lhes o Reino e a participação nos Teus bens perpétuos e nas delícias da Tua vida eterna e bendita *(pequena metanóia)*</p>
+<p>Lembra-Te, Senhor, também, dos nossos pais e irmãos e irmãs que aqui repousam, e de todos os cristãos ortodoxos que partiram na esperança da ressurreição e da vida eterna. Estabelece-os junto aos Teus santos, onde a luz da Tua Face brilhará sobre eles, e tem piedade de nós, pois Tu és bom e filantropo <em>(pequena metanóia)</em></p>
+<h1>Final de qualquer ofício</h1>
+<p>Digno é na verdade honrar-te, ó Deípara, sempre venturosa e toda Imaculada, e Mãe do nosso Deus. Mais veneranda que os Querubins e mais gloriosa, sem comparação, que os Serafins, a ti que, sem corrupção, deste nascimento ao Verbo de Deus, a ti, vera Deípara, nós te magnificamos.</p>
+<p>Glória ao Pai ao Filho e ao Espírito Santo, Agora e sempiternamente e pelos séculos dos séculos. Ámen.</p>
+<p><em>Kyrie, eléison (3 x)</em></p>
+<p>Senhor Jesus Cristo, Filho de Deus, pelas orações da Tua puríssima Mãe, dos santos e teóforos padres, e de todos os santos, tem piedade de nós. Ámen.</p>
+</body>
+</html>
 `,
-                        "eveningPrayersV2": `
-# ORAÇÕES PARA ANTES DE DORMIR
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em Nome do Pai, do Filho e do Espírito Santo. Ámen.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senhor Jesus Cristo, Filho de Deus, pelas orações da Tua puríssima Mãe, dos nossos santos e teóforos padres, e de todos os santos, tem piedade de nós. Ámen.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Glória a Ti, ó nosso Deus, glória a Ti.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ó Rei celeste, Consolador, Espírito da Verdade, que em tudo estás presente e tudo preenches, Tesouro dos bens e Dador da vida, vem e habita em nós, e purifica-nos de toda a impureza e salva, ó Bondoso, as nossas almas.
-
-# Triságio
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Santo Deus, Santo Forte, Santo Imortal, tem piedade de nós. *(3x)*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Glória ao Pai e ao Filho, e ao Espírito Santo; agora e sempiternamente, e pelos séculos dos séculos. Ámen.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Santíssima Trindade, tem piedade de nós; Senhor, purifica-nos dos nossos pecados; Soberano, perdoa as nossas injustiças; Santo, visita-nos e cura as nossas enfermidades, por causa de Teu Nome.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kyrie, eléison *(3x)*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Glória ao Pai e ao Filho, e ao Espírito Santo, agora e sempiternamente, e pelos séculos dos séculos. Ámen.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pai nosso, que estás nos Céus, santificado seja o Teu nome, venha a nós o Teu Reino, faça-se a Tua vontade assim na terra como no céu. O pão nosso de cada dia nos dá hoje; e perdoa as nossas dívidas, assim como nós perdoamos aos nossos devedores; e não nos deixes cair em tentação, mas livra-nos do maligno.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pois Teu é o Reino, o Poder e a Glória *[Pai, Filho e Espírito Santo]*, agora e sempiternamente, e pelos séculos dos séculos. Ámen.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em seguida dizem-se os Tropários de compunção:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tem piedade de nós, Senhor, tem piedade de nós, pecadores, que, destituídos de qualquer defesa, Te apresentamos esta oração, a Ti como Soberano: tem piedade de nós.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Glória ao Pai\...*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tem piedade de nós, Senhor, que em Ti depositámos toda a nossa esperança. Não Te irrites demasiado contra nós, pecadores, nem Te recordes das nossas transgressões, mas volve-nos o Teu olhar piedoso e livra-nos dos nossos inimigos. Pois Tu és o nosso Deus e nós o Teu Povo; todos somos obra de Tuas mãos e invocamos o Teu Santo Nome.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Agora e sempiternamente...*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abre-nos as portas da tua imensa misericórdia, ó Deípara bendita, para que nós que em ti confiamos não sejamos desiludidos; mas livra-nos de toda a adversidade, pois por ti veio a salvação ao povo cristão.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Kyrie, eléison (12x)*
-
-# Oração I, de São Macário Egípcio
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deus eterno e Rei de toda a criação, Tu que me concedeste chegar a esta hora, perdoa-me os pecados que cometi neste dia em atos, palavras e pensamentos; limpa, Senhor, a minha vil alma de toda impureza da carne e do espírito, e concede-me, Senhor, atravessar o sono desta noite em paz; e que ao levantar-me de meu humilde leito eu possa ser agradável ao Teu santíssimo Nome por todos os dias da minha vida. Repele os inimigos carnais e incorpóreos que guerreiam contra mim; livra-me, Senhor, dos pensamentos vãos e dos desejos malignos que me tornam impuro; pois a Ti pertence o reino, o poder e a glória, ao Pai, ao Filho e ao Espírito Santo, agora e sempiternamente e pelos séculos dos séculos. Ámen.
-
-# Oração II, de Santo Antíoco
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ó Todo-Poderoso, Verbo do Pai, Jesus Cristo! Tu que és perfeito, pela plenitude de Tua misericórdia, nunca Te afastes de mim, mas permanece sempre em mim que sou Teu servo. Ó Jesus, Bom pastor das Tuas ovelhas, não me deixes à mercê da sedução da serpente, nem me abandones aos desejos de Satanás, pois a semente da corrupção está em mim. Senhor, Deus adorado, Santo Rei, Jesus Cristo, enquanto durmo, guarda-me com a Tua luz sem declínio -- o Teu Espírito Santo, por quem santificaste os Teus discípulos. Ó Senhor, concede-me a mim, Teu inútil servo, a Tua salvação em meu leito. Ilumina a minha mente com a luz do entendimento do Teu Santo Evangelho; a minha alma, com o amor da Tua Cruz; o meu coração, com a pureza da Tua palavra; o meu corpo, com a Tua impassível Paixão; mantém o meu pensamento na Tua humildade, e desperta-me no momento oportuno para a Tua glorificação; pois glorificado és com o Teu Pai incriado e o Santíssimo Espírito Santo, por todos os séculos. Ámen.
-
-# Oração III, ao Espírito Santo
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senhor, Rei dos Céus, Consolador, Espírito de Verdade, mostra a Tua compaixão e Tem piedade de mim, Teu servo pecador, e livra-me da minha indignidade. Perdoa-me tudo o que pequei contra Ti hoje como homem que sou, ou ainda pior do que um homem, voluntária e involuntariamente, com conhecimento ou desconhecimento, por imaturidade ou por sugestão do maligno, quer por arrebatamento quer por abatimento. Se jurei pelo Teu nome ou blasfemei em meus pensamentos; se molestei alguém ou me encolerizei com alguma coisa; se menti, se dormi desregradamente, se um pedinte veio ter comigo e não fiz caso dele, se feri meu irmão, se discuti ou condenei alguém, se fui arrogante, orgulhoso ou colérico; se, estando em oração, minha mente se distraiu com as preocupações deste mundo ou com pensamentos depravados; se comi demasiado ou bebi em excesso, se ri frivolamente; se tive pensamentos malignos, se vendo uma beleza alheia deixei ferir meu coração; se proferi coisas impróprias ou escarneci dos pecados de meu irmão, quando os meus são incontáveis; se fui negligente nas orações ou fiz algo de errado de que de momento me não recordo. Tudo isto fiz e mais ainda. Tem piedade de mim, ó meu Soberano e Criador, pois sou Teu servo decaído e indigno. Livra-me e perdoa-me, pois Tu és bom e filantropo, para que o luxurioso, pecador e miserável que sou se possa deitar, dormir e descansar em paz. Possa eu louvar, cantar e glorificar o Teu honradíssimo nome, com o Pai e o Seu Filho Unigénito, agora e sempiternamente e pelos séculos dos séculos. Ámen.
-
-# Oração IV, de São Macário Egípcio
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Que posso oferecer-Te ou dar-Te, a Ti, de tudo imensamente dotado, Senhor compassivo, filantropo e Rei imortal? Pois mesmo tendo eu sido negligente em agradar-Te, e nada tenha feito de bom, Tu me conduziste ao fim deste dia que passou, guiando à conversão e à salvação a minha alma. Sê misericordioso para com o pecador que sou, vazio de qualquer boa ação. Ergue a minha alma decaída, manchada por incontáveis pecados, e afasta-me dos pensamentos malignos desta vida visível. Tu que és o Único sem pecado, perdoa os pecados que cometi contra Ti neste dia, conhecidos ou ignorados, em palavras, atos e pensamentos, e com todos os meus sentidos. Protege-me e guarda-me de toda a circunstância adversa por Tua Divina autoridade, pelo Teu poder e inexprimível filantropia. Apaga, meu Deus, apaga a multidão dos meus pecados. Que Te apraza, Senhor, livrar-me das redes do maligno e salva a minha alma cheia de paixões, cobrindo-me com a luz do Teu semblante quando em glória vieres; permite-me agora, que sem condenação durma um sono sem sonhos; guarda o Teu servo sem pensamentos perturbadores e afasta de mim toda a obra satânica; ilumina com o entendimento os olhos do meu coração para que não adormeça na morte. Envia-me um anjo de paz, guardião e guia da minha alma e do meu corpo, que me livre dos meus inimigos. Que eu possa, ao levantar-me do leito, oferecer-Te orações de ação de graças. Sim, Senhor, ouve o Teu servo pecador e miserável em confissão consciente. Concede-me, ao levantar, ser instruído pelas Tuas palavras. Afasta de mim, por Teus anjos, o desânimo demoníaco. Que eu possa bendizer o Teu santo nome, glorificar e exaltar a puríssima Maria, Mãe de Deus, que nos deste, a nós pecadores, como protetora, e aceita as suas orações por nós. Sei que ela é o exemplo da Tua filantropia e ora incessantemente por nós. Pela sua proteção e pelo poder da Tua preciosa Cruz, pelo amor de todos os Teus santos, guarda a minha pobre alma, ó Jesus Cristo, nosso Deus, pois Tu és santo e cheio de glória para sempre. Ámen.
-
-# Oração V
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senhor, nosso Deus, Tu que és bom e filantropo, perdoa os pecados que cometi hoje em palavras, atos e pensamentos. Concede-me um sono pacífico e imperturbável. Envia-me o Teu anjo da guarda para me proteger e me guardar de todo o mal. Pois Tu és o Guardião de nossas almas e dos nossos corpos, e a Ti damos glória, ao Pai ao Filho e ao Espírito Santo, agora e sempiternamente e pelos séculos dos séculos. Ámen.
-
-# Oração VI
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senhor nosso Deus, em quem cremos e cujo nome invocamos acima de qualquer outro, concede-nos, agora que vamos dormir, descanso para o corpo e para a alma, afasta-nos dos sonhos e dos prazeres obscuros; acalma as investidas furiosas das paixões e extingue o fogo que arde na carne. Concede-nos que vivamos castamente em atos e palavras e que possamos obter uma vida virtuosa, sem nos afastarmos das bênçãos que prometeste, pois Tu és bendito para sempre. Ámen.
-
-# Oração VII, de São João Crisóstomo, segundo o número de horas do dia e da noite
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senhor, não me prives dos Teus bens celestes.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senhor, livra-me dos tormentos eternos.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senhor, se pequei em mente, em pensamentos, em palavras ou em atos, perdoa-me.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senhor, livra-me de toda a ignorância, esquecimento, frivolidade e insensibilidade empedernida.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senhor, livra-me de toda tentação.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senhor, ilumina o meu coração que os desejos malignos turvaram.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senhor, eu como homem pequei, mas Tu, como Deus compassivo, tem piedade de mim ao veres a enfermidade da minha alma.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senhor, envia a Tua graça em meu socorro para que eu possa glorificar o Teu santo nome.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senhor Jesus Cristo, inscreve-me a mim, Teu servo, no Livro da Vida e concede-me um bom fim.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senhor meu Deus, ainda que não tenha feito nada de bom à Tua vista, concede-me pela Tua graça um bom começo.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senhor, derrama sobre o meu coração o orvalho da Tua graça.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senhor do céu e da terra, no Teu Reino, lembra-Te de Teu servo pecador, vergonhoso e impuro. Ámen.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senhor, aceita a minha penitência.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senhor, não me abandones.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senhor, não me deixes cair em tentação.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senhor, concede-me bons pensamentos.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senhor, concede-me lágrimas, lembrança da morte e contrição.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senhor, concede-me confessar meus pecados.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senhor, concede-me humildade, castidade e obediência.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senhor, concede-me paciência, coragem e mansidão.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senhor, implanta em mim a raiz do bem e o Teu temor em meu coração.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senhor, concede-me que Te ame com toda a minha alma e toda a minha mente, e que em tudo faça a Tua vontade.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senhor, protege-me dos homens maldosos, dos demónios, das paixões e de todas as coisas impróprias.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senhor, sei que tudo fazes segundo a Tua vontade: que a Tua vontade seja feita também em mim pecador, pois Tu és bendito pelos séculos dos séculos. Ámen.
-
-# Oração VIII, a nosso Senhor Jesus Cristo
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senhor Jesus Cristo, Filho de Deus, pela Tua honradíssima e Santa Mãe, e por Teus anjos incorpóreos, pelo profeta e precursor João Batista, pelos apóstolos inspirados por Deus, pelos gloriosos e vitoriosos mártires, pelos santos e teóforos padres, e pela intercessão de todos os santos, livra-me da presença perseguidora dos demónios. Sim, meu Senhor e Criador, que não desejas a morte do pecador, mas antes que ele se converta e viva, concede-me a mim, também, miserável que sou, a conversão. Resgata-me da boca da serpente perniciosa que está preste a devorar-me e levar-me vivo para os infernos. Sim, meu Senhor e Consolador, Tu que por amor ao miserável que sou, Te vestiste de carne corruptível, arranca-me da miséria e conforta a minha alma miserável. Implanta em meu coração o desejo de cumprir os Teus mandamentos, de abandonar as obras vis e de alcançar as Tuas bênçãos, pois em Ti, Senhor, pus a esperança, salva-me.
-
-# Oração IX, à Santíssima Mãe de Deus
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ó bondosa Mãe do Bondoso Rei, puríssima e abençoada Maria, Mãe de Deus, derrama sobre a minha alma cheia de paixões a misericórdia de teu Filho e nosso Deus. Pela tua intercessão, conduz-me a boas obras, a fim de que eu possa passar o resto da minha vida sem mancha e que por ti possa atingir o paraíso, Virgem Mãe de Deus, pois tu és a única pura e abençoada.
-
-# Oração X, ao Santo Anjo Guardião
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anjo de Cristo, meu santo guardião e protetor da minha alma e do meu corpo, perdoa-me todos os pecados que cometi neste dia, livra-me de todo o mal que me causam os meus inimigos para que eu não ofenda o meu Deus com nenhum pecado. Ora por mim que sou pecador e indigno, para que eu me torne digno do amor e da misericórdia da Santíssima Trindade, e da santa Mãe do meu Senhor Jesus Cristo e de todos os santos. Ámen.
-
-# Kondakion da Deípara
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;À vitoriosa estratega, os louros de vitória! Resgatados das cadeias, nós, povo teu, ó Deípara, exaramos-te ação de graças! E pois que deténs um poder irresistível, livra-nos de todo o perigo, para que a ti possamos bradar: \"Salve, esposa indesposada!\"
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gloriosíssima, Sempre Virgem Mãe de Cristo Deus, apresenta nossa oração ao teu Filho e nosso Deus: que por ti Ele salve as nossas almas! Toda a minha esperança deposito em ti, ó Mãe de Deus; guarda-me sob a tua proteção, Virgem Deípara, e não desprezes o pecador que sou, pois careço do teu socorro e da tua proteção. Tem piedade de mim, pois minha alma em ti espera.
-
-# Oração de São Joanice
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Minha esperança é o Pai, meu refúgio o Filho, minha proteção o Espírito Santo; Santíssima Trindade, glória a Ti.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Digno é na verdade honrar-te, ó Deípara, sempre venturosa e toda Imaculada, e Mãe do nosso Deus. Mais veneranda que os Querubins e mais gloriosa, sem comparação, que os Serafins, a ti que, sem corrupção, deste nascimento ao Verbo de Deus, a ti, vera Deípara, nós te magnificamos.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Glória ao Pai ao Filho e ao Espírito Santo, agora e sempiternamente e pelos séculos dos séculos. Ámen.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kyrie, eléison. *(3x)*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senhor Jesus Cristo, Filho de Deus, pelas orações da Tua puríssima Mãe, dos nossos santos e teóforos padres, e de todos os santos, tem piedade de nós. Ámen.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Antes de se deitar, pode continuar com as seguintes orações:*
-
-# Oração de São João Damasceno, para ser dita apontando para a cama
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ó filantropo Soberano, será este leito o meu túmulo ou iluminarás Tu a minha pobre alma com mais um dia? Vê, estão diante de mim o túmulo e a morte. Senhor, temo o Teu julgamento e os tormentos infindáveis; e mesmo assim não cesso de fazer o mal. Senhor meu Deus, continuamente Te desagrado e à Tua santíssima Mãe, às hostes celestes e ao meu Santo Anjo da Guarda. Senhor, sei que sou indigno da Tua filantropia, sou tão somente digno de toda a condenação e tormento. Senhor, que eu o procure ou não, salva-me, pois salvares um justo não é obra, nem maravilha teres misericórdia do que é puro, pois são dignos do Teu amor. Mostra-me as maravilhas da Tua misericórdia revelando a Tua filantropia. Não permitas que a minha iniqüidade prevaleça sobre a Tua inefável bondade e sobre a Tua misericordiosa benevolência; dispõe da minha vida como o desejares.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Quando estiveres preste a deitar-te, dize:*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ilumina meus olhos, Cristo Deus, para que eu não adormeça na morte, e que o meu inimigo jamais diga: eu prevaleci contra ele.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Glória ao Pai ao Filho e ao Espírito Santo.*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sê o amparo da minha alma, ó Deus, pois passo por muitos embustes; liberta-me deles e salva-me, ó Bondoso, pois és Bom e Filantropo.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Agora e sempiternamente e pelos séculos dos séculos. Ámen.*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gloriosíssima Mãe de Deus, mais santa que os santos anjos, cantando-te incessantemente com nossos corações e nossas bocas, confessamos que és Deípara, pois verdadeiramente deste à luz a Deus encarnado por nós, e oras incessantemente pelas nossas almas.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Beija a Cruz e faze com ela o sinal da cruz da cabeceira aos pés da cama e de um a outro lado, enquanto dizes:*
-
-# A oração à Preciosa Cruz
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Erga-Se Deus e dispersem-se os Seus inimigos, e fujam da Sua face os que O odeiam. Como se dissipa o fumo, assim se dissipem; como ante o fogo funde a cera. Assim desapareçam os demónios de ante a face de Deus; e rejubilarão os justos que amam a Deus e fazem o sinal da Cruz, dizendo: salve, Cruz do Senhor, preciosíssima Dadora de Vida, pois afugentaste os demónios pelo poder de nosso Senhor Jesus Cristo que em ti foi crucificado, que desceu aos infernos e esmagou o poderio do demónio, que a nós te deu, ó preciosa Cruz, para afastar todo o adversário. Ó preciosíssima e vivífica Cruz do Senhor, juntamente com a Santa Senhora, a Virgem Deípara, e todos os santos, salva-me pelos séculos dos séculos. Ámen.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Ou:* Circunda-me, Senhor, com o poder da Tua preciosa e vivificante Cruz e preserva-me de todo o mal.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Em seguida, pedindo perdão ao próximo, dize:*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Apaga, releva, perdoa, ó Deus, as nossas ofensas voluntárias e involuntárias, cometidas em atos e palavras, com conhecimento ou em ignorância, de dia e de noite, na mente e no pensamento; perdoa-nos todas as coisas pois Tu és bom e filantropo.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ó filantropo Senhor, aos que nos odeiam e nos fazem mal, perdoa-lhes; aos que nos fazem bem, faze o bem. Concede aos nossos irmãos e próximos a salvação e a vida eterna; visita os enfermos e concede-lhes a cura. Guia os que estão no mar. Acompanha os que viajam. Socorre os cristãos ortodoxos em seus combates. Concede o perdão dos pecados àqueles que nos servem e são bons para connosco. Segundo a Tua imensa misericórdia, tem piedade daqueles que nos pediram para orar por eles. Lembra-Te, Senhor, dos nossos pais e irmãos que partiram antes de nós, e concede-lhes o repouso onde brilha a luz da Tua face. Lembra-Te, Senhor, dos nossos irmãos em cativeiro, e livra-os de todo o infortúnio.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lembra-Te, Senhor, dos que oferecem os frutos da terra e fazem boas obras em Tuas santas igrejas: concede-lhes a salvação e a vida eterna. Lembra-Te, também, Senhor, dos Teus servos vis, pecadores e indignos. Ilumina a nossa mente com a luz do Teu conhecimento e guia-nos pelo caminho dos Teus mandamentos, pela intercessão da nossa Puríssima Senhora, Deípara e Sempre Virgem Maria, e de todos os santos, pois és bendito pelos séculos dos séculos. Ámen.
-
-# Confissão diária dos pecados
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A Ti confesso, Senhor meu Deus, meu Criador, glorificado e adorado em uma Santíssima Trindade, Pai, Filho e Espírito Santo, todos os pecados que cometi em todos os dias e horas de minha vida, no presente e no passado, durante o dia e durante a noite, por atos, palavras, pensamentos, gula, embriaguez, voracidade, vã loquacidade, desânimo, indolência, espírito de contradição, desobediência, calúnia, julgamento, negligência, vanglória, ganância, avidez, mentira, desonestidade, venalidade, ciúme, inveja, ira, memória das injúrias, ódio, suborno; e com todos os meus sentidos: visão, audição, olfato, paladar e tato; e por todos os outros meus pecados, da alma e do corpo, com que Te desagradei, meu Deus e meu Criador, e ofendi o meu próximo. Pesaroso por tudo, sou culpado diante de Ti, meu Deus, mas tenho o desejo de me arrepender. Ajuda-me apenas, Senhor meu Deus, em lágrimas humildemente To suplico. Pela Tua compaixão perdoa os meus pecados passados, e absolve-me do que confessei em Tua presença, pois és bom e filantropo.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Quando estiveres preste a adormecer, dize:*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em Tuas mãos, Senhor Jesus Cristo, meu Deus, entrego o meu espírito. Abençoa-me, tem misericórdia de mim e concede-me a vida eterna. Ámen.
-
+                        "eveningPrayersV3": `
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: #25292e;
+  color: #fff;
+  padding: 0px 90px;
+  padding-bottom: 180px;
+}
+h1 {
+  font-size: 60px;
+  letter-spacing: 6px;
+  text-align: center;
+}
+p {
+  font-size: 43px;
+  letter-spacing: 0px;
+  text-align: justify;
+  font-weight: 400;
+}
+em {
+  color: #999;
+}
+</style>
+</head>
+<body>
+<h1>ORAÇÕES PARA ANTES DE DORMIR</h1>
+<hr />
+<p>Em Nome do Pai, do Filho e do Espírito Santo. Ámen.</p>
+<p>Senhor Jesus Cristo, Filho de Deus, pelas orações da Tua puríssima Mãe, dos nossos santos e teóforos padres, e de todos os santos, tem piedade de nós. Ámen.</p>
+<p>Glória a Ti, ó nosso Deus, glória a Ti.</p>
+<p>Ó Rei celeste, Consolador, Espírito da Verdade, que em tudo estás presente e tudo preenches, Tesouro dos bens e Dador da vida, vem e habita em nós, e purifica-nos de toda a impureza e salva, ó Bondoso, as nossas almas.</p>
+<h1>Triságio</h1>
+<p>Santo Deus, Santo Forte, Santo Imortal, tem piedade de nós. <em>(3x)</em></p>
+<p>Glória ao Pai e ao Filho, e ao Espírito Santo; agora e sempiternamente, e pelos séculos dos séculos. Ámen.</p>
+<p>Santíssima Trindade, tem piedade de nós; Senhor, purifica-nos dos nossos pecados; Soberano, perdoa as nossas injustiças; Santo, visita-nos e cura as nossas enfermidades, por causa de Teu Nome.</p>
+<p>Kyrie, eléison <em>(3x)</em></p>
+<p>Glória ao Pai e ao Filho, e ao Espírito Santo, agora e sempiternamente, e pelos séculos dos séculos. Ámen.</p>
+<p>Pai nosso, que estás nos Céus, santificado seja o Teu nome, venha a nós o Teu Reino, faça-se a Tua vontade assim na terra como no céu. O pão nosso de cada dia nos dá hoje; e perdoa as nossas dívidas, assim como nós perdoamos aos nossos devedores; e não nos deixes cair em tentação, mas livra-nos do maligno.</p>
+<p>Pois Teu é o Reino, o Poder e a Glória <em>[Pai, Filho e Espírito Santo]</em>, agora e sempiternamente, e pelos séculos dos séculos. Ámen.</p>
+<p>Em seguida dizem-se os Tropários de compunção:</p>
+<p>Tem piedade de nós, Senhor, tem piedade de nós, pecadores, que, destituídos de qualquer defesa, Te apresentamos esta oração, a Ti como Soberano: tem piedade de nós.</p>
+<p><em>Glória ao Pai\...</em></p>
+<p>Tem piedade de nós, Senhor, que em Ti depositámos toda a nossa esperança. Não Te irrites demasiado contra nós, pecadores, nem Te recordes das nossas transgressões, mas volve-nos o Teu olhar piedoso e livra-nos dos nossos inimigos. Pois Tu és o nosso Deus e nós o Teu Povo; todos somos obra de Tuas mãos e invocamos o Teu Santo Nome.</p>
+<p><em>Agora e sempiternamente...</em></p>
+<p>Abre-nos as portas da tua imensa misericórdia, ó Deípara bendita, para que nós que em ti confiamos não sejamos desiludidos; mas livra-nos de toda a adversidade, pois por ti veio a salvação ao povo cristão.</p>
+<p><em>Kyrie, eléison (12x)</em></p>
+<h1>Oração I, de São Macário Egípcio</h1>
+<p>Deus eterno e Rei de toda a criação, Tu que me concedeste chegar a esta hora, perdoa-me os pecados que cometi neste dia em atos, palavras e pensamentos; limpa, Senhor, a minha vil alma de toda impureza da carne e do espírito, e concede-me, Senhor, atravessar o sono desta noite em paz; e que ao levantar-me de meu humilde leito eu possa ser agradável ao Teu santíssimo Nome por todos os dias da minha vida. Repele os inimigos carnais e incorpóreos que guerreiam contra mim; livra-me, Senhor, dos pensamentos vãos e dos desejos malignos que me tornam impuro; pois a Ti pertence o reino, o poder e a glória, ao Pai, ao Filho e ao Espírito Santo, agora e sempiternamente e pelos séculos dos séculos. Ámen.</p>
+<h1>Oração II, de Santo Antíoco</h1>
+<p>Ó Todo-Poderoso, Verbo do Pai, Jesus Cristo! Tu que és perfeito, pela plenitude de Tua misericórdia, nunca Te afastes de mim, mas permanece sempre em mim que sou Teu servo. Ó Jesus, Bom pastor das Tuas ovelhas, não me deixes à mercê da sedução da serpente, nem me abandones aos desejos de Satanás, pois a semente da corrupção está em mim. Senhor, Deus adorado, Santo Rei, Jesus Cristo, enquanto durmo, guarda-me com a Tua luz sem declínio -- o Teu Espírito Santo, por quem santificaste os Teus discípulos. Ó Senhor, concede-me a mim, Teu inútil servo, a Tua salvação em meu leito. Ilumina a minha mente com a luz do entendimento do Teu Santo Evangelho; a minha alma, com o amor da Tua Cruz; o meu coração, com a pureza da Tua palavra; o meu corpo, com a Tua impassível Paixão; mantém o meu pensamento na Tua humildade, e desperta-me no momento oportuno para a Tua glorificação; pois glorificado és com o Teu Pai incriado e o Santíssimo Espírito Santo, por todos os séculos. Ámen.</p>
+<h1>Oração III, ao Espírito Santo</h1>
+<p>Senhor, Rei dos Céus, Consolador, Espírito de Verdade, mostra a Tua compaixão e Tem piedade de mim, Teu servo pecador, e livra-me da minha indignidade. Perdoa-me tudo o que pequei contra Ti hoje como homem que sou, ou ainda pior do que um homem, voluntária e involuntariamente, com conhecimento ou desconhecimento, por imaturidade ou por sugestão do maligno, quer por arrebatamento quer por abatimento. Se jurei pelo Teu nome ou blasfemei em meus pensamentos; se molestei alguém ou me encolerizei com alguma coisa; se menti, se dormi desregradamente, se um pedinte veio ter comigo e não fiz caso dele, se feri meu irmão, se discuti ou condenei alguém, se fui arrogante, orgulhoso ou colérico; se, estando em oração, minha mente se distraiu com as preocupações deste mundo ou com pensamentos depravados; se comi demasiado ou bebi em excesso, se ri frivolamente; se tive pensamentos malignos, se vendo uma beleza alheia deixei ferir meu coração; se proferi coisas impróprias ou escarneci dos pecados de meu irmão, quando os meus são incontáveis; se fui negligente nas orações ou fiz algo de errado de que de momento me não recordo. Tudo isto fiz e mais ainda. Tem piedade de mim, ó meu Soberano e Criador, pois sou Teu servo decaído e indigno. Livra-me e perdoa-me, pois Tu és bom e filantropo, para que o luxurioso, pecador e miserável que sou se possa deitar, dormir e descansar em paz. Possa eu louvar, cantar e glorificar o Teu honradíssimo nome, com o Pai e o Seu Filho Unigénito, agora e sempiternamente e pelos séculos dos séculos. Ámen.</p>
+<h1>Oração IV, de São Macário Egípcio</h1>
+<p>Que posso oferecer-Te ou dar-Te, a Ti, de tudo imensamente dotado, Senhor compassivo, filantropo e Rei imortal? Pois mesmo tendo eu sido negligente em agradar-Te, e nada tenha feito de bom, Tu me conduziste ao fim deste dia que passou, guiando à conversão e à salvação a minha alma. Sê misericordioso para com o pecador que sou, vazio de qualquer boa ação. Ergue a minha alma decaída, manchada por incontáveis pecados, e afasta-me dos pensamentos malignos desta vida visível. Tu que és o Único sem pecado, perdoa os pecados que cometi contra Ti neste dia, conhecidos ou ignorados, em palavras, atos e pensamentos, e com todos os meus sentidos. Protege-me e guarda-me de toda a circunstância adversa por Tua Divina autoridade, pelo Teu poder e inexprimível filantropia. Apaga, meu Deus, apaga a multidão dos meus pecados. Que Te apraza, Senhor, livrar-me das redes do maligno e salva a minha alma cheia de paixões, cobrindo-me com a luz do Teu semblante quando em glória vieres; permite-me agora, que sem condenação durma um sono sem sonhos; guarda o Teu servo sem pensamentos perturbadores e afasta de mim toda a obra satânica; ilumina com o entendimento os olhos do meu coração para que não adormeça na morte. Envia-me um anjo de paz, guardião e guia da minha alma e do meu corpo, que me livre dos meus inimigos. Que eu possa, ao levantar-me do leito, oferecer-Te orações de ação de graças. Sim, Senhor, ouve o Teu servo pecador e miserável em confissão consciente. Concede-me, ao levantar, ser instruído pelas Tuas palavras. Afasta de mim, por Teus anjos, o desânimo demoníaco. Que eu possa bendizer o Teu santo nome, glorificar e exaltar a puríssima Maria, Mãe de Deus, que nos deste, a nós pecadores, como protetora, e aceita as suas orações por nós. Sei que ela é o exemplo da Tua filantropia e ora incessantemente por nós. Pela sua proteção e pelo poder da Tua preciosa Cruz, pelo amor de todos os Teus santos, guarda a minha pobre alma, ó Jesus Cristo, nosso Deus, pois Tu és santo e cheio de glória para sempre. Ámen.</p>
+<h1>Oração V</h1>
+<p>Senhor, nosso Deus, Tu que és bom e filantropo, perdoa os pecados que cometi hoje em palavras, atos e pensamentos. Concede-me um sono pacífico e imperturbável. Envia-me o Teu anjo da guarda para me proteger e me guardar de todo o mal. Pois Tu és o Guardião de nossas almas e dos nossos corpos, e a Ti damos glória, ao Pai ao Filho e ao Espírito Santo, agora e sempiternamente e pelos séculos dos séculos. Ámen.</p>
+<h1>Oração VI</h1>
+<p>Senhor nosso Deus, em quem cremos e cujo nome invocamos acima de qualquer outro, concede-nos, agora que vamos dormir, descanso para o corpo e para a alma, afasta-nos dos sonhos e dos prazeres obscuros; acalma as investidas furiosas das paixões e extingue o fogo que arde na carne. Concede-nos que vivamos castamente em atos e palavras e que possamos obter uma vida virtuosa, sem nos afastarmos das bênçãos que prometeste, pois Tu és bendito para sempre. Ámen.</p>
+<h1>Oração VII, de São João Crisóstomo, segundo o número de horas do dia e da noite</h1>
+<p>Senhor, não me prives dos Teus bens celestes.</p>
+<p>Senhor, livra-me dos tormentos eternos.</p>
+<p>Senhor, se pequei em mente, em pensamentos, em palavras ou em atos, perdoa-me.</p>
+<p>Senhor, livra-me de toda a ignorância, esquecimento, frivolidade e insensibilidade empedernida.</p>
+<p>Senhor, livra-me de toda tentação.</p>
+<p>Senhor, ilumina o meu coração que os desejos malignos turvaram.</p>
+<p>Senhor, eu como homem pequei, mas Tu, como Deus compassivo, tem piedade de mim ao veres a enfermidade da minha alma.</p>
+<p>Senhor, envia a Tua graça em meu socorro para que eu possa glorificar o Teu santo nome.</p>
+<p>Senhor Jesus Cristo, inscreve-me a mim, Teu servo, no Livro da Vida e concede-me um bom fim.</p>
+<p>Senhor meu Deus, ainda que não tenha feito nada de bom à Tua vista, concede-me pela Tua graça um bom começo.</p>
+<p>Senhor, derrama sobre o meu coração o orvalho da Tua graça.</p>
+<p>Senhor do céu e da terra, no Teu Reino, lembra-Te de Teu servo pecador, vergonhoso e impuro. Ámen.</p>
+<p>Senhor, aceita a minha penitência.</p>
+<p>Senhor, não me abandones.</p>
+<p>Senhor, não me deixes cair em tentação.</p>
+<p>Senhor, concede-me bons pensamentos.</p>
+<p>Senhor, concede-me lágrimas, lembrança da morte e contrição.</p>
+<p>Senhor, concede-me confessar meus pecados.</p>
+<p>Senhor, concede-me humildade, castidade e obediência.</p>
+<p>Senhor, concede-me paciência, coragem e mansidão.</p>
+<p>Senhor, implanta em mim a raiz do bem e o Teu temor em meu coração.</p>
+<p>Senhor, concede-me que Te ame com toda a minha alma e toda a minha mente, e que em tudo faça a Tua vontade.</p>
+<p>Senhor, protege-me dos homens maldosos, dos demónios, das paixões e de todas as coisas impróprias.</p>
+<p>Senhor, sei que tudo fazes segundo a Tua vontade: que a Tua vontade seja feita também em mim pecador, pois Tu és bendito pelos séculos dos séculos. Ámen.</p>
+<h1>Oração VIII, a nosso Senhor Jesus Cristo</h1>
+<p>Senhor Jesus Cristo, Filho de Deus, pela Tua honradíssima e Santa Mãe, e por Teus anjos incorpóreos, pelo profeta e precursor João Batista, pelos apóstolos inspirados por Deus, pelos gloriosos e vitoriosos mártires, pelos santos e teóforos padres, e pela intercessão de todos os santos, livra-me da presença perseguidora dos demónios. Sim, meu Senhor e Criador, que não desejas a morte do pecador, mas antes que ele se converta e viva, concede-me a mim, também, miserável que sou, a conversão. Resgata-me da boca da serpente perniciosa que está preste a devorar-me e levar-me vivo para os infernos. Sim, meu Senhor e Consolador, Tu que por amor ao miserável que sou, Te vestiste de carne corruptível, arranca-me da miséria e conforta a minha alma miserável. Implanta em meu coração o desejo de cumprir os Teus mandamentos, de abandonar as obras vis e de alcançar as Tuas bênçãos, pois em Ti, Senhor, pus a esperança, salva-me.</p>
+<h1>Oração IX, à Santíssima Mãe de Deus</h1>
+<p>Ó bondosa Mãe do Bondoso Rei, puríssima e abençoada Maria, Mãe de Deus, derrama sobre a minha alma cheia de paixões a misericórdia de teu Filho e nosso Deus. Pela tua intercessão, conduz-me a boas obras, a fim de que eu possa passar o resto da minha vida sem mancha e que por ti possa atingir o paraíso, Virgem Mãe de Deus, pois tu és a única pura e abençoada.</p>
+<h1>Oração X, ao Santo Anjo Guardião</h1>
+<p>Anjo de Cristo, meu santo guardião e protetor da minha alma e do meu corpo, perdoa-me todos os pecados que cometi neste dia, livra-me de todo o mal que me causam os meus inimigos para que eu não ofenda o meu Deus com nenhum pecado. Ora por mim que sou pecador e indigno, para que eu me torne digno do amor e da misericórdia da Santíssima Trindade, e da santa Mãe do meu Senhor Jesus Cristo e de todos os santos. Ámen.</p>
+<h1>Kondakion da Deípara</h1>
+<p>À vitoriosa estratega, os louros de vitória! Resgatados das cadeias, nós, povo teu, ó Deípara, exaramos-te ação de graças! E pois que deténs um poder irresistível, livra-nos de todo o perigo, para que a ti possamos bradar: \"Salve, esposa indesposada!\"</p>
+<p>Gloriosíssima, Sempre Virgem Mãe de Cristo Deus, apresenta nossa oração ao teu Filho e nosso Deus: que por ti Ele salve as nossas almas! Toda a minha esperança deposito em ti, ó Mãe de Deus; guarda-me sob a tua proteção, Virgem Deípara, e não desprezes o pecador que sou, pois careço do teu socorro e da tua proteção. Tem piedade de mim, pois minha alma em ti espera.</p>
+<h1>Oração de São Joanice</h1>
+<p>Minha esperança é o Pai, meu refúgio o Filho, minha proteção o Espírito Santo; Santíssima Trindade, glória a Ti.</p>
+<p>Digno é na verdade honrar-te, ó Deípara, sempre venturosa e toda Imaculada, e Mãe do nosso Deus. Mais veneranda que os Querubins e mais gloriosa, sem comparação, que os Serafins, a ti que, sem corrupção, deste nascimento ao Verbo de Deus, a ti, vera Deípara, nós te magnificamos.</p>
+<p>Glória ao Pai ao Filho e ao Espírito Santo, agora e sempiternamente e pelos séculos dos séculos. Ámen.</p>
+<p>Kyrie, eléison. <em>(3x)</em></p>
+<p>Senhor Jesus Cristo, Filho de Deus, pelas orações da Tua puríssima Mãe, dos nossos santos e teóforos padres, e de todos os santos, tem piedade de nós. Ámen.</p>
+<p><em>Antes de se deitar, pode continuar com as seguintes orações:</em></p>
+<h1>Oração de São João Damasceno, para ser dita apontando para a cama</h1>
+<p>Ó filantropo Soberano, será este leito o meu túmulo ou iluminarás Tu a minha pobre alma com mais um dia? Vê, estão diante de mim o túmulo e a morte. Senhor, temo o Teu julgamento e os tormentos infindáveis; e mesmo assim não cesso de fazer o mal. Senhor meu Deus, continuamente Te desagrado e à Tua santíssima Mãe, às hostes celestes e ao meu Santo Anjo da Guarda. Senhor, sei que sou indigno da Tua filantropia, sou tão somente digno de toda a condenação e tormento. Senhor, que eu o procure ou não, salva-me, pois salvares um justo não é obra, nem maravilha teres misericórdia do que é puro, pois são dignos do Teu amor. Mostra-me as maravilhas da Tua misericórdia revelando a Tua filantropia. Não permitas que a minha iniqüidade prevaleça sobre a Tua inefável bondade e sobre a Tua misericordiosa benevolência; dispõe da minha vida como o desejares.</p>
+<p><em>Quando estiveres preste a deitar-te, dize:</em></p>
+<p>Ilumina meus olhos, Cristo Deus, para que eu não adormeça na morte, e que o meu inimigo jamais diga: eu prevaleci contra ele.</p>
+<p><em>Glória ao Pai ao Filho e ao Espírito Santo.</em></p>
+<p>Sê o amparo da minha alma, ó Deus, pois passo por muitos embustes; liberta-me deles e salva-me, ó Bondoso, pois és Bom e Filantropo.</p>
+<p><em>Agora e sempiternamente e pelos séculos dos séculos. Ámen.</em></p>
+<p>Gloriosíssima Mãe de Deus, mais santa que os santos anjos, cantando-te incessantemente com nossos corações e nossas bocas, confessamos que és Deípara, pois verdadeiramente deste à luz a Deus encarnado por nós, e oras incessantemente pelas nossas almas.</p>
+<p><em>Beija a Cruz e faze com ela o sinal da cruz da cabeceira aos pés da cama e de um a outro lado, enquanto dizes:</em></p>
+<h1>A oração à Preciosa Cruz</h1>
+<p>Erga-Se Deus e dispersem-se os Seus inimigos, e fujam da Sua face os que O odeiam. Como se dissipa o fumo, assim se dissipem; como ante o fogo funde a cera. Assim desapareçam os demónios de ante a face de Deus; e rejubilarão os justos que amam a Deus e fazem o sinal da Cruz, dizendo: salve, Cruz do Senhor, preciosíssima Dadora de Vida, pois afugentaste os demónios pelo poder de nosso Senhor Jesus Cristo que em ti foi crucificado, que desceu aos infernos e esmagou o poderio do demónio, que a nós te deu, ó preciosa Cruz, para afastar todo o adversário. Ó preciosíssima e vivífica Cruz do Senhor, juntamente com a Santa Senhora, a Virgem Deípara, e todos os santos, salva-me pelos séculos dos séculos. Ámen.</p>
+<p><em>Ou:</em> Circunda-me, Senhor, com o poder da Tua preciosa e vivificante Cruz e preserva-me de todo o mal.</p>
+<p><em>Em seguida, pedindo perdão ao próximo, dize:</em></p>
+<p>Apaga, releva, perdoa, ó Deus, as nossas ofensas voluntárias e involuntárias, cometidas em atos e palavras, com conhecimento ou em ignorância, de dia e de noite, na mente e no pensamento; perdoa-nos todas as coisas pois Tu és bom e filantropo.</p>
+<p>Ó filantropo Senhor, aos que nos odeiam e nos fazem mal, perdoa-lhes; aos que nos fazem bem, faze o bem. Concede aos nossos irmãos e próximos a salvação e a vida eterna; visita os enfermos e concede-lhes a cura. Guia os que estão no mar. Acompanha os que viajam. Socorre os cristãos ortodoxos em seus combates. Concede o perdão dos pecados àqueles que nos servem e são bons para connosco. Segundo a Tua imensa misericórdia, tem piedade daqueles que nos pediram para orar por eles. Lembra-Te, Senhor, dos nossos pais e irmãos que partiram antes de nós, e concede-lhes o repouso onde brilha a luz da Tua face. Lembra-Te, Senhor, dos nossos irmãos em cativeiro, e livra-os de todo o infortúnio.</p>
+<p>Lembra-Te, Senhor, dos que oferecem os frutos da terra e fazem boas obras em Tuas santas igrejas: concede-lhes a salvação e a vida eterna. Lembra-Te, também, Senhor, dos Teus servos vis, pecadores e indignos. Ilumina a nossa mente com a luz do Teu conhecimento e guia-nos pelo caminho dos Teus mandamentos, pela intercessão da nossa Puríssima Senhora, Deípara e Sempre Virgem Maria, e de todos os santos, pois és bendito pelos séculos dos séculos. Ámen.</p>
+<h1>Confissão diária dos pecados</h1>
+<p>A Ti confesso, Senhor meu Deus, meu Criador, glorificado e adorado em uma Santíssima Trindade, Pai, Filho e Espírito Santo, todos os pecados que cometi em todos os dias e horas de minha vida, no presente e no passado, durante o dia e durante a noite, por atos, palavras, pensamentos, gula, embriaguez, voracidade, vã loquacidade, desânimo, indolência, espírito de contradição, desobediência, calúnia, julgamento, negligência, vanglória, ganância, avidez, mentira, desonestidade, venalidade, ciúme, inveja, ira, memória das injúrias, ódio, suborno; e com todos os meus sentidos: visão, audição, olfato, paladar e tato; e por todos os outros meus pecados, da alma e do corpo, com que Te desagradei, meu Deus e meu Criador, e ofendi o meu próximo. Pesaroso por tudo, sou culpado diante de Ti, meu Deus, mas tenho o desejo de me arrepender. Ajuda-me apenas, Senhor meu Deus, em lágrimas humildemente To suplico. Pela Tua compaixão perdoa os meus pecados passados, e absolve-me do que confessei em Tua presença, pois és bom e filantropo.</p>
+<p><em>Quando estiveres preste a adormecer, dize:</em></p>
+<p>Em Tuas mãos, Senhor Jesus Cristo, meu Deus, entrego o meu espírito. Abençoa-me, tem misericórdia de mim e concede-me a vida eterna. Ámen.</p>
+</body>
+</html>
 `,
-                        "throughDayPrayersV2": `
-# Orações a serem ditas ao longo do dia
-
-# Antes de iniciar qualquer trabalho
-
-Senhor Jesus Cristo, Filho Unigénito de Teu Pai não originado, Tu
-que disseste com Teus puríssimos lábios: Sem mim vós nada podeis. Ó meu
-Soberano e Senhor, tendo aderido com fé às Tuas palavras, prostro-me
-perante a Tua bondade; ajuda o pecador que sou a, conTigo, concluir este
-trabalho que vou iniciar, em nome do Pai, do Filho e do Espírito Santo.
-Ámen.
-
-# Após terminar qualquer trabalho
-
-Tu és a plenitude de tudo o que é bom, meu Cristo; enche minha alma
-de júbilo e alegria e salva-me, pois Tu és o único abundante em
-misericórdia.
-
-# Antes de qualquer aula
-
-Ó Bondoso Senhor! Envia-nos a graça do Teu Espírito Santo, que
-concede dons e fortalece os poderes das nossas almas, a fim de que
-guardando o ensinamento que nos for transmitido, possamos crescer para
-Tua glória, nosso Criador, e para consolo dos nossos parentes e para
-serviço da Igreja e da nossa pátria.
-
-# Após qualquer aula
-
-Nós Te agradecemos, ó Criador, que nos concedeste a graça de
-entender esta aula. Abençoa os nossos mestres, pais e instrutores que
-nos guiam à consciência daquilo que é bom, e concede-nos poder e força
-para continuar este estudo.
-
-# Antes do pequeno-almoço, almoço e jantar
-
-Pai nosso, que estás nos Céus, santificado seja o Teu nome, venha a
-nós o Teu Reino, faça-se a Tua vontade assim na terra como no céu. O pão
-nosso de cada dia nos dá hoje; e perdoa as nossas dívidas, assim como
-nós perdoamos aos nossos devedores; e não nos deixes cair em tentação,
-mas livra-nos do maligno. Pois Teu é o Reino, o Poder e a Glória \[Pai,
-Filho e Espírito Santo\], agora e sempiternamente, e pelos séculos dos
-séculos. Ámen.
-
-# Ou
-
-Os olhos de todos em Ti esperam, pois Tu lhes concedes o Teu
-alimento em tempo oportuno. Abres a Tua mão e enches todo o ser vivo com
-a Tua benção.
-
-*Kyrie, eléison (3x)*
-
-*O superior:* Ó Cristo Deus, abençoa a comida e a bebida dos Teus
-servos, pois és Santo, pelos séculos dos séculos. Ámen.
-
-# Após as Refeições:
-
-Nós Te damos graças, Cristo nosso Deus, pois nos satisfizeste com
-Teus dons terrenos; não nos prives do Teu Reino celestial, mas assim
-como vieste aos Teus discípulos, ó Salvador, e lhes deste a Tua paz, vem
-a nós e salva-nos.
-
-Glória ao Pai ao Filho e ao Espírito Santo, Agora e sempiternamente
-e pelos séculos dos séculos. Ámen.
-
-Kyrie, eléison *(3x)*
-
-*O superior:* Bendito és, ó Deus, que na Tua misericórdia nos
-gratificas com Teus abundantes dons, pela Tua graça e filantropia, agora
-e sempiternamente, e pelos séculos dos séculos. Ámen.
+                        "throughDayPrayersV3": `
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: #25292e;
+  color: #fff;
+  padding: 0px 90px;
+  padding-bottom: 180px;
+}
+h1 {
+  font-size: 60px;
+  letter-spacing: 6px;
+  text-align: center;
+}
+p {
+  font-size: 43px;
+  letter-spacing: 0px;
+  text-align: justify;
+  font-weight: 400;
+}
+em {
+  color: #999;
+}
+</style>
+</head>
+<body>
+<h1>ORAÇÕES A SEREM DITAS AO LONGO DO DIA</h1>
+<hr />
+<h1>Antes de iniciar qualquer trabalho</h1>
+<p>Senhor Jesus Cristo, Filho Unigénito de Teu Pai não originado, Tu que disseste com Teus puríssimos lábios: Sem mim vós nada podeis. Ó meu Soberano e Senhor, tendo aderido com fé às Tuas palavras, prostro-me perante a Tua bondade; ajuda o pecador que sou a, conTigo, concluir este trabalho que vou iniciar, em nome do Pai, do Filho e do Espírito Santo. Ámen.</p>
+<h1>Após terminar qualquer trabalho</h1>
+<p>Tu és a plenitude de tudo o que é bom, meu Cristo; enche minha alma de júbilo e alegria e salva-me, pois Tu és o único abundante em misericórdia.</p>
+<h1>Antes de qualquer aula</h1>
+<p>Ó Bondoso Senhor! Envia-nos a graça do Teu Espírito Santo, que concede dons e fortalece os poderes das nossas almas, a fim de que guardando o ensinamento que nos for transmitido, possamos crescer para Tua glória, nosso Criador, e para consolo dos nossos parentes e para serviço da Igreja e da nossa pátria.</p>
+<h1>Após qualquer aula</h1>
+<p>Nós Te agradecemos, ó Criador, que nos concedeste a graça de entender esta aula. Abençoa os nossos mestres, pais e instrutores que nos guiam à consciência daquilo que é bom, e concede-nos poder e força para continuar este estudo.</p>
+<h1>Antes do pequeno-almoço, almoço e jantar</h1>
+<p>Pai nosso, que estás nos Céus, santificado seja o Teu nome, venha a nós o Teu Reino, faça-se a Tua vontade assim na terra como no céu. O pão nosso de cada dia nos dá hoje; e perdoa as nossas dívidas, assim como nós perdoamos aos nossos devedores; e não nos deixes cair em tentação, mas livra-nos do maligno. Pois Teu é o Reino, o Poder e a Glória \[Pai, Filho e Espírito Santo\], agora e sempiternamente, e pelos séculos dos séculos. Ámen.</p>
+<h1>Ou</h1>
+<p>Os olhos de todos em Ti esperam, pois Tu lhes concedes o Teu alimento em tempo oportuno. Abres a Tua mão e enches todo o ser vivo com a Tua benção.</p>
+<p><em>Kyrie, eléison (3x)</em></p>
+<p><em>O superior:</em> Ó Cristo Deus, abençoa a comida e a bebida dos Teus servos, pois és Santo, pelos séculos dos séculos. Ámen.</p>
+<h1>Após as Refeições:</h1>
+<p>Nós Te damos graças, Cristo nosso Deus, pois nos satisfizeste com Teus dons terrenos; não nos prives do Teu Reino celestial, mas assim como vieste aos Teus discípulos, ó Salvador, e lhes deste a Tua paz, vem a nós e salva-nos.</p>
+<p>Glória ao Pai ao Filho e ao Espírito Santo, Agora e sempiternamente e pelos séculos dos séculos. Ámen.</p>
+<p>Kyrie, eléison <em>(3x)</em></p>
+<p><em>O superior:</em> Bendito és, ó Deus, que na Tua misericórdia nos gratificas com Teus abundantes dons, pela Tua graça e filantropia, agora e sempiternamente, e pelos séculos dos séculos. Ámen.</p>
+</body>
+</html>
 `,
                 },
                 "settingsContent": {

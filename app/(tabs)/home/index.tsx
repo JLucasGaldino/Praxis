@@ -2,32 +2,40 @@ import { Text, View, StyleSheet, ScrollView, Dimensions } from "react-native";
 import { Link, router } from "expo-router";
 import NavButton from "@/components/NavButton";
 import { useLanguage } from "@/constants/LanguageContext";
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import * as Localization from 'expo-localization';
 import { I18n } from 'i18n-js';
 import translations from "@/translations.json";
 import Orthocal from "@/components/Orthocal";
 import CommonSlider from "@/components/CommonSlider";
-import { ImageSlider, CommunionSlider } from '@/constants/CommonPrayerSliderData';
+import { ImageSlider, CommunionSlider, ImageSliderEn } from '@/constants/CommonPrayerSliderData';
 
 const i18n = new I18n(translations);
 
 export default function Index() {
   const { language } = useLanguage();
-  let [locale, setLocale] = useState(Localization.locale);
-  i18n.defaultLocale = "en";
-  i18n.locale = language;
 
-  // Set slider data according to language
-  let imageSlider = {};
-  imageSlider = ImageSlider;
-  let communionSlider = {};
-  communionSlider = CommunionSlider;
+  // Set up state for sliders
+  const [imageSlider, setImageSlider] = useState(ImageSlider);
+  const [communionSlider, setCommunionSlider] = useState(CommunionSlider);
+
+  useEffect(() => {
+    i18n.defaultLocale = "en";
+    i18n.locale = language;
+
+    if (language === 'en') {
+      setImageSlider(ImageSliderEn);
+    } else {
+      setImageSlider(ImageSlider);
+    }
+
+  }, [language])
+
 
   return (
       <View style={styles.container}>
           <ScrollView style={styles.scrollView} horizontal={false}>
-              <Text style={styles.heading2}>{i18n.t("pageTitles.selectDate")}</Text>
+              <Text style={[styles.heading, {marginBottom: -30,}]}>{i18n.t("pageTitles.synaxarion")}</Text>
               <Orthocal></Orthocal>
               <View style = {styles.container}>
                 <Text style={styles.heading}>{i18n.t("pageTitles.commonPrayers")}</Text>

@@ -27,6 +27,33 @@ export const ImageSlider = [
     },
 ];
 
+export const ImageSliderEn = [
+    {
+        title: 'Morning Prayers',
+        image: require('@/assets/images/orthodox-morning.jpg'),
+        description: 'morning prayers',
+        link: '/home/prayers/morning-prayers-v2'
+    },
+    {
+        title: 'Midday Prayers',
+        image: require('@/assets/images/orthodox-day.jpg'),
+        description: 'midday prayers',
+        link: '/home/prayers/through-day-prayers-v2'
+    },
+    {
+        title: 'Evening Prayers',
+        image: require('@/assets/images/orthodox-night.jpg'),
+        description: 'evening prayers',
+        link: '/home/prayers/evening-prayers-v2'
+    },
+    {
+        title: 'Occasional Prayers',
+        image: require('@/assets/images/orthodox-day.jpg'),
+        description: 'occasional prayers',
+        link: '/home/prayers/evening-prayers-v2'
+    },
+];
+
 export const CommunionSlider = [
     {
         title: 'confession instructions',

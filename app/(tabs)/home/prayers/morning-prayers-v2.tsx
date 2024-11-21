@@ -2,63 +2,30 @@ import { Text, View, StyleSheet, ScrollView } from 'react-native';
 import { useLanguage } from "@/constants/LanguageContext";
 import { I18n } from 'i18n-js';
 import translations from "@/translations.json";
-import Markdown from 'react-native-markdown-display';
+import { WebView } from 'react-native-webview';
 
 const i18n = new I18n(translations);
 
-const rules = {
-    heading1: (node, children, parent, styles) =>
-        <Text key={node.key} style={{textAlign: 'center', marginTop: 20, marginBottom: 20,}}>
-            {children}
-        </Text>
-}
-
-export default function ConfessionGuide() {
+export default function MorningPrayers() {
     const { language } = useLanguage()
     i18n.defaultLocale = "en";
     i18n.locale = language;
+    const prayerHtml = i18n.t("prayerContent.morningPrayersV3");
     return(
         <View style={styles.container}>
-            <ScrollView style={styles.scrollView} horizontal={false}>
-                <Markdown rules={rules} style={styles.markdown} >{i18n.t("prayerContent.morningPrayersV2")}</Markdown>
-            </ScrollView>
+            <WebView
+                originWhitelist={['*']}
+                source={{ html: prayerHtml }}
+            />
         </View>
     );
 }
 
 const styles = StyleSheet.create({
-    markdown: {
-        body: {
-            color: '#fff',
-            fontSize: 18,
-        },
-        em: {
-            color: '#999',
-            fontSize: 18,
-            fontStyle: 'normal',
-            alignSelf: 'stretch',
-            textAlign: 'justify',
-        },
-        strong: {
-            fontWeight: '800',
-        },
-        textgroup: {
-            textAlign: 'justify',
-        },
-        heading1: {
-            fontSize: 25,
-            fontWeight: '600',
-            letterSpacing: 1.5,
-        },
-    },
     container: {
         flex: 1,
         backgroundColor: '#25292e',
         justifyContent: 'flex-start',
         alignItems: 'stretch',
-    },
-    scrollView: {
-        flex: 1,
-        paddingHorizontal: 40,
     },
 });
