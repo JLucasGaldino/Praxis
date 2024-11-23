@@ -65,6 +65,8 @@ const SliderItem = ({ item, index, scrollX }: Props) => {
         setActualTitle(i18n.t("pageTitles.communionOffice"));
     } else if (actualTitle === 'communion thanks') {
         setActualTitle(i18n.t("pageTitles.communionThanks"));
+    } else if (actualTitle === 'Midday Prayers') {
+        setActualTitle(i18n.t("pageTitles.middayPrayers"));
     }
 
     if (actualDescription === 'morning prayers') {

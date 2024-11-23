@@ -8,7 +8,7 @@ import { I18n } from 'i18n-js';
 import translations from "@/translations.json";
 import Orthocal from "@/components/Orthocal";
 import CommonSlider from "@/components/CommonSlider";
-import { ImageSlider, CommunionSlider, ImageSliderEn } from '@/constants/CommonPrayerSliderData';
+import { ImageSlider, CommunionSlider, ImageSliderEn, CommunionSliderEn } from '@/constants/CommonPrayerSliderData';
 
 const i18n = new I18n(translations);
 
@@ -25,8 +25,10 @@ export default function Index() {
 
     if (language === 'en') {
       setImageSlider(ImageSliderEn);
+      setCommunionSlider(CommunionSliderEn);
     } else {
       setImageSlider(ImageSlider);
+      setCommunionSlider(CommunionSlider);
     }
 
   }, [language])

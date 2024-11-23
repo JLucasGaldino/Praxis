@@ -44,7 +44,6 @@ const Settings = () => {
           <Picker.Item label={i18n.t("settingsContent.calendarSelection.gregorian")} value="greg" />
         </Picker>
       </View>
-      <Text style={styles.text}>{i18n.t("settingsContent.notice")}</Text>
     </View>
   );
 };

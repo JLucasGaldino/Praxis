@@ -10,7 +10,7 @@ export default function MorningPrayers() {
     const { language } = useLanguage()
     i18n.defaultLocale = "en";
     i18n.locale = language;
-    const prayerHtml = i18n.t("prayerContent.confessionInstruction");
+    const prayerHtml = i18n.t("prayerContent.afterConfession");
     return(
         <View style={styles.container}>
             <WebView

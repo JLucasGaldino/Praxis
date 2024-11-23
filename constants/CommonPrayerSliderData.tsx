@@ -1,4 +1,8 @@
 import { ImageSourcePropType } from "react-native";
+import translations from "@/translations.json";
+import { I18n } from 'i18n-js';
+
+const i18n = new I18n(translations);
 
 export type ImageSliderType = {
     title: string;
@@ -8,21 +12,21 @@ export type ImageSliderType = {
 
 export const ImageSlider = [
     {
-        title: 'Morning Prayers',
+        title: 'Matinais',
         image: require('@/assets/images/orthodox-morning.jpg'),
-        description: 'morning prayers',
+        description: 'Orações matinais',
         link: '/home/prayers/morning-prayers-v2'
     },
     {
-        title: 'Daily Prayers',
+        title: 'Ao longo do dia',
         image: require('@/assets/images/orthodox-day.jpg'),
-        description: 'daily prayers',
+        description: 'Orações a serem ditas ao longo do dia',
         link: '/home/prayers/through-day-prayers-v2'
     },
     {
-        title: 'Evening Prayers',
+        title: 'Antes de dormir',
         image: require('@/assets/images/orthodox-night.jpg'),
-        description: 'evening prayers',
+        description: 'Orações para antes de dormir',
         link: '/home/prayers/evening-prayers-v2'
     },
 ];
@@ -31,52 +35,79 @@ export const ImageSliderEn = [
     {
         title: 'Morning Prayers',
         image: require('@/assets/images/orthodox-morning.jpg'),
-        description: 'morning prayers',
+        description: '',
         link: '/home/prayers/morning-prayers-v2'
     },
     {
         title: 'Midday Prayers',
         image: require('@/assets/images/orthodox-day.jpg'),
-        description: 'midday prayers',
-        link: '/home/prayers/through-day-prayers-v2'
+        description: '',
+        link: '/home/prayers/midday-prayers'
     },
     {
         title: 'Evening Prayers',
         image: require('@/assets/images/orthodox-night.jpg'),
-        description: 'evening prayers',
+        description: '',
         link: '/home/prayers/evening-prayers-v2'
     },
     {
         title: 'Occasional Prayers',
         image: require('@/assets/images/orthodox-day.jpg'),
-        description: 'occasional prayers',
-        link: '/home/prayers/evening-prayers-v2'
+        description: 'Prayers for every occasion',
+        link: '/home/prayers/occasional-prayers'
     },
 ];
 
 export const CommunionSlider = [
     {
-        title: 'confession instructions',
+        title: 'Breve instrução',
         image: require('@/assets/images/orthodox-confession-instruction.jpg'),
-        description: 'confession instructions',
+        description: 'sobre a confissão',
         link: '/home/prayers/confession-instructions'
     },
     {
-        title: 'confession guide',
+        title: 'Guia',
         image: require('@/assets/images/orthodox-confession-guide.jpg'),
-        description: 'confession guide',
+        description: 'para a confissão',
         link: '/home/prayers/confession-guide'
     },
     {
-        title: 'communion office',
+        title: 'Ofício particular preparatório',
         image: require('@/assets/images/orthodox-communion-office.jpg'),
-        description: 'communion office',
+        description: 'para a Sagrada Comunhão',
         link: '/home/prayers/communion-office'
     },
     {
-        title: 'communion thanks',
+        title: 'Orações de ação de graças',
         image: require('@/assets/images/orthodox-communion-thanks.jpg'),
-        description: 'communion thanks',
+        description: 'pela Sagrada Comunhão',
+        link: '/home/prayers/communion-thanks'
+    },
+];
+
+export const CommunionSliderEn = [
+    {
+        title: 'Self examination',
+        image: require('@/assets/images/orthodox-confession-instruction.jpg'),
+        description: 'before confession',
+        link: '/home/prayers/self-examination'
+    },
+    {
+        title: 'Prayers after confession',
+        image: require('@/assets/images/orthodox-confession-guide.jpg'),
+        description: '',
+        link: '/home/prayers/after-confession'
+    },
+    {
+        title: 'Prayers in preparation',
+        image: require('@/assets/images/orthodox-communion-office.jpg'),
+        description: 'for Holy Communion',
+        link: '/home/prayers/communion-office'
+    },
+    {
+        title: 'Prayers of thanksgiving',
+        image: require('@/assets/images/orthodox-communion-thanks.jpg'),
+        description: 'after Holy Communion',
         link: '/home/prayers/communion-thanks'
     },
 ];

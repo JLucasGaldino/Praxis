@@ -49,6 +49,18 @@ export default function Layout() {
             <Stack.Screen name="prayers/morning-prayers-v2" options={{
                 headerTitle: i18n.t("pageTitles.morningPrayers"),
             }} />
+            <Stack.Screen name="prayers/midday-prayers" options={{
+                headerTitle: "Midday prayers",
+            }} />
+            <Stack.Screen name="prayers/occasional-prayers" options={{
+                headerTitle: "Occasional prayers",
+            }} />
+            <Stack.Screen name="prayers/self-examination" options={{
+                headerTitle: "Self examination",
+            }} />
+            <Stack.Screen name="prayers/after-confession" options={{
+                headerTitle: "After confession",
+            }} />
         </Stack>
     );
 }

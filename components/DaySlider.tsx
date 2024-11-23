@@ -1,7 +1,7 @@
 import { FlatList, StyleSheet, Text, View, ViewToken } from 'react-native';
 import React, { useState, useRef } from 'react';
 import { ImageSlider, ImageSliderType } from '@/constants/CommonPrayerSliderData';
-import Pagination from '@/components/Pagination';
+/* import Pagination from '@/components/Pagination'; */
 import SliderItemDay from './SliderItemDay';
 import Animated, { useAnimatedScrollHandler, useSharedValue } from 'react-native-reanimated';
 
@@ -48,7 +48,7 @@ const CommonSlider = ({itemList} : Props) => {
                 removeClippedSubviews={false}
                 viewabilityConfigCallbackPairs={viewabilityConfigCallbackPairs.current}
             />
-            <Pagination items={itemList} scrollX={scrollX} paginationIndex={paginationIndex} />
+            {/* <Pagination items={itemList} scrollX={scrollX} paginationIndex={paginationIndex} /> */}
         </View>
     );
 }

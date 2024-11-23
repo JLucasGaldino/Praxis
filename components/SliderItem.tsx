@@ -48,57 +48,14 @@ const SliderItem = ({ item, index, scrollX }: Props) => {
         }
     });
 
-    const [actualTitle, setActualTitle] = useState(item.title);
-    const [actualDescription, setActualDescription] = useState(item.description);
-
-    if (actualTitle === 'Morning Prayers') {
-        setActualTitle(i18n.t("pageTitles.morningPrayers"));
-    } else if (actualTitle === 'Daily Prayers') {
-        setActualTitle(i18n.t("pageTitles.throughDayPrayers"));
-    } else if (actualTitle === 'Evening Prayers') {
-        setActualTitle(i18n.t("pageTitles.eveningPrayers"));
-    } else if (actualTitle === 'confession instructions') {
-        setActualTitle(i18n.t("pageTitles.confessionInstruction"));
-    } else if (actualTitle === 'confession guide') {
-        setActualTitle(i18n.t("pageTitles.confessionGuide"));
-    } else if (actualTitle === 'communion office') {
-        setActualTitle(i18n.t("pageTitles.communionOffice"));
-    } else if (actualTitle === 'communion thanks') {
-        setActualTitle(i18n.t("pageTitles.communionThanks"));
-    } else if (actualTitle === 'Midday Prayers') {
-        setActualTitle(i18n.t("pageTitles.middayPrayers"));
-    } else if (actualTitle === 'Occasional Prayers') {
-        setActualTitle(i18n.t("pageTitles.occasionalPrayers"))
-    }
-
-    if (actualDescription === 'morning prayers') {
-        setActualDescription(i18n.t("pageDescriptions.morningPrayers"));
-    } else if (actualDescription === 'daily prayers') {
-        setActualDescription(i18n.t("pageDescriptions.throughDayPrayers"));
-    } else if (actualDescription === 'evening prayers') {
-        setActualDescription(i18n.t("pageDescriptions.eveningPrayers"));
-    } else if (actualDescription === 'confession instructions') {
-        setActualDescription(i18n.t("pageDescriptions.confessionInstruction"));
-    } else if (actualDescription === 'confession guide') {
-        setActualDescription(i18n.t("pageDescriptions.confessionGuide"));
-    } else if (actualDescription === 'communion office') {
-        setActualDescription(i18n.t("pageDescriptions.communionOffice"));
-    } else if (actualDescription === 'communion thanks') {
-        setActualDescription(i18n.t("pageDescriptions.communionThanks"))
-    } else if (actualDescription === 'midday prayers') {
-        setActualDescription(i18n.t("pageDescriptions.middayPrayers"));
-    } else if (actualDescription === 'occasional prayers') {
-        setActualDescription(i18n.t("pageDescriptions.occasionalPrayers"));
-    }
-
     return (
         <Animated.View style={[styles.itemContainer, rnAnimatedStyle]}>
             <Pressable onPress={() => router.push(item.link)}>
                 <Image source={item.image} style={{width: 300, height: 500, borderRadius: 20,}} />
                 <LinearGradient colors={['transparent', 'rgba(0,0,0,0.8)']} style={styles.background}>
                     <View style={{gap: 10,}}>
-                        <Text style={styles.title}>{actualTitle}</Text>
-                        <Text style={styles.description}>{actualDescription}</Text>
+                        <Text style={styles.title}>{item.title}</Text>
+                        <Text style={styles.description}>{item.description}</Text>
                     </View>
                 </LinearGradient>
             </Pressable>
