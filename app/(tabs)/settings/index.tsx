@@ -1,6 +1,7 @@
 import React from 'react';
-import { Text, View, StyleSheet } from 'react-native';
+import { Text, View, StyleSheet, Pressable } from 'react-native';
 import { Picker } from '@react-native-picker/picker';
+import { router } from 'expo-router';
 import { useLanguage } from '@/constants/LanguageContext';
 import { useCalendar } from '@/constants/CalContext';
 import { useState } from 'react';
@@ -43,6 +44,9 @@ const Settings = () => {
           <Picker.Item label={i18n.t("settingsContent.calendarSelection.julian")} value="jul" />
           <Picker.Item label={i18n.t("settingsContent.calendarSelection.gregorian")} value="greg" />
         </Picker>
+        <Pressable onPress={() => router.push('/settings/about')}>
+          <Text style={styles.link}>{i18n.t("settingsContent.about")}</Text>
+        </Pressable>
       </View>
     </View>
   );
@@ -59,6 +63,11 @@ const styles = StyleSheet.create({
   text: {
     color: '#fff',
     fontSize: 20,
+  },
+  link: {
+    color: '#fff',
+    fontSize: 20,
+    textDecorationLine: 'underline'
   },
   pickerContainer: {
     width: 200,

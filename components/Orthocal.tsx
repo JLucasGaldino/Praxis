@@ -119,7 +119,7 @@ const Orthocal = () => {
         return({
             titles: langCal[index].titles.join(" • "),
             fasting: langCal[index].fast_exception_desc === "" ? langCal[index].fast_level_desc : langCal[index].fast_level_desc + " — " + langCal[index].fast_exception_desc,
-            commemorations: langCal[index].feasts === null || langCal[index].saints === null ? (langCal[index].feasts === null ? langCal[index].saints.join(" • ") : langCal[index].feasts.join(" • ")) : langCal[index].feasts.concat(langCal[index]).join(" • "),
+            commemorations: langCal[index].feasts === null || langCal[index].saints === null ? (langCal[index].feasts === null ? langCal[index].saints.join(" • ") : langCal[index].feasts.join(" • ")) : langCal[index].feasts.concat(langCal[index].saints).join(" • "),
             readings: langCal[index].abbreviated_reading_indices.map((i) => langCal[index].readings[i].display).join(" • "),
         });
     };
@@ -185,8 +185,8 @@ const Orthocal = () => {
                             mode={mode}
                             is24Hour={true}
                             onChange={onChange}
-                            minimumDate={new Date(2024, 8, 28)}
-                            maximumDate={new Date(2025, 3, 26)}
+                            minimumDate={new Date(2024, 0, 1)}
+                            maximumDate={new Date(2026, 11, 31)}
                         />
                     )}
                 </Pressable>

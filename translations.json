@@ -1,74 +1,118 @@
 {
-        "en": {
-                "cardContent": {
-                        "commemorations": "Commemorations",
-                        "readings": "Readings",
-                },
-                "calendar": {
-                        "weekDays": {
-                                "sunday": "Sunday",
-                                "monday": "Monday",
-                                "tuesday": "Tuesday",
-                                "wednesday": "Wednesday",
-                                "thursday": "Thursday",
-                                "friday": "Friday",
-                                "saturday": "Saturday",
-                        },
-                        "monthNames": {
-                                "0": "January",
-                                "1": "February",
-                                "2": "March",
-                                "3": "April",
-                                "4": "May",
-                                "5": "June",
-                                "6": "July",
-                                "7": "August",
-                                "8": "September",
-                                "9": "October",
-                                "10": "November",
-                                "11": "December",
-                        },
-                },
-                "pageTitles": {
-                        "synaxarion": "Synaxarion",
-                        "prayers": "Prayers",
-                        "settings": "Settings",
-                        "commonPrayers": "Daily prayers",
-                        "morningPrayers": "Morning prayers",
-                        "eveningPrayers": "Evening prayers",
-                        "throughDayPrayers": "Throughout the day",
-                        "middayPrayers": "Midday Prayers",
-                        "selectDate": "Select a date",
-                        "communion": "Sacred Communion",
-                        "occasionalPrayers": "Occasional Prayers",
-                        "communionOffice": "Before Holy Communion",
-                        "communionThanks": "Thanksgiving for Holy Communion"
-                },
-                "pageDescriptions": {
-                        "morningPrayers": "Prayers for the morning",
-                        "throughDayPrayers": "Prayers to say throughout the day",
-                        "eveningPrayers": "Prayers to say before sleep",
-                        "confessionInstruction": "sobre a confissão",
-                        "confessionGuide": "para a confissão",
-                        "communionOffice": "para a Sagrada Comunhão",
-                        "communionThanks": "pela Sagrada Comunhão",
-                        "occasionalPrayers": "Prayers for various occasions"
-                },
-                "settingsContent": {
-                        "languages": "Languages",
-                        "languageSelection": {
-                                "english": "English",
-                                "portuguese": "Portuguese",
-                        },
-                        "notice": "Please understand that, since this app is in development, it does not yet contain the full prayers in English.",
-                        "calendar": "Calendar",
-                        "calendarSelection": {
-                                "julian": "Julian",
-                                "gregorian": "Gregorian",
-                        }
-                },
-                "prayerContent": {
-                        "morningPrayersV3": `
+  "en": {
+    "cardContent": {
+      "commemorations": "Commemorations",
+      "readings": "Readings"
+    },
+    "calendar": {
+      "weekDays": {
+        "sunday": "Sunday",
+        "monday": "Monday",
+        "tuesday": "Tuesday",
+        "wednesday": "Wednesday",
+        "thursday": "Thursday",
+        "friday": "Friday",
+        "saturday": "Saturday",
+      },
+      "monthNames": {
+        "0": "January",
+        "1": "February",
+        "2": "March",
+        "3": "April",
+        "4": "May",
+        "5": "June",
+        "6": "July",
+        "7": "August",
+        "8": "September",
+        "9": "October",
+        "10": "November",
+        "11": "December",
+      },
+    },
+    "pageTitles": {
+      "synaxarion": "Synaxarion",
+      "prayers": "Prayers",
+      "settings": "Settings",
+      "commonPrayers": "Daily prayers",
+      "morningPrayers": "Morning prayers",
+      "eveningPrayers": "Evening prayers",
+      "throughDayPrayers": "Throughout the day",
+      "middayPrayers": "Midday Prayers",
+      "selectDate": "Select a date",
+      "communion": "Sacred Communion",
+      "occasionalPrayers": "Occasional Prayers",
+      "communionOffice": "Before Holy Communion",
+      "communionThanks": "Thanksgiving for Holy Communion"
+    },
+    "pageDescriptions": {
+      "morningPrayers": "Prayers for the morning",
+      "throughDayPrayers": "Prayers to say throughout the day",
+      "eveningPrayers": "Prayers to say before sleep",
+      "confessionInstruction": "sobre a confissão",
+      "confessionGuide": "para a confissão",
+      "communionOffice": "para a Sagrada Comunhão",
+      "communionThanks": "pela Sagrada Comunhão",
+      "occasionalPrayers": "Prayers for various occasions"
+    },
+    "settingsContent": {
+      "languages": "Languages",
+      "languageSelection": {
+        "english": "English",
+        "portuguese": "Portuguese",
+      },
+      "notice": "Please understand that, since this app is in development, it does not yet contain the full prayers in English.",
+      "calendar": "Calendar",
+      "calendarSelection": {
+        "julian": "Julian",
+        "gregorian": "Gregorian",
+      },
+      "about": "About",
+      "aboutPage": `
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: #25292e;
+  color: #fff;
+  padding: 0px 90px;
+  padding-bottom: 180px;
+}
+h1 {
+  font-size: 60px;
+  letter-spacing: 6px;
+  text-align: center;
+}
+p {
+  font-size: 43px;
+  letter-spacing: 0px;
+  text-align: justify;
+  font-weight: 400;
+}
+em {
+  color: #999;
+}
+a {
+  text-decoration: none;
+  color: #72a4f2;
+}
+</style>
+</head>
+<body>
+<h1>ABOUT</h1>
+<hr />
+<p><strong>Praxis</strong> is an open-source mobile app designed to help Orthodox Christians have easy access to the liturgical calendar and to their daily prayers. It was built using <a target='_blank' href='https://expo.dev/'>Expo</a> and <a target='_blank' href='https://reactnative.dev/'>React Native</a>.</p>
+<p>The texts currently included are works of the <a target='_blank' href='https://www.ortodoxia.pt/'>Russian Orthodox Church in Portugal</a> and the <a target='_blank' href='https://www.antiochian.org/home'>Antiochian Orthodox Church in America</a>. If you would like to add more texts or contribute to the development of the app, you can do so by making a pull request on the <a target='_blank' href='https://github.com/JLucasGaldino/Praxis'>git repo</a>.</p>
+<p>This app was built with the assistance and blessing of Bishop Dom Petru Putreanu of the Russian Archdiocese of Portugal and Spain.</p>
+<p>If you would like to support <a target='_blank' href='https://www.lucasgaldino.com/'>my work</a>, please consider making a donation, so I can keep improving this app and create others. You can donate by clicking on the button below.</p>
+<a href='https://ko-fi.com/O5O616HNS2' target='_blank'><img height='100' style='border:0px;height:100px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<p>Images are courtesy of <a target='_blank' href='https://unsplash.com/'>Unsplash</a>, <a target='_blank' href='https://www.pexels.com/'>Pexels</a>, and <a target='_blank' href='https://pixabay.com/'>Pixabay.</a></p>
+</body>
+</html>
+`
+    },
+    "prayerContent": {
+      "morningPrayersV3": `
 <!DOCTYPE html>
 <html>
 <head>
@@ -140,7 +184,7 @@ em {
 </body>
 </html>
 `,
-                        "middayPrayers": `
+      "middayPrayers": `
 <!DOCTYPE html>
 <html>
 <head>
@@ -190,7 +234,7 @@ em {
 </body>
 </html>
 `,
-                        "eveningPrayersV3": `
+      "eveningPrayersV3": `
 <!DOCTYPE html>
 <html>
 <head>
@@ -259,7 +303,7 @@ em {
 </body>
 </html>
 `,
-                        "occasionalPrayers": `
+      "occasionalPrayers": `
 <!DOCTYPE html>
 <html>
 <head>
@@ -298,7 +342,7 @@ em {
 </body>
 </html>
 `,
-                        "selfExamination": `
+      "selfExamination": `
 <!DOCTYPE html>
 <html>
 <head>
@@ -333,7 +377,7 @@ em {
 </body>
 </html>
 `,
-                        "afterConfession" : `
+      "afterConfession" : `
 <!DOCTYPE html>
 <html>
 <head>
@@ -367,7 +411,7 @@ em {
 </body>
 </html>
 `,
-                        "communionOffice": `
+      "communionOffice": `
 <!DOCTYPE html>
 <html>
 <head>
@@ -401,7 +445,7 @@ em {
 </body>
 </html>
 `,
-                        "communionThanks": `
+      "communionThanks": `
 <!DOCTYPE html>
 <html>
 <head>
@@ -435,140 +479,378 @@ em {
 </body>
 </html>
 `
-                },
-        },
-        "pt": {
-                "cardContent": {
-                        "commemorations": "Comemorações",
-                        "readings": "Leituras",
-                },
-                "prayersPageTitle": "Orações",
-                "calendar": {
-                        "weekDays": {
-                                "sunday": "Domingo",
-                                "monday": "Segunda-feira",
-                                "tuesday": "Terça-feira",
-                                "wednesday": "Quarta-feira",
-                                "thursday": "Quinta-feira",
-                                "friday": "Sexta-feira",
-                                "saturday": "Sábado",
-                        },
-                        "monthNames": {
-                                "0": "Janeiro",
-                                "1": "Fevereiro",
-                                "2": "Março",
-                                "3": "Abril",
-                                "4": "Maio",
-                                "5": "Junho",
-                                "6": "Julho",
-                                "7": "Agosto",
-                                "8": "Setembro",
-                                "9": "Outubro",
-                                "10": "Novembro",
-                                "11": "Dezembro",
-                        },
-                },
-                "pageTitles": {
-                        "synaxarion": "Sinaxário",
-                        "selectDate": "Selecione uma data ↓",
-                        "prayers": "Orações",
-                        "settings": "Parâmetros",
-                        "middayPrayers": "Ao longo do dia",
-                        "commonPrayers": "Orações comuns",
-                        "morningPrayers": "Matinais",
-                        "eveningPrayers": "Antes de dormir",
-                        "throughDayPrayers": "Ao longo do dia",
-                        "hours": "Horas canónicas",
-                        "hoursInstructions": "Instruções",
-                        "hoursVespers": "Vésperas",
-                        "hoursSmallCompline": "Completas menores",
-                        "hoursMatins": "Matinas",
-                        "hoursFirst": "Hora prima",
-                        "hoursThird": "Hora tércia",
-                        "hoursSixth": "Hora sexta",
-                        "hoursPsalms": "Típicos meridianos",
-                        "hoursNinth": "Hora noa",
-                        "hoursPaschal": "Hora Pascal",
-                        "canonsAndHymns": "Cânones e hinos",
-                        "penitentialCanon": "Cânone de penitencia",
-                        "theotokosCanon": "Á Santíssima Deípara",
-                        "akathistHymn": "Hino acatisto",
-                        "communion": "Sagrada Comunhão",
-                        "confessionInstruction": "Breve instrução",
-                        "confessionGuide": "Guia",
-                        "communionOffice": "Ofício particular preparatório",
-                        "communionThanks": "Orações de ação de graças",
-                        "glossary": "Léxico",
-                        "glossaryPage": "Léxico de termos litúrgicos ou teológicos"
-                },
-                "pageDescriptions": {
-                        "morningPrayers": "Orações matinais",
-                        "throughDayPrayers": "Orações a serem ditas ao longo do dia",
-                        "middayPrayers": "Orações a serem ditas ao longo do dia",
-                        "eveningPrayers": "Orações para antes de dormir",
-                        "confessionInstruction": "sobre a confissão",
-                        "confessionGuide": "para a confissão",
-                        "communionOffice": "para a Sagrada Comunhão",
-                        "communionThanks": "pela Sagrada Comunhão",
-                },
-                "dailyPrayers": {
-                        "seeMore": "Ler mais",
-                        "seeLess": "Ler menos",
-                },
-                "prayerContent": {
-                        "hoursInstructions" : {
-                                "intro1": "Ofício de Laudes e horas canónicas",
-                                "section1a": "Normalmente, sobretudo aos dias de semana, os fiéis leigos não podem ir às orações diárias como os monges nem têm à sua disposição todos os livros do culto, para recitar os ofícios completos, ainda que o desejassem. Poderiam, portanto, ler os salmos dos vários ofícios, pois eles constituem a essência de cada ofício, independentemente de serem de Vésperas, de Matinas ou de qualquer outra Hora. A esses salmos juntámos os tropários e orações fixas, que se podem ler cada dia, abstraindo da festa ou do período litúrgico do ano.",
-                                "section1b": "Aqueles que conseguirem ler esses salmos no momento apropriado do dia: Vésperas e Completas à noite, Matinas e Hora Prima ao nascer do sol, Hora Tércia às 9h00 da manhã, Hora Sexta ao meio dia e Hora Noa pelas 15-16 horas. Os poderão assim compreender melhor porque foram esses salmos ordenados desse modo e também conformar-se aos monges e aos próprios anjos na piedade e na persistência com que louvam ao Senhor.",
-                                "section1c": "No caso dos salmos 140 e 148, usámos alguns parêntesis, nos quais introduzimos os incisos usados na versão cantada desses salmos; mas no caso da sua leitura privada, o texto entre parêntesis não carece de ser lido.",
-                        },
-                        "hoursVespers" : {
-                                "intro1": "Ofício de vésperas",
-                                "section1a": "Orações iniciais:",
-                                "section1b1": "Glória a Ti, ó nosso Deus, glória a Ti.",
-                                "section1b2": "Ó Rei celeste, Consolador, Espírito da Verdade, que em tudo estás presente e tudo preenches, Tesouro dos bens e Dador da vida, vem e habita em nós, e purifica-nos de toda a impureza e salva, ó Bondoso, as nossas almas.",
-                                "intro2": "Triságio",
-                                "section2a1": "Santo Deus, Santo Forte, Santo Imortal, tem piedade de nós.",
-                                "section2a2": "Glória ao Pai e ao Filho, e ao Espírito Santo; agora e sempiternamente, e pelos séculos dos séculos. Ámen.",
-                                "section2a3": "Santíssima Trindade, tem piedade de nós; Senhor, purifica-nos dos nossos pecados; Soberano, perdoa as nossas injustiças; Santo, visita-nos e cura as nossas enfermidades, por causa de Teu Nome.",
-                                "section2a4": "Kyrie, eléison",
-                                "section2a5": "Glória ao Pai e ao Filho, e ao Espírito Santo, agora e sempiternamente, e pelos séculos dos séculos. Ámen.",
-                                "section2a6": "Pai nosso, que estás nos Céus, santificado seja o Teu nome, venha a nós o Teu Reino, faça-se a Tua vontade assim na terra como no céu. O pão nosso de cada dia nos dá hoje; e perdoa as nossas dívidas, assim como nós perdoamos aos nossos devedores; e não nos deixes cair em tentação, mas livra-nos do maligno.",
-                                "section2a7": "Pois Teu é o Reino, o Poder e a Glória",
-                                "section2a8": "Pai, Filho e Espírito Santo",
-                                "section2a9": ", agora e sempiternamente, e pelos séculos dos séculos. Ámen.",
-                                "section2b": "Ámen. Kyrie, eléison.",
-                                "section2c": "Glória ao Pai e ao Filho, e ao Espírito Santo, agora e sempiternamente, e pelos séculos dos séculos. Ámen.",
-                                "section2d": "Vinde, adoremos o nosso Rei e Deus.",
-                                "section2e": "Vinde, adoremos e prostremo-nos diante de Cristo, nosso Rei e Deus.",
-                                "section2f": "Vinde, adoremos e prostremo-nos diante do próprio Cristo, nosso Rei e Deus.",
-                                "intro3": "Salmo 103 — Hino ao Criador do Universo",
-                                "section3a": "Bendize, ó minha alma, ao Senhor! Senhor, meu Deus, como és grande! Tu que revestes a majestade e o esplendor, envolto em luz como num manto, estendeste o céu como uma tenda; Tu que fixaste o Teu aposento sobre as águas, que fizeste das nuvens o Teu coche e caminhas sobre as asas do vento; que fazes dos espíritos anjos1 Teus e do fogo flamejante um servo Teu; que fundaste a terra sobre os seus caboucos para que pelos séculos dos séculos não vacile, coberta pelo abismo como um manto. Sobre as montanhas se mantinham as águas. À Tua ameaça recuaram, ao reboar do trovão se precipitaram, saltando pelas montanhas e descendo pelos vales até o lugar que lhes assinalaste. Impuseste-lhes um limite, que não ultrapassarão, para que não voltem a cobrir a terra. Tu que fazes jorrar fontes nas ravinas: correm por entre os montes e dão de beber aos animais do campo; vêm asnos selvagens a matar a sede. Junto delas moram as aves do céu, entre as pedras elevam sua voz. Do alto da Tua morada regas as montanhas, do fruto das Tuas obras se sacia a terra. Fazes germinar erva para o gado, plantas para uso do homem, para que tire da terra o seu sustento: o vinho que lhe alegra o coração, o azeite que lhe dá brilho ao rosto e o pão que fortalece o coração do homem. Saciam-se as árvores do campo, os cedros do Líbano que Ele plantou, onde os pássaros se aninham e em cujo cimo a cegonha tem pousada. As altas montanhas são para os cervos, os penhascos são o refúgio das lebres. Fizeste a lua para marcar os tempos; o sol conhece o seu ocaso. Mandas a escuridão e faz-se noite; durante ela saem todas as feras da selva. As crias do leão rugem atrás da presa, pedindo a Deus seu alimento. Mas ao nascer do Sol logo recolhem, e se vão deitar nos seus covis. O homem sai para o trabalho, para as suas lides até o entardecer. Quão maravilhosas são as Tuas obras, Senhor, todas as fizeste com sabedoria! A terra está repleta das Tuas criaturas. Aqui o mar, imenso e vasto, ali répteis, que não têm número, alimárias grandes e pequenas. Acolá singram os navios e o Leviatã, que formaste para nele folgar. Todos esperam de Ti que lhes dês comida a seu tempo. Dando-lhes Tu o alimento, eles o recolhem, abres a mão e saciam-se do que é bom. Escondes o Teu rosto e ficam perturbados; tiras-lhes o fôlego, expiram e regressam ao seu pó. Envias o Teu Espírito e são recreados, e assim renovas a face da terra. Seja para sempre a glória do Senhor e alegrar-Se-á o Senhor em Suas obras! Ele olha sobre terra e fá-la estremecer, toca os montes e fumegam. Cantarei ao Senhor, enquanto viva; louvarei o meu Deus, enquanto exista. Que Lhe seja agradável o meu canto e no Senhor me alegrarei. Desapareçam da terra os pecadores! Os ímpios deixem de existir! Bendize, ó minha alma, o Senhor!",
-                                "section3b": "E repete:",
-                                "section3c": "O sol conhece o seu ocaso. Mandas a escuridão e faz-se noite. Quão maravilhosas são as Tuas obras, Senhor, todas as fizeste com sabedoria!",
-                                "section3d": "Glória ao Pai, ao Filho e ao Espírito Santo, agora e sempiternamente e pelos séculos dos séculos. Ámen.",
-                                "section3e": "Aleluia, Aleluia, Aleluia, glória a Ti, ó Deus.",
-                                "section3f": "Aleluia, Aleluia, Aleluia, glória a Ti, ó Deus.",
-                                "section3g": "Aleluia, Aleluia, Aleluia, glória a Ti, ó nosso Deus, glória a Ti.",
-                                "section3h": "Kyrie, eléison.",
-                                "section4": "Catisma 1 — Versículos selecionados",
-                                "section4a": "Bem-aventurado é o homem que não anda segundo o conselho dos ímpios, nem se detém no caminho dos pecadores. Aleluia!",
-                                "section4b": "Porque o Senhor conhece o caminho dos justos; mas o caminho dos ímpios perecerá. Aleluia!",
-                                "section4c": "Servi ao Senhor com temor e alegrai-vos com tremor. Aleluia!",
-                                "section4d": "Bem-aventurados são todos aqueles que n’Ele confiam. Aleluia!",
-                                "section4e": "Levanta-Te Senhor; salva-me, ó meu Deus. Aleluia!",
-                                "section4f": "A salvação vem do Senhor e sobre o Seu povo a Sua bênção. Aleluia!",
-                                "intro5": "Senhor, a Ti clamei…",
-                                "section5a": "O coro canta conforme o tom da semana ou da festa",
-                                "section5b1": "Senhor, a Ti clamei, escuta-me,",
-                                "section5b2": "escuta-me, Senhor. Senhor, a Ti clamei, escuta-me,",
-                                "section5b3": "atende à voz da minha oração/ quando a Ti clamar:",
-                                "section5b4": "Escuta-me, Senhor",
-                                "section5b5": "Que se dirija a Ti minha oração como o incenso na Tua presença; e que o erguer das minhas mãos seja um sacrifício vespertino.",
-                                "section5b6": "Escuta-me, Senhor",
-                                "intro6": "Salmos 140, 141, 129 e 116",
-                        },
-                        "confessionInstruction": `
+    },
+  },
+  "pt": {
+    "cardContent": {
+      "commemorations": "Comemorações",
+      "readings": "Leituras",
+    },
+    "prayersPageTitle": "Orações",
+    "calendar": {
+      "weekDays": {
+        "sunday": "Domingo",
+        "monday": "Segunda-feira",
+        "tuesday": "Terça-feira",
+        "wednesday": "Quarta-feira",
+        "thursday": "Quinta-feira",
+        "friday": "Sexta-feira",
+        "saturday": "Sábado",
+      },
+      "monthNames": {
+        "0": "Janeiro",
+        "1": "Fevereiro",
+        "2": "Março",
+        "3": "Abril",
+        "4": "Maio",
+        "5": "Junho",
+        "6": "Julho",
+        "7": "Agosto",
+        "8": "Setembro",
+        "9": "Outubro",
+        "10": "Novembro",
+        "11": "Dezembro",
+      },
+    },
+    "pageTitles": {
+      "synaxarion": "Sinaxário",
+      "selectDate": "Selecione uma data ↓",
+      "prayers": "Orações",
+      "settings": "Parâmetros",
+      "middayPrayers": "Ao longo do dia",
+      "commonPrayers": "Orações diárias",
+      "morningPrayers": "Matinais",
+      "eveningPrayers": "Antes de dormir",
+      "throughDayPrayers": "Ao longo do dia",
+      "hours": "Horas canónicas",
+      "hoursInstructions": "Instruções",
+      "hoursVespers": "Vésperas",
+      "hoursSmallCompline": "Completas menores",
+      "hoursMatins": "Matinas",
+      "hoursFirst": "Hora prima",
+      "hoursThird": "Hora tércia",
+      "hoursSixth": "Hora sexta",
+      "hoursPsalms": "Típicos meridianos",
+      "hoursNinth": "Hora noa",
+      "hoursPaschal": "Hora Pascal",
+      "canonsAndHymns": "Cânones e hinos",
+      "penitentialCanon": "Cânone de penitencia",
+      "theotokosCanon": "Á Santíssima Deípara",
+      "akathistHymn": "Hino acatisto",
+      "communion": "Sagrada Comunhão",
+      "confessionInstruction": "Breve instrução",
+      "confessionGuide": "Guia",
+      "communionOffice": "Ofício particular preparatório",
+      "communionThanks": "Orações de ação de graças",
+      "glossary": "Léxico",
+      "glossaryPage": "Léxico de termos litúrgicos ou teológicos"
+    },
+    "pageDescriptions": {
+      "morningPrayers": "Orações matinais",
+      "throughDayPrayers": "Orações a serem ditas ao longo do dia",
+      "middayPrayers": "Orações a serem ditas ao longo do dia",
+      "eveningPrayers": "Orações para antes de dormir",
+      "confessionInstruction": "sobre a confissão",
+      "confessionGuide": "para a confissão",
+      "communionOffice": "para a Sagrada Comunhão",
+      "communionThanks": "pela Sagrada Comunhão",
+    },
+    "dailyPrayers": {
+      "seeMore": "Ler mais",
+      "seeLess": "Ler menos",
+    },
+    "prayerContent": {
+      "hoursIntroduction": `
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: #25292e;
+  color: #fff;
+  padding: 0px 90px;
+  padding-bottom: 180px;
+}
+h1 {
+  font-size: 60px;
+  letter-spacing: 6px;
+  text-align: center;
+}
+p {
+  font-size: 43px;
+  letter-spacing: 0px;
+  text-align: justify;
+  font-weight: 400;
+}
+em {
+  color: #999;
+}
+</style>
+</head>
+<body>
+<h1>HORAS CANÓNICAS</h1>
+<hr />
+<p><em>Normalmente, sobretudo aos dias de semana, os fiéis leigos não podem
+ir às orações diárias como os monges nem têm à sua disposição todos os
+livros do culto, para recitar os ofícios completos, ainda que o
+desejassem. Poderiam, portanto, ler os salmos dos vários ofícios, pois
+eles constituem a essência de cada ofício, independentemente de serem de
+Vésperas, de Matinas ou de qualquer outra Hora. A esses salmos juntámos
+os tropários e orações fixas, que se podem ler cada dia, abstraindo da
+festa ou do período litúrgico do ano.</em></p>
+<p><em>Aqueles que conseguirem ler esses salmos no momento apropriado do
+dia: Vésperas e Completas à noite, Matinas e Hora Prima ao nascer do
+sol, Hora Tércia às 9h00 da manhã, Hora Sexta ao meio dia e Hora Noa
+pelas 15-16 horas. Os poderão assim compreender melhor porque foram
+esses salmos ordenados desse modo e também conformar-se aos monges e aos
+próprios anjos na piedade e na persistência com que louvam ao
+Senhor.</em></p>
+<p><em>No caso dos salmos 140 e 148, usámos alguns parêntesis, nos quais
+introduzimos os incisos usados na versão cantada desses salmos; mas no
+caso da sua leitura privada, o texto entre parêntesis não carece de ser
+lido.</em></p>
+</body>
+</html>
+`,
+      "hoursVespers" : `
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: #25292e;
+  color: #fff;
+  padding: 0px 90px;
+  padding-bottom: 180px;
+}
+h1 {
+  font-size: 60px;
+  letter-spacing: 6px;
+  text-align: center;
+}
+p {
+  font-size: 43px;
+  letter-spacing: 0px;
+  text-align: justify;
+  font-weight: 400;
+}
+em {
+  color: #999;
+}
+</style>
+</head>
+<body>
+<h1>OFÍCIO DE VÉSPERAS</h1>
+<hr />
+<p>Orações iniciais:</p>
+<p>Glória a Ti, ó nosso Deus, glória a Ti.</p>
+<p>Ó Rei celeste, Consolador, Espírito da Verdade, que em tudo estás
+presente e tudo preenches, Tesouro dos bens e Dador da vida, vem e
+habita em nós, e purifica-nos de toda a impureza e salva, ó Bondoso, as
+nossas almas.</p>
+<p>Triságio, Pai nosso…, Pois Teu é o Reino…</p>
+<p>O leitor continua:</p>
+<p>Ámen. Kyrie, eléison. (12x)</p>
+<p>Glória ao Pai e ao Filho, e ao Espírito Santo, agora e
+sempiternamente, e pelos séculos dos séculos. Ámen.</p>
+<p><strong>***</strong></p>
+<p><strong>V</strong>inde, adoremos o nosso Rei e Deus.</p>
+<p><strong>V</strong>inde, adoremos e prostremo-nos diante de Cristo,
+nosso Rei e Deus.</p>
+<p><strong>V</strong>inde, adoremos e prostremo-nos diante do próprio
+Cristo, nosso Rei e Deus.</p>
+<p><strong>Salmo 103</strong></p>
+<p><strong>HINO AO CRIADOR DO UNIVERSO</strong></p>
+<p><strong>B</strong>endize, ó minha alma, ao Senhor! Senhor, meu Deus,
+como és grande! Tu que revestes a majestade e o esplendor, envolto em
+luz como num manto, estendeste o céu como uma tenda; Tu que fixaste o
+Teu aposento sobre as águas, que fizeste das nuvens o Teu coche e
+caminhas sobre as asas do vento; que fazes dos espíritos anjos<a
+href="#fn2" class="footnote-ref" id="fnref2"
+role="doc-noteref"><sup>2</sup></a> Teus e do fogo flamejante um servo
+Teu; que fundaste a terra sobre os seus caboucos para que pelos séculos
+dos séculos não vacile, coberta pelo abismo como um manto. Sobre as
+montanhas se mantinham as águas. À Tua ameaça recuaram, ao reboar do
+trovão se precipitaram, saltando pelas montanhas e descendo pelos vales
+até o lugar que lhes assinalaste. Impuseste-lhes um limite, que não
+ultrapassarão, para que não voltem a cobrir a terra. Tu que fazes jorrar
+fontes nas ravinas: correm por entre os montes e dão de beber aos
+animais do campo; vêm asnos selvagens a matar a sede. Junto delas moram
+as aves do céu, entre as pedras elevam sua voz. Do alto da Tua morada
+regas as montanhas, do fruto das Tuas obras se sacia a terra. Fazes
+germinar erva para o gado, plantas para uso do homem, para que tire da
+terra o seu sustento: o vinho que lhe alegra o coração, o azeite que lhe
+dá brilho ao rosto e o pão que fortalece o coração do homem. Saciam-se
+as árvores do campo, os cedros do Líbano que Ele plantou, onde os
+pássaros se aninham e em cujo cimo a cegonha tem pousada. As altas
+montanhas são para os cervos, os penhascos são o refúgio das lebres.
+Fizeste a lua para marcar os tempos; o sol conhece o seu ocaso. Mandas a
+escuridão e faz-se noite; durante ela saem todas as feras da selva. As
+crias do leão rugem atrás da presa, pedindo a Deus seu alimento. Mas ao
+nascer do Sol logo recolhem, e se vão deitar nos seus covis. O homem sai
+para o trabalho, para as suas lides até o entardecer. Quão maravilhosas
+são as Tuas obras, Senhor, todas as fizeste com sabedoria! A terra está
+repleta das Tuas criaturas. Aqui o mar, imenso e vasto, ali répteis, que
+não têm número, alimárias grandes e pequenas. Acolá singram os navios e
+o Leviatã, que formaste para nele folgar. Todos esperam de Ti que lhes
+dês comida a seu tempo. Dando-lhes Tu o alimento, eles o recolhem, abres
+a mão e saciam-se do que é bom. Escondes o Teu rosto e ficam
+perturbados; tiras-lhes o fôlego, expiram e regressam ao seu pó. Envias
+o Teu Espírito e são recreados, e assim renovas a face da terra. Seja
+para sempre a glória do Senhor e alegrar-Se-á o Senhor em Suas obras!
+Ele olha sobre terra e fá-la estremecer, toca os montes e fumegam.
+Cantarei ao Senhor, enquanto viva; louvarei o meu Deus, enquanto exista.
+Que Lhe seja agradável o meu canto e no Senhor me alegrarei. Desapareçam
+da terra os pecadores! Os ímpios deixem de existir! Bendize, ó minha
+alma, o Senhor!</p>
+<p>E repete:</p>
+<p>O sol conhece o seu ocaso. Mandas a escuridão e faz-se noite. Quão
+maravilhosas são as Tuas obras, Senhor, todas as fizeste com
+sabedoria!</p>
+<p>Glória ao Pai, ao Filho e ao Espírito Santo, agora e sempiternamente
+e pelos séculos dos séculos. Ámen.</p>
+<p>Aleluia, Aleluia, Aleluia, glória a Ti, ó Deus.</p>
+<p>Aleluia, Aleluia, Aleluia, glória a Ti, ó Deus.</p>
+<p>Aleluia, Aleluia, Aleluia, glória a Ti, ó nosso Deus, glória a
+Ti.</p>
+<p>Kyrie, eléison. (3x)</p>
+<p><strong>Catisma 1</strong> (versículos selecionados)</p>
+<p>Bem-aventurado é o homem que não anda segundo o conselho dos ímpios,
+nem se detém no caminho dos pecadores. Aleluia!</p>
+<p>Porque o Senhor conhece o caminho dos justos; mas o caminho dos
+ímpios perecerá. Aleluia!</p>
+<p>Servi ao Senhor com temor e alegrai-vos com tremor. Aleluia!</p>
+<p>Bem-aventurados são todos aqueles que n’Ele confiam. Aleluia!</p>
+<p>Levanta-Te Senhor; salva-me, ó meu Deus. Aleluia!</p>
+<p>A salvação vem do Senhor e sobre o Seu povo a Sua bênção.
+Aleluia!</p>
+<p>Glória ao Pai, ao Filho e ao Espírito Santo; agora e sempiternamente
+e pelos séculos dos séculos. Ámen.</p>
+<p>Aleluia, Aleluia, Aleluia, glória a Ti, ó Deus.</p>
+<p>Aleluia, Aleluia, Aleluia, glória a Ti, ó Deus.</p>
+<p>Aleluia, Aleluia, Aleluia, glória a Ti, ó nosso Deus, glória a
+Ti.</p>
+<p>Kyrie, eléison. (3x)</p>
+<p><strong>„Senhor, A Ti clamEI…”<br />
+</strong>(O coro canta conforme o tom da semana ou da festa)</p>
+<p><strong>S</strong>enhor, a Ti clamei, escuta-me, [escuta-me, Senhor.
+Senhor, a Ti clamei, escuta-me,] atende à voz da minha oração/ quando a
+Ti clamar: [Escuta-me, Senhor].</p>
+<p><strong>Q</strong>ue se dirija a Ti minha oração como o incenso na
+Tua presença; e que o erguer das minhas mãos seja um sacrifício
+vespertino. [Escuta-me, Senhor].</p>
+<p><strong>SALMOS 140, 141, 129 e 116</strong></p>
+<p>Põe, Senhor, uma guarda à minha boca e uma porta fortificada junto
+aos meus lábios.</p>
+<p>Não deixes o meu coração inclinar-se a palavras de maldade, a
+pretextar desculpas para os meus pecados.</p>
+<p>Com os homens que praticam a iniquidade, não terei parte; nem me
+juntarei aos seus eleitos.</p>
+<p>Que me eduque o justo e me repreenda com misericórdia, mas que o óleo
+do pecador não unja a minha cabeça;</p>
+<p>Pois a minha oração foi contra os seus desejos: e logo os seus juízes
+foram precipitados pelos rochedos.</p>
+<p>Ouvirão as minhas palavras, porque as adocei; como um torrão se
+desfaz de encontro ao solo, assim seus ossos foram dispersos à boca do
+abismo.</p>
+<p>Pois em Ti, Senhor, ponho os meus olhos; em Ti, Senhor, confiei, não
+me retires a alma.</p>
+<p>Guarda-me do laço que me tenderam e dos embustes dos que praticam a
+iniquidade.</p>
+<p>Os ímpios cairão na sua própria rede; e eu permaneço só, até que
+passe.</p>
+<p>Com a minha voz clamei pelo Senhor; com a minha voz supliquei ao
+Senhor.</p>
+<p>Derramarei perante Ele a minha prece; expor-lhe-ei a minha
+tribulação.</p>
+<p>Quando o meu espírito desfalece em mim, Tu conheces as minhas
+sendas.</p>
+<p>Naquele caminho por que andava, esconderam-me uma armadilha.</p>
+<p>Procurando à direita eu olhava, mas não havia quem me conhecesse.</p>
+<p>Faltou-me o refúgio; e não havia quem cuidasse da minha alma.</p>
+<p>Clamei por Ti, Senhor, e disse: Tu és o meu refúgio e a minha porção
+na terra dos vivos.</p>
+<p>Atende à minha prece; pois, estou abatido assaz.</p>
+<p>Livra-me dos que me perseguem, pois tornaram-se mais fortes do que
+eu.</p>
+<p>***</p>
+<p>10. Retira a minha alma da prisão, para que eu confesse o Teu
+nome.</p>
+<p>9. Esperam por mim os justos até que me retribuas.</p>
+<p>8. Das profundezas clamei por Ti, Senhor. Senhor, escuta a minha
+voz.</p>
+<p>7. Estejam Teus ouvidos atentos à voz da minha prece.</p>
+<p>6. Se observares as nossas iniquidades, Senhor, ó Senhor, quem poderá
+subsistir? Mas junto a Ti está a propiciação.</p>
+<p>5. Por causa do Teu nome, esperei em Ti, ó Senhor. Esperou a minha
+alma na Tua palavra, esperou a minha alma no Senhor.</p>
+<p>4. Desde a guarda da manhã até a noite, / desde a guarda da manhã,
+espere Israel no Senhor.</p>
+<p>3. Porque junto ao Senhor está a misericórdia e n’Ele é abundante a
+redenção; Ele mesmo resgatará Israel de todas as suas iniquidades.</p>
+<p>2. Louvai ao Senhor todas as nações, louvai-O todos os povos.</p>
+<p>1. Porque poderosa é a Sua misericórdia para connosco e a verdade do
+Senhor permanece pelos séculos.</p>
+<p>Glória ao Pai, ao Filho e ao Espírito Santo <em>(tropário do Santo do
+dia, se o houver no Menológio).</em></p>
+<p>Agora e sempiternamente e pelos séculos dos séculos. Ámen
+<em>(Theotókion ou Estiquero da Deípara).</em></p>
+<p>Hino vesperal: Luz jubilosa</p>
+<p><strong>Ó</strong> Luz jubilosa da santa glória do Pai celeste e
+imortal, ó Santo e Beato Jesus Cristo: chegados ao pôr-do-sol e
+contemplando a luz vespertina, cantamos ao Pai, ao Filho e ao Espírito
+Santo – a Deus. Digno é que, em todo o tempo, sejas louvado com vozes
+pias, ó Filho de Deus, dador da vida; por isso Te glorifica todo o
+universo.</p>
+<p>Depois a oração: <span class="smallcaps">“Digna-Te,
+Senhor…”</span></p>
+<p><strong>D</strong>igna-Te, Senhor, nesta tarde, guardar-nos sem
+pecado. Bendito és Tu, ó Senhor, Deus dos nossos Pais, e o Teu nome é
+louvado e glorificado pelos séculos; Ámen. Senhor, que a Tua
+misericórdia esteja sobre nós, conforme esperamos em Ti. Bendito és Tu,
+Senhor, ensina-nos os Teus mandamentos! Bendito és Tu, Soberano,
+educa-me pelos Teus mandamentos! Bendito és Tu, Santo, ilumina-nos com
+Teus mandamentos! Senhor, a Tua misericórdia é eterna, não desprezes a
+obra das Tuas mãos. A Ti se deve o louvor; a Ti se deve o cântico; a Ti
+se deve a glória: Pai, Filho e Espírito Santo; agora e sempiternamente e
+pelos séculos dos séculos. Ámen.</p>
+<p><strong>Oração de São Simeão<br />
+("Nunc dimittis"), tom 6</strong></p>
+<p><strong>A</strong>gora deixa o Teu servo ir em paz, segundo a Tua
+palavra, ó Soberano, porque os meus olhos viram a Tua Salvação, que
+preparaste diante de todos os povos: Luz para revelação às nações e
+glória do Teu povo, Israel.</p>
+<p>Triságio e Pai Nosso…; Pois Teu é o Reino, o poder e a glória, agora
+e sempiternamente, e pelos séculos dos séculos. Ámen.</p>
+<p><em>Os tropários:</em></p>
+<p><strong>A</strong>ve, Maria! Deípara e Virgem cheia de graça, o
+Senhor é contigo! Bendita és tu entre as mulheres e bendito é o fruto do
+teu ventre, porque tu deste nascimento ao Salvador das nossas almas!</p>
+<p><strong>Ó</strong> Batista de Cristo, lembra-te de todos nós, para
+que sejamos livres das nossas iniqüidades! a ti foi dada a graça:
+intercede, pois, por nós!</p>
+<p>Glória…</p>
+<p><strong>R</strong>ogai por nós, santos Apóstolos e santos todos, para
+que sejamos livres de perigos e tribulações — pois vos temos por
+calorosos protetores junto do Salvador!</p>
+<p>Agora e sempre…</p>
+<p><strong>S</strong>ob a tua misericórdia nos refugiamos, ó Deípara!
+Não desprezes as nossas súplicas na tribulação, mas livra-nos dos
+perigos, ó única Imaculada, ó única Abençoada!</p>
+<p>Kyrie, eléison (40 x)</p>
+<p><strong>Ó</strong> Rei supra-celeste, conforta os fiéis cristãos;
+consolida a fé; apazigua as nações; pacifica o universo; guarda bem a
+santa Igreja, esta cidade (<em>ou</em> este mosteiro, <em>ou</em> esta
+vila, <em>ou</em> esta aldeia); coloca os nossos pais e irmãos falecidos
+nos tabernáculos dos justos; e aceita-nos em penitência e confissão,
+como Filantropo e Bondoso.</p>
+<p><strong>P</strong>elas orações dos nossos santos padres, ó Senhor
+Jesus Cristo, nosso Deus, tem piedade de nós e salva-nos. Ámen.</p>
+<p>***</p>
+</body>
+</html>
+`,
+      "confessionInstruction": `
 <!DOCTYPE html>
 <html>
 <head>
@@ -604,7 +886,7 @@ em {
 </body>
 </html>
 `,
-                        "confessionGuide": `
+      "confessionGuide": `
 <!DOCTYPE html>
 <html>
 <head>
@@ -650,7 +932,7 @@ em {
 </body>
 </html>
 `,
-                        "communionOffice": `
+      "communionOffice": `
 <!DOCTYPE html>
 <html>
 <head>
@@ -841,7 +1123,7 @@ em {
 <p><em>E de novo:</em></p>
 <p>À Tua Ceia mística...</p>
 `,
-                        "communionThanks": `
+      "communionThanks": `
 <!DOCTYPE html>
 <html>
 <head>
@@ -892,7 +1174,7 @@ em {
 </body>
 </html>
 `,
-                        "morningPrayersV3": `
+      "morningPrayersV3": `
 <!DOCTYPE html>
 <html>
 <head>
@@ -1006,7 +1288,7 @@ em {
 </body>
 </html>
 `,
-                        "eveningPrayersV3": `
+      "eveningPrayersV3": `
 <!DOCTYPE html>
 <html>
 <head>
@@ -1131,7 +1413,7 @@ em {
 </body>
 </html>
 `,
-                        "throughDayPrayersV3": `
+      "throughDayPrayersV3": `
 <!DOCTYPE html>
 <html>
 <head>
@@ -1183,19 +1465,63 @@ em {
 </body>
 </html>
 `,
-                },
-                "settingsContent": {
-                        "languages": "Línguas",
-                        "languageSelection": {
-                                "english": "Inglês",
-                                "portuguese": "Português",
-                        },
-                        "notice": "Por favor, compreenda que, uma vez que esta aplicação está a ser desenvolvida, ainda não contém as orações completas em inglês.",
-                        "calendar": "Calendário",
-                        "calendarSelection": {
-                                "julian": "Juliano",
-                                "gregorian": "Gregoriano",
-                        }
-                },
-        },
+    },
+    "settingsContent": {
+      "languages": "Línguas",
+      "languageSelection": {
+        "english": "Inglês",
+        "portuguese": "Português",
+      },
+      "notice": "Por favor, compreenda que, uma vez que esta aplicação está a ser desenvolvida, ainda não contém as orações completas em inglês.",
+      "calendar": "Calendário",
+      "calendarSelection": {
+        "julian": "Juliano",
+        "gregorian": "Gregoriano",
+      },
+      "about": "Sobre a aplicação",
+      "aboutPage": `
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: #25292e;
+  color: #fff;
+  padding: 0px 90px;
+  padding-bottom: 180px;
+}
+h1 {
+  font-size: 60px;
+  letter-spacing: 6px;
+  text-align: center;
+}
+p {
+  font-size: 43px;
+  letter-spacing: 0px;
+  text-align: justify;
+  font-weight: 400;
+}
+em {
+  color: #999;
+}
+a {
+  text-decoration: none;
+  color: #72a4f2;
+}
+</style>
+</head>
+<body>
+<h1>SOBRE A APLICAÇÃO</h1>
+<hr />
+<p><strong>Praxis</strong> é uma aplicação móvel de código aberto concebida para ajudar os cristãos ortodoxos a aceder facilmente ao calendário litúrgico e às suas orações diárias. Foi criada utilizando <a target='_blank' href='https://expo.dev/'>Expo</a> e <a target='_blank' href='https://reactnative.dev/'>React Native</a>.</p>
+<p> Os textos atualmente incluídos são obras da <a target='_blank' href='https://www.ortodoxia.pt/'>Vicariato de Portugal da Igreja Ortodoxa Russa na Europa Ocidental</a> e da <a target='_blank' href='https://www.antiochian.org/home'>Igreja Ortodoxa Antioquiana na América</a>. Se pretender adicionar mais textos ou contribuir para o desenvolvimento da aplicação, pode fazê-lo através de um pull request na página <a target='_blank' href='https://github.com/JLucasGaldino/Praxis'>Github</a>.</p>
+<p>Esta aplicação foi criada com a ajuda e a bênção do Bispo Dom Petru Putreanu da Arquidiocese Russa de Portugal e Espanha.</p>
+<p>Se quiser apoiar <a target='_blank' href='https://www.lucasgaldino.com/'>o meu trabalho</a>, considere fazer um donativo, para que eu possa continuar a melhorar esta aplicação e criar outras. Podes fazer um donativo clicando no botão abaixo.</p>
+<a href='https://ko-fi.com/O5O616HNS2' target='_blank'><img height='100' style='border:0px;height:100px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<p>As imagens são cortesia de <a target='_blank' href='https://unsplash.com/'>Unsplash</a>, <a target='_blank' href='https://www.pexels.com/'>Pexels</a>, e <a target='_blank' href='https://pixabay.com/'>Pixabay.</a></p>
+</body>
+</html>
+`
+    },
+  },
 }

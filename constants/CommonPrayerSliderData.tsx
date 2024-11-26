@@ -111,3 +111,24 @@ export const CommunionSliderEn = [
         link: '/home/prayers/communion-thanks'
     },
 ];
+
+export const HoursSliderPt = [
+    {
+        title: "Introdução",
+        image: require('@/assets/images/orthodox-communion-thanks.jpg'),
+        description: 'ao ofício das horas canónicas',
+        link: '/home/prayers/hours-instructions'
+    },
+    {
+        title: "Ofício de vésperas",
+        image: require('@/assets/images/orthodox-communion-thanks.jpg'),
+        description: '',
+        link: '/home/prayers/hours-vespers'
+    },
+    {
+        title: "Introdução3",
+        image: require('@/assets/images/orthodox-communion-thanks.jpg'),
+        description: 'ao ofício das horas canónicas',
+        link: '/home/prayers/hours-instructions'
+    },
+];
