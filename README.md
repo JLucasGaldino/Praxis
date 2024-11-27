@@ -19,7 +19,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 ## Download
 - [Latest Release Build](https://github.com/JLucasGaldino/Praxis/releases/download/v0.3.1/Praxis_0.3.1.apk) in the apk branch
 
-## Screenshots
+## [Screenshots](https://github.com/JLucasGaldino/Praxis/blob/main/screenshots/screenshots.md)
 
 ## Current features
 - Orthodox daily prayers and prayers before confession
