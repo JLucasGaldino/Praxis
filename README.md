@@ -1,9 +1,19 @@
-# Praxis - Prayers, Readings and Fasting
-
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+<p align="center"><img src="assets/images/praxis-icon.png" width="150"></p>
+<h1 align="center"><b>Praxis</b></h1>
+<h4 align="center">Orthodox daily prayers, readings, and fasting information</h4>
+<p align="center">
+<a href="https://github.com/JLucasGaldino/Praxis/releases/tag/v0.3.1">
+<img alt="Latest Version" src="https://img.shields.io/badge/Christ%20is%20risen!-8A2BE2">
+</a>
+<a href="https://www.gnu.org/licenses/gpl-3.0">
+<img src="https://img.shields.io/badge/license-GPL_v3-blue">
+</a>
+</p>
+<h4 align="center"><a href='https://ko-fi.com/O5O616HNS2' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></h4>
 
 ## Description
 This is a universal mobile app (Android and iOS) for Orthodox Christians to quickly have access to their daily prayers, scripture readings, and fasting calendar. 
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Current features
 - Orthodox daily prayers and prayers before confession
