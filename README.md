@@ -1,17 +1,12 @@
 # Praxis - Prayers, Readings and Fasting
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-**Careful**, this app is still under development
 
 ## Description
-This is a universal mobile app (Android and iOS) for Christians to quickly have access to their daily prayers, scripture readings, and fasting calendar. This current version contains only the Eastern Orthodox daily prayers and calendar, but I intend on adding catholic prayers later on.
+This is a universal mobile app (Android and iOS) for Orthodox Christians to quickly have access to their daily prayers, scripture readings, and fasting calendar. 
 
-## TODO
-- Add a selection of prayer rules, or choice to build your personal. Or just a guide about prayer rules.
-- Make icon props for NavButton optional
-
-## Contains
-- Orthodox Morning and Evening prayers
+## Current features
+- Orthodox daily prayers and prayers before confession
 - Orthodox daily readings, life of the saints, and fasting calendar
 - Languages:
   - English
@@ -20,11 +15,12 @@ This is a universal mobile app (Android and iOS) for Christians to quickly have 
   - Gregorian
   - Julian
 
-## Coming later
+## Planned features
 - Psalter
-- Bible
+- Bible according to the Septuagint
+- More prayers!
 
-## Get started
+## Development
 
 1. Clone git repo
 
