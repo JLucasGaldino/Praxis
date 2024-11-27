@@ -19,6 +19,8 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 ## Download
 - [Latest Release Build](https://github.com/JLucasGaldino/Praxis/releases/download/v0.3.1/Praxis_0.3.1.apk) in the apk branch
 
+## Screenshots
+
 ## Current features
 - Orthodox daily prayers and prayers before confession
 - Orthodox daily readings, life of the saints, and fasting calendar
