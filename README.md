@@ -3,11 +3,12 @@
 <h4 align="center">Orthodox daily prayers, readings, and fasting information</h4>
 <p align="center">
 <a href="https://github.com/JLucasGaldino/Praxis/releases/tag/v0.3.1">
-<img alt="Latest Version" src="https://img.shields.io/badge/Christ%20is%20risen!-8A2BE2">
+<img alt="Latest Version" src="https://img.shields.io/badge/tag-v0.3.1-8A2BE2">
 </a>
 <a href="https://www.gnu.org/licenses/gpl-3.0">
 <img src="https://img.shields.io/badge/license-GPL_v3-blue">
 </a>
+<img alt="Latest Version" src="https://img.shields.io/badge/Christ%20is%20risen!-8A2BE2">
 </p>
 <h4 align="center"><a href='https://ko-fi.com/O5O616HNS2' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></h4>
 
