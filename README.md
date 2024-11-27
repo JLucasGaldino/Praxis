@@ -16,6 +16,9 @@
 This is a universal mobile app (Android and iOS) for Orthodox Christians to quickly have access to their daily prayers, scripture readings, and fasting calendar. 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+## Download
+- [Latest Release Build](https://github.com/JLucasGaldino/Praxis/releases/download/v0.3.1/Praxis_0.3.1.apk) in the apk branch
+
 ## Current features
 - Orthodox daily prayers and prayers before confession
 - Orthodox daily readings, life of the saints, and fasting calendar
@@ -31,7 +34,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 - Bible according to the Septuagint
 - More prayers!
 
-## Development
+## Testing and development
 
 1. Clone git repo
 
