@@ -17,7 +17,7 @@ This is a universal mobile app (Android and iOS) for Orthodox Christians to quic
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Download
-- [Latest Release Build](https://github.com/JLucasGaldino/Praxis/releases/download/v0.4.0/Praxis_0.4.0.apk) in the apk branch
+- [Latest Release Build](https://github.com/JLucasGaldino/Praxis/releases/download/v0.4.0/Praxis_v0.4.0.apk) in the apk branch
 
 ## [Screenshots](https://github.com/JLucasGaldino/Praxis/blob/main/screenshots/screenshots.md)
 
