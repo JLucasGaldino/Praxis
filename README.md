@@ -61,6 +61,32 @@ In the output, you'll find options to open the app in a
 
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
+## Build
+
+1. Build an Android App Bundle [using EAS](https://docs.expo.dev/build/setup/)
+
+``` bash
+npm install -g eas-cli
+eas login
+eas build:configure
+eas build --platform android
+```
+
+2. Create a list of apks from the bundle using [Android bundletool](https://developer.android.com/tools/bundletool), then unzip the apks file and enter the 'splits' directory
+
+``` bash
+java -jar bundletool-all-1.17.2.jar build-apks --bundle=Praxis_v0.3.1.aab --output=Praxis_v0.3.1.apks
+unzip Praxis_v0.3.1.apks
+cd splits
+```
+
+3. Make a new directory and move your chosen apks to the new directory. Then, use [APKEditor](https://github.com/REAndroid/APKEditor) to merge these apks into a single apk.
+
+``` bash
+mkdir selected-apks
+mv example.apk example2.apk selected-apks/
+java -jar APKEditor.jar m -i selected-apks/
+```
 
 ## Learn more
 
