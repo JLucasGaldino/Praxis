@@ -2,8 +2,8 @@
 <h1 align="center"><b>Praxis</b></h1>
 <h4 align="center">Orthodox daily prayers, readings, and fasting information</h4>
 <p align="center">
-<a href="https://github.com/JLucasGaldino/Praxis/releases/tag/v0.3.1">
-<img alt="Latest Version" src="https://img.shields.io/badge/tag-v0.3.1-8A2BE2">
+<a href="https://github.com/JLucasGaldino/Praxis/releases/tag/v0.4.0">
+<img alt="Latest Version" src="https://img.shields.io/badge/tag-v0.4.0-8A2BE2">
 </a>
 <a href="https://www.gnu.org/licenses/gpl-3.0">
 <img src="https://img.shields.io/badge/license-GPL_v3-blue">
@@ -17,7 +17,7 @@ This is a universal mobile app (Android and iOS) for Orthodox Christians to quic
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Download
-- [Latest Release Build](https://github.com/JLucasGaldino/Praxis/releases/download/v0.3.1/Praxis_0.3.1.apk) in the apk branch
+- [Latest Release Build](https://github.com/JLucasGaldino/Praxis/releases/download/v0.4.0/Praxis_0.4.0.apk) in the apk branch
 
 ## [Screenshots](https://github.com/JLucasGaldino/Praxis/blob/main/screenshots/screenshots.md)
 
