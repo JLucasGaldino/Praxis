@@ -88,6 +88,13 @@ mv example.apk example2.apk selected-apks/
 java -jar APKEditor.jar m -i selected-apks/
 ```
 
+4. Sign the apk with [Android apksigner](https://developer.android.com/tools/apksigner) and verify the signature
+
+``` bash
+apksigner sign --ks /path/to/keystore.jks merged.apk
+apksigner verify -v merged.apk
+```
+
 ## Learn more
 
 To learn more about developing your project with Expo, look at the following resources:
