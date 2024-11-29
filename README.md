@@ -6,7 +6,7 @@
 <img alt="Latest Version" src="https://img.shields.io/badge/tag-v0.4.0-8A2BE2">
 </a>
 <a href="https://www.gnu.org/licenses/gpl-3.0">
-<img src="https://img.shields.io/badge/license-GPL_v3-blue">
+<img src="https://img.shields.io/github/v/release/JLucasGaldino/Praxis">
 </a>
 <img alt="Latest Version" src="https://img.shields.io/badge/Christ%20is%20risen!-8A2BE2">
 </p>
@@ -18,6 +18,11 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## Download
 - [Latest Release Build](https://github.com/JLucasGaldino/Praxis/releases/download/v0.4.0/Praxis_v0.4.0.apk) in the apk branch
+
+| Source | Version |
+|--------|---------|
+| <a href="https://apt.izzysoft.de/fdroid/index/apk/com.jlucasgaldino.Praxis"><img alt="IzzyOnDroid" src="https://img.shields.io/endpoint?url=https://apt.izzysoft.de/fdroid/api/v1/shield/com.jlucasgaldino.Praxis"></a> | v0.3.1 |
+| <a href="https://github.com/JLucasGaldino/Praxis/releases/download/v0.4.0/Praxis_v0.4.0.apk"><img alt="GitHub Downloads" src="https://img.shields.io/github/v/release/JLucasGaldino/Praxis?logo=GitHub&label=GitHub"></a>
 
 ## [Screenshots](https://github.com/JLucasGaldino/Praxis/blob/main/screenshots/screenshots.md)
 
