@@ -2,7 +2,7 @@
   "expo": {
     "name": "Praxis",
     "slug": "Praxis",
-    "version": "0.3.1",
+    "version": "0.4.0",
     "orientation": "portrait",
     "icon": "./assets/images/praxis-icon.png",
     "scheme": "myapp",
@@ -23,7 +23,8 @@
         "foregroundImage": "./assets/images/praxis-icon.png",
         "backgroundColor": "#25292e"
       },
-      "package": "com.jlucasgaldino.Praxis"
+      "package": "com.jlucasgaldino.Praxis",
+      "blockedPermissions": ["android.permission.READ_EXTERNAL_STORAGE", "android.permission.SYSTEM_ALERT_WINDOW"]
     },
     "web": {
       "bundler": "metro",

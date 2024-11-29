@@ -15,7 +15,7 @@
         "gradleCommand": ":app:assembleRelease"
       }
     },
-    "izzf": {
+    "izzy": {
       "distribution": "internal",
       "android": {
         "buildType": "apk",
