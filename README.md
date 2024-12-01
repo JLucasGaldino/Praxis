@@ -39,6 +39,8 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 - Bible according to the Septuagint
 - More prayers!
 
+## [How to collaborate](https://github.com/JLucasGaldino/Praxis/blob/main/COLLABORATE.md)
+
 ## Testing and development
 
 1. Clone git repo
