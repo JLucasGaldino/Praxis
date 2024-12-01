@@ -16,6 +16,8 @@
 This is a universal mobile app (Android and iOS) for Orthodox Christians to quickly have access to their daily prayers, scripture readings, and fasting calendar. 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+The source material for daily readings, fasting, and commemorations comes from the excellent orthocal.info website.
+
 ## Download
 | Source | Version |
 |--------|---------|
