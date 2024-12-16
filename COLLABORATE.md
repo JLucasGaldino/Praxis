@@ -51,3 +51,6 @@ julian_pt.json
 gregorian_en.json
 gregorian_pt.json
 
+## Using the praxis-builder tool
+The purpose of the praxis-builder tool, written in rust, is to facilitate, speed-up, and standardize the generation of content. It is still in development. When finished, it will use a praxis.toml file to generate all short content, such as headings and card content, and markdown files to generate all long-form content, such as prayers. As of now, the praxis-builder tool can generate json out of arrays and an html boilerplate.
+
