@@ -1,1 +1,0 @@
-cargo:rustc-env=MIME_TYPES_GENERATED_PATH=/home/lucas/coding/apps/praxis/praxis-builder/target/debug/build/mime_guess-9b04e3757a3afc1d/out/mime_types_generated.rs
