@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "praxis-builder"
+version = "0.1.0"
+description = ""
+authors = ["JLucasGaldino <99841302+JLucasGaldino@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+toml = "^0.10.2"
+click = "^8.1.7"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+pb = "praxis_builder.pb:build"
